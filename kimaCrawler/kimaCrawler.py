@@ -3,7 +3,7 @@ import requests
 import logging
 import pandas as pd
 
-logging.basicConfig(filename="./logs.log",
+logging.basicConfig(filename="./crawler.log",
                     format='%(asctime)s %(message)s',
                     filemode='w')
 logger = logging.getLogger("crawler")
@@ -19,6 +19,8 @@ def getRequest(path):
     r = requests.get(path, timeout=5)
     if r.status_code != 200:
         logger.error("Status code isn't 200", r.status_code)
+        raise RuntimeError
+    logger.info(f"Received {r.status_code} from ", path)
     return r.json()
 
 
@@ -27,10 +29,10 @@ def save(instance, n, prefix, asCSV=False):
     filename = f"{prefix}_{n}"
     if asCSV:
         df = pd.DataFrame.from_dict(records, orient='columns')
-        df.to_csv(f'{filename}.csv', index=True)
+        df.to_csv(f'../resources/{filename}.csv', index=True)
         logger.info(f"Saved {n} records to {filename}.csv")
     else:
-        with open(f'{filename}.json', 'w', encoding='utf8') as fd:
+        with open(f'../resources/{filename}.json', 'w', encoding='utf8') as fd:
             json.dump(records, fd, indent=4, ensure_ascii=False)
         logger.info(f"Saved {n} records to {filename}.json")
 
@@ -104,5 +106,5 @@ class Variants:
 
 if __name__ == '__main__':
     cr = KimaCrawler()
-    cr.places.saveAll()
-    cr.variants.saveAll()
+    # cr.places.saveAll()
+    # cr.variants.saveAll()
