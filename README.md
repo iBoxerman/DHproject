@@ -9,9 +9,9 @@ Based on https://geo-kima.org/
 Enable using kima's data visually easily, using interactive map.
 
 ## project's structure:
-1. kimaCrawler - a python crawler - for extracting data from "geo-kima"
+1. **kimaCrawler** - a python crawler - for extracting data from "geo-kima"
    1. Saves data locally so ki-map will be able to inject places.
-2. Ki-map - a React based website which includes a map as data representation
+2. **Ki-map (kima map)** - a React based website which includes a map as data representation
 
 ## Open issues
 1. Everything
