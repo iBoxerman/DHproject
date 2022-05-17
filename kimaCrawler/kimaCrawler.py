@@ -26,6 +26,14 @@ def getRequest(path):
 
 def save(instance, n, prefix, asCSV=False):
     records = instance.getAll(page_size=n)
+    new_records = []
+    for r in records:
+        d = {"lng": None,"lat":None}
+        if r["coor"]  is not None and r["coor"] != "":
+            d["lng"],d["lat"] = r["coor"][6:-1].split(" ")
+            r["geo"] = d
+            new_records.append(r)
+        records = new_records
     filename = f"{prefix}_{n}"
     if asCSV:
         df = pd.DataFrame.from_dict(records, orient='columns')
@@ -106,5 +114,5 @@ class Variants:
 
 if __name__ == '__main__':
     cr = KimaCrawler()
-    # cr.places.saveAll()
+    cr.places.saveAll()
     # cr.variants.saveAll()
