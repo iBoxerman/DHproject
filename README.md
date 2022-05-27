@@ -8,11 +8,11 @@ By Omer Lerner & Igal Boxerman Ben-Gurion University , CS dept. 2022
 - **Seniority (positions) - presidents, chiefs, head nurse**    
 ### Why we think there is a difference?
 Simple google search can answer this question.  
-When we searched _"nurse"_ in Google, we got pictures of women only.
-![](resources/google_doctor.png)
+When we searched _"nurse"_ in Google, we got pictures of women only.  
+![](resources/google_doctor.png)  
 When we searched _"doctor"_ in Google, we discovered that there are many black & women.    
-We think that this is a gender equality action from Google side.
-![](resources/google_nurse.png)
+We think that this is a gender equality action from Google side.  
+![](resources/google_nurse.png)  
 ## Our motivation
 As we have progressed through the decades, we have seen many organizations, protests, and activists fight for equal gender roles and rights.  
 With the surge of social media, this has been more felt than ever, with people advocating and speaking up against unfair treatment.  
