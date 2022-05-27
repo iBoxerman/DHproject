@@ -10,7 +10,7 @@ By Omer Lerner & Igal Boxerman Ben-Gurion University , CS dept. 2022
 Simple google search can answer this question.  
 When we searched _"nurse"_ in Google, we got pictures of women only.  
 ![](resources/google_doctor.png)  
-When we searched _"doctor"_ in Google, we discovered that there are many black & women.    
+When we searched _"doctor"_ in Google, we discovered that there are many African American & women doctors.    
 We think that this is a gender equality action from Google side.  
 ![](resources/google_nurse.png)  
 ## Our motivation
