@@ -1,5 +1,6 @@
 import re
 from validator import validate_genre, validate_credit
+from scheme import Show, Season, Episode, Credit
 
 
 def if_satisfy(element_to_return, *preds):
@@ -16,11 +17,11 @@ def parse_date(yyyy_mm_dd, goal='y'):
 
 
 def parse_credit(credit, is_main):
-    return if_satisfy({"id": credit.id,
-                       "character": credit.character,
-                       'name': credit.name,
-                       "gender": credit.gender,
-                       "is_main": is_main},
+    return if_satisfy(Credit(credit.id,
+                             credit.name,
+                             credit.character,
+                             credit.gender,
+                             is_main),
                       validate_credit(credit))
 
 
@@ -29,27 +30,28 @@ def parse_credits(credits, is_main):
 
 
 def parse_episode(episode_details):
-    details = {"id": episode_details.id,
-               "year": parse_date(episode_details.air_date),
-               "month": parse_date(episode_details.air_date, 'm'),
-               "cast": parse_credits(episode_details.credits.cast, True)}
+    episode = Episode(episode_details.id,
+                      parse_date(episode_details.air_date),
+                      parse_date(episode_details.air_date, 'm'),
+                      parse_credits(episode_details.credits.cast, True))
     try:
         guest_stars = parse_credits(episode_details.credits.guest_stars, False)
         if guest_stars:
-            details["cast"] += guest_stars
+            episode.append_to_cast(guest_stars)
     except RuntimeError:
         print("error")
     finally:
-        return details
+        return episode
 
 
 def parse_season(season_details):
-    return {"id": season_details.id,
-            "episodes_number": len(season_details.episodes)}
+    return Season(season_details.id,
+                  season_details.season_number,
+                  len(season_details.episodes))
 
 
 def parse_show(show_details):
-    return if_satisfy({"id": show_details.id,
-                       "name": show_details.name,
-                       "seasons_number": show_details.number_of_seasons},
+    return if_satisfy(Show(show_details.id,
+                           show_details.name,
+                           show_details.number_of_seasons),
                       validate_genre(show_details.genres))

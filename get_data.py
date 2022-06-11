@@ -16,11 +16,11 @@ def get_show(name):
 
 def get_seasons(show):
     season_api = Season()
-    return [parse_season(season_api.details(show["id"], season))
-            for season in range(1, show["seasons_number"] + 1)]
+    return [parse_season(season_api.details(show.id, season))
+            for season in range(1, show.seasons_number + 1)]
 
 
-def get_episodes(show_id, season_id, season_info):
+def get_episodes(show_id, season):
     episodes_api = Episode()
-    return [parse_episode(episodes_api.details(show_id, season_id, episode, append_to_response="credits"))
-            for episode in range(1, season_info["episodes_number"] + 1)]
+    return [parse_episode(episodes_api.details(show_id, season.number, episode, append_to_response="credits"))
+            for episode in range(1, season.episodes_number + 1)]

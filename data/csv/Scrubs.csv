@@ -1,0 +1,1036 @@
+,show_name,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month,character,occupation
+0,Scrubs,1,5367,Zach Braff,2,True,,,2001,10,"John ""J.D."" Dorian",other
+1,Scrubs,1,49002,Donald Faison,2,True,,,2001,10,Christopher Turk,other
+2,Scrubs,1,11885,John C. McGinley,2,True,,,2001,10,Perry Cox,other
+3,Scrubs,1,38570,Ken Jenkins,2,True,,,2001,10,Bob Kelso,other
+4,Scrubs,1,159657,Judy Reyes,1,True,,,2001,10,Carla Espinosa,other
+5,Scrubs,1,43776,Neil Flynn,2,True,,,2001,10,Janitor,other
+6,Scrubs,1,49001,Sarah Chalke,1,True,,,2001,10,Elliot Reid,other
+7,Scrubs,1,116907,Marshall Manesh,2,False,,,2001,10,Pizza Guy,other
+8,Scrubs,1,1231142,Michael Hobert,2,False,,,2001,10,Pizza Guy,other
+9,Scrubs,1,1236034,Jake Fritz,0,False,,,2001,10,Billy,other
+10,Scrubs,1,1580500,Mary Gillis,1,False,,,2001,10,Mrs Pratt,other
+11,Scrubs,1,61408,Timmy Deters,0,False,,,2001,10,Boy,other
+12,Scrubs,1,1949249,Lynne Maclean,0,False,,,2001,10,Nurse Kearney,nurse
+13,Scrubs,1,1217812,Shannon Welles,1,False,,,2001,10,Old Woman,other
+14,Scrubs,1,2206635,Ted Rogers,0,False,,,2001,10,Mr. Burski,other
+15,Scrubs,1,46920,Sam Lloyd,2,False,,,2001,10,Ted,other
+16,Scrubs,1,1216705,Robert Maschio,2,False,,,2001,10,Todd,other
+17,Scrubs,1,35521,Matt Winston,2,False,,,2001,10,Jeffrey Steadman,other
+18,Scrubs,1,49551,Aloma Wright,1,False,,,2001,10,Laverne Roberts,other
+19,Scrubs,1,151383,John Ducey,2,False,,,2001,10,Will Forte,other
+20,Scrubs,1,2206637,Randi Kaplan,1,False,,,2001,10,Patient,other
+21,Scrubs,1,5613,Jack Walsh,2,False,,,2001,10,Unconscious Patient,other
+22,Scrubs,1,128155,Johnny Kastl,2,False,,,2001,10,Doug,other
+23,Scrubs,1,81663,Vanessa Marshall,1,False,,,2001,10,Becky,other
+24,Scrubs,1,189735,Max Kerstein,0,False,,,2001,10,Mr. Bidwell,other
+25,Scrubs,1,169682,Robert Munns,2,False,,,2001,10,Mr. Kavanaugh,other
+26,Scrubs,1,189734,Alpheus Merchant,0,False,,,2001,10,Sleeping Patient,other
+27,Scrubs,1,1881350,David Martel,0,False,,,2001,10,Guy,other
+28,Scrubs,1,1659280,P.D. Mani,2,False,,,2001,10,Dr. Simotas,doctor
+29,Scrubs,1,62833,Charles Rahi Chun,2,False,,,2001,10,Dr. Wen,doctor
+30,Scrubs,1,57404,Travis Wester,2,False,,,2001,10,David Morrison,other
+31,Scrubs,1,71861,Liliana Mumy,1,False,,,2001,10,Samantha Tanner,other
+32,Scrubs,1,1212125,Lela Lee,0,False,,,2001,10,Surgical Intern,intern
+33,Scrubs,1,1236066,Esther Mercado,1,False,,,2001,10,Mrs. Guerrero,other
+34,Scrubs,1,2206641,Jennifer Naimo,1,False,,,2001,10,Gina Tanner,other
+35,Scrubs,1,2206647,Jack Thomas,0,False,,,2001,10,Jim Morrison,other
+36,Scrubs,1,162828,Cooper Thornton,2,False,,,2001,10,Tommy Tanner,other
+37,Scrubs,1,106935,Kathryn Joosten,1,False,,,2001,10,Mrs. Tanner,other
+38,Scrubs,1,44795,Louie Anderson,2,False,,,2001,10,Louie Anderson,other
+39,Scrubs,1,121547,Rob Richards,2,False,,,2001,10,Jared,other
+40,Scrubs,1,2206673,Marlena Poles,0,False,,,2001,10,Mrs. Blitt,other
+41,Scrubs,1,1687684,Ray Spinka,0,False,,,2001,10,Kindly Old Man,other
+42,Scrubs,1,189740,Troy Bishop,2,False,,,2001,10,College Dude,other
+43,Scrubs,1,1226457,John O'Brien,2,False,,,2001,10,Man,other
+44,Scrubs,1,31366,Jimmie Walker,2,False,,,2001,10,Jimmie Walker,other
+45,Scrubs,1,1228829,Mark Chaet,0,False,,,2001,10,Dr. Greenberg,doctor
+46,Scrubs,1,157078,Gina Morelli,0,False,,,2001,10,Carla's Mom,other
+47,Scrubs,1,162721,Earl Schuman,2,False,,,2001,10,Patient,other
+48,Scrubs,1,1744987,Angee Hughes,1,False,,,2001,10,Nurse,nurse
+49,Scrubs,1,212821,Christa Miller,1,False,,,2001,10,Jordan Sullivan,other
+50,Scrubs,1,85421,Time Winters,2,False,,,2001,11,Jesus,other
+51,Scrubs,1,52601,Sean Hayes,2,False,,,2001,11,Nick,other
+52,Scrubs,1,2206713,Cody Estes,0,False,,,2001,11,Young J.D.,other
+53,Scrubs,1,4741,Cayden Boyd,2,False,,,2001,11,Hummer,other
+54,Scrubs,1,1485405,Mane Andrew,2,False,,,2001,11,Darryl,other
+55,Scrubs,1,105014,Andy Forrest,2,False,,,2001,11,Teacher,other
+56,Scrubs,1,1215974,John Valdetero,0,False,,,2001,11,Bartender,other
+57,Scrubs,1,2206721,T.J. Hall,0,False,,,2001,11,Young Turk,other
+58,Scrubs,1,164275,Bronwen Booth,1,False,,,2001,11,Anchorwoman,other
+59,Scrubs,1,143574,Paul Collins,2,False,,,2001,11,Dr. Benson,doctor
+60,Scrubs,1,2220803,Amelinda Embry,1,False,,,2001,11,Jennifer,other
+61,Scrubs,1,159335,Drew Wicks,2,False,,,2001,11,Patient,other
+62,Scrubs,1,178926,Michael McDonald,2,False,,,2001,11,Mike Davis,other
+63,Scrubs,1,16845,Nicole Sullivan,1,False,,,2001,11,Jill Tracy,other
+64,Scrubs,1,1236885,Paul Connor,0,False,,,2001,12,Patient,other
+65,Scrubs,1,58512,Steve Tom,2,False,,,2001,12,Narrator / Doctor,doctor
+66,Scrubs,1,2220804,Granger Green,1,False,,,2001,12,Meredith,other
+67,Scrubs,1,1522100,Cathy Herd,1,False,,,2001,12,Mrs. Wheeler,other
+68,Scrubs,1,1672667,Joel Hurt Jones,2,False,,,2001,12,Mr. Wheeler,other
+69,Scrubs,1,158778,Ted Pitsis,0,False,,,2001,12,Al,other
+70,Scrubs,1,1318952,Derek Miller,0,False,,,2001,12,Orderly,other
+71,Scrubs,1,89292,Elizabeth Bogush,1,False,,,2002,1,Alex,other
+72,Scrubs,1,96010,Carrot Top,2,False,,,2002,1,Carrot Top,other
+73,Scrubs,1,119280,Sean Carrigan,2,False,,,2002,1,Paul,other
+74,Scrubs,1,2220806,Jim Coari,0,False,,,2002,1,Mr. Yeager,other
+75,Scrubs,1,129725,Al Harrington,2,False,,,2002,1,Older Patient,other
+76,Scrubs,1,1965871,Jim Blanchette,0,False,,,2002,1,Allan,other
+77,Scrubs,1,1231513,Brian Catalano,0,False,,,2002,1,Yuppie,other
+78,Scrubs,1,2220810,Myrna Niles,0,False,,,2002,2,Grandmother,other
+79,Scrubs,1,1408766,Dan Sachoff,2,False,,,2002,2,Matthew,other
+80,Scrubs,1,1392074,Timothy Starks,2,False,,,2002,2,Man,other
+81,Scrubs,1,1192009,Leah Rowan,0,False,,,2002,2,Woman,other
+82,Scrubs,1,17273,Masi Oka,2,False,,,2002,2,Franklyn,other
+83,Scrubs,1,95468,Kelli Williams,1,False,,,2002,3,Kristen Murphy,other
+84,Scrubs,1,132078,DJ Qualls,2,False,,,2002,3,Josh,other
+85,Scrubs,1,160611,Don Chastain,2,False,,,2002,3,Mr. Chambers,other
+86,Scrubs,1,1820034,Rich Piana,2,False,,,2002,3,Monster,other
+87,Scrubs,1,1833233,Bud Sabatino,2,False,,,2002,3,Patient,other
+88,Scrubs,1,179549,Steven Shaw,2,False,,,2002,3,Mr. Sloane,other
+89,Scrubs,1,1228791,Eric Saiet,2,False,,,2002,3,Jerry Donovan,other
+90,Scrubs,1,1228876,Jack Shearer,2,False,,,2002,3,Aaron Simon,other
+91,Scrubs,1,1212688,Hattie Winston,1,False,,,2002,4,Margaret Turk,other
+92,Scrubs,1,27772,John Ritter,2,False,,,2002,4,Sam Dorian,other
+93,Scrubs,1,7402,Markie Post,1,False,,,2002,4,Lily Reid,other
+94,Scrubs,1,8655,R. Lee Ermey,2,False,,,2002,4,Janitor's Father,other
+95,Scrubs,1,153936,Lane Davies,2,False,,,2002,4,Simon Reid,other
+96,Scrubs,1,2221701,Colin Martin,0,False,,,2002,4,Patient,other
+97,Scrubs,1,2221706,Alexandra Lee,1,False,,,2002,4,Young Elliot,other
+98,Scrubs,1,1945258,David S. Robinson Hicks,0,False,,,2002,4,Young Turk,other
+99,Scrubs,1,35595,Scott Foley,2,False,,,2002,4,Sean Kelly,other
+100,Scrubs,1,98406,Paige Peterson,1,False,,,2002,4,Shelly,other
+101,Scrubs,1,166671,Helen Siff,1,False,,,2002,4,Patient,other
+102,Scrubs,1,141052,Charles C. Stevenson Jr.,2,False,,,2002,4,Patient,other
+103,Scrubs,1,162610,Fred Stoller,2,False,,,2002,4,Mr. Hoffner,other
+104,Scrubs,1,2221718,Manley Henry,0,False,,,2002,4,Snoop Dogg Intern,intern
+105,Scrubs,1,1485115,Katie O'Rourke,1,False,,,2002,4,Coffee Nurse,nurse
+106,Scrubs,1,42157,Ed Begley Jr.,2,False,,,2002,4,Dr. Bailey,doctor
+107,Scrubs,1,10775,William Daniels,2,False,,,2002,4,Dr. Douglas,doctor
+108,Scrubs,1,52304,Stephen Furst,2,False,,,2002,4,Dr. Franklyn,doctor
+109,Scrubs,1,1940145,Robert Dolan,2,False,,,2002,4,Mr. Winston,other
+110,Scrubs,1,18269,Brendan Fraser,2,False,,,2002,5,Ben Sullivan,other
+111,Scrubs,1,1344294,Steven Hack,2,False,,,2002,5,Dr. Bobb,doctor
+112,Scrubs,1,2221726,Mary MacDonald,0,False,,,2002,5,Admit Nurse,nurse
+113,Scrubs,1,1556326,Kymberly Newberry,1,False,,,2002,5,Dr. Allan,doctor
+114,Scrubs,1,1752806,Katya Abelski,0,False,,,2002,5,Child,other
+115,Scrubs,1,129661,Bob Clendenin,2,False,,,2002,5,Dr. Zeltzer,doctor
+116,Scrubs,1,1237161,George Miserlis,0,False,,,2002,5,Crispin,other
+117,Scrubs,1,2221731,Philip McNiven,2,False,,,2002,5,Roy,other
+118,Scrubs,1,2091688,April Pressel,0,False,,,2002,5,Denise Bober,other
+119,Scrubs,1,1798968,Michael Cotter,2,False,,,2002,5,Intern,intern
+120,Scrubs,1,91323,Don Perry,2,False,,,2002,5,Mr. Bober,other
+121,Scrubs,2,5367,Zach Braff,2,True,,,2002,9,"John ""J.D."" Dorian",other
+122,Scrubs,2,49002,Donald Faison,2,True,,,2002,9,Christopher Turk,other
+123,Scrubs,2,11885,John C. McGinley,2,True,,,2002,9,Perry Cox,other
+124,Scrubs,2,38570,Ken Jenkins,2,True,,,2002,9,Bob Kelso,other
+125,Scrubs,2,159657,Judy Reyes,1,True,,,2002,9,Carla Espinosa,other
+126,Scrubs,2,43776,Neil Flynn,2,True,,,2002,9,Janitor,other
+127,Scrubs,2,49001,Sarah Chalke,1,True,,,2002,9,Elliot Reid,other
+128,Scrubs,2,60228,Colin Hay,2,False,,,2002,9,Troubador,other
+129,Scrubs,2,2221739,Scott Peacock,0,False,,,2002,9,Mr. Zerbo,other
+130,Scrubs,2,1217130,Bob McClurg,2,False,,,2002,9,Car Driver,doctor
+131,Scrubs,2,1216705,Robert Maschio,2,False,,,2002,9,Todd,other
+132,Scrubs,2,49551,Aloma Wright,1,False,,,2002,9,Laverne Roberts,other
+133,Scrubs,2,212821,Christa Miller,1,False,,,2002,9,Jordan Sullivan,other
+134,Scrubs,2,136005,Richard Cansino,2,False,,,2002,10,Dr. Rose,doctor
+135,Scrubs,2,25946,Bonita Friedericy,1,False,,,2002,10,Nurse,nurse
+136,Scrubs,2,1231079,Amy Tolsky,1,False,,,2002,10,Nurse,nurse
+137,Scrubs,2,1225803,Marcus Ashley,2,False,,,2002,10,ER Doctor,doctor
+138,Scrubs,2,46920,Sam Lloyd,2,False,,,2002,10,Ted,other
+139,Scrubs,2,1237161,George Miserlis,0,False,,,2002,10,Crispin,other
+140,Scrubs,2,2221731,Philip McNiven,2,False,,,2002,10,Roy,other
+141,Scrubs,2,114604,Maree Cheatham,1,False,,,2002,10,Mrs. Warner,other
+142,Scrubs,2,177838,Jill Basey,1,False,,,2002,10,Mrs. Kellerman,other
+143,Scrubs,2,128155,Johnny Kastl,2,False,,,2002,10,Doug,other
+144,Scrubs,2,2221748,Douglas Sutherland,0,False,,,2002,10,Guy With Perm,other
+145,Scrubs,2,62833,Charles Rahi Chun,2,False,,,2002,10,Dr. Wen,doctor
+146,Scrubs,2,178926,Michael McDonald,2,False,,,2002,10,Mike Davis,other
+147,Scrubs,2,1212125,Lela Lee,0,False,,,2002,10,Bonnie,other
+148,Scrubs,2,189758,Brian Powell,2,False,,,2002,10,Mr. Hogan,other
+149,Scrubs,2,93213,Lindsey Stoddart,1,False,,,2002,10,Lauren,other
+150,Scrubs,2,1219570,Joe Rose,0,False,,,2002,10,Troy,other
+151,Scrubs,2,1212804,Ted Lange,2,False,,,2002,10,Mr. Blair,other
+152,Scrubs,2,1213114,Jeffrey Asch,0,False,,,2002,10,Dr. Amato,doctor
+153,Scrubs,2,173158,Brian McGovern,2,False,,,2002,10,Dr. DiStefano,doctor
+154,Scrubs,2,2221758,Bruce Sledge,0,False,,,2002,10,Dana Gould,other
+155,Scrubs,2,2160034,Kerry Michaels,0,False,,,2002,10,Mrs. Bumbry,other
+156,Scrubs,2,2221760,Linda Tran,0,False,,,2002,10,Noelle,other
+157,Scrubs,2,2221763,Britt Erickson,0,False,,,2002,10,Beautiful Woman,other
+158,Scrubs,2,1318952,Derek Miller,0,False,,,2002,10,Orderly,other
+159,Scrubs,2,1682711,Rochelle Robinson,1,False,,,2002,10,Woman,other
+160,Scrubs,2,170356,Susan Grace,1,False,,,2002,10,Woman,other
+161,Scrubs,2,163413,Lyla Graham,1,False,,,2002,10,Old Mother,other
+162,Scrubs,2,1193089,Kelly McCracken,0,False,,,2002,10,Patient,other
+163,Scrubs,2,59216,Tom Cavanagh,2,False,,,2002,10,Dan Dorian,other
+164,Scrubs,2,58691,Heather Locklear,1,False,,,2002,11,Julie Keaton,other
+165,Scrubs,2,98406,Paige Peterson,1,False,,,2002,11,Shelly,other
+166,Scrubs,2,96921,Cole Williams,2,False,,,2002,11,Mike,other
+167,Scrubs,2,2206713,Cody Estes,0,False,,,2002,11,Young J.D.,other
+168,Scrubs,2,153936,Lane Davies,2,False,,,2002,11,Simon Reid,other
+169,Scrubs,2,1935765,Keilana Smith,1,False,,,2002,11,Clinic Director,other
+170,Scrubs,2,1347627,Theresa Barrera,1,False,,,2002,11,Gyno Girl,other
+171,Scrubs,2,2226703,Julie Hudson,0,False,,,2002,11,Dr. Gerson,doctor
+172,Scrubs,2,1212128,Donald Sage Mackay,0,False,,,2002,11,Doctor,doctor
+173,Scrubs,2,1916,Biff Yeager,2,False,,,2002,12,Dr. Walch,doctor
+174,Scrubs,2,189761,David Copperfield,2,False,,,2002,12,David Copperfield,other
+175,Scrubs,2,2394,Alan Ruck,2,False,,,2002,12,Mr. Bragin,other
+176,Scrubs,2,1811129,Deonte Gordon,0,False,,,2002,12,Mark the Orderly,other
+177,Scrubs,2,159382,Richard Livingston,2,False,,,2002,12,Dad,other
+178,Scrubs,2,81217,Sarah Lancaster,1,False,,,2002,12,Lisa,other
+179,Scrubs,2,55617,Marcy Goldman,1,False,,,2002,12,Mrs. Watson,other
+180,Scrubs,2,1740213,Damara Reilly,1,False,,,2002,12,Mrs. Koppleman,other
+181,Scrubs,2,92283,Brogan Roche,0,False,,,2002,12,Choir Leader,other
+182,Scrubs,2,25711,Kevin Cooney,2,False,,,2003,1,Mr. Woodbury,other
+183,Scrubs,2,1513986,Stacy Barnhisel,1,False,,,2003,1,Mrs. Marrick,other
+184,Scrubs,2,159398,Don Tiffany,0,False,,,2003,1,Mr. Marrick,other
+185,Scrubs,2,21125,Richard Kind,2,False,,,2003,1,Mr. Corman,other
+186,Scrubs,2,1236069,Larry Udy,2,False,,,2003,1,Mr. Grimmett,other
+187,Scrubs,2,1464430,Jessica Wright,1,False,,,2003,1,Young Woman,other
+188,Scrubs,2,61256,Trevor Wright,2,False,,,2003,1,Kid,other
+189,Scrubs,2,129661,Bob Clendenin,2,False,,,2003,1,Dr. Zeltzer,doctor
+190,Scrubs,2,65727,Sam Jaeger,2,False,,,2003,1,Steve Larkin,other
+191,Scrubs,2,189764,Toni Ann Rossi,0,False,,,2003,1,Sandy Larkin,other
+192,Scrubs,2,2227125,Joey Saravia,0,False,,,2003,1,Ralphie,other
+193,Scrubs,2,1681626,Jill Tracy,1,False,,,2003,1,Elaine,other
+194,Scrubs,2,170293,Daniel Edward Mora,2,False,,,2003,1,Father,other
+195,Scrubs,2,61303,Dick Van Dyke,2,False,,,2003,1,Dr. Townshend,doctor
+196,Scrubs,2,85931,D.L. Hughley,2,False,,,2003,1,Kevin Turk,other
+197,Scrubs,2,1236053,Robert Beckwith,0,False,,,2003,1,Roy,other
+198,Scrubs,2,2227127,Paul F. Perry,0,False,,,2003,1,Randall,other
+199,Scrubs,2,76546,Ricky Schroder,2,False,,,2003,1,Nurse Paul,nurse
+200,Scrubs,2,10866,Eric Bogosian,2,False,,,2003,1,Dr. Gross,doctor
+201,Scrubs,2,62737,Lenore Thomas,1,False,,,2003,1,Jenny,other
+202,Scrubs,2,156211,Bergen Williams,1,False,,,2003,1,Carol Stonewater,other
+203,Scrubs,2,168400,Ron Ostrow,2,False,,,2003,2,Mr. Foster,other
+204,Scrubs,2,1701895,Keith Blaney,0,False,,,2003,2,Mr. Simms,other
+205,Scrubs,2,183745,Debra Azar,1,False,,,2003,2,Dr. Donna,doctor
+206,Scrubs,2,14991,Jay Leno,2,False,,,2003,3,Jay Leno,other
+207,Scrubs,2,12217,Jay Mohr,2,False,,,2003,3,Dr. Peter Fisher,doctor
+208,Scrubs,2,152345,Barry Kivel,2,False,,,2003,3,Mr. Hilliard,other
+209,Scrubs,2,17273,Masi Oka,2,False,,,2003,3,Franklyn,other
+210,Scrubs,2,2227159,Kathryn White,0,False,,,2003,3,Mrs. Grayson,other
+211,Scrubs,2,170889,D. Elliot Woods,2,False,,,2003,3,Security Guard,other
+212,Scrubs,2,2227156,Jason Baumgard,0,False,,,2003,3,Chet,other
+213,Scrubs,2,181895,Adam Harrington,2,False,,,2003,3,Jack Moyer,other
+214,Scrubs,2,98156,Jonathan Conrad,2,False,,,2003,3,Justin,other
+215,Scrubs,2,2227174,Melanie Rockwell,0,False,,,2003,3,Mrs. Brady,other
+216,Scrubs,2,20189,Amy Smart,1,False,,,2003,3,Jamie Moyer,other
+217,Scrubs,2,189770,Danny Swerdlow,0,False,,,2003,3,Rudy,other
+218,Scrubs,2,1744987,Angee Hughes,1,False,,,2003,3,Nurse,nurse
+219,Scrubs,2,1455902,Larkin Campbell,2,False,,,2003,3,Maintenance Man,other
+220,Scrubs,2,189769,Tim Benedick,0,False,,,2003,3,Surgeon,doctor
+221,Scrubs,2,2227190,J.K. Baker,0,False,,,2003,3,Maintenance Man,other
+222,Scrubs,2,154568,Monica Allison,1,False,,,2003,3,Attractive Woman,other
+223,Scrubs,2,1230842,Leslie David Baker,2,False,,,2003,4,Surgery Patient,other
+224,Scrubs,2,1977324,Soren Hellerup,0,False,,,2003,4,Rolf Mueller,other
+225,Scrubs,2,149471,Ingo Neuhaus,2,False,,,2003,4,Hermann Mueller,other
+226,Scrubs,2,75339,Fred Berry,2,False,,,2003,4,Fred Berry,other
+227,Scrubs,2,61182,Gillian Vigman,1,False,,,2003,4,Female Patient,other
+228,Scrubs,2,125845,Robert Noble,2,False,,,2003,4,Chaplain,other
+229,Scrubs,2,130618,Gabriel Pimentel,2,False,,,2003,4,Mike,other
+230,Scrubs,2,10987,Verne Troyer,2,False,,,2003,4,Small Man at Bar,other
+231,Scrubs,2,7909,Steve Susskind,2,False,,,2003,4,Mr. Groff,other
+232,Scrubs,2,10859,Ryan Reynolds,2,False,,,2003,4,Spence,other
+233,Scrubs,2,155510,Richard Voigts,2,False,,,2003,4,Mr. Weinberg,other
+234,Scrubs,2,1925263,James Henriksen,0,False,,,2003,4,Husband,other
+235,Scrubs,2,45000,Sarah Lilly,1,False,,,2003,4,Wife,other
+236,Scrubs,3,5367,Zach Braff,2,True,,,2003,10,"John ""J.D."" Dorian",other
+237,Scrubs,3,49002,Donald Faison,2,True,,,2003,10,Christopher Turk,other
+238,Scrubs,3,11885,John C. McGinley,2,True,,,2003,10,Perry Cox,other
+239,Scrubs,3,38570,Ken Jenkins,2,True,,,2003,10,Bob Kelso,other
+240,Scrubs,3,159657,Judy Reyes,1,True,,,2003,10,Carla Espinosa,other
+241,Scrubs,3,43776,Neil Flynn,2,True,,,2003,10,Janitor,other
+242,Scrubs,3,49001,Sarah Chalke,1,True,,,2003,10,Elliot Reid,other
+243,Scrubs,3,35595,Scott Foley,2,False,,,2003,10,Sean Kelly,other
+244,Scrubs,3,9996,Sean Whalen,2,False,,,2003,10,Laddy,other
+245,Scrubs,3,1710,Lee Arenberg,2,False,,,2003,10,Dr. Moyer,doctor
+246,Scrubs,3,1212119,Jennifer Lothrop,1,False,,,2003,10,Girl,other
+247,Scrubs,3,2227206,Umoja Butler,0,False,,,2003,10,Big Guy,other
+248,Scrubs,3,1226417,Brad Koepenick,2,False,,,2003,10,Mitchell,other
+249,Scrubs,3,1190677,Bonnie Perlman,0,False,,,2003,10,Mrs. Farr,other
+250,Scrubs,3,1933978,Nicholas DiNardo,0,False,,,2003,10,Delivery Kid,other
+251,Scrubs,3,2227209,Jerry Farmer,0,False,,,2003,10,Convict,other
+252,Scrubs,3,46920,Sam Lloyd,2,False,,,2003,10,Ted,other
+253,Scrubs,3,49551,Aloma Wright,1,False,,,2003,10,Laverne Roberts,other
+254,Scrubs,3,212821,Christa Miller,1,False,,,2003,10,Jordan Sullivan,other
+255,Scrubs,3,75346,Maureen McCormick,1,False,,,2003,10,Maureen McCormick,other
+256,Scrubs,3,84898,Shelley Malil,2,False,,,2003,10,Bartender,other
+257,Scrubs,3,189773,Vaughn Lowery,2,False,,,2003,10,Tracy,other
+258,Scrubs,3,104197,Michael Hagerty,2,False,,,2003,10,Will,other
+259,Scrubs,3,1859314,Randy Davison,2,False,,,2003,10,Urine Lab Technician,other
+260,Scrubs,3,1729789,Vince Brocato,2,False,,,2003,10,Patient,other
+261,Scrubs,3,180881,John Hemphill,2,False,,,2003,10,Patient,other
+262,Scrubs,3,1367844,Melody Butiu,0,False,,,2003,10,Cashier,other
+263,Scrubs,3,124086,David Doty,2,False,,,2003,10,Priest,other
+264,Scrubs,3,1216705,Robert Maschio,2,False,,,2003,10,Todd,other
+265,Scrubs,3,22227,Christopher Meloni,2,False,,,2003,10,Dr. Norris,doctor
+266,Scrubs,3,7402,Markie Post,1,False,,,2003,10,Lily Reid,other
+267,Scrubs,3,2227226,John E. Cheffy,0,False,,,2003,10,Benjamin,other
+268,Scrubs,3,2036634,Jace Milstead,0,False,,,2003,10,Jimmy,other
+269,Scrubs,3,1234024,Kiran Rao,0,False,,,2003,10,Brian,other
+270,Scrubs,3,2227230,Robbie Swift,0,False,,,2003,10,Bruce,other
+271,Scrubs,3,33296,Torrey DeVitto,1,False,,,2003,10,Gorgeous Girl,other
+272,Scrubs,3,2227235,Catherine Langlas,0,False,,,2003,10,Intern,intern
+273,Scrubs,3,128155,Johnny Kastl,2,False,,,2003,10,Doug Murphy,other
+274,Scrubs,3,29479,Jennifer O'Dell,1,False,,,2003,10,Stunning Woman,other
+275,Scrubs,3,162878,Jan Devereaux,0,False,,,2003,10,Female Resident,other
+276,Scrubs,3,2227238,Ian Kerr,0,False,,,2003,10,Chairman of the Board,other
+277,Scrubs,3,84607,Fred Ornstein,2,False,,,2003,10,Bus Driver,doctor
+278,Scrubs,3,98437,Arthur Roberts,2,False,,,2003,10,Board Member,other
+279,Scrubs,3,62833,Charles Rahi Chun,2,False,,,2003,10,Dr. Wen,doctor
+280,Scrubs,3,1219570,Joe Rose,0,False,,,2003,10,Troy,other
+281,Scrubs,3,35521,Matt Winston,2,False,,,2003,10,Jeffrey Steadman,other
+282,Scrubs,3,91323,Don Perry,2,False,,,2003,11,Mr. Bober,other
+283,Scrubs,3,2227519,Kattia Ortiz,0,False,,,2003,11,Female Resident,other
+284,Scrubs,3,2227520,Scott Rabideau,0,False,,,2003,11,Male Resident,other
+285,Scrubs,3,59216,Tom Cavanagh,2,False,,,2003,11,Dan Dorian,other
+286,Scrubs,3,6862,Freddy Rodríguez,2,False,,,2003,11,Mark,other
+287,Scrubs,3,1234,Tara Reid,1,False,,,2003,11,Danni,other
+288,Scrubs,3,2227522,Christopher R.C. Bosen,0,False,,,2003,11,Danny,other
+289,Scrubs,3,102209,Erik Estrada,2,False,,,2003,11,Erik Estrada,other
+290,Scrubs,3,2237839,Patricia Gebhard,1,False,,,2003,11,Mrs. Koenings,other
+291,Scrubs,3,1292595,Kaidy Kuna,2,False,,,2003,11,Father,other
+292,Scrubs,3,16845,Nicole Sullivan,1,False,,,2003,11,Jill Tracy,other
+293,Scrubs,3,80257,Bernie Kopell,2,False,,,2003,12,Mr. Moran,other
+294,Scrubs,3,2237840,Sam Menning,0,False,,,2003,12,Mr. Booker,other
+295,Scrubs,3,928295,Adrian Armas,2,False,,,2003,12,Handsome Man,other
+296,Scrubs,3,166876,Adam Biesk,2,False,,,2003,12,Guy,other
+297,Scrubs,3,1323239,Yolanda Snowball,1,False,,,2003,12,Woman,other
+298,Scrubs,3,1375273,Sheila Wills,1,False,,,2003,12,Wife,other
+299,Scrubs,3,1212128,Donald Sage Mackay,0,False,,,2003,12,Doctor,doctor
+300,Scrubs,3,1237147,Carrie Stroup,1,False,,,2003,12,Mrs. Cantwell,other
+301,Scrubs,3,13473,Barry Bostwick,2,False,,,2003,12,Mr. Randolph,other
+302,Scrubs,3,2053053,Julia Sanford,1,False,,,2003,12,Catherine,other
+303,Scrubs,3,5170,Mike Starr,2,False,,,2004,1,Mr. Iverson,other
+304,Scrubs,3,133289,Cheryl White,1,False,,,2004,1,Miss Himsel,other
+305,Scrubs,3,2237887,Nickolaus Brown,0,False,,,2004,1,Larry,other
+306,Scrubs,3,2237888,Joel Huggins,0,False,,,2004,1,Slim,other
+307,Scrubs,3,6642,Jessica Kate Meyer,1,False,,,2004,1,Stephanie,other
+308,Scrubs,3,154762,Joe Sabatino,2,False,,,2004,1,Cop,other
+309,Scrubs,3,4030,Martin Klebba,2,False,,,2004,1,Randall,other
+310,Scrubs,3,1410263,Jordan Feldman,2,False,,,2004,2,Scott Gerber,other
+311,Scrubs,3,2237891,Joyce Fessides,0,False,,,2004,2,Mrs. Gorski,other
+312,Scrubs,3,1228623,Janelle Marra,1,False,,,2004,2,Sheila,other
+313,Scrubs,3,1388928,Irene White,1,False,,,2004,2,Janice,other
+314,Scrubs,3,112050,Susan Slome,1,False,,,2004,2,Woman,other
+315,Scrubs,3,2227156,Jason Baumgard,0,False,,,2004,2,Chet,other
+316,Scrubs,3,521,Michael J. Fox,2,False,,,2004,2,Kevin Casey,other
+317,Scrubs,3,99231,John Maynard,2,False,,,2004,2,Doctor,doctor
+318,Scrubs,3,168147,Juan Carlos Cantu,2,False,,,2004,2,Hector,other
+319,Scrubs,3,189785,Lou George,2,False,,,2004,2,Tailor,other
+320,Scrubs,3,2360409,Vince Micelli,2,False,,,2004,2,Priest,other
+321,Scrubs,3,552526,Andre B. Blake,2,False,,,2004,2,Paramedic,medic
+322,Scrubs,3,2221718,Manley Henry,0,False,,,2004,2,Snoop Dogg Intern,intern
+323,Scrubs,3,18269,Brendan Fraser,2,False,,,2004,2,Ben Sullivan,other
+324,Scrubs,3,151339,Warren Munson,2,False,,,2004,2,Mr. Taylor,other
+325,Scrubs,3,2058773,Richard Clarke Larsen,0,False,,,2004,2,Homeless Man,other
+326,Scrubs,3,63681,Julie Warner,1,False,,,2004,3,Allison,other
+327,Scrubs,3,6368,Embeth Davidtz,1,False,,,2004,3,Maddie,other
+328,Scrubs,3,86653,Carter Jenkins,2,False,,,2004,3,Young Todd,other
+329,Scrubs,3,162888,Lawrence H. Toffler,2,False,,,2004,3,Todd's Father,other
+330,Scrubs,3,87280,Bellamy Young,1,False,,,2004,3,Dr. Miller,doctor
+331,Scrubs,3,46075,Zaid Farid,2,False,,,2004,3,Mr. Strauss,other
+332,Scrubs,3,2246333,Renee Ryan,0,False,,,2004,3,Mrs. Janitor,other
+333,Scrubs,3,160098,Michael Coleman,0,False,,,2004,3,Another Janitor,other
+334,Scrubs,3,189788,Brandon Waters,2,False,,,2004,3,Young Janitor,other
+335,Scrubs,3,188389,Lily Goff,1,False,,,2004,3,Gaby,other
+336,Scrubs,3,21316,Nestor Carbonell,2,False,,,2004,3,Dr. Ramirez,doctor
+337,Scrubs,3,87951,Alexander Chaplin,2,False,,,2004,3,Mr. Thompson,other
+338,Scrubs,3,177744,Paul Tigue,2,False,,,2004,3,Waiter,other
+339,Scrubs,3,1634579,Cathleen Gallagher,1,False,,,2004,3,Woman,other
+340,Scrubs,3,156940,Kyle Sullivan,2,False,,,2004,4,Brian,other
+341,Scrubs,3,61058,Portia Dawson,1,False,,,2004,4,Mrs. Bell,other
+342,Scrubs,3,174023,Michael Edwin,2,False,,,2004,4,Mr. Bell,other
+343,Scrubs,3,2246335,Mackenzie Hannigan,2,False,,,2004,4,Bratty Kid,other
+344,Scrubs,3,1231142,Michael Hobert,2,False,,,2004,4,Lonnie,other
+345,Scrubs,3,2246336,Hank Lindsley,0,False,,,2004,4,Irv,other
+346,Scrubs,3,92283,Brogan Roche,0,False,,,2004,4,Man,other
+347,Scrubs,3,21125,Richard Kind,2,False,,,2004,4,Mr. Corman,other
+348,Scrubs,3,1215405,Dayna Devon,1,False,,,2004,4,Nurse,nurse
+349,Scrubs,3,151386,Sybil Azur,0,False,,,2004,4,Mother,other
+350,Scrubs,3,189794,Cheyenne Haynes,1,False,,,2004,4,Daughter,other
+351,Scrubs,3,1811289,Jeffry E. Stein,0,False,,,2004,4,Patron,other
+352,Scrubs,3,27592,Larry Thomas,2,False,,,2004,4,Larry,other
+353,Scrubs,3,1046202,Candice Coke,1,False,,,2004,4,Maria Espinosa,other
+354,Scrubs,3,1212108,Margaret Easley,1,False,,,2004,4,J.D.'s Mother,other
+355,Scrubs,3,2206713,Cody Estes,0,False,,,2004,4,Young J.D.,other
+356,Scrubs,3,1212688,Hattie Winston,1,False,,,2004,5,Margaret Turk,other
+357,Scrubs,3,1752,George Takei,2,False,,,2004,5,George Takei,other
+358,Scrubs,3,61222,Art Bonilla,2,False,,,2004,5,Priest,other
+359,Scrubs,3,591001,Dougald Park,0,False,,,2004,5,Mr. Fitzpatrick,other
+360,Scrubs,3,203397,Joselin Reyes,1,False,,,2004,5,Gabriella Espinosa,other
+361,Scrubs,3,1237161,George Miserlis,0,False,,,2004,5,Crispin,other
+362,Scrubs,3,2221731,Philip McNiven,2,False,,,2004,5,Roy,other
+363,Scrubs,3,2227127,Paul F. Perry,0,False,,,2004,5,Randall,other
+364,Scrubs,4,5367,Zach Braff,2,True,,,2004,8,"John ""J.D."" Dorian",other
+365,Scrubs,4,49002,Donald Faison,2,True,,,2004,8,Christopher Turk,other
+366,Scrubs,4,11885,John C. McGinley,2,True,,,2004,8,Perry Cox,other
+367,Scrubs,4,38570,Ken Jenkins,2,True,,,2004,8,Bob Kelso,other
+368,Scrubs,4,159657,Judy Reyes,1,True,,,2004,8,Carla Espinosa,other
+369,Scrubs,4,43776,Neil Flynn,2,True,,,2004,8,Janitor,other
+370,Scrubs,4,49001,Sarah Chalke,1,True,,,2004,8,Elliot Reid,other
+371,Scrubs,4,1349480,Cynthia Frost,1,False,,,2004,8,Mrs. Grodberg,other
+372,Scrubs,4,59215,Jordi Caballero,2,False,,,2004,8,Massimo,other
+373,Scrubs,4,14853,Michael Alaimo,2,False,,,2004,8,Mr. Radford,other
+374,Scrubs,4,102183,Bart Sumner,2,False,,,2004,8,Mr. Blass,other
+375,Scrubs,4,116907,Marshall Manesh,2,False,,,2004,8,Akbar,other
+376,Scrubs,4,1334667,Harriett S. Miller,0,False,,,2004,8,Elderly Woman,other
+377,Scrubs,4,69122,Heather Graham,1,False,,,2004,8,Dr. Molly Clock,doctor
+378,Scrubs,4,212821,Christa Miller,1,False,,,2004,8,Jordan Sullivan,other
+379,Scrubs,4,2399306,John Brady,2,False,,,2004,9,Mr. Silka,other
+380,Scrubs,4,1351151,Andrew Herman,2,False,,,2004,9,Mr. Roman,other
+381,Scrubs,4,1217466,Herman Poppe,2,False,,,2004,9,Mr. Porter,other
+382,Scrubs,4,1523963,Jennie Ventriss,1,False,,,2004,9,Pat,other
+383,Scrubs,4,1321203,Chuck Lacey,0,False,,,2004,9,Odd Doctor,doctor
+384,Scrubs,4,1455902,Larkin Campbell,2,False,,,2004,9,Guy,other
+385,Scrubs,4,128155,Johnny Kastl,2,False,,,2004,9,Doug Murphy,other
+386,Scrubs,4,129661,Bob Clendenin,2,False,,,2004,9,Dr. Zeltzer,doctor
+387,Scrubs,4,1216705,Robert Maschio,2,False,,,2004,9,Todd,other
+388,Scrubs,4,49551,Aloma Wright,1,False,,,2004,9,Laverne Roberts,other
+389,Scrubs,4,164275,Bronwen Booth,1,False,,,2004,9,Miss Myers,other
+390,Scrubs,4,2005301,Jody Carter,1,False,,,2004,9,Mrs. Covello,other
+391,Scrubs,4,92283,Brogan Roche,0,False,,,2004,9,Dr. Lemmon,doctor
+392,Scrubs,4,1972274,Steven Montfort,2,False,,,2004,9,Softball Player,other
+393,Scrubs,4,46920,Sam Lloyd,2,False,,,2004,9,Ted,other
+394,Scrubs,4,4030,Martin Klebba,2,False,,,2004,9,Randall,other
+395,Scrubs,4,1231142,Michael Hobert,2,False,,,2004,9,Lonnie,other
+396,Scrubs,4,1212249,Tim Conlon,2,False,,,2004,9,Dean,other
+397,Scrubs,4,1228876,Jack Shearer,2,False,,,2004,9,Aaron Simon,other
+398,Scrubs,4,1523211,Carol Herman,1,False,,,2004,9,Mrs. Carter,other
+399,Scrubs,4,1937259,Kevin Lowe,2,False,,,2004,9,Mr. Daniels,other
+400,Scrubs,4,1582310,Joseph Limbaugh,2,False,,,2004,9,Guy,other
+401,Scrubs,4,2206635,Ted Rogers,0,False,,,2004,9,Mr. Burski,other
+402,Scrubs,4,2399350,Connor Patterson,0,False,,,2004,9,Sammy,other
+403,Scrubs,4,106935,Kathryn Joosten,1,False,,,2004,9,Mrs. Tanner,other
+404,Scrubs,4,1681626,Jill Tracy,1,False,,,2004,9,Elaine,other
+405,Scrubs,4,4238,Common,2,False,,,2004,9,Himself,other
+406,Scrubs,4,155035,Wendy Schenker,1,False,,,2004,9,Mrs. MacCalla,other
+407,Scrubs,4,98658,Jason-Shane Scott,2,False,,,2004,9,Mike,other
+408,Scrubs,4,2399366,Sylvia MacCalla,0,False,,,2004,9,Prostitute,other
+409,Scrubs,4,1222771,Femi Emiola,1,False,,,2004,10,Young Woman,other
+410,Scrubs,4,129667,Chuck Woolery,2,False,,,2004,10,Chuck Woolery,other
+411,Scrubs,4,1481299,Ross Mackenzie,2,False,,,2004,10,Patient,other
+412,Scrubs,4,945062,Ming Lo,2,False,,,2004,10,Dr. Kim,doctor
+413,Scrubs,4,59216,Tom Cavanagh,2,False,,,2004,10,Dan Dorian,other
+414,Scrubs,4,2407914,Tiffany Cade,0,False,,,2004,10,Mary,other
+415,Scrubs,4,155293,Mercy Malick,1,False,,,2004,10,Contortionist,other
+416,Scrubs,4,2407919,Yosemite Stokesberry,0,False,,,2004,10,Hell's Angel,other
+417,Scrubs,4,144438,Jeff Witzke,2,False,,,2004,10,Father,other
+418,Scrubs,4,28640,Molly Shannon,1,False,,,2004,10,Denise Lemmon,other
+419,Scrubs,4,2407923,Jay Malack,0,False,,,2004,10,Shinski,other
+420,Scrubs,4,78117,Cullen Douglas,2,False,,,2004,10,Two O'Clock Man,other
+421,Scrubs,4,74124,Andrew Friedman,2,False,,,2004,10,EMT,medic
+422,Scrubs,4,230060,Amy Ferguson,1,False,,,2004,10,Girl,other
+423,Scrubs,4,83978,William Bassett,2,False,,,2004,10,Patient,other
+424,Scrubs,4,159327,Terrence Beasor,2,False,,,2004,10,Man in Bed,other
+425,Scrubs,4,153446,Al Checco,2,False,,,2004,10,Man in Bed,other
+426,Scrubs,4,1916,Biff Yeager,2,False,,,2004,11,Dr. Walch,doctor
+427,Scrubs,4,21125,Richard Kind,2,False,,,2004,11,Mr. Corman,other
+428,Scrubs,4,25654,Julianna Margulies,1,False,,,2004,11,Neena,other
+429,Scrubs,4,120889,Dayo Ade,2,False,,,2004,11,Mr. Hovey,other
+430,Scrubs,4,1231085,Tacey Adams,1,False,,,2004,11,Woman,other
+431,Scrubs,4,2407927,Amy Rilling,0,False,,,2004,11,Nurse,nurse
+432,Scrubs,4,4253,Jon Polito,2,False,,,2004,11,Mr. Summers,other
+433,Scrubs,4,23533,Zach Mills,2,False,,,2004,11,Young J.D.,other
+434,Scrubs,4,1822023,Alysia Joy Powell,1,False,,,2004,11,Karen,other
+435,Scrubs,4,2353512,Steven Wash Jr.,0,False,,,2004,11,Young Turk,other
+436,Scrubs,4,20361,John Bennett Perry,2,False,,,2004,11,Harrison,other
+437,Scrubs,4,14408,Matthew Perry,2,False,,,2004,11,Murray,other
+438,Scrubs,4,1219573,Timothy Davis-Reed,0,False,,,2004,11,Interviewer,other
+439,Scrubs,4,17273,Masi Oka,2,False,,,2004,11,Franklyn,other
+440,Scrubs,4,111514,David Pressman,2,False,,,2004,11,Mickey,other
+441,Scrubs,4,1173094,Ralph Cole Jr.,2,False,,,2004,11,Glen,other
+442,Scrubs,4,2407932,Bayard Crawley,0,False,,,2004,11,Dave,other
+443,Scrubs,4,95141,Barry Cutler,2,False,,,2004,11,Brett,other
+444,Scrubs,4,2407933,Brian Kaiser,0,False,,,2004,11,Emcee,other
+445,Scrubs,4,2407934,Tony Perry,0,False,,,2004,11,Old Murray,other
+446,Scrubs,4,1705771,Adam Bitterman,2,False,,,2004,11,Worker,other
+447,Scrubs,4,72698,Mike Weinberg,2,False,,,2004,12,Tyler,other
+448,Scrubs,4,2407936,Geoff Stevenson,0,False,,,2004,12,Dr. Beard Face,doctor
+449,Scrubs,4,101618,Colin Bain,2,False,,,2004,12,Steve,other
+450,Scrubs,4,53123,Adam Zolotin,2,False,,,2004,12,Reuben,other
+451,Scrubs,4,1215394,Matt Kaminsky,2,False,,,2004,12,Mr. Milligan,other
+452,Scrubs,4,168267,Randy Crowder,2,False,,,2004,12,Patient,other
+453,Scrubs,4,1892337,Kareem Ferguson,2,False,,,2004,12,Waiter,other
+454,Scrubs,4,166659,Wells Rosales,0,False,,,2004,12,Student,other
+455,Scrubs,4,116229,Linda Porter,1,False,,,2004,12,Old Woman,other
+456,Scrubs,4,110531,Shanola Hampton,1,False,,,2004,12,Woman,other
+457,Scrubs,4,2232280,Reggie Currelley,2,False,,,2004,12,Man,other
+458,Scrubs,4,2227519,Kattia Ortiz,0,False,,,2004,12,Nurse,nurse
+459,Scrubs,4,62833,Charles Rahi Chun,2,False,,,2004,12,Dr. Wen,doctor
+460,Scrubs,4,98406,Paige Peterson,1,False,,,2005,1,Shelly,other
+461,Scrubs,4,93213,Lindsey Stoddart,1,False,,,2005,1,Nurse Haltson,nurse
+462,Scrubs,4,154970,Monica Allgeier,1,False,,,2005,1,Nurse Tisdale,nurse
+463,Scrubs,4,1219570,Joe Rose,0,False,,,2005,1,Troy,other
+464,Scrubs,4,1237161,George Miserlis,0,False,,,2005,1,Crispin,other
+465,Scrubs,4,2221731,Philip McNiven,2,False,,,2005,1,Roy,other
+466,Scrubs,4,2227127,Paul F. Perry,0,False,,,2005,1,Randall,other
+467,Scrubs,4,72466,Colin Farrell,2,False,,,2005,1,Billy,other
+468,Scrubs,4,81698,Michael Bunin,2,False,,,2005,1,Jerry,other
+469,Scrubs,4,1219610,Myra Turley,1,False,,,2005,1,Woman,other
+470,Scrubs,4,291805,Matthew Pohlson,2,False,,,2005,1,Patient,other
+471,Scrubs,4,87363,Chrystee Pharris,1,False,,,2005,2,Kylie,other
+472,Scrubs,4,180168,Marc D. Wilson,2,False,,,2005,2,James,other
+473,Scrubs,4,33500,Takayo Fischer,1,False,,,2005,2,Mrs. Cheng,other
+474,Scrubs,4,45406,Gregory Hinton,2,False,,,2005,2,Bouncer,other
+475,Scrubs,4,34979,Loren Lester,2,False,,,2005,2,Vet,other
+476,Scrubs,4,1234,Tara Reid,1,False,,,2005,2,Danni,other
+477,Scrubs,4,75923,Christopher Darga,0,False,,,2005,2,Homeless Steve,other
+478,Scrubs,4,2408676,Gary Rubenstein,0,False,,,2005,2,Patient,other
+479,Scrubs,4,1586212,Robert E. Beckwith,0,False,,,2005,2,Dr. Johnson,doctor
+480,Scrubs,4,51662,Ken Lerner,2,False,,,2005,2,Mr. James,other
+481,Scrubs,4,1224951,Clay Aiken,0,False,,,2005,2,Kenny,other
+482,Scrubs,4,15034,Jeremy Howard,2,False,,,2005,2,Fat Frank,other
+483,Scrubs,4,1811129,Deonte Gordon,0,False,,,2005,2,Figsack,other
+484,Scrubs,4,112884,Ed McMahon,2,False,,,2005,2,Ed McMahon,other
+485,Scrubs,4,66101,Michael Boatman,2,False,,,2005,2,Ron,other
+486,Scrubs,4,1478279,Jennifer Bowman,0,False,,,2005,3,Nurse Birdie,nurse
+487,Scrubs,4,2227238,Ian Kerr,0,False,,,2005,3,Mr. Peeps (voice),other
+488,Scrubs,4,43947,Ed Brigadier,2,False,,,2005,3,Barber,other
+489,Scrubs,4,92327,Lindsay Hollister,1,False,,,2005,3,Nell,other
+490,Scrubs,4,1224762,Trev Broudy,0,False,,,2005,3,Doctor,doctor
+491,Scrubs,4,157010,Tim Haldeman,2,False,,,2005,3,Mr. Warner,other
+492,Scrubs,4,2206713,Cody Estes,0,False,,,2005,3,Young J.D.,other
+493,Scrubs,4,33490,Phill Lewis,2,False,,,2005,3,Hooch,other
+494,Scrubs,4,1714806,Meredith Quill,1,False,,,2005,3,Kathy,other
+495,Scrubs,4,90659,Chris Hogan,0,False,,,2005,4,Mr. Gerst,other
+496,Scrubs,4,1223084,Mary Mouser,1,False,,,2005,4,Girl,other
+497,Scrubs,4,1798968,Michael Cotter,2,False,,,2005,4,Michael,other
+498,Scrubs,4,84085,Mary-Margaret Lewis,1,False,,,2005,4,Woman,other
+499,Scrubs,4,191621,Ian Vogt,2,False,,,2005,4,Father,other
+500,Scrubs,4,78036,Michael Copon,2,False,,,2005,4,Pedro,doctor
+501,Scrubs,4,155422,Sarah Ramos,1,False,,,2005,4,Lindsay,other
+502,Scrubs,4,2408693,Piolet Thompkins,0,False,,,2005,4,Roland,other
+503,Scrubs,4,56162,Josh Randall,2,False,,,2005,4,Jake,other
+504,Scrubs,4,104378,Jim Hanks,2,False,,,2005,4,Dr. Turner,doctor
+505,Scrubs,4,1226334,James Michael Tyler,2,False,,,2005,4,Therapist,other
+506,Scrubs,4,85171,Ellen Albertini Dow,1,False,,,2005,4,Betty,other
+507,Scrubs,4,156081,Stephanie Brown,1,False,,,2005,4,Jenny,other
+508,Scrubs,4,159034,Whitney Rydbeck,2,False,,,2005,4,Dennis,other
+509,Scrubs,4,2408694,Sue Ozeran,0,False,,,2005,4,Lady,other
+510,Scrubs,4,1228623,Janelle Marra,1,False,,,2005,4,Nurse,nurse
+511,Scrubs,4,162610,Fred Stoller,2,False,,,2005,4,Mr. Hoffner,other
+512,Scrubs,4,1781893,Larry Marko,0,False,,,2005,4,Mr. Gilmore,other
+513,Scrubs,4,1213598,Hira Ambrosino,1,False,,,2005,4,Realtor,other
+514,Scrubs,4,166970,John Balma,2,False,,,2005,4,Owner,other
+515,Scrubs,4,2408696,Steve Bolton,0,False,,,2005,4,Crazy Guy,other
+516,Scrubs,4,2408697,Elton Laron,0,False,,,2005,4,Black Guy,other
+517,Scrubs,4,189788,Brandon Waters,2,False,,,2005,4,Young Janitor,other
+518,Scrubs,4,650356,Erin Carufel,1,False,,,2005,5,Woman in Tub (uncredited),other
+519,Scrubs,4,1341061,Stuart McLean,2,False,,,2005,5,Dr. Gold,doctor
+520,Scrubs,4,2408698,Madison R. Wells,0,False,,,2005,5,Karen,other
+521,Scrubs,4,1381388,Brian Oerly,0,False,,,2005,5,Angry Neighbor,other
+522,Scrubs,5,5367,Zach Braff,2,True,,,2006,1,"John ""J.D."" Dorian",other
+523,Scrubs,5,49002,Donald Faison,2,True,,,2006,1,Christopher Turk,other
+524,Scrubs,5,11885,John C. McGinley,2,True,,,2006,1,Perry Cox,other
+525,Scrubs,5,38570,Ken Jenkins,2,True,,,2006,1,Bob Kelso,other
+526,Scrubs,5,159657,Judy Reyes,1,True,,,2006,1,Carla Espinosa,other
+527,Scrubs,5,43776,Neil Flynn,2,True,,,2006,1,Janitor,other
+528,Scrubs,5,49001,Sarah Chalke,1,True,,,2006,1,Elliot Reid,other
+529,Scrubs,5,46927,Josh Hammond,2,False,,,2006,1,Razor,other
+530,Scrubs,5,155027,Joe Costanza,2,False,,,2006,1,Mr. Kellerman,other
+531,Scrubs,5,1863792,Opender Singh,0,False,,,2006,1,Omar,other
+532,Scrubs,5,203489,Keli Daniels,1,False,,,2006,1,Nurse,nurse
+533,Scrubs,5,88338,Joe Souza,2,False,,,2006,1,Guy,other
+534,Scrubs,5,1439272,Shaughn Buchholz,0,False,,,2006,1,Cabbage / Jason,other
+535,Scrubs,5,76023,Tom Schmid,2,False,,,2006,1,Fellowship Director,other
+536,Scrubs,5,46920,Sam Lloyd,2,False,,,2006,1,Ted,other
+537,Scrubs,5,65227,Travis Schuldt,2,False,,,2006,1,Keith,other
+538,Scrubs,5,1216705,Robert Maschio,2,False,,,2006,1,Todd,other
+539,Scrubs,5,49551,Aloma Wright,1,False,,,2006,1,Laverne Roberts,other
+540,Scrubs,5,212821,Christa Miller,1,False,,,2006,1,Jordan Sullivan,other
+541,Scrubs,5,87951,Alexander Chaplin,2,False,,,2006,1,Mr. Thompson,other
+542,Scrubs,5,88702,J.P. Manoux,2,False,,,2006,1,Charlie,other
+543,Scrubs,5,1313637,Sloan Robinson,1,False,,,2006,1,Cafeteria Worker,other
+544,Scrubs,5,2409172,John Siciliano,0,False,,,2006,1,Homeless Guy,other
+545,Scrubs,5,2409167,Jordan Zucker,0,False,,,2006,1,Lisa,other
+546,Scrubs,5,2409163,Aaron Ikeda,0,False,,,2006,1,Rex,other
+547,Scrubs,5,1586212,Robert E. Beckwith,0,False,,,2006,1,Dr. Johnson,doctor
+548,Scrubs,5,2409165,Christina Miles,1,False,,,2006,1,Gloria,other
+549,Scrubs,5,56162,Josh Randall,2,False,,,2006,1,Jake,other
+550,Scrubs,5,181892,Meredith Bishop,1,False,,,2006,1,Melissa,other
+551,Scrubs,5,156288,Jeff Griggs,2,False,,,2006,1,Hypnotist,other
+552,Scrubs,5,1793482,Dakota Sky,2,False,,,2006,1,Kid,other
+553,Scrubs,5,207006,Matthew J. Evans,2,False,,,2006,1,Kid,other
+554,Scrubs,5,220064,Kerris Dorsey,1,False,,,2006,1,Kid,other
+555,Scrubs,5,128155,Johnny Kastl,2,False,,,2006,1,Doug Murphy,other
+556,Scrubs,5,62833,Charles Rahi Chun,2,False,,,2006,1,Dr. Wen,doctor
+557,Scrubs,5,1714806,Meredith Quill,1,False,,,2006,1,Kathy,other
+558,Scrubs,5,1212855,Michael Merton,2,False,,,2006,1,Mr. Keck,other
+559,Scrubs,5,1356753,Duane R. Shepard Sr.,0,False,,,2006,1,Mr. Morrison,other
+560,Scrubs,5,1497865,Geoffrey Wade,2,False,,,2006,1,Dr. Bailey,doctor
+561,Scrubs,5,2409186,Thomas Bankowski,2,False,,,2006,1,Stoned Orderly,other
+562,Scrubs,5,1216195,Paul Raci,2,False,,,2006,1,Drunk Guy,doctor
+563,Scrubs,5,1619423,Bob Bencomo,0,False,,,2006,1,Colonel Doctor,doctor
+564,Scrubs,5,57854,Cheryl Hines,1,False,,,2006,1,Paige,other
+565,Scrubs,5,1865927,Carol Hickey,0,False,,,2006,1,Mrs. Donnelly,other
+566,Scrubs,5,1940764,Wesley Leong,0,False,,,2006,1,Mr. Kwan,other
+567,Scrubs,5,1519709,Nami Paix,0,False,,,2006,1,Mrs. Kwan,other
+568,Scrubs,5,2409188,Ryan Boone,2,False,,,2006,1,Elliot's Date,other
+569,Scrubs,5,3122030,Bart the Bear II,2,False,,,2006,1,The Bear,other
+570,Scrubs,5,2048,Gary Busey,2,False,,,2006,1,Gary Busey,other
+571,Scrubs,5,2409189,John Serembe,0,False,,,2006,1,Mr. Jenkins,other
+572,Scrubs,5,1852817,Thomas Crawford,2,False,,,2006,1,Mr. Peele,other
+573,Scrubs,5,155442,Mary Pat Dowhy,0,False,,,2006,1,Mrs. Peele,other
+574,Scrubs,5,2409190,Greg Allen Johnson,2,False,,,2006,1,Mr. Bursick,other
+575,Scrubs,5,2409191,Sarieha Alsawaf,1,False,,,2006,1,Sexy Patient,other
+576,Scrubs,5,62845,Beverly Polcyn,1,False,,,2006,1,Dyslexic Woman,other
+577,Scrubs,5,77597,Ric Sarabia,2,False,,,2006,1,S&M Guy,other
+578,Scrubs,5,2409192,Bernard Bruce,0,False,,,2006,1,Old Man,other
+579,Scrubs,5,65101,Michael Learned,1,False,,,2006,1,Mrs. Wilk,other
+580,Scrubs,5,1196122,Peter Choi,2,False,,,2006,1,Sushi Chef,other
+581,Scrubs,5,1234735,David Downs,0,False,,,2006,1,Mr. Bolger,other
+582,Scrubs,5,2227127,Paul F. Perry,0,False,,,2006,1,Randy,other
+583,Scrubs,5,2409193,Rene Hall,1,False,,,2006,1,Intern,intern
+584,Scrubs,5,2227520,Scott Rabideau,0,False,,,2006,1,Intern,intern
+585,Scrubs,5,2052464,India King,1,False,,,2006,1,Elliot's Intern,intern
+586,Scrubs,5,1237161,George Miserlis,0,False,,,2006,1,Crispin,other
+587,Scrubs,5,2221731,Philip McNiven,2,False,,,2006,1,Roy,other
+588,Scrubs,5,23532,Jason Bateman,2,False,,,2006,1,Mr. Sutton,other
+589,Scrubs,5,31514,Peter Jacobson,2,False,,,2006,1,Mr. Foster,other
+590,Scrubs,5,1228581,Jordan Murphy,2,False,,,2006,1,Robot Groom,other
+591,Scrubs,5,137410,Allison Smith,1,False,,,2006,1,Millie,other
+592,Scrubs,5,166684,Gerald Downey,2,False,,,2006,1,Jimmy,other
+593,Scrubs,5,124086,David Doty,2,False,,,2006,1,Priest,other
+594,Scrubs,5,16855,Mandy Moore,1,False,,,2006,2,Julie,other
+595,Scrubs,5,2410563,Jo Deodato Clark,0,False,,,2006,2,Mrs. Nickels,other
+596,Scrubs,5,1489190,Tangelia Rouse,1,False,,,2006,2,Mrs. London,other
+597,Scrubs,5,1231142,Michael Hobert,2,False,,,2006,2,Lonnie,other
+598,Scrubs,5,1212101,Eamonn Roche,2,False,,,2006,2,Mr. Clark,other
+599,Scrubs,5,1235170,Erica O'Keith,1,False,,,2006,2,Whitney,other
+600,Scrubs,5,3799,Billy Dee Williams,2,False,,,2006,2,Billy Dee Williams,other
+601,Scrubs,5,1470859,Stacey Hinnen,2,False,,,2006,2,Mr. Morgan,other
+602,Scrubs,5,2410567,Becca Battoe,1,False,,,2006,2,Nurse,nurse
+603,Scrubs,5,1980077,Yvonne Arias,1,False,,,2006,2,Nurse Martinez,nurse
+604,Scrubs,5,65221,Jay Kenneth Johnson,2,False,,,2006,2,Dr. Matthews,doctor
+605,Scrubs,5,58742,Marisa Petroro,1,False,,,2006,2,Cavewoman,other
+606,Scrubs,5,126422,Callard Harris,2,False,,,2006,2,Guy,other
+607,Scrubs,5,1450815,Jack Yang,2,False,,,2006,2,Patient,other
+608,Scrubs,5,14414,Kareem Abdul-Jabbar,2,False,,,2006,2,Kareem Abdul-Jabbar,other
+609,Scrubs,5,203809,Nathan Lee Graham,2,False,,,2006,2,Eric / Devin,other
+610,Scrubs,5,86257,J.B. Ghuman Jr.,2,False,,,2006,2,Mark,other
+611,Scrubs,5,199272,J.R. Starr,0,False,,,2006,2,Mr. Burton,other
+612,Scrubs,5,2410583,Aly Carpenter,0,False,,,2006,2,Girl,other
+613,Scrubs,5,2410584,Mike Kersey,0,False,,,2006,2,Patient,other
+614,Scrubs,5,21290,Dave Foley,2,False,,,2006,3,Dr. Hedrick,doctor
+615,Scrubs,5,97601,Alicia Fusting,1,False,,,2006,3,Patient,other
+616,Scrubs,5,2410589,Michael Janik,0,False,,,2006,3,Patient,other
+617,Scrubs,5,20217,Janet Carroll,1,False,,,2006,3,Mrs. Cooke,other
+618,Scrubs,5,128201,Eve Brent,1,False,,,2006,3,Mrs. Harris,other
+619,Scrubs,5,1689919,Robert Martin Robinson,0,False,,,2006,3,Mr. Borland,other
+620,Scrubs,5,1348613,Monica Garcia Pérez,1,False,,,2006,3,Sperm Bank Nurse,nurse
+621,Scrubs,5,1881350,David Martel,0,False,,,2006,3,Person in Line,other
+622,Scrubs,5,2227519,Kattia Ortiz,0,False,,,2006,3,Nurse,nurse
+623,Scrubs,5,74353,Maria Menounos,1,False,,,2006,3,Tamara,other
+624,Scrubs,5,80615,Juanita Jennings,1,False,,,2006,3,Dr. Munson,doctor
+625,Scrubs,5,173807,Traber Burns,2,False,,,2006,3,Mr. Russell,other
+626,Scrubs,5,2412167,James Curreri,0,False,,,2006,3,Larry,other
+627,Scrubs,5,86046,Wes Robinson,2,False,,,2006,3,Jake,other
+628,Scrubs,5,8184,Mary Kate Schellhardt,1,False,,,2006,3,Carol,other
+629,Scrubs,5,1598,David St. James,2,False,,,2006,3,Mr. Sommers,other
+630,Scrubs,5,2412168,Keith Western,0,False,,,2006,3,Dr. Ricky,doctor
+631,Scrubs,5,2412169,Debi Wright,0,False,,,2006,3,Nurse,nurse
+632,Scrubs,5,1583282,Sabin Rich,2,False,,,2006,3,Stanley,other
+633,Scrubs,5,2412170,Charles Butler,0,False,,,2006,3,Father Rosenberg,other
+634,Scrubs,5,1449121,Rebecca Metz,1,False,,,2006,3,Volunteer Woman,other
+635,Scrubs,5,80438,Weston Nathanson,2,False,,,2006,3,Old Man,other
+636,Scrubs,5,54041,Paul Hipp,2,False,,,2006,4,Marc,other
+637,Scrubs,5,1598859,Jeffrey Stubblefield,2,False,,,2006,4,Frank,other
+638,Scrubs,5,2412174,Mark McDaniels,0,False,,,2006,4,Leslie,other
+639,Scrubs,5,1432328,Noel Arthur,2,False,,,2006,4,Frat Guy,other
+640,Scrubs,5,129661,Bob Clendenin,2,False,,,2006,4,Dr. Zeltzer,doctor
+641,Scrubs,5,21804,Jerod Mixon,2,False,,,2006,4,Herbert,other
+642,Scrubs,5,2221763,Britt Erickson,0,False,,,2006,4,Claire,other
+643,Scrubs,5,134171,Jack Axelrod,2,False,,,2006,4,Italian Man,other
+644,Scrubs,5,2412178,Christine Ashe,1,False,,,2006,4,Patient,other
+645,Scrubs,5,204330,Abigail Droeger,1,False,,,2006,4,Kid,other
+646,Scrubs,5,59216,Tom Cavanagh,2,False,,,2006,4,Dan Dorian,other
+647,Scrubs,5,7402,Markie Post,1,False,,,2006,4,Lily Reid,other
+648,Scrubs,5,156695,Henry LeBlanc,2,False,,,2006,4,Eric McNair,other
+649,Scrubs,5,204333,Kateri DeMartino,1,False,,,2006,4,Nurse,nurse
+650,Scrubs,5,1347388,Bill J. Stevens,2,False,,,2006,4,Board Member,other
+651,Scrubs,5,2412180,Hunter Huston,0,False,,,2006,4,Intern,intern
+652,Scrubs,5,1215760,Brent Weber,2,False,,,2006,4,Larry,other
+653,Scrubs,5,37204,David Warshofsky,2,False,,,2006,4,Dave Bradford,other
+654,Scrubs,5,1337441,Lyn Alicia Henderson,1,False,,,2006,4,Rebecca,other
+655,Scrubs,5,53335,Rachel Avery,1,False,,,2006,4,Jenny,other
+656,Scrubs,5,154905,Beans Morocco,2,False,,,2006,4,Artie,other
+657,Scrubs,5,155983,Rachel Winfree,1,False,,,2006,4,Jill's Mom,other
+658,Scrubs,5,2138923,Patrick Mulderrig,2,False,,,2006,4,Man,other
+659,Scrubs,5,16845,Nicole Sullivan,1,False,,,2006,4,Jill Tracy,other
+660,Scrubs,5,17342,Paul Adelstein,2,False,,,2006,5,Dr. Stone,doctor
+661,Scrubs,5,945062,Ming Lo,2,False,,,2006,5,Dr. Kim,doctor
+662,Scrubs,5,1943991,Paul Shively,0,False,,,2006,5,Mr. Ketay,other
+663,Scrubs,5,204596,Mike Peebler,2,False,,,2006,5,Patient,other
+664,Scrubs,5,1395919,Brad Sachs,2,False,,,2006,5,Patient,other
+665,Scrubs,5,1753329,Rowbie Orsatti,2,False,,,2006,5,Pilgrim Kid,other
+666,Scrubs,5,2412185,Hayden Bromberg,0,False,,,2006,5,Kid,other
+667,Scrubs,5,2412188,Andrew Miller,2,False,,,2006,5,Baby Jack,other
+668,Scrubs,5,156414,Carole Goldman,1,False,,,2006,5,Mrs. Goldstein,other
+669,Scrubs,5,84314,Keith Allan,2,False,,,2006,5,Bartender,other
+670,Scrubs,5,2412190,Greg Wittman,0,False,,,2006,5,Intern,intern
+671,Scrubs,5,130227,Matt Bush,2,False,,,2006,5,Teenage Boy,other
+672,Scrubs,5,1231149,John David Conti,2,False,,,2006,5,Patient,other
+673,Scrubs,5,1219570,Joe Rose,0,False,,,2006,5,Troy,other
+674,Scrubs,5,81217,Sarah Lancaster,1,False,,,2006,5,Lisa,other
+675,Scrubs,5,1985627,Kris Iyer,2,False,,,2006,5,Dr. Rotinaj,doctor
+676,Scrubs,5,1804943,Johnny Crear,2,False,,,2006,5,Mr. Peters,other
+677,Scrubs,5,2412192,Dan Ponce,2,False,,,2006,5,Greaser,other
+678,Scrubs,5,2412194,Leon David Franco,0,False,,,2006,5,Greaser,other
+679,Scrubs,5,9281,Elizabeth Banks,1,False,,,2006,5,Dr. Kim Briggs,doctor
+680,Scrubs,5,2412198,Edward Tinney,0,False,,,2006,5,Dr. Fulton,doctor
+681,Scrubs,6,5367,Zach Braff,2,True,,,2006,11,"John ""J.D."" Dorian",other
+682,Scrubs,6,49002,Donald Faison,2,True,,,2006,11,Christopher Turk,other
+683,Scrubs,6,11885,John C. McGinley,2,True,,,2006,11,Perry Cox,other
+684,Scrubs,6,38570,Ken Jenkins,2,True,,,2006,11,Bob Kelso,other
+685,Scrubs,6,159657,Judy Reyes,1,True,,,2006,11,Carla Espinosa,other
+686,Scrubs,6,43776,Neil Flynn,2,True,,,2006,11,Janitor,other
+687,Scrubs,6,49001,Sarah Chalke,1,True,,,2006,11,Elliot Reid,other
+688,Scrubs,6,1531017,Chris Dougherty,2,False,,,2006,11,Jerry,other
+689,Scrubs,6,81739,Tate Hanyok,1,False,,,2006,11,Debbie,other
+690,Scrubs,6,2154096,Carl J. Johnson,0,False,,,2006,11,Harvey,other
+691,Scrubs,6,1869468,Shara Lerman,1,False,,,2006,11,Mrs. Zeebee,other
+692,Scrubs,6,85207,Jerry Shea,2,False,,,2006,11,Intern,intern
+693,Scrubs,6,9281,Elizabeth Banks,1,False,,,2006,11,Dr. Kim Briggs,doctor
+694,Scrubs,6,46920,Sam Lloyd,2,False,,,2006,11,Ted,other
+695,Scrubs,6,65227,Travis Schuldt,2,False,,,2006,11,Keith,other
+696,Scrubs,6,1216705,Robert Maschio,2,False,,,2006,11,Todd,other
+697,Scrubs,6,49551,Aloma Wright,1,False,,,2006,11,Laverne Roberts,other
+698,Scrubs,6,2412188,Andrew Miller,2,False,,,2006,11,Baby Jack,other
+699,Scrubs,6,212821,Christa Miller,1,False,,,2006,11,Jordan Sullivan,other
+700,Scrubs,6,183070,Julian Acosta,2,False,,,2006,12,Jesus,other
+701,Scrubs,6,2409193,Rene Hall,1,False,,,2006,12,Nurse Rita,nurse
+702,Scrubs,6,1266054,Evelina Turen,1,False,,,2006,12,Blonde,other
+703,Scrubs,6,147383,Danica Sheridan,1,False,,,2006,12,Woman,other
+704,Scrubs,6,65221,Jay Kenneth Johnson,2,False,,,2006,12,Dr. Matthews,doctor
+705,Scrubs,6,15412,David Clennon,2,False,,,2006,12,Dr. Turner,doctor
+706,Scrubs,6,15827,Scott Weinger,2,False,,,2006,12,Dr. Kershnar,doctor
+707,Scrubs,6,1865065,Tom Knickerbocker,2,False,,,2006,12,Dr. Lemke,doctor
+708,Scrubs,6,120723,Frank Maharajh,2,False,,,2006,12,Vijay,other
+709,Scrubs,6,1001821,Jerry Kernion,2,False,,,2006,12,Cotton Candy Man,other
+710,Scrubs,6,1455798,Carol Avery,0,False,,,2006,12,Valerie,other
+711,Scrubs,6,128155,Johnny Kastl,2,False,,,2006,12,Doug Murphy,other
+712,Scrubs,6,1439272,Shaughn Buchholz,0,False,,,2006,12,Cabbage,other
+713,Scrubs,6,21290,Dave Foley,2,False,,,2007,1,Dr. Hedrick,doctor
+714,Scrubs,6,2409167,Jordan Zucker,0,False,,,2007,1,Lisa,other
+715,Scrubs,6,1225346,Danielle Weeks,1,False,,,2007,1,Sarah,other
+716,Scrubs,6,57869,Kevin West,2,False,,,2007,1,Mr. Mehleison,other
+717,Scrubs,6,2409163,Aaron Ikeda,0,False,,,2007,1,Rex,other
+718,Scrubs,6,1237161,George Miserlis,0,False,,,2007,1,Crispin,other
+719,Scrubs,6,2221731,Philip McNiven,2,False,,,2007,1,Roy,other
+720,Scrubs,6,2227127,Paul F. Perry,0,False,,,2007,1,Randall,other
+721,Scrubs,6,2412764,Ben Bencomo,0,False,,,2007,1,Colonel Doctor,doctor
+722,Scrubs,6,1232365,Andy Pessoa,2,False,,,2007,1,Bobby,other
+723,Scrubs,6,199625,Lou Saliba,0,False,,,2007,1,Phil,other
+724,Scrubs,6,1945793,Pamela Dubin,0,False,,,2007,1,Lactation Specialist,doctor
+725,Scrubs,6,1619469,Licia L. Shearer,0,False,,,2007,1,Lactation Specialist,doctor
+726,Scrubs,6,164302,Karen Ziemba,1,False,,,2007,1,Radiologist,other
+727,Scrubs,6,1100347,Kym Hoy,0,False,,,2007,1,Patient,other
+728,Scrubs,6,91850,Jennifer Leigh Warren,1,False,,,2007,1,Patient,other
+729,Scrubs,6,196825,Stephanie D'Abruzzo,1,False,,,2007,1,Patti,other
+730,Scrubs,6,51381,Michael Weston,2,False,,,2007,2,Private Brian Dancer,other
+731,Scrubs,6,1495765,Sulekha Naidu,1,False,,,2007,2,Janice,other
+732,Scrubs,6,2227519,Kattia Ortiz,0,False,,,2007,2,Bernice,other
+733,Scrubs,6,2412780,Elizabeth Tippet,0,False,,,2007,2,Jessica,other
+734,Scrubs,6,1708332,Caroline Do,1,False,,,2007,2,Best Friend,other
+735,Scrubs,6,2412779,Lindsay Ravage,0,False,,,2007,2,Debbie,other
+736,Scrubs,6,158782,Van Epperson,2,False,,,2007,2,Mr. Mariani,other
+737,Scrubs,6,1219602,Michael Ausiello,0,False,,,2007,2,Doctor,doctor
+738,Scrubs,6,100537,Rick Irwin,2,False,,,2007,2,Dr. Mahoney,doctor
+739,Scrubs,6,1411153,Kelli Kirkland,1,False,,,2007,2,Rochelle,other
+740,Scrubs,6,77740,Spice Williams-Crosby,1,False,,,2007,2,Donna,other
+741,Scrubs,6,1212101,Eamonn Roche,2,False,,,2007,2,Buzz,other
+742,Scrubs,6,2042243,Naomi Serotoff,0,False,,,2007,2,Old Woman,other
+743,Scrubs,6,2407936,Geoff Stevenson,0,False,,,2007,2,Dr. Beardface,doctor
+744,Scrubs,6,206485,Ravi Patel,2,False,,,2007,2,Intern,intern
+745,Scrubs,6,127582,Benjamin King,2,False,,,2007,2,Milos,other
+746,Scrubs,6,1218816,David Weidoff,0,False,,,2007,2,Intern,intern
+747,Scrubs,6,154816,Michael Patrick McGill,2,False,,,2007,2,Officer Brady,other
+748,Scrubs,6,206486,Guilford Adams,2,False,,,2007,2,Intern,intern
+749,Scrubs,6,1362887,DaJuan Johnson,2,False,,,2007,2,Intern,intern
+750,Scrubs,6,181701,Dean J. West,2,False,,,2007,2,Intern,intern
+751,Scrubs,6,1450816,Artie O'Daly,2,False,,,2007,2,Intern,intern
+752,Scrubs,6,1619423,Bob Bencomo,0,False,,,2007,2,Colonel Doctor,doctor
+753,Scrubs,6,1250534,Julian Berlin,1,False,,,2007,2,Anne,other
+754,Scrubs,6,53335,Rachel Avery,1,False,,,2007,2,Katie,other
+755,Scrubs,6,2409165,Christina Miles,1,False,,,2007,2,Gloria,other
+756,Scrubs,6,2412808,Tim Munday,0,False,,,2007,3,Roger Templeton,other
+757,Scrubs,6,188237,Terrance Christopher Jones,2,False,,,2007,3,Kenyan Intern,intern
+758,Scrubs,6,1323534,Jamie Strange,1,False,,,2007,3,Stacy,other
+759,Scrubs,6,1843277,Ana Rey,1,False,,,2007,3,Patient,other
+760,Scrubs,6,2221718,Manley Henry,0,False,,,2007,3,Snoop Dogg Intern,intern
+761,Scrubs,6,21618,Victoria Tennant,1,False,,,2007,3,Maggie,other
+762,Scrubs,6,87951,Alexander Chaplin,2,False,,,2007,3,Mr. Thompson,other
+763,Scrubs,6,2412826,Dan Jongebloed,0,False,,,2007,3,Guy,other
+764,Scrubs,6,126111,Susan Bjurman,1,False,,,2007,3,Woman,other
+765,Scrubs,6,20580,Joe Manganiello,2,False,,,2007,3,Chad,other
+766,Scrubs,6,83352,Mircea Monroe,1,False,,,2007,3,Heather,other
+767,Scrubs,6,58929,Jeanette Miller,1,False,,,2007,3,Betty,other
+768,Scrubs,6,129228,Candace Kroslak,1,False,,,2007,3,Kristin,other
+769,Scrubs,6,1759204,Samara Frame,0,False,,,2007,3,Radiologist,other
+770,Scrubs,6,85420,Boris Kievsky,0,False,,,2007,3,Elliot Man,other
+771,Scrubs,6,1811129,Deonte Gordon,0,False,,,2007,4,Deonte,other
+772,Scrubs,6,156963,Toshi Toda,2,False,,,2007,4,Mr. Chuang,other
+773,Scrubs,6,2414985,Keeshan Giles,0,False,,,2007,4,Lester,other
+774,Scrubs,6,16845,Nicole Sullivan,1,False,,,2007,4,Jill Tracy,other
+775,Scrubs,6,109451,Benton Jennings,2,False,,,2007,4,Mr. Hobbs,other
+776,Scrubs,6,552139,George Wallace,2,False,,,2007,4,Minister,other
+777,Scrubs,6,1628344,Katherine Disque,1,False,,,2007,4,Waitress,other
+778,Scrubs,6,2414986,Justin Grafman,0,False,,,2007,4,Timothy Frances,other
+779,Scrubs,6,1571661,Troy Kotsur,2,False,,,2007,4,Mr. Frances,other
+780,Scrubs,6,180316,Maurice Warfield,2,False,,,2007,4,Laverne's Uncle,other
+781,Scrubs,6,1323221,Darlene Kardon,1,False,,,2007,4,Patient,other
+782,Scrubs,6,1526927,Bernie Hourihan,0,False,,,2007,4,Patient,other
+783,Scrubs,6,2029357,Ben Kronen,2,False,,,2007,4,Patient,other
+784,Scrubs,6,1231142,Michael Hobert,2,False,,,2007,4,Lonnie,other
+785,Scrubs,6,38708,Chad Broskey,2,False,,,2007,4,Rod,other
+786,Scrubs,6,62042,Carole Davis,1,False,,,2007,4,Rosie,other
+787,Scrubs,6,2141,Ned Bellamy,2,False,,,2007,4,Dr. Green,doctor
+788,Scrubs,6,1221022,Gina DeVivo,1,False,,,2007,4,Stephanie,other
+789,Scrubs,6,2000349,Randi Cee,1,False,,,2007,4,Barbara,other
+790,Scrubs,6,2414991,Becky Guiley,0,False,,,2007,4,Nurse,nurse
+791,Scrubs,6,1876247,J.J. Nolan,1,False,,,2007,4,Hot Girl,other
+792,Scrubs,6,41292,Keri Russell,1,False,,,2007,4,Melody,other
+793,Scrubs,6,116446,William Brent,2,False,,,2007,4,Devin,other
+794,Scrubs,6,1934534,Peter A. Hulne,2,False,,,2007,4,Frank,other
+795,Scrubs,6,154818,Marjorie Lovett,1,False,,,2007,5,Mrs. Sheldon,other
+796,Scrubs,6,3042,Bruce Kirby,2,False,,,2007,5,Mr. Bilbray,other
+797,Scrubs,6,207479,Cantrell Harris,2,False,,,2007,5,Policeman,other
+798,Scrubs,6,101416,Michael McMillian,2,False,,,2007,5,Patrick,other
+799,Scrubs,6,178926,Michael McDonald,2,False,,,2007,5,Dr. Toilet (voice),doctor
+800,Scrubs,6,51520,Robert Pierce,2,False,,,2007,5,Dr. Shapiro,doctor
+801,Scrubs,6,1581176,Leon Simmons,2,False,,,2007,5,Old MC,other
+802,Scrubs,6,2415015,Jeffrey Scott Kelly,2,False,,,2007,5,Salesman,other
+803,Scrubs,6,188543,Gary Kraus,2,False,,,2007,5,Salesman,other
+804,Scrubs,6,119057,Stephon Fuller,2,False,,,2007,5,Salesman,other
+805,Scrubs,6,113916,Scott Menville,2,False,,,2007,5,Rabbit (voice),other
+806,Scrubs,6,1706628,Craig Patton,2,False,,,2007,5,Mr. Fulton,other
+807,Scrubs,6,78312,Gail Borges,1,False,,,2007,5,Woman,other
+808,Scrubs,6,2415018,Sammy Fender,0,False,,,2007,5,JD's Son,other
+809,Scrubs,6,1219665,Mike Henry,2,False,,,2007,5,Dr. Henry,doctor
+810,Scrubs,6,562701,Mary Kathleen Gordon,1,False,,,2007,5,Mrs. Cole,other
+811,Scrubs,6,2415019,Campbell Whitman,0,False,,,2007,5,Jen,other
+812,Scrubs,6,2409993,Tim Kahle,0,False,,,2007,5,Priest,other
+813,Scrubs,7,5367,Zach Braff,2,True,,,2007,10,"John ""J.D."" Dorian",other
+814,Scrubs,7,49002,Donald Faison,2,True,,,2007,10,Christopher Turk,other
+815,Scrubs,7,11885,John C. McGinley,2,True,,,2007,10,Perry Cox,other
+816,Scrubs,7,38570,Ken Jenkins,2,True,,,2007,10,Bob Kelso,other
+817,Scrubs,7,159657,Judy Reyes,1,True,,,2007,10,Carla Espinosa,other
+818,Scrubs,7,43776,Neil Flynn,2,True,,,2007,10,Janitor,other
+819,Scrubs,7,49001,Sarah Chalke,1,True,,,2007,10,Elliot Reid,other
+820,Scrubs,7,97604,Kevin Rahm,2,False,,,2007,10,Mr. Hutnik,other
+821,Scrubs,7,9281,Elizabeth Banks,1,False,,,2007,10,Dr. Kim Briggs,doctor
+822,Scrubs,7,2407936,Geoff Stevenson,0,False,,,2007,10,Dr. Beardface,doctor
+823,Scrubs,7,155686,Kit Pongetti,1,False,,,2007,10,Lady,other
+824,Scrubs,7,2221718,Manley Henry,0,False,,,2007,10,Snoop Dogg Attending,other
+825,Scrubs,7,65227,Travis Schuldt,2,False,,,2007,10,Keith,other
+826,Scrubs,7,1216705,Robert Maschio,2,False,,,2007,10,Todd,other
+827,Scrubs,7,60228,Colin Hay,2,False,,,2007,11,Troubador,other
+828,Scrubs,7,52930,Carlos Jacott,2,False,,,2007,11,Dr. No-Shot,doctor
+829,Scrubs,7,183745,Debra Azar,1,False,,,2007,11,Dr. Donna,doctor
+830,Scrubs,7,1481299,Ross Mackenzie,2,False,,,2007,11,Man,other
+831,Scrubs,7,49551,Aloma Wright,1,False,,,2007,11,Nurse Shirley,nurse
+832,Scrubs,7,204880,Tyler Poelle,2,False,,,2007,11,Boon,other
+833,Scrubs,7,212821,Christa Miller,1,False,,,2007,11,Jordan Sullivan,other
+834,Scrubs,7,2418635,Paul Latham,0,False,,,2007,11,Mr. Barnhart,other
+835,Scrubs,7,36157,Greg Allan Martin,0,False,,,2007,11,Tan Doctor,doctor
+836,Scrubs,7,133070,Corena Chase,1,False,,,2007,11,Robyn,other
+837,Scrubs,7,46920,Sam Lloyd,2,False,,,2007,11,Ted,other
+838,Scrubs,7,59216,Tom Cavanagh,2,False,,,2007,11,Dan Dorian,other
+839,Scrubs,7,1173003,Andy Kreiss,2,False,,,2007,11,Man,other
+840,Scrubs,7,1619423,Bob Bencomo,0,False,,,2007,11,Colonel Doctor,doctor
+841,Scrubs,7,1237161,George Miserlis,0,False,,,2007,11,Crispin,other
+842,Scrubs,7,2221731,Philip McNiven,2,False,,,2007,11,Roy,other
+843,Scrubs,7,2227127,Paul F. Perry,0,False,,,2007,11,Randall,other
+844,Scrubs,7,2412188,Andrew Miller,2,False,,,2007,11,Baby Jack,other
+845,Scrubs,7,20190,Efren Ramirez,2,False,,,2007,11,Ricky,other
+846,Scrubs,7,98437,Arthur Roberts,2,False,,,2007,11,Board Member,other
+847,Scrubs,7,2409163,Aaron Ikeda,0,False,,,2007,11,Rex,other
+848,Scrubs,7,149525,Susan Leslie,1,False,,,2007,11,Mrs. Winston,other
+849,Scrubs,7,80641,Sterling Beaumon,2,False,,,2007,11,Josh,other
+850,Scrubs,7,2418880,Shalina Waterman,0,False,,,2007,11,Nurse,nurse
+851,Scrubs,7,33490,Phill Lewis,2,False,,,2007,11,Hooch,other
+852,Scrubs,7,89042,Susanne Blakeslee,1,False,,,2007,12,Gayle,other
+853,Scrubs,7,110463,Lauren Stamile,1,False,,,2007,12,Shannon,other
+854,Scrubs,7,1235820,Harry Danner,2,False,,,2007,12,Mr. Clark,other
+855,Scrubs,7,2418881,Brandon Hancock,0,False,,,2007,12,Football Guy,other
+856,Scrubs,7,128155,Johnny Kastl,2,False,,,2007,12,Doug Murphy,other
+857,Scrubs,7,1201192,Eduardo Marques,0,False,,,2008,4,Patient,other
+858,Scrubs,7,149255,Gene Pompa,0,False,,,2008,4,Paulo,other
+859,Scrubs,7,13924,Mindy Sterling,1,False,,,2008,4,Mrs. Cropper,other
+860,Scrubs,7,178926,Michael McDonald,2,False,,,2008,4,Mr. Cropper,other
+861,Scrubs,7,1212239,Scott Holroyd,0,False,,,2008,4,John,other
+862,Scrubs,7,1232068,Roshawn Franklin,2,False,,,2008,4,Olympic Athlete,other
+863,Scrubs,7,2418882,Daneka Vallejo,0,False,,,2008,4,Nurse,nurse
+864,Scrubs,7,209045,Houston Rhines,2,False,,,2008,4,Brother,other
+865,Scrubs,7,1225911,Peter Holden,2,False,,,2008,4,Mr. Macrae,other
+866,Scrubs,7,2418883,Jerry Sherman,0,False,,,2008,4,Mr. Mandelbaum,other
+867,Scrubs,7,44896,Duke Stroud,2,False,,,2008,4,Board Member,other
+868,Scrubs,7,181391,Alison White,1,False,,,2008,4,Butch Doctor,doctor
+869,Scrubs,7,71686,Christopher Gehrman,2,False,,,2008,5,Mr. Candy,other
+870,Scrubs,7,1798968,Michael Cotter,2,False,,,2008,5,Doctor,doctor
+871,Scrubs,7,19545,Jack Angel,2,False,,,2008,5,PA System / Announcer,other
+872,Scrubs,7,76033,Edward James Gage,2,False,,,2008,5,Cop,other
+873,Scrubs,7,150186,Edith Jefferson,1,False,,,2008,5,Ball-Mart Lady,other
+874,Scrubs,7,1291666,Robert Khakh,2,False,,,2008,5,Empire Burger Manager,other
+875,Scrubs,7,203801,Katie Gill,1,False,,,2008,5,Marian,other
+876,Scrubs,7,1357479,Paul Kwo,2,False,,,2008,5,Potions Tech,other
+877,Scrubs,7,2412779,Lindsay Ravage,0,False,,,2008,5,Slagathor,other
+878,Scrubs,8,5367,Zach Braff,2,True,,,2009,1,"John ""J.D."" Dorian",other
+879,Scrubs,8,49002,Donald Faison,2,True,,,2009,1,Christopher Turk,other
+880,Scrubs,8,11885,John C. McGinley,2,True,,,2009,1,Perry Cox,other
+881,Scrubs,8,38570,Ken Jenkins,2,True,,,2009,1,Bob Kelso,other
+882,Scrubs,8,159657,Judy Reyes,1,True,,,2009,1,Carla Espinosa,other
+883,Scrubs,8,43776,Neil Flynn,2,True,,,2009,1,Janitor,other
+884,Scrubs,8,49001,Sarah Chalke,1,True,,,2009,1,Elliot Reid,other
+885,Scrubs,8,1213573,Taran Killam,2,False,,,2009,1,Jimmy,other
+886,Scrubs,8,86626,Aziz Ansari,2,False,,,2009,1,Ed,other
+887,Scrubs,8,14405,Courteney Cox,1,False,,,2009,1,Dr. Maddox,doctor
+888,Scrubs,8,201283,Eric Artell,2,False,,,2009,1,Rodney,other
+889,Scrubs,8,129466,James Ritz,0,False,,,2009,1,Mr. Hicks,other
+890,Scrubs,8,2788,Jack Grinnage,2,False,,,2009,1,Marvell,other
+891,Scrubs,8,176776,Betsy Beutler,0,False,,,2009,1,Dr. Katie Collins,doctor
+892,Scrubs,8,210050,Eliza Coupe,1,False,,,2009,1,Dr. Denise Mahoney,doctor
+893,Scrubs,8,46920,Sam Lloyd,2,False,,,2009,1,Ted,other
+894,Scrubs,8,65227,Travis Schuldt,2,False,,,2009,1,Keith,other
+895,Scrubs,8,114674,Glynn Turman,2,False,,,2009,1,George,other
+896,Scrubs,8,1811129,Deonte Gordon,0,False,,,2009,1,Shawn,other
+897,Scrubs,8,2221718,Manley Henry,0,False,,,2009,1,Snoop Dawg Attending,other
+898,Scrubs,8,212821,Christa Miller,1,False,,,2009,1,Jordan Sullivan,other
+899,Scrubs,8,46930,Frank Novak,2,False,,,2009,1,Pat Rosell,other
+900,Scrubs,8,162883,Marcus Folmar,2,False,,,2009,1,Mr. Tillman,other
+901,Scrubs,8,27739,Jennifer Jostyn,1,False,,,2009,1,Dr. Simmons,doctor
+902,Scrubs,8,1000646,Annie Little,1,False,,,2009,1,Christine,other
+903,Scrubs,8,149589,Scott Rinker,2,False,,,2009,1,Mr. Halford,other
+904,Scrubs,8,46925,Cathleen Kaelyn,0,False,,,2009,1,Mrs. Halford,other
+905,Scrubs,8,1544704,Michael Potter,2,False,,,2009,1,Patient,other
+906,Scrubs,8,1216705,Robert Maschio,2,False,,,2009,1,Todd,other
+907,Scrubs,8,109887,Caroll Spinney,2,False,,,2009,1,Oscar the Grouch (voice),other
+908,Scrubs,8,19455,Julia Campbell,1,False,,,2009,1,Mrs. Fremont,other
+909,Scrubs,8,97185,Eric Jacobson,2,False,,,2009,1,Grover (voice),other
+910,Scrubs,8,77156,Kevin Clash,2,False,,,2009,1,Elmo (voice),other
+911,Scrubs,8,946662,David Goryl,2,False,,,2009,1,Mr. Fremont,other
+912,Scrubs,8,1353287,Lak Rana,0,False,,,2009,1,Intern,intern
+913,Scrubs,8,196825,Stephanie D'Abruzzo,1,False,,,2009,1,A.M. Muppet (Ex Ray) (voice),other
+914,Scrubs,8,58474,Anthony Russell,2,False,,,2009,1,Mr. Lawton,other
+915,Scrubs,8,1619423,Bob Bencomo,0,False,,,2009,2,Colonel Doctor,doctor
+916,Scrubs,8,2156227,Lewis Dauber,2,False,,,2009,2,Mr. Vaughn,other
+917,Scrubs,8,1231082,Helen Geller,1,False,,,2009,2,Mrs. Fishman,other
+918,Scrubs,8,2419635,Marcy Minton,0,False,,,2009,2,Nurse Barbara,nurse
+919,Scrubs,8,1605144,Mary Passeri,1,False,,,2009,2,Nurse Nelly,nurse
+920,Scrubs,8,112081,Todd Bosley,2,False,,,2009,2,Howie,other
+921,Scrubs,8,156602,Blair Williamson,2,False,,,2009,2,Craig,other
+922,Scrubs,8,1237161,George Miserlis,0,False,,,2009,2,Crispin,other
+923,Scrubs,8,2221731,Philip McNiven,2,False,,,2009,2,Roy,other
+924,Scrubs,8,2227127,Paul F. Perry,0,False,,,2009,2,Randall,other
+925,Scrubs,8,132354,Kate Micucci,1,False,,,2009,2,Stephanie Gooch,other
+926,Scrubs,8,1230871,Marcia Ann Burrs,0,False,,,2009,2,Peggy,other
+927,Scrubs,8,211944,Sonal Shah,1,False,,,2009,2,Dr. Sunny Day,doctor
+928,Scrubs,8,162884,Julie Pop,1,False,,,2009,2,Lulu Tarasi,other
+929,Scrubs,8,2420293,Amanda Thorp,1,False,,,2009,2,Brianna Tarasi,other
+930,Scrubs,8,2407936,Geoff Stevenson,0,False,,,2009,2,Dr. Beardface,doctor
+931,Scrubs,8,2420295,Scott Palmason,0,False,,,2009,2,Dr. Kelso Intern,doctor
+932,Scrubs,8,2420296,Daniel Saltos,0,False,,,2009,2,Dr. Wen Intern,doctor
+933,Scrubs,8,49551,Aloma Wright,1,False,,,2009,2,Laverne Roberts,other
+934,Scrubs,8,76001,Tim DeKay,2,False,,,2009,3,Mr. Hill,other
+935,Scrubs,8,1214209,Hannah Storm,0,False,,,2009,3,Hannah Storm,other
+936,Scrubs,8,170865,Phoebe Dorin,1,False,,,2009,3,Mrs. Jensen,other
+937,Scrubs,8,155686,Kit Pongetti,1,False,,,2009,3,Lady,other
+938,Scrubs,8,129661,Bob Clendenin,2,False,,,2009,3,Dr. Zeltzer,doctor
+939,Scrubs,8,2412188,Andrew Miller,2,False,,,2009,3,Baby Jack,other
+940,Scrubs,8,59295,Lee Thompson Young,2,False,,,2009,3,Derek,other
+941,Scrubs,8,966484,Adam Conger,2,False,,,2009,3,Charles,other
+942,Scrubs,8,39994,Linda Tomassone,1,False,,,2009,3,Paige,other
+943,Scrubs,8,1237172,Tim Moore,0,False,,,2009,4,Mr. Gold,other
+944,Scrubs,8,2420305,Mark Ankeny,2,False,,,2009,4,Mr. Swick,other
+945,Scrubs,8,154395,Jean St. James,1,False,,,2009,4,Mrs. Powell,other
+946,Scrubs,8,1230846,Sara Van Horn,1,False,,,2009,4,Mrs. Emmett,other
+947,Scrubs,8,133070,Corena Chase,1,False,,,2009,4,Robyn,other
+948,Scrubs,8,1212425,Barry Williams,2,False,,,2009,4,Barry Williams,other
+949,Scrubs,8,1777586,Clark DeVol,0,False,,,2009,4,Red Headed Kid,other
+950,Scrubs,8,1966490,Arleen Grace,0,False,,,2009,4,Woman,other
+951,Scrubs,8,128155,Johnny Kastl,2,False,,,2009,4,Doug Murphy,other
+952,Scrubs,8,2418880,Shalina Waterman,0,False,,,2009,4,Mermaid,other
+953,Scrubs,8,35595,Scott Foley,2,False,,,2009,4,Sean Kelly,other
+954,Scrubs,8,9281,Elizabeth Banks,1,False,,,2009,4,Dr. Kim Briggs,doctor
+955,Scrubs,8,2420326,Korbi Ghosh,0,False,,,2009,4,Nurse Korbi,nurse
+956,Scrubs,8,2420328,Arielle Byron,1,False,,,2009,4,Barista,other
+957,Scrubs,8,200999,Nancy Daly,0,False,,,2009,5,Mrs. Gallin,other
+958,Scrubs,8,2420332,John Kahle,0,False,,,2009,5,Ethan,other
+959,Scrubs,8,1596977,Judy Jean Berns,1,False,,,2009,5,Mrs. Stonewater,other
+960,Scrubs,8,84815,Josh Cooke,2,False,,,2009,5,Dan,other
+961,Scrubs,8,104915,Bob Rumnock,2,False,,,2009,5,Patient,other
+962,Scrubs,8,1586212,Robert E. Beckwith,0,False,,,2009,5,Dr. Johnson,doctor
+963,Scrubs,8,89292,Elizabeth Bogush,1,False,,,2009,5,Alex Hanson,other
+964,Scrubs,8,62833,Charles Rahi Chun,2,False,,,2009,5,Dr. Wen,doctor
+965,Scrubs,8,59216,Tom Cavanagh,2,False,,,2009,5,Dan Dorian,other
+966,Scrubs,8,1439272,Shaughn Buchholz,0,False,,,2009,5,Cabbage,other
+967,Scrubs,8,60228,Colin Hay,2,False,,,2009,5,Colin Hay,other
+968,Scrubs,8,33490,Phill Lewis,2,False,,,2009,5,Hooch,other
+969,Scrubs,8,106935,Kathryn Joosten,1,False,,,2009,5,Mrs. Tanner,other
+970,Scrubs,8,20189,Amy Smart,1,False,,,2009,5,Jamie Moyer,other
+971,Scrubs,8,65221,Jay Kenneth Johnson,2,False,,,2009,5,Dr. Matthews,doctor
+972,Scrubs,8,1219570,Joe Rose,0,False,,,2009,5,Troy,other
+973,Scrubs,8,65101,Michael Learned,1,False,,,2009,5,Mrs. Wilk,other
+974,Scrubs,8,16845,Nicole Sullivan,1,False,,,2009,5,Jill Tracy,other
+975,Scrubs,8,4030,Martin Klebba,2,False,,,2009,5,Randall,other
+976,Scrubs,8,178926,Michael McDonald,2,False,,,2009,5,Mike Davis,other
+977,Scrubs,8,204880,Tyler Poelle,2,False,,,2009,5,Boon,other
+978,Scrubs,8,1485115,Katie O'Rourke,1,False,,,2009,5,Coffee Nurse,nurse
+979,Scrubs,8,1681626,Jill Tracy,1,False,,,2009,5,Elaine,other
+980,Scrubs,8,1231142,Michael Hobert,2,False,,,2009,5,Lonnie,other
+981,Scrubs,8,1714806,Meredith Quill,1,False,,,2009,5,Kathy,other
+982,Scrubs,8,2409165,Christina Miles,1,False,,,2009,5,Gloria,other
+983,Scrubs,8,2412779,Lindsay Ravage,0,False,,,2009,5,Slagathor,other
+984,Scrubs,8,87280,Bellamy Young,1,False,,,2009,5,Dr. Miller,doctor
+985,Scrubs,8,35521,Matt Winston,2,False,,,2009,5,Jeffrey Steadman,other
+986,Scrubs,9,5367,Zach Braff,2,True,,,2009,12,"John ""J.D."" Dorian",other
+987,Scrubs,9,49002,Donald Faison,2,True,,,2009,12,Christopher Turk,other
+988,Scrubs,9,11885,John C. McGinley,2,True,,,2009,12,Perry Cox,other
+989,Scrubs,9,210050,Eliza Coupe,1,True,,,2009,12,Denise Mahoney,other
+990,Scrubs,9,58356,Kerry Bishé,1,True,,,2009,12,Lucy Bennett,other
+991,Scrubs,9,72994,Michael Mosley,2,True,,,2009,12,Drew Suffin,doctor
+992,Scrubs,9,54697,Dave Franco,2,True,,,2009,12,Cole Aaronson,other
+993,Scrubs,9,43776,Neil Flynn,2,False,,,2009,12,Janitor,other
+994,Scrubs,9,2431014,David Kobzantsev,0,False,,,2009,12,Michael,other
+995,Scrubs,9,44222,"Antonio Sabàto, Jr.",2,False,,,2009,12,Himself,other
+996,Scrubs,9,1216705,Robert Maschio,2,False,,,2009,12,Todd,other
+997,Scrubs,9,49001,Sarah Chalke,1,False,,,2009,12,Elliot Reid,other
+998,Scrubs,9,79349,Walter Addison,2,False,,,2009,12,Ben,other
+999,Scrubs,9,38570,Ken Jenkins,2,False,,,2009,12,Dr. Kelso,doctor
+1000,Scrubs,9,212833,Nicky Whelan,1,False,,,2009,12,Maya,other
+1001,Scrubs,9,21722,John Billingsley,2,False,,,2009,12,Alan,other
+1002,Scrubs,9,445926,Windell Middlebrooks,2,False,,,2009,12,Captain Duncook,other
+1003,Scrubs,9,1490431,Kurt Doss,2,False,,,2009,12,Ryan Duncan,other
+1004,Scrubs,9,133400,Cecelia Antoinette,1,False,,,2009,12,Mrs. Duncan,other
+1005,Scrubs,9,1962548,Audrey Kearns,1,False,,,2009,12,Meghan Maroney,other
+1006,Scrubs,9,1652393,Jeremiah Hu,0,False,,,2009,12,Student,other
+1007,Scrubs,9,15900,Paul Dooley,2,False,,,2009,12,Paul,other
+1008,Scrubs,9,46920,Sam Lloyd,2,False,,,2009,12,Ted,other
+1009,Scrubs,9,132354,Kate Micucci,1,False,,,2009,12,Stephanie Gooch,other
+1010,Scrubs,9,101290,Jim Hazelton,0,False,,,2009,12,David Izzle,other
+1011,Scrubs,9,211944,Sonal Shah,1,False,,,2009,12,Sunny Day,other
+1012,Scrubs,9,1254625,Matthew Moy,2,False,,,2009,12,Trang,other
+1013,Scrubs,9,156638,Gary Ballard,0,False,,,2010,1,Mr. Biegel,other
+1014,Scrubs,9,1347974,Betty A. Bridges,0,False,,,2010,1,Ms. Simmons,other
+1015,Scrubs,9,1439634,David Cade,2,False,,,2010,1,Boots,other
+1016,Scrubs,9,1740585,John Lanz,0,False,,,2010,1,Eric Puritsky,other
+1017,Scrubs,9,2431026,Elliot Schwartz,0,False,,,2010,1,Roger,other
+1018,Scrubs,9,1596981,Tony Tambi,0,False,,,2010,1,Joseph,other
+1019,Scrubs,9,1408766,Dan Sachoff,2,False,,,2010,1,Professor,other
+1020,Scrubs,9,161460,Tom Ormeny,2,False,,,2010,1,Arthur,other
+1021,Scrubs,9,2432086,Logan Fields,0,False,,,2010,1,Kid,other
+1022,Scrubs,9,2407936,Geoff Stevenson,0,False,,,2010,1,Dr. Beardfacé,doctor
+1023,Scrubs,9,149447,Edith Fields,1,False,,,2010,1,Mrs. Foster,other
+1024,Scrubs,9,154821,Art Frankel,2,False,,,2010,1,Mr. Foster,other
+1025,Scrubs,9,212821,Christa Miller,1,False,,,2010,1,Jordan Sullivan,other
+1026,Scrubs,9,65196,Nadine Velazquez,1,False,,,2010,1,Nicole,other
+1027,Scrubs,9,2432087,Tracy McCubbin,0,False,,,2010,1,Nurse Sheila,nurse
+1028,Scrubs,9,2432088,Ginna Rutter,0,False,,,2010,1,75-Year Old Lucy,other
+1029,Scrubs,9,117187,Reno Wilson,2,False,,,2010,1,Russell Vaughn,other
+1030,Scrubs,9,162621,Judy Kain,1,False,,,2010,1,Irene Kelly,other
+1031,Scrubs,9,1580122,Jane Le,1,False,,,2010,3,Ming,other
+1032,Scrubs,9,979412,Matthew Cardarople,2,False,,,2010,3,Frank,other
+1033,Scrubs,9,117087,Larry Sullivan,2,False,,,2010,3,Eric Coleman,other
+1034,Scrubs,9,968942,Ryan Biegel,2,False,,,2010,3,Clint,other
