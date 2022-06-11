@@ -1,6 +1,7 @@
-def handle_validation(pred, msg):
+def handle_validation(pred, msg, to_print=True):
     if pred:
-        print('Validation Error: ' + msg)
+        if to_print:
+            print('Validation Error: ' + msg)
         return False
     return True
 
@@ -12,4 +13,4 @@ def validate_genre(show_candidate):
 
 def validate_credit(credit_candidate):
     credit = credit_candidate.known_for_department
-    return handle_validation(credit != 'Acting', f"credit is not for actor - {credit}")
+    return handle_validation(credit != 'Acting', f"credit is not for actor - {credit}", to_print=False)
