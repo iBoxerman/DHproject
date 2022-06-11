@@ -1,4 +1,4 @@
-from get_data import get_show, get_episodes, get_seasons
+from tmdb_client import get_show, get_episodes, get_seasons
 import pandas as pd
 from scheme import Record, COLUMNS
 
