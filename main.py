@@ -10,7 +10,7 @@ def add_or_update(df, record):
         old = df.at[ind[0], "actor_id"]
         if old != record.actor_id:
             print("PROMOTION")
-            return df.insert(ind[0], "character_occupation", record.occupation)
+            return df.insert(ind[0], "character_occupation", record.character_occupation)
         return df
     return df.append(record.__dict__, ignore_index=True)
 

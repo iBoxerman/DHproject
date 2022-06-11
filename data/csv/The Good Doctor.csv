@@ -1,804 +1,804 @@
-,show_name,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month,character,occupation
-0,The Good Doctor,1,1281,Freddie Highmore,2,True,,,2017,9,Shaun Murphy,other
-1,The Good Doctor,1,31028,Richard Schiff,2,True,,,2017,9,Aaron Glassman,other
-2,The Good Doctor,1,57686,Hill Harper,2,True,,,2017,9,Marcus Andrews,doctor
-3,The Good Doctor,1,61852,Nicholas Gonzalez,2,True,,,2017,9,Neil Melendez,other
-4,The Good Doctor,1,1610710,Chuku Modu,2,True,,,2017,9,Jared Kalu,other
-5,The Good Doctor,1,20403,Beau Garrett,1,True,,,2017,9,Jessica Preston,other
-6,The Good Doctor,1,3134,Tamlyn Tomita,1,True,,,2017,9,Allegra Aoki,other
-7,The Good Doctor,1,221981,Antonia Thomas,1,True,,,2017,9,Claire Browne,other
-8,The Good Doctor,1,1005920,Irene Keng,1,False,,,2017,9,Elle McLean,other
-9,The Good Doctor,1,2434757,Orlando Lucas,2,False,,,2017,9,Adam,other
-10,The Good Doctor,1,1564501,Miranda Edwards,1,False,,,2017,9,Bonnie,other
-11,The Good Doctor,1,2047493,Matthew Mandzij,2,False,,,2017,9,Carl,other
-12,The Good Doctor,1,55588,Roman Podhora,2,False,,,2017,9,Callum Reilly,other
-13,The Good Doctor,1,1475788,Rebecca Husain,1,False,,,2017,9,Marcie Murphy,other
-14,The Good Doctor,1,1406026,Arielle Tuliao,1,False,,,2017,9,Assistant,medic
-15,The Good Doctor,1,106776,Sam Vincent,2,False,,,2017,9,Doctor,doctor
-16,The Good Doctor,1,1476559,Tim Zhang,2,False,,,2017,9,EMT #1,medic
-17,The Good Doctor,1,183016,Dalias Blake,2,False,,,2017,9,Hospital Security Guard,other
-18,The Good Doctor,1,1476041,Mike Li,2,False,,,2017,9,Nurse,nurse
-19,The Good Doctor,1,2434759,Gavin Cooke,2,False,,,2017,9,TSA Officer,other
-20,The Good Doctor,1,2434760,Chance Moore,2,False,,,2017,9,Soccer Kid,other
-21,The Good Doctor,1,2434761,Carson Sanca,2,False,,,2017,9,Soccer Kid 1,other
-22,The Good Doctor,1,2434762,Cassius Morrison,2,False,,,2017,9,Soccer Kid 2,other
-23,The Good Doctor,1,2434763,Zachary Choe,2,False,,,2017,9,Soccer Kid 3,other
-24,The Good Doctor,1,89025,Kirby Morrow,2,False,,,2017,9,Ethan Murphy,other
-25,The Good Doctor,1,1435838,Dylan Kingwell,2,False,,,2017,9,Steve Murphy,other
-26,The Good Doctor,1,1529426,Graham Verchere,2,False,,,2017,9,Shaun Murphy,other
-27,The Good Doctor,1,1222945,Jasika Nicole,1,False,,,2017,10,Carly Lever,other
-28,The Good Doctor,1,23706,Eve Gordon,1,False,,,2017,10,Nurse Fryday,nurse
-29,The Good Doctor,1,91215,Nancy Stone,1,False,,,2017,10,Stephanie Willis,other
-30,The Good Doctor,1,171726,Darrin Baker,2,False,,,2017,10,Trevor,other
-31,The Good Doctor,1,1874357,John Murphy,2,False,,,2017,10,Jerry,other
-32,The Good Doctor,1,1927935,Meghan Gardiner,1,False,,,2017,10,Cecile,other
-33,The Good Doctor,1,1862357,Britt Loder,1,False,,,2017,10,Martine,other
-34,The Good Doctor,1,1366705,Rocky Anderson,0,False,,,2017,10,Mitchell,other
-35,The Good Doctor,1,1482604,Benjamin Charles Watson,2,False,,,2017,10,Matthew,other
-36,The Good Doctor,1,39360,Lucia Walters,1,False,,,2017,10,Dr. Park,doctor
-37,The Good Doctor,1,2434749,Rebecca Garcia,1,False,,,2017,10,Carole,other
-38,The Good Doctor,1,1085644,Aadila Dosani,1,False,,,2017,10,Nurse #1,nurse
-39,The Good Doctor,1,1864410,Hannah Pederson,1,False,,,2017,10,Nurse #2,nurse
-40,The Good Doctor,1,2434753,Vaughn Clements,2,False,,,2017,10,Friendly Neighbor,other
-41,The Good Doctor,1,64676,Peter Hall,2,False,,,2017,10,Farmhouse Owner #1,other
-42,The Good Doctor,1,1369363,Gaalen Engen,2,False,,,2017,10,Farmhouse Owner #2,other
-43,The Good Doctor,1,1499023,Robert Corness,0,False,,,2017,10,Old Man,other
-44,The Good Doctor,1,58902,Zahf Paroo,2,False,,,2017,10,Ashique Selim,other
-45,The Good Doctor,1,1454610,Paige Spara,1,False,,,2017,10,Lea Dilallo,other
-46,The Good Doctor,1,55538,Tim Russ,2,False,,,2017,10,Chuck,other
-47,The Good Doctor,1,77039,Michael St. John Smith,2,False,,,2017,10,John Wannamaker,other
-48,The Good Doctor,1,1884447,Angela Palmer,1,False,,,2017,10,Katt,other
-49,The Good Doctor,1,1475796,Blair Penner,2,False,,,2017,10,SFPD Cop,other
-50,The Good Doctor,1,1882899,Donald Sales,2,False,,,2017,10,Controller,other
-51,The Good Doctor,1,1772038,Serge Jaswal,0,False,,,2017,10,Brad,other
-52,The Good Doctor,1,1946466,Trent Redekop,2,False,,,2017,10,Cashier,other
-53,The Good Doctor,1,1066283,Victoria Bidewell,1,False,,,2017,10,Liaison,other
-54,The Good Doctor,1,1287152,William Vaughan,2,False,,,2017,10,Casper Deputy #1,other
-55,The Good Doctor,1,1368729,Adam Lolacher,2,False,,,2017,10,Casper Deputy #2,other
-56,The Good Doctor,1,1844938,Shiren Van Cooten,1,False,,,2017,10,Social Worker,other
-57,The Good Doctor,1,228890,Jesse Reid,2,False,,,2017,10,Surgical Resident,other
-58,The Good Doctor,1,1376352,Taylor Hastings,1,False,,,2017,10,Surgical Assist,other
-59,The Good Doctor,1,1228455,Judith Maxie,1,False,,,2017,10,Chuck's Wife,other
-60,The Good Doctor,1,1880613,Hector Johnson,2,False,,,2017,10,Chuck's Brother,other
-61,The Good Doctor,1,2434738,Ken Do,2,False,,,2017,10,Handsome Young Man,other
-62,The Good Doctor,1,87737,Beatrice Zeilinger,1,False,,,2017,10,Dina Vizcaino,other
-63,The Good Doctor,1,51800,Teryl Rothery,1,False,,,2017,10,JL,other
-64,The Good Doctor,1,1449399,Angela Moore,1,False,,,2017,10,Nurse Jones,nurse
-65,The Good Doctor,1,1305494,Sara Waisglass,1,False,,,2017,10,Olivia Hartman,other
-66,The Good Doctor,1,206661,Crystal Balint,1,False,,,2017,10,Barb Allen,other
-67,The Good Doctor,1,1230713,Niall Matter,2,False,,,2017,10,Mark Allen,other
-68,The Good Doctor,1,1216570,Darcy Laurie,2,False,,,2017,10,Armen Demajin,other
-69,The Good Doctor,1,1285611,Bruce Blain,0,False,,,2017,10,Bus Driver,doctor
-70,The Good Doctor,1,1475105,Yasmeene Ball,1,False,,,2017,10,Colleen Myers,other
-71,The Good Doctor,1,1766949,Serena Bickerstaff,1,False,,,2017,10,Attractive Woman,other
-72,The Good Doctor,1,29934,Brett Rice,2,False,,,2017,10,Mr. Wilks,other
-73,The Good Doctor,1,59926,Jesse Moss,2,False,,,2017,10,Kevin Wilks,other
-74,The Good Doctor,1,1331981,Samantha Sloyan,1,False,,,2017,10,Mrs. Gallico,other
-75,The Good Doctor,1,71673,Michael Muhney,2,False,,,2017,10,Mr. Gallico,other
-76,The Good Doctor,1,1215689,Christina Chang,1,False,,,2017,10,Audrey Lim,doctor
-77,The Good Doctor,1,52932,Gloria Garayua,1,False,,,2017,10,Sonia,other
-78,The Good Doctor,1,78321,Ruben Garfias,2,False,,,2017,10,Ricardo Magallanes,other
-79,The Good Doctor,1,52507,Kandyse McClure,1,False,,,2017,10,Celez,other
-80,The Good Doctor,1,121277,Norma Maldonado,1,False,,,2017,10,Lorena Magallanes,other
-81,The Good Doctor,1,156989,Kari Coleman,1,False,,,2017,10,Nurse Farrar,nurse
-82,The Good Doctor,1,1224871,Nimet Kanji,1,False,,,2017,10,Judge Singh,other
-83,The Good Doctor,1,1729899,Paolo Maiolo,2,False,,,2017,10,Marco Magallanes,other
-84,The Good Doctor,1,1653905,Mayumi Yoshida,1,False,,,2017,10,Kim Kitajima,other
-85,The Good Doctor,1,2434721,Devin Barker,1,False,,,2017,10,Jenna,other
-86,The Good Doctor,1,1110416,Heather-Claire Nortey,1,False,,,2017,10,Noomi,other
-87,The Good Doctor,1,1546591,Herbert Duncanson,2,False,,,2017,10,Yellow Tagged Man,other
-88,The Good Doctor,1,1761118,Mariessa Portelance,1,False,,,2017,10,Gowned Woman #1,other
-89,The Good Doctor,1,1239260,Jilena Cori,1,False,,,2017,10,Gowned Woman #2,other
-90,The Good Doctor,1,2434731,Lorraine Colond,1,False,,,2017,10,Weeping Family Member,other
-91,The Good Doctor,1,2434732,Krish Lohtia,2,False,,,2017,10,Tuxedoed Groomsman,other
-92,The Good Doctor,1,1239253,Demord Dann,0,False,,,2017,10,EMT #1,medic
-93,The Good Doctor,1,1502986,Dagan Nish,2,False,,,2017,10,EMT #2,medic
-94,The Good Doctor,1,1090397,Juliana Wimbles,1,False,,,2017,10,EMT #3,medic
-95,The Good Doctor,1,1669241,Andrew Coghlan,2,False,,,2017,10,EMT #4,medic
-96,The Good Doctor,1,1475802,Gerardo Barcala,2,False,,,2017,10,Doctor (uncredited),doctor
-97,The Good Doctor,1,1727683,Adil Zaidi,2,False,,,2017,10,Jag Dhanoa,other
-98,The Good Doctor,1,15900,Paul Dooley,2,False,,,2017,11,Glen,other
-99,The Good Doctor,1,1754577,Coby Bird,2,False,,,2017,11,Liam West,other
-100,The Good Doctor,1,77622,Catherine Lough Haggquist,1,False,,,2017,11,Dr. Mohan,doctor
-101,The Good Doctor,1,5937,Kari Matchett,1,False,,,2017,11,Liam's Mother,other
-102,The Good Doctor,1,550550,Tim Beckmann,2,False,,,2017,11,Liam's Father,other
-103,The Good Doctor,1,112644,Luvia Petersen,1,False,,,2017,11,Lisa-Jane,other
-104,The Good Doctor,1,1475096,Shaughnessy Redden,0,False,,,2017,11,Psychiatrist,other
-105,The Good Doctor,1,1562501,Parveen Dosanjh,1,False,,,2017,11,Nurse,nurse
-106,The Good Doctor,1,103283,Michael Antonakos,2,False,,,2017,11,Nurse,nurse
-107,The Good Doctor,1,2434684,Devon Sandhu,2,False,,,2017,11,Salesman,other
-108,The Good Doctor,1,203639,Elfina Luk,1,False,,,2017,11,Dalisay Villanueva,other
-109,The Good Doctor,1,89819,Zachary Gordon,2,False,,,2017,11,Brandon,other
-110,The Good Doctor,1,10135,Jesse James,2,False,,,2017,11,Nash Dixon,other
-111,The Good Doctor,1,1038625,Kacey Rohl,1,False,,,2017,11,Avery,other
-112,The Good Doctor,1,2430222,Elizabeth McCallum,1,False,,,2017,11,Avery's Mother,other
-113,The Good Doctor,1,2060424,Terence Hayman,2,False,,,2017,11,Avery's Father,other
-114,The Good Doctor,1,1397001,Brendon Zub,2,False,,,2017,11,Policeman,other
-115,The Good Doctor,1,90723,Kathryn Kirkpatrick,1,False,,,2017,11,Food Services Person,other
-116,The Good Doctor,1,1608402,Alvina August,1,False,,,2017,11,Alana Paikin,other
-117,The Good Doctor,1,64297,Pej Vahdat,2,False,,,2017,11,Avi Mehta,other
-118,The Good Doctor,1,52291,Tegan Moss,1,False,,,2017,11,Elisabeth McLaren,other
-119,The Good Doctor,1,1056276,Maggie Benedict,1,False,,,2017,11,Georgieta Bangura,other
-120,The Good Doctor,1,2430195,Jojo Salkey-Randon,2,False,,,2017,11,Gabriel,other
-121,The Good Doctor,1,200615,Nicholas Carella,2,False,,,2017,11,Leonard,other
-122,The Good Doctor,1,1615066,Debs Howard,1,False,,,2017,11,Gwen,other
-123,The Good Doctor,1,2430203,Charlie Latimer,2,False,,,2017,11,Winnie,other
-124,The Good Doctor,1,2430205,Erika Scigliano,1,False,,,2017,11,Life Coach,other
-125,The Good Doctor,1,1697343,Alex Kliner,2,False,,,2017,11,Patient,other
-126,The Good Doctor,1,36219,Marsha Thomason,1,False,,,2017,11,Isabel Barnes,other
-127,The Good Doctor,1,1906241,Carly Bentall,1,False,,,2017,11,Carly,other
-128,The Good Doctor,1,1881528,Lissa Neptuno,1,False,,,2017,11,Nurse Ocampo,nurse
-129,The Good Doctor,1,1368795,Manny Jacinto,2,False,,,2017,12,Bobby Ato,other
-130,The Good Doctor,1,74409,Eric Winter,2,False,,,2017,12,Matt Coyle,other
-131,The Good Doctor,1,1530746,Rhona Rees,1,False,,,2017,12,Hazel Mitchell,other
-132,The Good Doctor,1,41436,Andrew Airlie,2,False,,,2017,12,Jessica's Father,other
-133,The Good Doctor,1,1219571,Erin Matthews,1,False,,,2017,12,Melissa Bourne,other
-134,The Good Doctor,1,2019485,Kayla Wallace,1,False,,,2017,12,Grace Mitchell,other
-135,The Good Doctor,1,94480,France Perras,0,False,,,2017,12,Jen Clavet,other
-136,The Good Doctor,1,1368501,Faustino Di Bauda,2,False,,,2017,12,Paul Buendia,other
-137,The Good Doctor,1,2430189,Kylie McKay,1,False,,,2017,12,Scrub Nurse #2,nurse
-138,The Good Doctor,1,2411149,Chad Matchette,0,False,,,2017,12,Bus Driver,doctor
-139,The Good Doctor,1,119834,Necar Zadegan,1,False,,,2018,1,Jordan Ko,other
-140,The Good Doctor,1,1618593,Elizabeth Hinkler,1,False,,,2018,1,Katie Kunkler,other
-141,The Good Doctor,1,152410,Kerry Sandomirsky,1,False,,,2018,1,Mrs. Kunkler,other
-142,The Good Doctor,1,1618594,Emily Hinkler,1,False,,,2018,1,Jenny Kunkler,other
-143,The Good Doctor,1,77315,Robert Moloney,2,False,,,2018,1,Kalu's Lawyer,other
-144,The Good Doctor,1,91337,Sunita Prasad,1,False,,,2018,1,Surgical Nurse,nurse
-145,The Good Doctor,1,997197,Nelson Wong,2,False,,,2018,1,Lab Tech,other
-146,The Good Doctor,1,74677,Hayley Sales,1,False,,,2018,1,Zoe Salter,other
-147,The Good Doctor,1,70175,Chelah Horsdal,1,False,,,2018,1,Tessa,other
-148,The Good Doctor,1,1030923,Hina Abdullah,1,False,,,2018,1,Naja Modi,other
-149,The Good Doctor,1,1260036,Chris D'Elia,2,False,,,2018,1,Kenny,other
-150,The Good Doctor,1,2428799,Keoni Rebeiro,2,False,,,2018,1,Payton Carpenter,other
-151,The Good Doctor,1,1790870,Art Kitching,2,False,,,2018,1,Cole Carpenter,other
-152,The Good Doctor,1,1465521,Sarah Troyer,1,False,,,2018,1,Kristen,other
-153,The Good Doctor,1,1233749,Fiona Gubelmann,1,False,,,2018,2,Morgan Reznick,other
-154,The Good Doctor,1,10080,JoBeth Williams,1,False,,,2018,2,Ruth,other
-155,The Good Doctor,1,1992554,Sophie Giannamore,1,False,,,2018,2,Quinn Darby,other
-156,The Good Doctor,1,1631114,Adam J. Smith,2,False,,,2018,2,Howard Shaw,other
-157,The Good Doctor,1,81095,Michelle Morgan,1,False,,,2018,2,Quinn's Mother,other
-158,The Good Doctor,1,84314,Keith Allan,2,False,,,2018,2,Ty Darby,other
-159,The Good Doctor,1,148112,Kristin Lehman,1,False,,,2018,2,Finola,other
-160,The Good Doctor,1,2428793,London Cardinal,0,False,,,2018,2,Keira Shaw,other
-161,The Good Doctor,1,2428794,Waverly Cardinal,0,False,,,2018,2,Sammy Shaw,other
-162,The Good Doctor,1,10884,Will Yun Lee,2,False,,,2018,2,Alex Park,other
-163,The Good Doctor,1,2027051,Nicholas Sean Johnny,2,False,,,2018,2,Eric Bertrand,other
-164,The Good Doctor,1,1887533,Lexi Underwood,1,False,,,2018,2,Spirit Garcia,other
-165,The Good Doctor,1,55464,Kelly Blatz,2,False,,,2018,2,Aidan Coulter,other
-166,The Good Doctor,1,76973,Joris Jarsky,2,False,,,2018,2,Sergey Tirayan,other
-167,The Good Doctor,1,1884551,Ese Atawo,1,False,,,2018,2,Ramona Garcia,other
-168,The Good Doctor,1,62713,Tim Perez,2,False,,,2018,2,Luis Garcia,other
-169,The Good Doctor,1,1180166,Pasha Ebrahimi,2,False,,,2018,2,Wallace Bertrand,other
-170,The Good Doctor,1,2108098,Medina Hahn,1,False,,,2018,2,Jacey Bertrand,other
-171,The Good Doctor,1,1475539,Michael Sangha,2,False,,,2018,2,Security Guard,other
-172,The Good Doctor,1,1884524,Robert Zen Humpage,2,False,,,2018,2,Prison Guard #1,other
-173,The Good Doctor,1,139622,Darryl Scheelar,2,False,,,2018,2,Prison Guard #2,other
-174,The Good Doctor,1,2428365,Katarina Mueller,1,False,,,2018,2,Annie,other
-175,The Good Doctor,1,2428781,Sewit Haile,1,False,,,2018,2,Cindy,other
-176,The Good Doctor,1,2428782,Arianna Salvador,1,False,,,2018,2,Jenny,other
-177,The Good Doctor,1,2197778,Lindsay Marshall,1,False,,,2018,2,Woman,other
-178,The Good Doctor,1,2428784,Marci Chimich,1,False,,,2018,2,May Curtis,other
-179,The Good Doctor,1,2428786,Shaun Morse,2,False,,,2018,2,Jake Levy,other
-180,The Good Doctor,1,1235439,Richard Yee,2,False,,,2018,2,Toby Young,other
-181,The Good Doctor,1,1953657,Celeste Ziegler,1,False,,,2018,2,Attractive Woman,other
-182,The Good Doctor,1,77164,Ryan Robbins,2,False,,,2018,3,Hunter,other
-183,The Good Doctor,1,59183,Sarah-Jane Redmond,1,False,,,2018,3,Emma Newton,other
-184,The Good Doctor,1,1217942,Anna Belknap,1,False,,,2018,3,Cora Denoble,other
-185,The Good Doctor,1,68527,William R. Moses,2,False,,,2018,3,Barry Newton,other
-186,The Good Doctor,1,1224828,Stephen Lobo,2,False,,,2018,3,Arjun Dhillon,other
-187,The Good Doctor,1,2428351,Emmy O'Leary,1,False,,,2018,3,Lab Tech,other
-188,The Good Doctor,1,15566,Sharon Leal,1,False,,,2018,3,Breeze Browne,other
-189,The Good Doctor,1,1252420,Olivia Steele-Falconer,1,False,,,2018,3,Gretchen,other
-190,The Good Doctor,1,102742,Patrick Sabongui,2,False,,,2018,3,Russ Milman,other
-191,The Good Doctor,1,85922,Tom Butler,2,False,,,2018,3,Jim Ransler,other
-192,The Good Doctor,1,2427856,Jenny Steadman,1,False,,,2018,3,Beatrice,other
-193,The Good Doctor,1,588278,Julie Pearl,1,False,,,2018,3,Lucy Callard,other
-194,The Good Doctor,1,1454111,Monice Peter,0,False,,,2018,3,Waitress,other
-195,The Good Doctor,1,68109,Sheila Kelley,1,False,,,2018,3,Debbie Wexler,other
-196,The Good Doctor,1,78142,Graham Patrick Martin,2,False,,,2018,3,Blake,other
-197,The Good Doctor,1,111930,Donnie MacNeil,2,False,,,2018,3,Caden Hauley,other
-198,The Good Doctor,1,2136535,Audrey Wise Alvarez,1,False,,,2018,3,Young Maddie,other
-199,The Good Doctor,1,87816,Anjali Jay,1,False,,,2018,3,Oncologist,other
-200,The Good Doctor,2,1281,Freddie Highmore,2,True,,,2018,9,Shaun Murphy,other
-201,The Good Doctor,2,31028,Richard Schiff,2,True,,,2018,9,Aaron Glassman,other
-202,The Good Doctor,2,57686,Hill Harper,2,True,,,2018,9,Marcus Andrews,doctor
-203,The Good Doctor,2,61852,Nicholas Gonzalez,2,True,,,2018,9,Neil Melendez,other
-204,The Good Doctor,2,1215689,Christina Chang,1,True,,,2018,9,Audrey Lim,doctor
-205,The Good Doctor,2,1454610,Paige Spara,1,True,,,2018,9,Lea Dilallo,other
-206,The Good Doctor,2,1233749,Fiona Gubelmann,1,True,,,2018,9,Morgan Reznick,other
-207,The Good Doctor,2,10884,Will Yun Lee,2,True,,,2018,9,Alex Park,other
-208,The Good Doctor,2,3134,Tamlyn Tomita,1,True,,,2018,9,Allegra Aoki,other
-209,The Good Doctor,2,221981,Antonia Thomas,1,True,,,2018,9,Claire Browne,other
-210,The Good Doctor,2,1610710,Chuku Modu,2,False,,,2018,9,Jared Kalu,other
-211,The Good Doctor,2,2139313,Ema Mlinar,1,False,,,2018,9,Hannah,other
-212,The Good Doctor,2,97943,Raphael Sbarge,2,False,,,2018,9,Edward Austin Thomas,other
-213,The Good Doctor,2,58804,Gabrielle Rose,1,False,,,2018,9,Melanie Arnott,other
-214,The Good Doctor,2,1110009,Lane Edwards,2,False,,,2018,9,Elliot Arnott,other
-215,The Good Doctor,2,41420,Lisa Edelstein,1,False,,,2018,9,Marina Blaize,other
-216,The Good Doctor,2,1904682,Nitin Prasad,2,False,,,2018,9,Lab Assistant,medic
-217,The Good Doctor,2,78863,Jessica Heafey,1,False,,,2018,9,Mary,other
-218,The Good Doctor,2,2427830,Potjana Khong-Jaroen,1,False,,,2018,9,Trench Foot Woman,other
-219,The Good Doctor,2,1529983,Ray G. Thunderchild,2,False,,,2018,9,Homeless Man,other
-220,The Good Doctor,2,60607,Nneka Croal,1,False,,,2018,9,Homeless Knife Woman,other
-221,The Good Doctor,2,2427831,Tony Nikl,2,False,,,2018,9,Homeless Man #2,other
-222,The Good Doctor,2,2427832,Jason Samson,2,False,,,2018,9,Man in Waiting Room,other
-223,The Good Doctor,2,1475108,Adrian Neblett,2,False,,,2018,9,Homeless Man #3 (uncredited),other
-224,The Good Doctor,2,1906241,Carly Bentall,1,False,,,2018,9,Carly,other
-225,The Good Doctor,2,1406630,Camille Hyde,0,False,,,2018,10,Asha / Mara,other
-226,The Good Doctor,2,1305375,Khalilah Joi,1,False,,,2018,10,Mara's Mother,other
-227,The Good Doctor,2,165284,Alimi Ballard,2,False,,,2018,10,Mara's Father,other
-228,The Good Doctor,2,1043662,Jordana Largy,1,False,,,2018,10,Ellen Vahtra,other
-229,The Good Doctor,2,146556,Eileen Barrett,1,False,,,2018,10,Lori Buendia,other
-230,The Good Doctor,2,1680897,Max Chadburn,1,False,,,2018,10,Zoe Buendia,other
-231,The Good Doctor,2,178860,Conchita Campbell,1,False,,,2018,10,Sarah Buendia,other
-232,The Good Doctor,2,2125349,Arthur MacKinnon,2,False,,,2018,10,Taylor Buendia,other
-233,The Good Doctor,2,119834,Necar Zadegan,1,False,,,2018,10,Jordan Ko,other
-234,The Good Doctor,2,1368501,Faustino Di Bauda,2,False,,,2018,10,Paul Buendia,other
-235,The Good Doctor,2,1175759,Jennifer Birmingham Lee,1,False,,,2018,10,Mia Wuellner,other
-236,The Good Doctor,2,51998,Liza Lapira,1,False,,,2018,10,Ann Flores,other
-237,The Good Doctor,2,6070,Arjay Smith,2,False,,,2018,10,Daniel Porter,other
-238,The Good Doctor,2,1411632,David DeSantos,2,False,,,2018,10,Robert Plager,other
-239,The Good Doctor,2,1149190,Holly Taylor,1,False,,,2018,10,Maddie Glassman,other
-240,The Good Doctor,2,1112818,Amitai Marmorstein,2,False,,,2018,10,Nate Schmidt,other
-241,The Good Doctor,2,189719,Christine Willes,1,False,,,2018,10,Vicki Spain,other
-242,The Good Doctor,2,1079959,Sari Mercer,1,False,,,2018,10,Gina Porter,other
-243,The Good Doctor,2,1476132,Malik McCall,2,False,,,2018,10,Bailiff,other
-244,The Good Doctor,2,1457268,Steve Baran,2,False,,,2018,10,Deputy Harris,other
-245,The Good Doctor,2,2414684,Laura Jane O'Reilly,1,False,,,2018,10,Female Inmate,other
-246,The Good Doctor,2,2414689,Caio De Figueiroa,2,False,,,2018,10,Angel,other
-247,The Good Doctor,2,2414692,Isa Sanchez,1,False,,,2018,10,Elena,other
-248,The Good Doctor,2,2414693,Takaya White,1,False,,,2018,10,Inez,other
-249,The Good Doctor,2,1476128,Gregory Taven,0,False,,,2018,10,Angry Drunk Guy,doctor
-250,The Good Doctor,2,2414695,Leslie Dos Remedios,1,False,,,2018,10,Female Tree Trimmer,other
-251,The Good Doctor,2,2414696,Damoon Gomari,2,False,,,2018,10,Taco Truck Guy,other
-252,The Good Doctor,2,1608402,Alvina August,1,False,,,2018,10,Alana Paikin,other
-253,The Good Doctor,2,51800,Teryl Rothery,1,False,,,2018,10,JL,other
-254,The Good Doctor,2,203639,Elfina Luk,1,False,,,2018,10,Dalisay Villanueva,other
-255,The Good Doctor,2,31649,Brooke Smith,1,False,,,2018,10,Sybil Meeks,other
-256,The Good Doctor,2,1251570,Lesley Fera,1,False,,,2018,10,Nicole,other
-257,The Good Doctor,2,1087262,Leah Lewis,1,False,,,2018,10,Kitty Kwon,other
-258,The Good Doctor,2,155862,Kimiko Gelman,1,False,,,2018,10,Mrs. Kwon,other
-259,The Good Doctor,2,164102,Keong Sim,2,False,,,2018,10,Leo Kwon,other
-260,The Good Doctor,2,62173,Agam Darshi,1,False,,,2018,10,Chesa Dulay,other
-261,The Good Doctor,2,1980485,Isaiah Lehtinen,2,False,,,2018,10,Marc,other
-262,The Good Doctor,2,2414698,Brenda Isabel Santiago,1,False,,,2018,10,Gabi Melendez,other
-263,The Good Doctor,2,2414701,Marnie Mahannah,1,False,,,2018,10,Angie,other
-264,The Good Doctor,2,1510849,Nisreen Slim,0,False,,,2018,10,Willow,other
-265,The Good Doctor,2,64678,Linda Darlow,1,False,,,2018,10,Dr. Trudy,doctor
-266,The Good Doctor,2,1529426,Graham Verchere,2,False,,,2018,10,Shaun Murphy,other
-267,The Good Doctor,2,65769,Bryce Johnson,2,False,,,2018,10,Wade,other
-268,The Good Doctor,2,4095,David Lewis,2,False,,,2018,10,Sam DeLeon,other
-269,The Good Doctor,2,87034,Dan Bucatinsky,2,False,,,2018,10,Spence,other
-270,The Good Doctor,2,2059893,Jesse Downs,2,False,,,2018,10,Graham,other
-271,The Good Doctor,2,2234511,Kareem Malcolm,0,False,,,2018,10,Physio Tech,other
-272,The Good Doctor,2,25869,Reiko Aylesworth,1,False,,,2018,10,Louisa DeLeon,other
-273,The Good Doctor,2,68109,Sheila Kelley,1,False,,,2018,10,Debbie Wexler,other
-274,The Good Doctor,2,1727683,Adil Zaidi,2,False,,,2018,10,Jag Dhanoa,other
-275,The Good Doctor,2,1090397,Juliana Wimbles,1,False,,,2018,10,EMT,medic
-276,The Good Doctor,2,1740999,Supinder Wraich,1,False,,,2018,11,Jas Kohli,other
-277,The Good Doctor,2,966753,Caitlin Carmichael,1,False,,,2018,11,Riley Mulloy,other
-278,The Good Doctor,2,110472,Chad Willett,2,False,,,2018,11,Bruce Mulloy,other
-279,The Good Doctor,2,72092,Jewel Staite,1,False,,,2018,11,Stella,other
-280,The Good Doctor,2,155950,Jennifer Aspen,1,False,,,2018,11,Iris Bautista,other
-281,The Good Doctor,2,1239253,Demord Dann,0,False,,,2018,11,EMT,medic
-282,The Good Doctor,2,96624,Rachel Boston,1,False,,,2018,11,Kay,other
-283,The Good Doctor,2,164208,Hemky Madera,2,False,,,2018,11,Santiago,other
-284,The Good Doctor,2,84754,Gonzalo Menendez,2,False,,,2018,11,Armando Benitez,other
-285,The Good Doctor,2,1175446,Shane Twerdun,0,False,,,2018,11,Pet Store Clerk,other
-286,The Good Doctor,2,2427811,Soma Ochiai,2,False,,,2018,11,Yo-Yo Boy,other
-287,The Good Doctor,2,2427812,Connie Hosie,1,False,,,2018,11,Nurse,nurse
-288,The Good Doctor,2,43464,John Patrick Amedori,2,False,,,2018,11,Dash Snyder,other
-289,The Good Doctor,2,60609,Doron Bell,2,False,,,2018,11,EMT,medic
-290,The Good Doctor,2,1152023,Christine Horn,1,False,,,2018,11,Dawn Williams,other
-291,The Good Doctor,2,2410749,Elliott Sancrant,2,False,,,2018,11,Finn Tilley,other
-292,The Good Doctor,2,1215799,Reggie Austin,2,False,,,2018,11,Todd Williams,other
-293,The Good Doctor,2,199486,Elyse Levesque,1,False,,,2018,11,Bethany Tilley,other
-294,The Good Doctor,2,1579926,Marc Valera,2,False,,,2018,11,Noah Tilley,other
-295,The Good Doctor,2,1669241,Andrew Coghlan,2,False,,,2018,11,EMT #2,medic
-296,The Good Doctor,2,1276124,Tyler Ritter,2,False,,,2018,11,George Reynolds,other
-297,The Good Doctor,2,2174509,Mason Gooding,2,False,,,2018,11,Billy Cayman,other
-298,The Good Doctor,2,2410759,Madeleine Kelders,1,False,,,2018,11,Radiology Tech,other
-299,The Good Doctor,2,58902,Zahf Paroo,2,False,,,2018,11,Ashique Selim,other
-300,The Good Doctor,2,1240662,Peter Ciuffa,2,False,,,2018,12,Diabetic,other
-301,The Good Doctor,2,112637,Veronika Hadravá,1,False,,,2018,12,Marianne,other
-302,The Good Doctor,2,1572434,Deborah Finkel,1,False,,,2018,12,Attendant,other
-303,The Good Doctor,2,191262,Alex Weed,2,False,,,2018,12,Chris Santos,other
-304,The Good Doctor,2,51801,William MacDonald,2,False,,,2018,12,Bob Cravens,other
-305,The Good Doctor,2,63568,Patti Allan,1,False,,,2018,12,Esther,other
-306,The Good Doctor,2,81106,Camille Guaty,1,False,,,2018,12,Viola,other
-307,The Good Doctor,2,1987916,Andrea Ware,1,False,,,2018,12,Security Guard #1,other
-308,The Good Doctor,2,2410764,Emerson Murray,2,False,,,2018,12,Security Guard #2,other
-309,The Good Doctor,2,37696,Colin Lawrence,2,False,,,2018,12,Clifton,other
-310,The Good Doctor,2,59283,Dan Byrd,2,False,,,2018,12,Tyler Durness,other
-311,The Good Doctor,2,1927025,Ricky He,2,False,,,2018,12,Kellan Park,other
-312,The Good Doctor,2,58395,Karin Konoval,1,False,,,2018,12,Deena Petringa,other
-313,The Good Doctor,2,1741476,Rell Battle,2,False,,,2018,12,Santa Pete,other
-314,The Good Doctor,2,79351,Alison Araya,1,False,,,2019,1,Dr. Garcia,doctor
-315,The Good Doctor,2,62709,Garfield Wilson,2,False,,,2019,1,Carnell Hunter,other
-316,The Good Doctor,2,133289,Cheryl White,1,False,,,2019,1,Carmen Dunn,other
-317,The Good Doctor,2,1558027,Andres Joseph,2,False,,,2019,1,Jake Dahlen,other
-318,The Good Doctor,2,15566,Sharon Leal,1,False,,,2019,1,Breeze Browne,other
-319,The Good Doctor,2,2316502,Vered Blonstein,1,False,,,2019,1,Lana Moore,other
-320,The Good Doctor,2,2411762,Alex Plank,2,False,,,2019,1,Javier Maldonado,other
-321,The Good Doctor,2,156511,Emily Kuroda,1,False,,,2019,1,Sunny Lee,other
-322,The Good Doctor,2,1632396,Sheena Chou,1,False,,,2019,1,Teresa Moon,other
-323,The Good Doctor,2,1367840,Vedette Lim,1,False,,,2019,1,Grace Lee,other
-324,The Good Doctor,2,91337,Sunita Prasad,1,False,,,2019,1,O.R. Nurse,nurse
-325,The Good Doctor,2,1522797,Jemmy Chen,0,False,,,2019,1,Beijing Nurse (voice),nurse
-326,The Good Doctor,2,995457,Chloe Csengery,1,False,,,2019,2,Molly / Karin Tindle,other
-327,The Good Doctor,2,1320468,Lilli Birdsell,1,False,,,2019,2,Shannon Tindle,other
-328,The Good Doctor,2,49833,Mo Gaffney,1,False,,,2019,2,Uber Driver,doctor
-329,The Good Doctor,2,155429,Kurt Evans,2,False,,,2019,2,Dean,other
-330,The Good Doctor,2,116048,Michael David Simms,2,False,,,2019,2,Flakey,other
-331,The Good Doctor,2,129986,Bronwen Smith,1,False,,,2019,2,Lori,other
-332,The Good Doctor,2,112470,Elizabeth McLaughlin,1,False,,,2019,2,Robin Demayne Scaplin,other
-333,The Good Doctor,2,1343453,Karyn Halpin,1,False,,,2019,2,30 Year Old Robin,other
-334,The Good Doctor,2,1366512,Guyle Fraizer,0,False,,,2019,2,50 Year Old Male Robin,other
-335,The Good Doctor,2,2092560,Christine Laliberté,1,False,,,2019,2,60 Year Old Grandmother,other
-336,The Good Doctor,2,1887278,Kayla Deorksen,1,False,,,2019,2,EMT,medic
-337,The Good Doctor,2,15905,Robyn Lively,1,False,,,2019,2,Diane Monroe,other
-338,The Good Doctor,2,1041408,Ravi Kapoor,2,False,,,2019,2,Minesh Goyal,other
-339,The Good Doctor,2,970561,Joe Adler,2,False,,,2019,2,Larry Childs,other
-340,The Good Doctor,2,5009,Peter Benson,2,False,,,2019,2,Nigel Monroe,other
-341,The Good Doctor,2,41432,Candus Churchill,1,False,,,2019,2,Candice,other
-342,The Good Doctor,2,18307,Daniel Dae Kim,2,False,,,2019,2,Jackson Han,other
-343,The Good Doctor,2,1222945,Jasika Nicole,1,False,,,2019,2,Carly Lever,other
-344,The Good Doctor,2,49275,Spencer Garrett,2,False,,,2019,2,Pastor Clarence,other
-345,The Good Doctor,2,117515,Kelsey Crane,1,False,,,2019,2,Sadie Barnes,other
-346,The Good Doctor,2,1318741,Diana Pavlovská,1,False,,,2019,2,Pastor Clarence's Wife,other
-347,The Good Doctor,2,94482,Natasha Calis,1,False,,,2019,2,Jess Barnes,other
-348,The Good Doctor,2,181511,James Immekus,2,False,,,2019,3,Kenny Grimm,other
-349,The Good Doctor,2,185504,Joy Osmanski,1,False,,,2019,3,Laura Petrie,other
-350,The Good Doctor,2,118462,Bill Dow,2,False,,,2019,3,Committee Chair,other
-351,The Good Doctor,2,2412181,Anita Wittenberg,1,False,,,2019,3,Sally Grimm,other
-352,The Good Doctor,2,2412182,Sarah Almonte Peguero,1,False,,,2019,3,Female Customer,other
-353,The Good Doctor,2,1475826,Jake Guy,2,False,,,2019,3,Food Runner,other
-354,The Good Doctor,2,2259669,Ryan Jinn,2,False,,,2019,3,Host,other
-355,The Good Doctor,2,2412183,Shelene Yung,1,False,,,2019,3,Police Officer #1,other
-356,The Good Doctor,2,1535525,Helenna Santos,1,False,,,2019,3,Doctor #1,doctor
-357,The Good Doctor,2,1881528,Lissa Neptuno,1,False,,,2019,3,Nurse Ocampo,nurse
-358,The Good Doctor,2,130395,Greg Calderone,2,False,,,2019,3,Zack Cordell,other
-359,The Good Doctor,2,35515,June Squibb,1,False,,,2019,3,Ida Guelph,other
-360,The Good Doctor,2,1683952,Paul Belsito,2,False,,,2019,3,Bartender,other
-361,The Good Doctor,2,203294,Jill Morrison,1,False,,,2019,3,Jenny Waring,other
-362,The Good Doctor,3,1281,Freddie Highmore,2,True,,,2019,9,Shaun Murphy,other
-363,The Good Doctor,3,31028,Richard Schiff,2,True,,,2019,9,Aaron Glassman,other
-364,The Good Doctor,3,61852,Nicholas Gonzalez,2,True,,,2019,9,Neil Melendez,other
-365,The Good Doctor,3,57686,Hill Harper,2,True,,,2019,9,Marcus Andrews,doctor
-366,The Good Doctor,3,1215689,Christina Chang,1,True,,,2019,9,Audrey Lim,doctor
-367,The Good Doctor,3,1454610,Paige Spara,1,True,,,2019,9,Lea Dilallo,other
-368,The Good Doctor,3,1233749,Fiona Gubelmann,1,True,,,2019,9,Morgan Reznick,other
-369,The Good Doctor,3,10884,Will Yun Lee,2,True,,,2019,9,Alex Park,other
-370,The Good Doctor,3,1222945,Jasika Nicole,1,True,,,2019,9,Carly Lever,other
-371,The Good Doctor,3,221981,Antonia Thomas,1,True,,,2019,9,Claire Browne,other
-372,The Good Doctor,3,3134,Tamlyn Tomita,1,False,,,2019,9,Allegra Aoki,other
-373,The Good Doctor,3,4734,Jenny O'Hara,1,False,,,2019,9,Ruby,other
-374,The Good Doctor,3,203294,Jill Morrison,1,False,,,2019,9,Jenny Waring,other
-375,The Good Doctor,3,173006,John Innes,2,False,,,2019,9,Harvey,other
-376,The Good Doctor,3,1522916,Sophia Lauchlin Hirt,1,False,,,2019,9,Suzanne,other
-377,The Good Doctor,3,2427814,Soppo Gomez,2,False,,,2019,9,Marco,other
-378,The Good Doctor,3,2427815,Armin Karame,2,False,,,2019,9,Waiter,other
-379,The Good Doctor,3,1454808,Frances Flanagan,1,False,,,2019,9,Stephanie,other
-380,The Good Doctor,3,58395,Karin Konoval,1,False,,,2019,9,Deena Petringa,other
-381,The Good Doctor,3,1292115,Aren Buchholz,2,False,,,2019,9,Alex Martin,other
-382,The Good Doctor,3,72099,Ben Cotton,2,False,,,2019,9,Tom Cantrell,other
-383,The Good Doctor,3,1368518,Mik Byskov,2,False,,,2019,9,Josh Bunker,other
-384,The Good Doctor,3,112338,Christina Sicoli,1,False,,,2019,9,Dina Cantrell,other
-385,The Good Doctor,3,2458601,Tina Georgieva,1,False,,,2019,9,Olivia,other
-386,The Good Doctor,3,60609,Doron Bell,2,False,,,2019,9,EMT #1,medic
-387,The Good Doctor,3,1090397,Juliana Wimbles,1,False,,,2019,9,EMT #2,medic
-388,The Good Doctor,3,2458602,Tony Baretta,2,False,,,2019,9,Orderly #1,other
-389,The Good Doctor,3,68109,Sheila Kelley,1,False,,,2019,9,Debbie Wexler,other
-390,The Good Doctor,3,15566,Sharon Leal,1,False,,,2019,9,Breeze Browne,other
-391,The Good Doctor,3,2692,Robert Sean Leonard,2,False,,,2019,10,Shamus O'Malley,other
-392,The Good Doctor,3,10580,Tracie Thoms,1,False,,,2019,10,Patricia Reynolds,other
-393,The Good Doctor,3,1371108,Kyla-Drew,1,False,,,2019,10,Michelle Reynolds,other
-394,The Good Doctor,3,1219552,Iris Quinn,1,False,,,2019,10,Dr. Donovan,doctor
-395,The Good Doctor,3,2458595,Karee Ducharme,1,False,,,2019,10,Tisha,other
-396,The Good Doctor,3,2205031,Melice Bell,1,False,,,2019,10,Nurse Walden,nurse
-397,The Good Doctor,3,2458597,Greg Larson,2,False,,,2019,10,Fishing Buddy #1,other
-398,The Good Doctor,3,2458599,Uzoma Onuoha,2,False,,,2019,10,Fishing Buddy #2,other
-399,The Good Doctor,3,2458600,Tobi Akinbiyi,2,False,,,2019,10,Police Officer,other
-400,The Good Doctor,3,51800,Teryl Rothery,1,False,,,2019,10,JL,other
-401,The Good Doctor,3,1287658,Jennifer Lafleur,1,False,,,2019,10,Lily Barstow,other
-402,The Good Doctor,3,59311,Mark Hildreth,2,False,,,2019,10,Jonas Barstow,other
-403,The Good Doctor,3,131642,Joshua Malina,2,False,,,2019,10,Mitchell Stewart,other
-404,The Good Doctor,3,1838745,Eva De Viveiros,1,False,,,2019,10,Delia Willis,other
-405,The Good Doctor,3,2458591,Jamall Johnson,2,False,,,2019,10,Dex,other
-406,The Good Doctor,3,2068462,Carl McDonald,0,False,,,2019,10,Announcer,other
-407,The Good Doctor,3,2071058,Robert Kaiser,2,False,,,2019,10,Drag Queen,doctor
-408,The Good Doctor,3,2441741,Nadia Vanessa Rose,1,False,,,2019,10,Jen,other
-409,The Good Doctor,3,1710335,Elijah Silva,2,False,,,2019,10,Roger,other
-410,The Good Doctor,3,2458592,Alexis Charles,2,False,,,2019,10,Officiant,other
-411,The Good Doctor,3,203639,Elfina Luk,1,False,,,2019,10,Dalisay Villanueva,other
-412,The Good Doctor,3,1512173,Aidan Kahn,2,False,,,2019,10,Curtis Murphrees,other
-413,The Good Doctor,3,1450387,Stacie Greenwell,0,False,,,2019,10,Beth Eckert,other
-414,The Good Doctor,3,98410,Nefetari Spencer,1,False,,,2019,10,Teal Murphrees,other
-415,The Good Doctor,3,91337,Sunita Prasad,1,False,,,2019,10,Nurse,nurse
-416,The Good Doctor,3,2458590,Moises Schini,2,False,,,2019,10,Doctor #1,doctor
-417,The Good Doctor,3,1435838,Dylan Kingwell,2,False,,,2019,10,Steve Murphy,other
-418,The Good Doctor,3,63797,Alistair Abell,2,False,,,2019,11,Arnold Granger,other
-419,The Good Doctor,3,963192,Tiffany Daniels,0,False,,,2019,11,Patty Fields,other
-420,The Good Doctor,3,1884537,Hannah Drew,1,False,,,2019,11,Wilma Tifft,other
-421,The Good Doctor,3,1532422,Quentin Plair,2,False,,,2019,11,Andre Fields,doctor
-422,The Good Doctor,3,2458589,Cassandra Naud,1,False,,,2019,11,Scrub Tech,other
-423,The Good Doctor,3,2321680,Isaac Keoughan,2,False,,,2019,11,Burly Guy,other
-424,The Good Doctor,3,74369,Brittney Wilson,1,False,,,2019,11,Julie Fletch,other
-425,The Good Doctor,3,1680899,April Cameron,1,False,,,2019,11,Alyssa Hawks,other
-426,The Good Doctor,3,1742866,Christopher Rosamond,2,False,,,2019,11,Charlie's Dad,other
-427,The Good Doctor,3,61555,Haley Ramm,1,False,,,2019,11,Tara,other
-428,The Good Doctor,3,1487247,Kiefer O'Reilly,2,False,,,2019,11,Charlie,other
-429,The Good Doctor,3,1716543,Kate Isaac,1,False,,,2019,11,Charlie's Mom,other
-430,The Good Doctor,3,1475791,Tanja Dixon-Warren,1,False,,,2019,11,Brynn Pryce,other
-431,The Good Doctor,3,1371172,Seth Whittaker,2,False,,,2019,11,Bouncer,other
-432,The Good Doctor,3,2458603,Tamia Yankson,1,False,,,2019,11,Cute Slushie Girl,other
-433,The Good Doctor,3,2447703,Jayce Barreiro,2,False,,,2019,11,Man,other
-434,The Good Doctor,3,1761093,Donna Benedicto,1,False,,,2019,11,Wren Braxton,other
-435,The Good Doctor,3,279018,Kathleen Duborg,1,False,,,2019,11,Rosalind Elion,other
-436,The Good Doctor,3,26069,Paul McGillion,2,False,,,2019,11,Leo Adan,other
-437,The Good Doctor,3,1079850,Irene Choi,1,False,,,2019,11,Jeanie,other
-438,The Good Doctor,3,1211966,Sharif Atkins,2,False,,,2019,11,Kane Omar,other
-439,The Good Doctor,3,1560379,Hayden Szeto,2,False,,,2019,11,Tony Liu,other
-440,The Good Doctor,3,184816,Chelsea Hobbs,1,False,,,2019,11,Sasha Omar,other
-441,The Good Doctor,3,2473443,Aiyanna Miorin,1,False,,,2019,11,Allie,other
-442,The Good Doctor,3,83456,Michael Trucco,2,False,,,2019,12,Ethan Murphy,other
-443,The Good Doctor,3,59662,Joanna Going,1,False,,,2019,12,Marcie Murphy,other
-444,The Good Doctor,3,59015,James Earl,2,False,,,2019,12,Art Kalman,other
-445,The Good Doctor,3,2115854,Winslow Fegley,2,False,,,2019,12,Shaun Murphy,other
-446,The Good Doctor,3,25389,Peter Bryant,2,False,,,2019,12,Art's Doctor,doctor
-447,The Good Doctor,3,1236387,Liza Huget,1,False,,,2019,12,Art's Mother,other
-448,The Good Doctor,3,1225906,Kelly-Ruth Mercier,1,False,,,2019,12,Donna Malkin,other
-449,The Good Doctor,3,3070088,Logan Pierce,2,False,,,2019,12,Steve Murphy,other
-450,The Good Doctor,3,1494866,Patrick Sparling,2,False,,,2019,12,Trainer,other
-451,The Good Doctor,3,2444038,Xander Hall,2,False,,,2019,12,Ray Kalman,other
-452,The Good Doctor,3,51940,Ben Wilkinson,2,False,,,2019,12,Ben Hanks,other
-453,The Good Doctor,3,1529426,Graham Verchere,2,False,,,2019,12,Shaun Murphy,other
-454,The Good Doctor,3,105875,Tongayi Chirisa,2,False,,,2020,1,Boyd Gaston,other
-455,The Good Doctor,3,57412,Moisés Arias,2,False,,,2020,1,Luca Jones,other
-456,The Good Doctor,3,2034416,Nakai Takawira,1,False,,,2020,1,Sharon Gaston,other
-457,The Good Doctor,3,1229684,Milauna Jackson,1,False,,,2020,1,Kerry Gaston,other
-458,The Good Doctor,3,1727683,Adil Zaidi,2,False,,,2020,1,Jag Dhanoa,other
-459,The Good Doctor,3,135409,Brigid Brannagh,1,False,,,2020,1,Elise Valens,other
-460,The Good Doctor,3,1951261,Alyssa Jirrels,1,False,,,2020,1,Angie Valens,other
-461,The Good Doctor,3,2525701,David Iacono,0,False,,,2020,1,Ryan Cooper,other
-462,The Good Doctor,3,1858370,Thomas Cadrot,2,False,,,2020,1,James McDougal,other
-463,The Good Doctor,3,1488612,Kaare Anderson,2,False,,,2020,1,Doug Cooper,other
-464,The Good Doctor,3,2842166,Rebecca Wass,0,False,,,2020,1,Nurse,nurse
-465,The Good Doctor,3,1046431,Caitlin Stryker,1,False,,,2020,1,Marjorie,other
-466,The Good Doctor,3,1734,Annette O'Toole,1,False,,,2020,1,Caroline Reznik,other
-467,The Good Doctor,3,85718,Allen Leech,2,False,,,2020,1,Ariel Reznik,other
-468,The Good Doctor,3,64343,John Ales,2,False,,,2020,1,Oliver Thomas,other
-469,The Good Doctor,3,25946,Bonita Friedericy,1,False,,,2020,1,Bella Thomas,other
-470,The Good Doctor,3,1449399,Angela Moore,1,False,,,2020,1,Nurse Jones,nurse
-471,The Good Doctor,3,1367249,Chelsea Alden,1,False,,,2020,2,Kayley Parker,other
-472,The Good Doctor,3,229558,Cristina Rosato,1,False,,,2020,2,Ann Stewart,other
-473,The Good Doctor,3,2542950,Mila Jones,1,False,,,2020,2,Marla Stewart,other
-474,The Good Doctor,3,3075270,Nicola Whitney-Griffiths,0,False,,,2020,2,Receptionist,other
-475,The Good Doctor,3,2031510,Sherilyn Allen,1,False,,,2020,2,Youtuber,other
-476,The Good Doctor,3,3075272,Maya Ann Chariandy,0,False,,,2020,2,Young Girl #1,other
-477,The Good Doctor,3,2492169,Shelby Armstrong,1,False,,,2020,2,Young Girl #2,other
-478,The Good Doctor,3,1749283,Kennith Overbey,0,False,,,2020,2,Orderly,other
-479,The Good Doctor,3,1276127,Matthew Bridges,2,False,,,2020,2,Sergio Beltran,other
-480,The Good Doctor,3,2542953,Zade Garcia,0,False,,,2020,2,Cory Beltran,other
-481,The Good Doctor,3,1815071,Neil Webb,2,False,,,2020,2,Teddy,other
-482,The Good Doctor,3,1366717,Brittany-Ellen Willacy,0,False,,,2020,2,Fran Huck,other
-483,The Good Doctor,3,1515051,Karina Noelle Castillo,0,False,,,2020,2,Gabriella Beltran,other
-484,The Good Doctor,3,3075283,Rebecca Brown,0,False,,,2020,2,O.R. Nurse #1,nurse
-485,The Good Doctor,3,2944824,Joanne Wilkinson,0,False,,,2020,2,Anesthesiologist,other
-486,The Good Doctor,3,3003896,Cathy Bruneau,0,False,,,2020,2,Nurse,nurse
-487,The Good Doctor,3,1753977,Cameron Gellman,2,False,,,2020,2,Aiden Porter,other
-488,The Good Doctor,3,2555175,Ariah Lee,0,False,,,2020,2,Trinity,other
-489,The Good Doctor,3,1369075,Luke Camilleri,2,False,,,2020,2,Jules Ventane,other
-490,The Good Doctor,3,2312110,Jessica Van der Veen,1,False,,,2020,2,Maribel Ventane,other
-491,The Good Doctor,3,2556025,Patrice Jefferson,0,False,,,2020,2,Trinity's Mother,other
-492,The Good Doctor,3,183016,Dalias Blake,2,False,,,2020,2,Security Guard,other
-493,The Good Doctor,3,1887278,Kayla Deorksen,1,False,,,2020,2,EMT #1,medic
-494,The Good Doctor,3,6195,Harold Perrineau,2,False,,,2020,3,Wes Keller,other
-495,The Good Doctor,3,41557,Ever Carradine,1,False,,,2020,3,Alice Gottfried,other
-496,The Good Doctor,3,155282,David Cubitt,2,False,,,2020,3,Owen Gottfried,other
-497,The Good Doctor,3,1697346,Luke Slattery,2,False,,,2020,3,Max Reed,other
-498,The Good Doctor,3,1549672,Aman Mann,2,False,,,2020,3,Victor,other
-499,The Good Doctor,3,2556026,Alix West Lefler,1,False,,,2020,3,Ruby Gottfried,other
-500,The Good Doctor,3,43464,John Patrick Amedori,2,False,,,2020,3,Dash Snyder,other
-501,The Good Doctor,3,1927025,Ricky He,2,False,,,2020,3,Kellan Park,other
-502,The Good Doctor,3,1841595,Tina Grant,1,False,,,2020,3,EMT #1,medic
-503,The Good Doctor,3,1368848,Nick Hunnings,0,False,,,2020,3,EMT #2,medic
-504,The Good Doctor,3,928698,Nic Novicki,0,False,,,2020,3,Finn Michaels,other
-505,The Good Doctor,3,27004,Meghan Heffern,1,False,,,2020,3,Nathalie Beauchemin,other
-506,The Good Doctor,3,1475542,Paula Burrows,1,False,,,2020,3,Kate Spotts,other
-507,The Good Doctor,3,558343,Tom Stevens,2,False,,,2020,3,Tyson,other
-508,The Good Doctor,3,3075293,Cäsar Jacobson,0,False,,,2020,3,Bartender,other
-509,The Good Doctor,3,2556895,Christina Lewall,0,False,,,2020,3,Kelly Smith,other
-510,The Good Doctor,3,2481158,Bentley Green,2,False,,,2020,3,Casey Taylor,other
-511,The Good Doctor,3,164094,Marin Ireland,1,False,,,2020,3,Vera Bernard,other
-512,The Good Doctor,3,2556147,Jeremiah Oh,2,False,,,2020,3,Dan Jackson,other
-513,The Good Doctor,3,2578201,Avery Konrad,1,False,,,2020,3,Tamara Krantz,other
-514,The Good Doctor,3,99407,Lesley Boone,1,False,,,2020,3,Marta Cruz,other
-515,The Good Doctor,3,116575,Kim Hawthorne,1,False,,,2020,3,Noreen Frank,other
-516,The Good Doctor,3,2294312,Eric Yue,0,False,,,2020,3,Carl Dell,other
-517,The Good Doctor,3,3075297,Sebastian Cordoba,0,False,,,2020,3,Man with Pole,other
-518,The Good Doctor,3,2577899,Bombyx Du Murier,2,False,,,2020,3,Casey's Father (voice),other
-519,The Good Doctor,4,1281,Freddie Highmore,2,True,,,2020,11,Shaun Murphy,other
-520,The Good Doctor,4,31028,Richard Schiff,2,True,,,2020,11,Aaron Glassman,other
-521,The Good Doctor,4,57686,Hill Harper,2,True,,,2020,11,Marcus Andrews,doctor
-522,The Good Doctor,4,1215689,Christina Chang,1,True,,,2020,11,Audrey Lim,doctor
-523,The Good Doctor,4,1454610,Paige Spara,1,True,,,2020,11,Lea Dilallo,other
-524,The Good Doctor,4,1233749,Fiona Gubelmann,1,True,,,2020,11,Morgan Reznick,other
-525,The Good Doctor,4,10884,Will Yun Lee,2,True,,,2020,11,Alex Park,other
-526,The Good Doctor,4,221981,Antonia Thomas,1,True,,,2020,11,Claire Browne,other
-527,The Good Doctor,4,61852,Nicholas Gonzalez,2,False,,,2020,11,Neil Melendez,other
-528,The Good Doctor,4,20403,Beau Garrett,1,False,,,2020,11,Jessica Preston,other
-529,The Good Doctor,4,1512137,Jamillah Ross,1,False,,,2020,11,Mildred St. Marry,doctor
-530,The Good Doctor,4,157836,Julianne Christie,1,False,,,2020,11,Karen Cross,other
-531,The Good Doctor,4,21091,Jerry Wasserman,2,False,,,2020,11,Walter Flemming,other
-532,The Good Doctor,4,1927025,Ricky He,2,False,,,2020,11,Kellan Park,other
-533,The Good Doctor,4,58395,Karin Konoval,1,False,,,2020,11,Deena Petringa,other
-534,The Good Doctor,4,1175759,Jennifer Birmingham Lee,1,False,,,2020,11,Mia Wuellner,other
-535,The Good Doctor,4,58058,Lochlyn Munro,2,False,,,2020,11,Martin Cross,other
-536,The Good Doctor,4,569210,Bethany Brown,1,False,,,2020,11,Rochelle St. Marry,other
-537,The Good Doctor,4,43903,Carly Pope,1,False,,,2020,11,Lily Cross,other
-538,The Good Doctor,4,1052133,Arlen Aguayo-Stewart,1,False,,,2020,11,Ambar Estrada,other
-539,The Good Doctor,4,2842166,Rebecca Wass,0,False,,,2020,11,Nurse,nurse
-540,The Good Doctor,4,2465888,Tracey Roath,0,False,,,2020,11,Patrice Gromski,other
-541,The Good Doctor,4,3075306,Ché Aimee Dorval,0,False,,,2020,11,Cashier,other
-542,The Good Doctor,4,68109,Sheila Kelley,1,False,,,2020,11,Debbie Wexler,other
-543,The Good Doctor,4,203639,Elfina Luk,1,False,,,2020,11,Dalisay Villanueva,other
-544,The Good Doctor,4,1389677,James Kot,2,False,,,2020,11,Jimmy Petringa,other
-545,The Good Doctor,4,1486572,Robert Leaf,0,False,,,2020,11,Donald Sulkin,other
-546,The Good Doctor,4,1512170,Natasha Burnett,1,False,,,2020,11,Patient's Daughter,other
-547,The Good Doctor,4,2561219,Bailey Burr,1,False,,,2020,11,Patient's Granddaughter,other
-548,The Good Doctor,4,3075309,Isaiah Sawatzky,0,False,,,2020,11,Patient's Grandson,other
-549,The Good Doctor,4,2601751,Bria Samoné Henderson,1,False,,,2020,11,Jordan Allen,other
-550,The Good Doctor,4,1472747,Noah Galvin,2,False,,,2020,11,Asher Wolke,other
-551,The Good Doctor,4,1739694,Michael Liu,2,False,,,2020,11,John Lundberg,other
-552,The Good Doctor,4,2346247,Sam Robert Muik,2,False,,,2020,11,Will Hooper,other
-553,The Good Doctor,4,2765502,Samer Salem,2,False,,,2020,11,Josh Bunker,other
-554,The Good Doctor,4,2878646,Sophia Bucior,0,False,,,2020,11,Monica Torres,other
-555,The Good Doctor,4,1560243,Brian Marc,2,False,,,2020,11,Enrique Guerin,other
-556,The Good Doctor,4,1736925,Summer Brown,1,False,,,2020,11,Olivia Jackson,other
-557,The Good Doctor,4,33527,Adam Beach,2,False,,,2020,11,Billy Carr,other
-558,The Good Doctor,4,2863423,Jasmine Ashanti,0,False,,,2020,11,Kenzie,other
-559,The Good Doctor,4,95521,Lindsey Kraft,1,False,,,2020,11,Ellie Lewis,other
-560,The Good Doctor,4,1288278,Daniel Di Tomasso,2,False,,,2020,11,Zane Lumet,other
-561,The Good Doctor,4,21298,Ryan Kennedy,2,False,,,2020,11,Brendan Lewis,other
-562,The Good Doctor,4,1212247,Carlos Lacámara,2,False,,,2020,11,Carlo Porter,other
-563,The Good Doctor,4,1368788,Jennifer Juniper Angeli,1,False,,,2020,11,Toni Snyder,other
-564,The Good Doctor,4,1884162,Araz Yaghoubi,0,False,,,2020,11,Tech Guy,other
-565,The Good Doctor,4,1381542,Alison Wandzura,1,False,,,2021,1,Ella Davis,other
-566,The Good Doctor,4,29384,Sheila McCarthy,1,False,,,2021,1,Rose Babcock,other
-567,The Good Doctor,4,210389,David Del Rio,2,False,,,2021,1,Ben,other
-568,The Good Doctor,4,111685,Kim Shaw,1,False,,,2021,1,Zoe,other
-569,The Good Doctor,4,2147639,Parmiss Sehat,1,False,,,2021,1,Valerie Myers,other
-570,The Good Doctor,4,2577900,Daylin Willis,2,False,,,2021,1,Driver,doctor
-571,The Good Doctor,4,2989121,Katrina Kwan,1,False,,,2021,1,Social Worker,other
-572,The Good Doctor,4,62172,Benjamin Ayres,2,False,,,2021,1,Wyatt Moore,other
-573,The Good Doctor,4,122888,Ashley Williams,1,False,,,2021,1,Hannah Palmer,other
-574,The Good Doctor,4,140182,Matthew MacCaull,2,False,,,2021,1,Alan Palmer,other
-575,The Good Doctor,4,1711569,Jess Salgueiro,1,False,,,2021,1,Sophie,other
-576,The Good Doctor,4,2944858,Chelsea Brady,0,False,,,2021,1,Patient,other
-577,The Good Doctor,4,2944824,Joanne Wilkinson,0,False,,,2021,1,Anesthesiologist,other
-578,The Good Doctor,4,159386,Kristoffer Polaha,2,False,,,2021,1,Anton Denys,other
-579,The Good Doctor,4,2682330,Eden Summer Gilmore,0,False,,,2021,1,Darya Denys,other
-580,The Good Doctor,4,43431,Barclay Hope,2,False,,,2021,1,Mike Dilallo,other
-581,The Good Doctor,4,63681,Julie Warner,1,False,,,2021,1,Pam Dilallo,other
-582,The Good Doctor,4,2267887,X Mayo,0,False,,,2021,2,Zara Norton,other
-583,The Good Doctor,4,2972192,Emmett Preciado,2,False,,,2021,2,Rio Gutierrez,other
-584,The Good Doctor,4,1132655,Priscilla Faia,1,False,,,2021,2,Cintia D'Souza,other
-585,The Good Doctor,4,1432082,Johnathan Sousa,0,False,,,2021,2,Eliz Simpson,other
-586,The Good Doctor,4,1090397,Juliana Wimbles,1,False,,,2021,2,Paramedic #1,medic
-587,The Good Doctor,4,37059,Nicholas D'Agosto,2,False,,,2021,2,Insurance Rep,other
-588,The Good Doctor,4,2988570,Caley Versfelt,0,False,,,2021,2,Jamie,other
-589,The Good Doctor,4,814184,Kurt Yaeger,2,False,,,2021,2,Cort Graham,other
-590,The Good Doctor,4,1569339,Agnes Tong,1,False,,,2021,2,Rachel Trainor,other
-591,The Good Doctor,4,137170,Andrew Gillingham,0,False,,,2021,2,EMT,medic
-592,The Good Doctor,4,184571,Lossen Chambers,1,False,,,2021,2,Oncology Nurse,nurse
-593,The Good Doctor,4,2988576,Marina Neale,0,False,,,2021,2,Tara,other
-594,The Good Doctor,4,2988577,Stuart Murray,0,False,,,2021,2,Chris,other
-595,The Good Doctor,4,3075343,Arnie Licas,0,False,,,2021,2,Poker Buddy #1,other
-596,The Good Doctor,4,32752,Jerry Walliser,2,False,,,2021,2,Poker Buddy #2,other
-597,The Good Doctor,4,1680899,April Cameron,1,False,,,2021,2,Alyssa Hawks,other
-598,The Good Doctor,4,3003890,Michael Taylor,2,False,,,2021,3,Jeff Williams,other
-599,The Good Doctor,4,12226,Michael B. Silver,2,False,,,2021,3,Elias Miller,other
-600,The Good Doctor,4,31167,Elizabeth Mitchell,1,False,,,2021,3,Dannie Miller,other
-601,The Good Doctor,4,1840729,Jesse Stretch,2,False,,,2021,3,Tricky,other
-602,The Good Doctor,4,3003895,Harry Singh,0,False,,,2021,3,MC,other
-603,The Good Doctor,4,3003896,Cathy Bruneau,0,False,,,2021,3,Nurse,nurse
-604,The Good Doctor,4,41517,Christian Clemenson,2,False,,,2021,3,Silas Chambers,other
-605,The Good Doctor,4,74427,John Hensley,2,False,,,2021,3,Oscar,other
-606,The Good Doctor,4,157096,Onahoua Rodriguez,1,False,,,2021,3,Ana,other
-607,The Good Doctor,4,3021857,Sandy Minh Abley,0,False,,,2021,3,Receptionist,other
-608,The Good Doctor,4,2385472,Jasmine Vega,1,False,,,2021,3,Maya Flores,other
-609,The Good Doctor,4,1657834,Michael Rosen,2,False,,,2021,3,Leo Chen,other
-610,The Good Doctor,4,1937046,Robbie Segulam,2,False,,,2021,3,Patient,other
-611,The Good Doctor,4,1687444,Theresa Wong,1,False,,,2021,3,OBGYN,other
-612,The Good Doctor,4,110929,Marcuis Harris,2,False,,,2021,3,Miles Browne,other
-613,The Good Doctor,4,2526726,Wonita Joy,1,False,,,2021,4,Mrs. Williams,other
-614,The Good Doctor,4,1857203,Farley Jackson,2,False,,,2021,4,Bradley Vargas,other
-615,The Good Doctor,4,150954,Diane Farr,1,False,,,2021,4,Jean Starzak,other
-616,The Good Doctor,4,2532472,Alisson Amigo,1,False,,,2021,4,Melody,other
-617,The Good Doctor,4,3048803,Valerie Duthil,1,False,,,2021,4,Theresa,other
-618,The Good Doctor,4,1677354,Roan Curtis,1,False,,,2021,4,Tory Starzak,other
-619,The Good Doctor,4,3061576,Nikita Inniss-Boston,0,False,,,2021,4,Pregnant Woman #1,other
-620,The Good Doctor,4,2802803,Shyinne Anastacio,1,False,,,2021,4,Pregnant Woman #2,other
-621,The Good Doctor,4,1685448,Teana-Marie Smith,0,False,,,2021,4,OBGYN,other
-622,The Good Doctor,4,119758,Anita Brown,1,False,,,2021,4,Laboring Woman,other
-623,The Good Doctor,4,1457250,Noel Johansen,2,False,,,2021,4,Dr. Knox,doctor
-624,The Good Doctor,4,3075351,Pam Langham,0,False,,,2021,4,Female Patient,other
-625,The Good Doctor,4,3075352,Melanie Thorsen,0,False,,,2021,4,Wife,other
-626,The Good Doctor,4,3075353,Tristan Rehwald,0,False,,,2021,4,Husband,other
-627,The Good Doctor,4,2429897,Shalyn Ferdinand,1,False,,,2021,4,Heather Boyd,other
-628,The Good Doctor,4,212429,Italia Ricci,1,False,,,2021,4,Taryn Wilkie,other
-629,The Good Doctor,4,65421,Elizabeth Rodriguez,1,False,,,2021,4,Carina Bardo,other
-630,The Good Doctor,4,2140706,Dominic Mariche,0,False,,,2021,4,Mason,other
-631,The Good Doctor,4,2911856,Knox Hamilton,2,False,,,2021,4,Ethan,other
-632,The Good Doctor,4,2185507,Wonser De-Gbon,0,False,,,2021,4,Nurse #1,nurse
-633,The Good Doctor,4,2671437,Dumisile Owane,1,False,,,2021,4,Nurse #3,nurse
-634,The Good Doctor,4,1887278,Kayla Deorksen,1,False,,,2021,4,EMT #1,medic
-635,The Good Doctor,4,1906754,Andrew Barber,2,False,,,2021,4,EMT #2,medic
-636,The Good Doctor,4,2528465,Neetu Garcha,1,False,,,2021,4,TV Reporter,other
-637,The Good Doctor,4,5047,Veronica Cartwright,1,False,,,2021,5,Maxine Stanley,other
-638,The Good Doctor,4,3087027,Dani Manning,0,False,,,2021,5,Mixologist,other
-639,The Good Doctor,4,2126839,Jihan Amer,1,False,,,2021,5,Respiratory Tech,other
-640,The Good Doctor,4,110525,Kett Turton,2,False,,,2021,5,,other
-641,The Good Doctor,4,65528,Cynthia Stevenson,1,False,,,2021,5,Marian Clark,other
-642,The Good Doctor,4,1822025,Asif Ali,2,False,,,2021,5,Cal Lewis,other
-643,The Good Doctor,4,60719,Hiro Kanagawa,2,False,,,2021,5,Paul Nakano,other
-644,The Good Doctor,4,1906241,Carly Bentall,1,False,,,2021,5,Carly,other
-645,The Good Doctor,4,1212317,Derek McGrath,2,False,,,2021,5,Artie Hill,other
-646,The Good Doctor,4,46898,Peter Graham-Gaudreau,2,False,,,2021,5,Pete,other
-647,The Good Doctor,4,204239,Zibby Allen,1,False,,,2021,5,Darlene Burns,other
-648,The Good Doctor,4,1927073,Nevis Unipan,1,False,,,2021,5,Ava Burns,other
-649,The Good Doctor,4,1475838,Ryan Alexander McDonald,2,False,,,2021,5,Park Ranger,other
-650,The Good Doctor,4,3103193,Hyder Ali Ajmeri,0,False,,,2021,5,EMT,medic
-651,The Good Doctor,4,1313645,Jeremy Schuetze,2,False,,,2021,5,Benny Davis,other
-652,The Good Doctor,4,76828,Patrick Gilmore,2,False,,,2021,5,Murray Burns,other
-653,The Good Doctor,4,937314,Osvaldo Benavides,2,False,,,2021,5,Mateo Rendón,other
-654,The Good Doctor,4,1820201,Michel Issa Rubio,2,False,,,2021,5,Adelmo's Dad,other
-655,The Good Doctor,4,2678039,Antonio Molina,0,False,,,2021,5,Adelmo,other
-656,The Good Doctor,4,3118414,Zachary Ali,0,False,,,2021,5,Óscar Salgado,other
-657,The Good Doctor,4,3118418,Muhammad Rizky,0,False,,,2021,5,Gaby's Husband,other
-658,The Good Doctor,4,3118421,Ana Carrizales,1,False,,,2021,5,Señora Gómez,other
-659,The Good Doctor,4,2989123,Joselyn Picard,1,False,,,2021,5,Aimé Navarro Gomez,other
-660,The Good Doctor,4,172990,Alonso Oyarzun,2,False,,,2021,5,Sheep Farmer,other
-661,The Good Doctor,4,271413,Francisco Cano,2,False,,,2021,5,Cab Driver,doctor
-662,The Good Doctor,4,2287583,Erika Hau,1,False,,,2021,5,Laboring Woman,other
-663,The Good Doctor,4,1377968,Raf Rogers,2,False,,,2021,5,Laboring Woman's Husband,other
-664,The Good Doctor,4,3118431,K. Kortez,0,False,,,2021,5,Roberto,other
-665,The Good Doctor,4,3103468,Aidan Ferreira,0,False,,,2021,5,Nurse #1,nurse
-666,The Good Doctor,4,974031,Esmeralda Pimentel,1,False,,,2021,5,Nurse Ana Morales,nurse
-667,The Good Doctor,4,180937,Allegra Fulton,1,False,,,2021,5,Karla Saravia,other
-668,The Good Doctor,4,1331278,Javier Lacroix,0,False,,,2021,5,Miguel,other
-669,The Good Doctor,4,3118406,Melina Alessandra Cermeno,0,False,,,2021,5,Tiziana Garza,other
-670,The Good Doctor,4,3118408,Shadan Saul Guerrero,1,False,,,2021,5,Edna Garza,other
-671,The Good Doctor,4,3118409,Benjamin Valdivieso,0,False,,,2021,5,Bastion Alonso Ramos,other
-672,The Good Doctor,4,2651015,Bianca Caroca,1,False,,,2021,5,Sofía Salgado,other
-673,The Good Doctor,4,2431685,Ana-Maria Alvarado,1,False,,,2021,5,Señora Ramos,other
-674,The Good Doctor,4,3118415,Alison Azurdia,0,False,,,2021,5,Gaby,other
-675,The Good Doctor,4,2685484,Guilherme Babilonia,2,False,,,2021,5,León Castillo,other
-676,The Good Doctor,4,1403338,Arlina Rodríguez,0,False,,,2021,6,Nurse Guerrero,nurse
-677,The Good Doctor,4,2059882,Juana Lerma Juarez,1,False,,,2021,6,Nurse Aguilar,nurse
-678,The Good Doctor,4,1813360,Francisco Trujillo,2,False,,,2021,6,Demtost,medic
-679,The Good Doctor,5,1281,Freddie Highmore,2,True,,,2021,9,Shaun Murphy,other
-680,The Good Doctor,5,31028,Richard Schiff,2,True,,,2021,9,Aaron Glassman,other
-681,The Good Doctor,5,57686,Hill Harper,2,True,,,2021,9,Marcus Andrews,doctor
-682,The Good Doctor,5,1215689,Christina Chang,1,True,,,2021,9,Audrey Lim,doctor
-683,The Good Doctor,5,1454610,Paige Spara,1,True,,,2021,9,Lea Dilallo,other
-684,The Good Doctor,5,1233749,Fiona Gubelmann,1,True,,,2021,9,Morgan Reznick,other
-685,The Good Doctor,5,10884,Will Yun Lee,2,True,,,2021,9,Alex Park,other
-686,The Good Doctor,5,2601751,Bria Samoné Henderson,1,True,,,2021,9,Jordan Allen,other
-687,The Good Doctor,5,1472747,Noah Galvin,2,True,,,2021,9,Asher Wolke,other
-688,The Good Doctor,5,937314,Osvaldo Benavides,2,True,,,2021,9,Mateo Rendón,other
-689,The Good Doctor,5,1254399,Angel Parker,1,False,,,2021,9,Sarah,other
-690,The Good Doctor,5,1699413,Leopold Manswell,2,False,,,2021,9,Nick,other
-691,The Good Doctor,5,3252258,Kenneth Boateng,0,False,,,2021,9,Jackson,other
-692,The Good Doctor,5,2671251,Keon Boateng,2,False,,,2021,9,Riley,other
-693,The Good Doctor,5,1555119,Baldeep Singh,2,False,,,2021,9,Officiant,other
-694,The Good Doctor,5,1557066,Alex Sturman,1,False,,,2021,9,Female Bartender,other
-695,The Good Doctor,5,3252259,Lynette Tien,0,False,,,2021,9,María,other
-696,The Good Doctor,5,3255864,Christly Charles,0,False,,,2021,9,Attractive Woman,other
-697,The Good Doctor,5,2138774,Rachel Bay Jones,1,False,,,2021,9,Salen Morrison,other
-698,The Good Doctor,5,2780098,Blessing Adedijo,1,False,,,2021,10,Madeline Cross,other
-699,The Good Doctor,5,1347553,Constance Ejuma,1,False,,,2021,10,Esther,other
-700,The Good Doctor,5,1420663,Lyndon Smith,1,False,,,2021,10,Abby Clemmis,other
-701,The Good Doctor,5,2911787,Moire Kiyingi,1,False,,,2021,10,Guard,other
-702,The Good Doctor,5,3104694,Erik Gow,0,False,,,2021,10,Photographer,other
-703,The Good Doctor,5,203639,Elfina Luk,1,False,,,2021,10,Dalisay Villanueva,other
-704,The Good Doctor,5,68769,Julie Gonzalo,1,False,,,2021,10,Jenna,other
-705,The Good Doctor,5,51528,Kelli Fox,1,False,,,2021,10,Ellen,other
-706,The Good Doctor,5,3003896,Cathy Bruneau,0,False,,,2021,10,Nurse,nurse
-707,The Good Doctor,5,60609,Doron Bell,2,False,,,2021,10,EMT,medic
-708,The Good Doctor,5,1680899,April Cameron,1,False,,,2021,10,Alyssa Hawks,other
-709,The Good Doctor,5,1362456,Kevin Davey,2,False,,,2021,10,Car Repair Guy,other
-710,The Good Doctor,5,936932,Adam DiMarco,2,False,,,2021,10,Henry Campbell,other
-711,The Good Doctor,5,2226950,Maria Nash,1,False,,,2021,10,Holly Taylor,other
-712,The Good Doctor,5,21214,Jill Teed,1,False,,,2021,10,Gina Campbell,other
-713,The Good Doctor,5,116526,Jeremiah Birkett,2,False,,,2021,10,Walt Taylor,other
-714,The Good Doctor,5,60851,François Chau,2,False,,,2021,11,Leonard Song,other
-715,The Good Doctor,5,1163979,Jee Young Han,1,False,,,2021,11,Emily Song,other
-716,The Good Doctor,5,2059958,Jessica Garcie,1,False,,,2021,11,Florist,other
-717,The Good Doctor,5,118002,Tom Pickett,2,False,,,2021,11,Tailor,other
-718,The Good Doctor,5,3294092,Lorena Martinez,1,False,,,2021,11,Rosa Castillo,other
-719,The Good Doctor,5,157029,Derek Webster,2,False,,,2021,11,Ed,other
-720,The Good Doctor,5,26929,Crystle Lightning,1,False,,,2021,11,Val,other
-721,The Good Doctor,5,3095791,Shalev Snitz,0,False,,,2021,11,Ollie,other
-722,The Good Doctor,5,1825526,Robert Underwood,2,False,,,2021,11,Jerry,other
-723,The Good Doctor,5,987251,Denise Stauffer,1,False,,,2021,11,Cardiologist,other
-724,The Good Doctor,5,1459439,Patricia Isaac,1,False,,,2021,11,Nira,other
-725,The Good Doctor,5,936878,Anthony Ames,2,False,,,2021,11,Colson,other
-726,The Good Doctor,5,59260,Ann Cusack,1,False,,,2021,11,Ilana Reeves,other
-727,The Good Doctor,5,1337712,Sean T. Krishnan,2,False,,,2021,11,Sunil Rajani,other
-728,The Good Doctor,5,59242,Desiree Zurowski,1,False,,,2021,11,Shelly Carrol,other
-729,The Good Doctor,5,1918751,Shayn Walker,2,False,,,2021,11,Burly Guy,other
-730,The Good Doctor,5,2536411,Natalee Linez,1,False,,,2021,11,Alma García,other
-731,The Good Doctor,5,939457,Adam Greydon Reid,2,False,,,2021,11,Dr. Fremes,doctor
-732,The Good Doctor,5,1246891,Charley Koontz,2,False,,,2022,2,Phil Hall,other
-733,The Good Doctor,5,1237292,Roberta Valderrama,1,False,,,2022,2,Candace Williams,other
-734,The Good Doctor,5,1578631,Rebecca Olson,1,False,,,2022,2,Monica,other
-735,The Good Doctor,5,63563,Veena Sood,1,False,,,2022,2,Jacqueline Plante,other
-736,The Good Doctor,5,1727683,Adil Zaidi,2,False,,,2022,2,Jag Dhanoa,other
-737,The Good Doctor,5,1887278,Kayla Deorksen,1,False,,,2022,2,EMT,medic
-738,The Good Doctor,5,169292,David Marciano,2,False,,,2022,3,Joe,other
-739,The Good Doctor,5,113926,AJ Michalka,1,False,,,2022,3,Nelly Dunn,other
-740,The Good Doctor,5,90033,Aly Michalka,1,False,,,2022,3,Lexi Dunn,other
-741,The Good Doctor,5,141774,Reese Alexander,2,False,,,2022,3,Dustin Novick,other
-742,The Good Doctor,5,3462651,Mathew Horner,0,False,,,2022,3,Cody,other
-743,The Good Doctor,5,51800,Teryl Rothery,1,False,,,2022,3,Jen Lancaster,other
-744,The Good Doctor,5,53930,Tina Majorino,1,False,,,2022,3,Grace,other
-745,The Good Doctor,5,2964509,Spencer Lord,2,False,,,2022,3,Ryan,other
-746,The Good Doctor,5,1218928,Erica Cerra,1,False,,,2022,3,Amanda,other
-747,The Good Doctor,5,1840722,Albert Nicholas,2,False,,,2022,3,Dom,other
-748,The Good Doctor,5,3468924,Daniela Cabral,0,False,,,2022,3,Ryan's Wife,other
-749,The Good Doctor,5,3478587,Isla Rose Hall,0,False,,,2022,3,Isla Liu,other
-750,The Good Doctor,5,3331408,Cheyenne Rouleau,0,False,,,2022,3,Gail,other
-751,The Good Doctor,5,1517275,Edelyn Okano,1,False,,,2022,3,Elaine Liu,other
-752,The Good Doctor,5,1582521,Kameron Louangxay,2,False,,,2022,3,Bryan Liu,other
-753,The Good Doctor,5,27112,Terence Kelly,2,False,,,2022,3,Donald,other
-754,The Good Doctor,5,33049,Giacomo Baessato,2,False,,,2022,3,Jerome,other
-755,The Good Doctor,5,1485093,Donna Lynne Champlin,1,False,,,2022,3,Brenna,other
-756,The Good Doctor,5,78434,America Olivo,1,False,,,2022,3,Mariel Torres,other
-757,The Good Doctor,5,1475080,Cole Vigue,2,False,,,2022,3,Isaac,other
-758,The Good Doctor,5,999339,David Tompa,2,False,,,2022,3,Viktor,other
-759,The Good Doctor,5,1869716,Emily Schoen,0,False,,,2022,3,Ferguson,other
-760,The Good Doctor,5,2234170,Kapila Rego,1,False,,,2022,3,EMT,medic
-761,The Good Doctor,5,3522483,Mohamad Hajem,0,False,,,2022,3,NICU Resident,other
-762,The Good Doctor,5,208310,Cherise Boothe,1,False,,,2022,4,Carrie,other
-763,The Good Doctor,5,1489441,Annalisa Cochrane,1,False,,,2022,4,Kayla Quinn,other
-764,The Good Doctor,5,1838549,Mishka Thébaud,2,False,,,2022,4,Justin Quinn,other
-765,The Good Doctor,5,2441746,Zavien Garrett,0,False,,,2022,4,Trent,other
-766,The Good Doctor,5,2674944,Sage Linder,0,False,,,2022,4,Dixie,other
-767,The Good Doctor,5,569210,Bethany Brown,1,False,,,2022,4,Rochelle,other
-768,The Good Doctor,5,1368520,Jason Burkart,2,False,,,2022,4,Cameron,other
-769,The Good Doctor,5,1581107,Ash Lee,2,False,,,2022,4,Ben,other
-770,The Good Doctor,5,1794575,Tarun Keram,2,False,,,2022,4,Jake,other
-771,The Good Doctor,5,1698676,Kylee Bush,1,False,,,2022,4,Brea,other
-772,The Good Doctor,5,2964190,Julian Nelson,2,False,,,2022,4,Ted,other
-773,The Good Doctor,5,2849821,Dan Ginnane,2,False,,,2022,4,Young Man,other
-774,The Good Doctor,5,1476033,Paul Moniz de Sa,2,False,,,2022,4,Doctor #1,doctor
-775,The Good Doctor,5,3183739,Britney Mocca,0,False,,,2022,4,Doctor #2,doctor
-776,The Good Doctor,5,23975,Lee Garlington,1,False,,,2022,4,Joan,other
-777,The Good Doctor,5,3104809,"Marcus ""MJ"" Gladney Jr.",0,False,,,2022,4,Kevin Dolin,other
-778,The Good Doctor,5,52457,Eileen Pedde,1,False,,,2022,4,Sara,other
-779,The Good Doctor,5,27128,Aaron Pearl,2,False,,,2022,4,Dale,other
-780,The Good Doctor,5,2026853,Jennifer Tong,1,False,,,2022,4,Allie,other
-781,The Good Doctor,5,2845710,Mariesa Crouse,1,False,,,2022,4,Suzie,other
-782,The Good Doctor,5,3522492,Demi Pedersen,0,False,,,2022,4,Jamie,other
-783,The Good Doctor,5,1840900,Carlo Yu,2,False,,,2022,4,Joan's Friend,other
-784,The Good Doctor,5,2509658,Alisha Ahamed,1,False,,,2022,4,Joan's Friend,other
-785,The Good Doctor,5,233264,Jenna Romanin,1,False,,,2022,4,Joan's Friend,other
-786,The Good Doctor,5,3522494,Frank Paige,0,False,,,2022,4,Joan's Friend,other
-787,The Good Doctor,5,3522489,Hollis Jane Andrews,0,False,,,2022,4,Sophie,other
-788,The Good Doctor,5,169778,Mercedes de la Zerda,1,False,,,2022,5,Dana Bradley,other
-789,The Good Doctor,5,113930,Sandy Robson,2,False,,,2022,5,Grant Ferlin,other
-790,The Good Doctor,5,3538453,Naomi Rose MacFadden,0,False,,,2022,5,Nicole,other
-791,The Good Doctor,5,3538455,Patrick Gerber,0,False,,,2022,5,Vance,other
-792,The Good Doctor,5,221981,Antonia Thomas,1,False,,,2022,5,Claire Browne,other
-793,The Good Doctor,5,2673040,Daniel Romolliwa,2,False,,,2022,5,Philip,other
-794,The Good Doctor,5,1090397,Juliana Wimbles,1,False,,,2022,5,EMT,medic
-795,The Good Doctor,5,3545006,Julian Rangel,0,False,,,2022,5,Lucho,other
-796,The Good Doctor,5,79346,John Shaw,2,False,,,2022,5,Vincent,other
-797,The Good Doctor,5,2387518,Kiera Allen,1,False,,,2022,5,Steph Lewis,other
-798,The Good Doctor,5,97950,Kathe Mazur,1,False,,,2022,5,Miriam Wolke,other
-799,The Good Doctor,5,11677,Terry Chen,2,False,,,2022,5,Dalisay's Ex,other
-800,The Good Doctor,5,31282,Richard Topol,2,False,,,2022,5,Yosel Wolke,other
-801,The Good Doctor,5,3553382,Matthew Clarke,0,False,,,2022,5,Steph's Husband,other
-802,The Good Doctor,5,1529426,Graham Verchere,2,False,,,2022,5,Shaun Murphy,other
+,show_name,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,The Good Doctor,1,1281,Freddie Highmore,2,True,Shaun Murphy,other,2017,9
+1,The Good Doctor,1,31028,Richard Schiff,2,True,Aaron Glassman,other,2017,9
+2,The Good Doctor,1,57686,Hill Harper,2,True,Marcus Andrews,doctor,2017,9
+3,The Good Doctor,1,61852,Nicholas Gonzalez,2,True,Neil Melendez,other,2017,9
+4,The Good Doctor,1,1610710,Chuku Modu,2,True,Jared Kalu,other,2017,9
+5,The Good Doctor,1,20403,Beau Garrett,1,True,Jessica Preston,other,2017,9
+6,The Good Doctor,1,3134,Tamlyn Tomita,1,True,Allegra Aoki,other,2017,9
+7,The Good Doctor,1,221981,Antonia Thomas,1,True,Claire Browne,other,2017,9
+8,The Good Doctor,1,1005920,Irene Keng,1,False,Elle McLean,other,2017,9
+9,The Good Doctor,1,2434757,Orlando Lucas,2,False,Adam,other,2017,9
+10,The Good Doctor,1,1564501,Miranda Edwards,1,False,Bonnie,other,2017,9
+11,The Good Doctor,1,2047493,Matthew Mandzij,2,False,Carl,other,2017,9
+12,The Good Doctor,1,55588,Roman Podhora,2,False,Callum Reilly,other,2017,9
+13,The Good Doctor,1,1475788,Rebecca Husain,1,False,Marcie Murphy,other,2017,9
+14,The Good Doctor,1,1406026,Arielle Tuliao,1,False,Assistant,medic,2017,9
+15,The Good Doctor,1,106776,Sam Vincent,2,False,Doctor,doctor,2017,9
+16,The Good Doctor,1,1476559,Tim Zhang,2,False,EMT #1,medic,2017,9
+17,The Good Doctor,1,183016,Dalias Blake,2,False,Hospital Security Guard,other,2017,9
+18,The Good Doctor,1,1476041,Mike Li,2,False,Nurse,nurse,2017,9
+19,The Good Doctor,1,2434759,Gavin Cooke,2,False,TSA Officer,other,2017,9
+20,The Good Doctor,1,2434760,Chance Moore,2,False,Soccer Kid,other,2017,9
+21,The Good Doctor,1,2434761,Carson Sanca,2,False,Soccer Kid 1,other,2017,9
+22,The Good Doctor,1,2434762,Cassius Morrison,2,False,Soccer Kid 2,other,2017,9
+23,The Good Doctor,1,2434763,Zachary Choe,2,False,Soccer Kid 3,other,2017,9
+24,The Good Doctor,1,89025,Kirby Morrow,2,False,Ethan Murphy,other,2017,9
+25,The Good Doctor,1,1435838,Dylan Kingwell,2,False,Steve Murphy,other,2017,9
+26,The Good Doctor,1,1529426,Graham Verchere,2,False,Shaun Murphy,other,2017,9
+27,The Good Doctor,1,1222945,Jasika Nicole,1,False,Carly Lever,other,2017,10
+28,The Good Doctor,1,23706,Eve Gordon,1,False,Nurse Fryday,nurse,2017,10
+29,The Good Doctor,1,91215,Nancy Stone,1,False,Stephanie Willis,other,2017,10
+30,The Good Doctor,1,171726,Darrin Baker,2,False,Trevor,other,2017,10
+31,The Good Doctor,1,1874357,John Murphy,2,False,Jerry,other,2017,10
+32,The Good Doctor,1,1927935,Meghan Gardiner,1,False,Cecile,other,2017,10
+33,The Good Doctor,1,1862357,Britt Loder,1,False,Martine,other,2017,10
+34,The Good Doctor,1,1366705,Rocky Anderson,0,False,Mitchell,other,2017,10
+35,The Good Doctor,1,1482604,Benjamin Charles Watson,2,False,Matthew,other,2017,10
+36,The Good Doctor,1,39360,Lucia Walters,1,False,Dr. Park,doctor,2017,10
+37,The Good Doctor,1,2434749,Rebecca Garcia,1,False,Carole,other,2017,10
+38,The Good Doctor,1,1085644,Aadila Dosani,1,False,Nurse #1,nurse,2017,10
+39,The Good Doctor,1,1864410,Hannah Pederson,1,False,Nurse #2,nurse,2017,10
+40,The Good Doctor,1,2434753,Vaughn Clements,2,False,Friendly Neighbor,other,2017,10
+41,The Good Doctor,1,64676,Peter Hall,2,False,Farmhouse Owner #1,other,2017,10
+42,The Good Doctor,1,1369363,Gaalen Engen,2,False,Farmhouse Owner #2,other,2017,10
+43,The Good Doctor,1,1499023,Robert Corness,0,False,Old Man,other,2017,10
+44,The Good Doctor,1,58902,Zahf Paroo,2,False,Ashique Selim,other,2017,10
+45,The Good Doctor,1,1454610,Paige Spara,1,False,Lea Dilallo,other,2017,10
+46,The Good Doctor,1,55538,Tim Russ,2,False,Chuck,other,2017,10
+47,The Good Doctor,1,77039,Michael St. John Smith,2,False,John Wannamaker,other,2017,10
+48,The Good Doctor,1,1884447,Angela Palmer,1,False,Katt,other,2017,10
+49,The Good Doctor,1,1475796,Blair Penner,2,False,SFPD Cop,other,2017,10
+50,The Good Doctor,1,1882899,Donald Sales,2,False,Controller,other,2017,10
+51,The Good Doctor,1,1772038,Serge Jaswal,0,False,Brad,other,2017,10
+52,The Good Doctor,1,1946466,Trent Redekop,2,False,Cashier,other,2017,10
+53,The Good Doctor,1,1066283,Victoria Bidewell,1,False,Liaison,other,2017,10
+54,The Good Doctor,1,1287152,William Vaughan,2,False,Casper Deputy #1,other,2017,10
+55,The Good Doctor,1,1368729,Adam Lolacher,2,False,Casper Deputy #2,other,2017,10
+56,The Good Doctor,1,1844938,Shiren Van Cooten,1,False,Social Worker,other,2017,10
+57,The Good Doctor,1,228890,Jesse Reid,2,False,Surgical Resident,other,2017,10
+58,The Good Doctor,1,1376352,Taylor Hastings,1,False,Surgical Assist,other,2017,10
+59,The Good Doctor,1,1228455,Judith Maxie,1,False,Chuck's Wife,other,2017,10
+60,The Good Doctor,1,1880613,Hector Johnson,2,False,Chuck's Brother,other,2017,10
+61,The Good Doctor,1,2434738,Ken Do,2,False,Handsome Young Man,other,2017,10
+62,The Good Doctor,1,87737,Beatrice Zeilinger,1,False,Dina Vizcaino,other,2017,10
+63,The Good Doctor,1,51800,Teryl Rothery,1,False,JL,other,2017,10
+64,The Good Doctor,1,1449399,Angela Moore,1,False,Nurse Jones,nurse,2017,10
+65,The Good Doctor,1,1305494,Sara Waisglass,1,False,Olivia Hartman,other,2017,10
+66,The Good Doctor,1,206661,Crystal Balint,1,False,Barb Allen,other,2017,10
+67,The Good Doctor,1,1230713,Niall Matter,2,False,Mark Allen,other,2017,10
+68,The Good Doctor,1,1216570,Darcy Laurie,2,False,Armen Demajin,other,2017,10
+69,The Good Doctor,1,1285611,Bruce Blain,0,False,Bus Driver,doctor,2017,10
+70,The Good Doctor,1,1475105,Yasmeene Ball,1,False,Colleen Myers,other,2017,10
+71,The Good Doctor,1,1766949,Serena Bickerstaff,1,False,Attractive Woman,other,2017,10
+72,The Good Doctor,1,29934,Brett Rice,2,False,Mr. Wilks,other,2017,10
+73,The Good Doctor,1,59926,Jesse Moss,2,False,Kevin Wilks,other,2017,10
+74,The Good Doctor,1,1331981,Samantha Sloyan,1,False,Mrs. Gallico,other,2017,10
+75,The Good Doctor,1,71673,Michael Muhney,2,False,Mr. Gallico,other,2017,10
+76,The Good Doctor,1,1215689,Christina Chang,1,False,Audrey Lim,doctor,2017,10
+77,The Good Doctor,1,52932,Gloria Garayua,1,False,Sonia,other,2017,10
+78,The Good Doctor,1,78321,Ruben Garfias,2,False,Ricardo Magallanes,other,2017,10
+79,The Good Doctor,1,52507,Kandyse McClure,1,False,Celez,other,2017,10
+80,The Good Doctor,1,121277,Norma Maldonado,1,False,Lorena Magallanes,other,2017,10
+81,The Good Doctor,1,156989,Kari Coleman,1,False,Nurse Farrar,nurse,2017,10
+82,The Good Doctor,1,1224871,Nimet Kanji,1,False,Judge Singh,other,2017,10
+83,The Good Doctor,1,1729899,Paolo Maiolo,2,False,Marco Magallanes,other,2017,10
+84,The Good Doctor,1,1653905,Mayumi Yoshida,1,False,Kim Kitajima,other,2017,10
+85,The Good Doctor,1,2434721,Devin Barker,1,False,Jenna,other,2017,10
+86,The Good Doctor,1,1110416,Heather-Claire Nortey,1,False,Noomi,other,2017,10
+87,The Good Doctor,1,1546591,Herbert Duncanson,2,False,Yellow Tagged Man,other,2017,10
+88,The Good Doctor,1,1761118,Mariessa Portelance,1,False,Gowned Woman #1,other,2017,10
+89,The Good Doctor,1,1239260,Jilena Cori,1,False,Gowned Woman #2,other,2017,10
+90,The Good Doctor,1,2434731,Lorraine Colond,1,False,Weeping Family Member,other,2017,10
+91,The Good Doctor,1,2434732,Krish Lohtia,2,False,Tuxedoed Groomsman,other,2017,10
+92,The Good Doctor,1,1239253,Demord Dann,0,False,EMT #1,medic,2017,10
+93,The Good Doctor,1,1502986,Dagan Nish,2,False,EMT #2,medic,2017,10
+94,The Good Doctor,1,1090397,Juliana Wimbles,1,False,EMT #3,medic,2017,10
+95,The Good Doctor,1,1669241,Andrew Coghlan,2,False,EMT #4,medic,2017,10
+96,The Good Doctor,1,1475802,Gerardo Barcala,2,False,Doctor (uncredited),doctor,2017,10
+97,The Good Doctor,1,1727683,Adil Zaidi,2,False,Jag Dhanoa,other,2017,10
+98,The Good Doctor,1,15900,Paul Dooley,2,False,Glen,other,2017,11
+99,The Good Doctor,1,1754577,Coby Bird,2,False,Liam West,other,2017,11
+100,The Good Doctor,1,77622,Catherine Lough Haggquist,1,False,Dr. Mohan,doctor,2017,11
+101,The Good Doctor,1,5937,Kari Matchett,1,False,Liam's Mother,other,2017,11
+102,The Good Doctor,1,550550,Tim Beckmann,2,False,Liam's Father,other,2017,11
+103,The Good Doctor,1,112644,Luvia Petersen,1,False,Lisa-Jane,other,2017,11
+104,The Good Doctor,1,1475096,Shaughnessy Redden,0,False,Psychiatrist,other,2017,11
+105,The Good Doctor,1,1562501,Parveen Dosanjh,1,False,Nurse,nurse,2017,11
+106,The Good Doctor,1,103283,Michael Antonakos,2,False,Nurse,nurse,2017,11
+107,The Good Doctor,1,2434684,Devon Sandhu,2,False,Salesman,other,2017,11
+108,The Good Doctor,1,203639,Elfina Luk,1,False,Dalisay Villanueva,other,2017,11
+109,The Good Doctor,1,89819,Zachary Gordon,2,False,Brandon,other,2017,11
+110,The Good Doctor,1,10135,Jesse James,2,False,Nash Dixon,other,2017,11
+111,The Good Doctor,1,1038625,Kacey Rohl,1,False,Avery,other,2017,11
+112,The Good Doctor,1,2430222,Elizabeth McCallum,1,False,Avery's Mother,other,2017,11
+113,The Good Doctor,1,2060424,Terence Hayman,2,False,Avery's Father,other,2017,11
+114,The Good Doctor,1,1397001,Brendon Zub,2,False,Policeman,other,2017,11
+115,The Good Doctor,1,90723,Kathryn Kirkpatrick,1,False,Food Services Person,other,2017,11
+116,The Good Doctor,1,1608402,Alvina August,1,False,Alana Paikin,other,2017,11
+117,The Good Doctor,1,64297,Pej Vahdat,2,False,Avi Mehta,other,2017,11
+118,The Good Doctor,1,52291,Tegan Moss,1,False,Elisabeth McLaren,other,2017,11
+119,The Good Doctor,1,1056276,Maggie Benedict,1,False,Georgieta Bangura,other,2017,11
+120,The Good Doctor,1,2430195,Jojo Salkey-Randon,2,False,Gabriel,other,2017,11
+121,The Good Doctor,1,200615,Nicholas Carella,2,False,Leonard,other,2017,11
+122,The Good Doctor,1,1615066,Debs Howard,1,False,Gwen,other,2017,11
+123,The Good Doctor,1,2430203,Charlie Latimer,2,False,Winnie,other,2017,11
+124,The Good Doctor,1,2430205,Erika Scigliano,1,False,Life Coach,other,2017,11
+125,The Good Doctor,1,1697343,Alex Kliner,2,False,Patient,other,2017,11
+126,The Good Doctor,1,36219,Marsha Thomason,1,False,Isabel Barnes,other,2017,11
+127,The Good Doctor,1,1906241,Carly Bentall,1,False,Carly,other,2017,11
+128,The Good Doctor,1,1881528,Lissa Neptuno,1,False,Nurse Ocampo,nurse,2017,11
+129,The Good Doctor,1,1368795,Manny Jacinto,2,False,Bobby Ato,other,2017,12
+130,The Good Doctor,1,74409,Eric Winter,2,False,Matt Coyle,other,2017,12
+131,The Good Doctor,1,1530746,Rhona Rees,1,False,Hazel Mitchell,other,2017,12
+132,The Good Doctor,1,41436,Andrew Airlie,2,False,Jessica's Father,other,2017,12
+133,The Good Doctor,1,1219571,Erin Matthews,1,False,Melissa Bourne,other,2017,12
+134,The Good Doctor,1,2019485,Kayla Wallace,1,False,Grace Mitchell,other,2017,12
+135,The Good Doctor,1,94480,France Perras,0,False,Jen Clavet,other,2017,12
+136,The Good Doctor,1,1368501,Faustino Di Bauda,2,False,Paul Buendia,other,2017,12
+137,The Good Doctor,1,2430189,Kylie McKay,1,False,Scrub Nurse #2,nurse,2017,12
+138,The Good Doctor,1,2411149,Chad Matchette,0,False,Bus Driver,doctor,2017,12
+139,The Good Doctor,1,119834,Necar Zadegan,1,False,Jordan Ko,other,2018,1
+140,The Good Doctor,1,1618593,Elizabeth Hinkler,1,False,Katie Kunkler,other,2018,1
+141,The Good Doctor,1,152410,Kerry Sandomirsky,1,False,Mrs. Kunkler,other,2018,1
+142,The Good Doctor,1,1618594,Emily Hinkler,1,False,Jenny Kunkler,other,2018,1
+143,The Good Doctor,1,77315,Robert Moloney,2,False,Kalu's Lawyer,other,2018,1
+144,The Good Doctor,1,91337,Sunita Prasad,1,False,Surgical Nurse,nurse,2018,1
+145,The Good Doctor,1,997197,Nelson Wong,2,False,Lab Tech,other,2018,1
+146,The Good Doctor,1,74677,Hayley Sales,1,False,Zoe Salter,other,2018,1
+147,The Good Doctor,1,70175,Chelah Horsdal,1,False,Tessa,other,2018,1
+148,The Good Doctor,1,1030923,Hina Abdullah,1,False,Naja Modi,other,2018,1
+149,The Good Doctor,1,1260036,Chris D'Elia,2,False,Kenny,other,2018,1
+150,The Good Doctor,1,2428799,Keoni Rebeiro,2,False,Payton Carpenter,other,2018,1
+151,The Good Doctor,1,1790870,Art Kitching,2,False,Cole Carpenter,other,2018,1
+152,The Good Doctor,1,1465521,Sarah Troyer,1,False,Kristen,other,2018,1
+153,The Good Doctor,1,1233749,Fiona Gubelmann,1,False,Morgan Reznick,other,2018,2
+154,The Good Doctor,1,10080,JoBeth Williams,1,False,Ruth,other,2018,2
+155,The Good Doctor,1,1992554,Sophie Giannamore,1,False,Quinn Darby,other,2018,2
+156,The Good Doctor,1,1631114,Adam J. Smith,2,False,Howard Shaw,other,2018,2
+157,The Good Doctor,1,81095,Michelle Morgan,1,False,Quinn's Mother,other,2018,2
+158,The Good Doctor,1,84314,Keith Allan,2,False,Ty Darby,other,2018,2
+159,The Good Doctor,1,148112,Kristin Lehman,1,False,Finola,other,2018,2
+160,The Good Doctor,1,2428793,London Cardinal,0,False,Keira Shaw,other,2018,2
+161,The Good Doctor,1,2428794,Waverly Cardinal,0,False,Sammy Shaw,other,2018,2
+162,The Good Doctor,1,10884,Will Yun Lee,2,False,Alex Park,other,2018,2
+163,The Good Doctor,1,2027051,Nicholas Sean Johnny,2,False,Eric Bertrand,other,2018,2
+164,The Good Doctor,1,1887533,Lexi Underwood,1,False,Spirit Garcia,other,2018,2
+165,The Good Doctor,1,55464,Kelly Blatz,2,False,Aidan Coulter,other,2018,2
+166,The Good Doctor,1,76973,Joris Jarsky,2,False,Sergey Tirayan,other,2018,2
+167,The Good Doctor,1,1884551,Ese Atawo,1,False,Ramona Garcia,other,2018,2
+168,The Good Doctor,1,62713,Tim Perez,2,False,Luis Garcia,other,2018,2
+169,The Good Doctor,1,1180166,Pasha Ebrahimi,2,False,Wallace Bertrand,other,2018,2
+170,The Good Doctor,1,2108098,Medina Hahn,1,False,Jacey Bertrand,other,2018,2
+171,The Good Doctor,1,1475539,Michael Sangha,2,False,Security Guard,other,2018,2
+172,The Good Doctor,1,1884524,Robert Zen Humpage,2,False,Prison Guard #1,other,2018,2
+173,The Good Doctor,1,139622,Darryl Scheelar,2,False,Prison Guard #2,other,2018,2
+174,The Good Doctor,1,2428365,Katarina Mueller,1,False,Annie,other,2018,2
+175,The Good Doctor,1,2428781,Sewit Haile,1,False,Cindy,other,2018,2
+176,The Good Doctor,1,2428782,Arianna Salvador,1,False,Jenny,other,2018,2
+177,The Good Doctor,1,2197778,Lindsay Marshall,1,False,Woman,other,2018,2
+178,The Good Doctor,1,2428784,Marci Chimich,1,False,May Curtis,other,2018,2
+179,The Good Doctor,1,2428786,Shaun Morse,2,False,Jake Levy,other,2018,2
+180,The Good Doctor,1,1235439,Richard Yee,2,False,Toby Young,other,2018,2
+181,The Good Doctor,1,1953657,Celeste Ziegler,1,False,Attractive Woman,other,2018,2
+182,The Good Doctor,1,77164,Ryan Robbins,2,False,Hunter,other,2018,3
+183,The Good Doctor,1,59183,Sarah-Jane Redmond,1,False,Emma Newton,other,2018,3
+184,The Good Doctor,1,1217942,Anna Belknap,1,False,Cora Denoble,other,2018,3
+185,The Good Doctor,1,68527,William R. Moses,2,False,Barry Newton,other,2018,3
+186,The Good Doctor,1,1224828,Stephen Lobo,2,False,Arjun Dhillon,other,2018,3
+187,The Good Doctor,1,2428351,Emmy O'Leary,1,False,Lab Tech,other,2018,3
+188,The Good Doctor,1,15566,Sharon Leal,1,False,Breeze Browne,other,2018,3
+189,The Good Doctor,1,1252420,Olivia Steele-Falconer,1,False,Gretchen,other,2018,3
+190,The Good Doctor,1,102742,Patrick Sabongui,2,False,Russ Milman,other,2018,3
+191,The Good Doctor,1,85922,Tom Butler,2,False,Jim Ransler,other,2018,3
+192,The Good Doctor,1,2427856,Jenny Steadman,1,False,Beatrice,other,2018,3
+193,The Good Doctor,1,588278,Julie Pearl,1,False,Lucy Callard,other,2018,3
+194,The Good Doctor,1,1454111,Monice Peter,0,False,Waitress,other,2018,3
+195,The Good Doctor,1,68109,Sheila Kelley,1,False,Debbie Wexler,other,2018,3
+196,The Good Doctor,1,78142,Graham Patrick Martin,2,False,Blake,other,2018,3
+197,The Good Doctor,1,111930,Donnie MacNeil,2,False,Caden Hauley,other,2018,3
+198,The Good Doctor,1,2136535,Audrey Wise Alvarez,1,False,Young Maddie,other,2018,3
+199,The Good Doctor,1,87816,Anjali Jay,1,False,Oncologist,other,2018,3
+200,The Good Doctor,2,1281,Freddie Highmore,2,True,Shaun Murphy,other,2018,9
+201,The Good Doctor,2,31028,Richard Schiff,2,True,Aaron Glassman,other,2018,9
+202,The Good Doctor,2,57686,Hill Harper,2,True,Marcus Andrews,doctor,2018,9
+203,The Good Doctor,2,61852,Nicholas Gonzalez,2,True,Neil Melendez,other,2018,9
+204,The Good Doctor,2,1215689,Christina Chang,1,True,Audrey Lim,doctor,2018,9
+205,The Good Doctor,2,1454610,Paige Spara,1,True,Lea Dilallo,other,2018,9
+206,The Good Doctor,2,1233749,Fiona Gubelmann,1,True,Morgan Reznick,other,2018,9
+207,The Good Doctor,2,10884,Will Yun Lee,2,True,Alex Park,other,2018,9
+208,The Good Doctor,2,3134,Tamlyn Tomita,1,True,Allegra Aoki,other,2018,9
+209,The Good Doctor,2,221981,Antonia Thomas,1,True,Claire Browne,other,2018,9
+210,The Good Doctor,2,1610710,Chuku Modu,2,False,Jared Kalu,other,2018,9
+211,The Good Doctor,2,2139313,Ema Mlinar,1,False,Hannah,other,2018,9
+212,The Good Doctor,2,97943,Raphael Sbarge,2,False,Edward Austin Thomas,other,2018,9
+213,The Good Doctor,2,58804,Gabrielle Rose,1,False,Melanie Arnott,other,2018,9
+214,The Good Doctor,2,1110009,Lane Edwards,2,False,Elliot Arnott,other,2018,9
+215,The Good Doctor,2,41420,Lisa Edelstein,1,False,Marina Blaize,other,2018,9
+216,The Good Doctor,2,1904682,Nitin Prasad,2,False,Lab Assistant,medic,2018,9
+217,The Good Doctor,2,78863,Jessica Heafey,1,False,Mary,other,2018,9
+218,The Good Doctor,2,2427830,Potjana Khong-Jaroen,1,False,Trench Foot Woman,other,2018,9
+219,The Good Doctor,2,1529983,Ray G. Thunderchild,2,False,Homeless Man,other,2018,9
+220,The Good Doctor,2,60607,Nneka Croal,1,False,Homeless Knife Woman,other,2018,9
+221,The Good Doctor,2,2427831,Tony Nikl,2,False,Homeless Man #2,other,2018,9
+222,The Good Doctor,2,2427832,Jason Samson,2,False,Man in Waiting Room,other,2018,9
+223,The Good Doctor,2,1475108,Adrian Neblett,2,False,Homeless Man #3 (uncredited),other,2018,9
+224,The Good Doctor,2,1906241,Carly Bentall,1,False,Carly,other,2018,9
+225,The Good Doctor,2,1406630,Camille Hyde,0,False,Asha / Mara,other,2018,10
+226,The Good Doctor,2,1305375,Khalilah Joi,1,False,Mara's Mother,other,2018,10
+227,The Good Doctor,2,165284,Alimi Ballard,2,False,Mara's Father,other,2018,10
+228,The Good Doctor,2,1043662,Jordana Largy,1,False,Ellen Vahtra,other,2018,10
+229,The Good Doctor,2,146556,Eileen Barrett,1,False,Lori Buendia,other,2018,10
+230,The Good Doctor,2,1680897,Max Chadburn,1,False,Zoe Buendia,other,2018,10
+231,The Good Doctor,2,178860,Conchita Campbell,1,False,Sarah Buendia,other,2018,10
+232,The Good Doctor,2,2125349,Arthur MacKinnon,2,False,Taylor Buendia,other,2018,10
+233,The Good Doctor,2,119834,Necar Zadegan,1,False,Jordan Ko,other,2018,10
+234,The Good Doctor,2,1368501,Faustino Di Bauda,2,False,Paul Buendia,other,2018,10
+235,The Good Doctor,2,1175759,Jennifer Birmingham Lee,1,False,Mia Wuellner,other,2018,10
+236,The Good Doctor,2,51998,Liza Lapira,1,False,Ann Flores,other,2018,10
+237,The Good Doctor,2,6070,Arjay Smith,2,False,Daniel Porter,other,2018,10
+238,The Good Doctor,2,1411632,David DeSantos,2,False,Robert Plager,other,2018,10
+239,The Good Doctor,2,1149190,Holly Taylor,1,False,Maddie Glassman,other,2018,10
+240,The Good Doctor,2,1112818,Amitai Marmorstein,2,False,Nate Schmidt,other,2018,10
+241,The Good Doctor,2,189719,Christine Willes,1,False,Vicki Spain,other,2018,10
+242,The Good Doctor,2,1079959,Sari Mercer,1,False,Gina Porter,other,2018,10
+243,The Good Doctor,2,1476132,Malik McCall,2,False,Bailiff,other,2018,10
+244,The Good Doctor,2,1457268,Steve Baran,2,False,Deputy Harris,other,2018,10
+245,The Good Doctor,2,2414684,Laura Jane O'Reilly,1,False,Female Inmate,other,2018,10
+246,The Good Doctor,2,2414689,Caio De Figueiroa,2,False,Angel,other,2018,10
+247,The Good Doctor,2,2414692,Isa Sanchez,1,False,Elena,other,2018,10
+248,The Good Doctor,2,2414693,Takaya White,1,False,Inez,other,2018,10
+249,The Good Doctor,2,1476128,Gregory Taven,0,False,Angry Drunk Guy,doctor,2018,10
+250,The Good Doctor,2,2414695,Leslie Dos Remedios,1,False,Female Tree Trimmer,other,2018,10
+251,The Good Doctor,2,2414696,Damoon Gomari,2,False,Taco Truck Guy,other,2018,10
+252,The Good Doctor,2,1608402,Alvina August,1,False,Alana Paikin,other,2018,10
+253,The Good Doctor,2,51800,Teryl Rothery,1,False,JL,other,2018,10
+254,The Good Doctor,2,203639,Elfina Luk,1,False,Dalisay Villanueva,other,2018,10
+255,The Good Doctor,2,31649,Brooke Smith,1,False,Sybil Meeks,other,2018,10
+256,The Good Doctor,2,1251570,Lesley Fera,1,False,Nicole,other,2018,10
+257,The Good Doctor,2,1087262,Leah Lewis,1,False,Kitty Kwon,other,2018,10
+258,The Good Doctor,2,155862,Kimiko Gelman,1,False,Mrs. Kwon,other,2018,10
+259,The Good Doctor,2,164102,Keong Sim,2,False,Leo Kwon,other,2018,10
+260,The Good Doctor,2,62173,Agam Darshi,1,False,Chesa Dulay,other,2018,10
+261,The Good Doctor,2,1980485,Isaiah Lehtinen,2,False,Marc,other,2018,10
+262,The Good Doctor,2,2414698,Brenda Isabel Santiago,1,False,Gabi Melendez,other,2018,10
+263,The Good Doctor,2,2414701,Marnie Mahannah,1,False,Angie,other,2018,10
+264,The Good Doctor,2,1510849,Nisreen Slim,0,False,Willow,other,2018,10
+265,The Good Doctor,2,64678,Linda Darlow,1,False,Dr. Trudy,doctor,2018,10
+266,The Good Doctor,2,1529426,Graham Verchere,2,False,Shaun Murphy,other,2018,10
+267,The Good Doctor,2,65769,Bryce Johnson,2,False,Wade,other,2018,10
+268,The Good Doctor,2,4095,David Lewis,2,False,Sam DeLeon,other,2018,10
+269,The Good Doctor,2,87034,Dan Bucatinsky,2,False,Spence,other,2018,10
+270,The Good Doctor,2,2059893,Jesse Downs,2,False,Graham,other,2018,10
+271,The Good Doctor,2,2234511,Kareem Malcolm,0,False,Physio Tech,other,2018,10
+272,The Good Doctor,2,25869,Reiko Aylesworth,1,False,Louisa DeLeon,other,2018,10
+273,The Good Doctor,2,68109,Sheila Kelley,1,False,Debbie Wexler,other,2018,10
+274,The Good Doctor,2,1727683,Adil Zaidi,2,False,Jag Dhanoa,other,2018,10
+275,The Good Doctor,2,1090397,Juliana Wimbles,1,False,EMT,medic,2018,10
+276,The Good Doctor,2,1740999,Supinder Wraich,1,False,Jas Kohli,other,2018,11
+277,The Good Doctor,2,966753,Caitlin Carmichael,1,False,Riley Mulloy,other,2018,11
+278,The Good Doctor,2,110472,Chad Willett,2,False,Bruce Mulloy,other,2018,11
+279,The Good Doctor,2,72092,Jewel Staite,1,False,Stella,other,2018,11
+280,The Good Doctor,2,155950,Jennifer Aspen,1,False,Iris Bautista,other,2018,11
+281,The Good Doctor,2,1239253,Demord Dann,0,False,EMT,medic,2018,11
+282,The Good Doctor,2,96624,Rachel Boston,1,False,Kay,other,2018,11
+283,The Good Doctor,2,164208,Hemky Madera,2,False,Santiago,other,2018,11
+284,The Good Doctor,2,84754,Gonzalo Menendez,2,False,Armando Benitez,other,2018,11
+285,The Good Doctor,2,1175446,Shane Twerdun,0,False,Pet Store Clerk,other,2018,11
+286,The Good Doctor,2,2427811,Soma Ochiai,2,False,Yo-Yo Boy,other,2018,11
+287,The Good Doctor,2,2427812,Connie Hosie,1,False,Nurse,nurse,2018,11
+288,The Good Doctor,2,43464,John Patrick Amedori,2,False,Dash Snyder,other,2018,11
+289,The Good Doctor,2,60609,Doron Bell,2,False,EMT,medic,2018,11
+290,The Good Doctor,2,1152023,Christine Horn,1,False,Dawn Williams,other,2018,11
+291,The Good Doctor,2,2410749,Elliott Sancrant,2,False,Finn Tilley,other,2018,11
+292,The Good Doctor,2,1215799,Reggie Austin,2,False,Todd Williams,other,2018,11
+293,The Good Doctor,2,199486,Elyse Levesque,1,False,Bethany Tilley,other,2018,11
+294,The Good Doctor,2,1579926,Marc Valera,2,False,Noah Tilley,other,2018,11
+295,The Good Doctor,2,1669241,Andrew Coghlan,2,False,EMT #2,medic,2018,11
+296,The Good Doctor,2,1276124,Tyler Ritter,2,False,George Reynolds,other,2018,11
+297,The Good Doctor,2,2174509,Mason Gooding,2,False,Billy Cayman,other,2018,11
+298,The Good Doctor,2,2410759,Madeleine Kelders,1,False,Radiology Tech,other,2018,11
+299,The Good Doctor,2,58902,Zahf Paroo,2,False,Ashique Selim,other,2018,11
+300,The Good Doctor,2,1240662,Peter Ciuffa,2,False,Diabetic,other,2018,12
+301,The Good Doctor,2,112637,Veronika Hadravá,1,False,Marianne,other,2018,12
+302,The Good Doctor,2,1572434,Deborah Finkel,1,False,Attendant,other,2018,12
+303,The Good Doctor,2,191262,Alex Weed,2,False,Chris Santos,other,2018,12
+304,The Good Doctor,2,51801,William MacDonald,2,False,Bob Cravens,other,2018,12
+305,The Good Doctor,2,63568,Patti Allan,1,False,Esther,other,2018,12
+306,The Good Doctor,2,81106,Camille Guaty,1,False,Viola,other,2018,12
+307,The Good Doctor,2,1987916,Andrea Ware,1,False,Security Guard #1,other,2018,12
+308,The Good Doctor,2,2410764,Emerson Murray,2,False,Security Guard #2,other,2018,12
+309,The Good Doctor,2,37696,Colin Lawrence,2,False,Clifton,other,2018,12
+310,The Good Doctor,2,59283,Dan Byrd,2,False,Tyler Durness,other,2018,12
+311,The Good Doctor,2,1927025,Ricky He,2,False,Kellan Park,other,2018,12
+312,The Good Doctor,2,58395,Karin Konoval,1,False,Deena Petringa,other,2018,12
+313,The Good Doctor,2,1741476,Rell Battle,2,False,Santa Pete,other,2018,12
+314,The Good Doctor,2,79351,Alison Araya,1,False,Dr. Garcia,doctor,2019,1
+315,The Good Doctor,2,62709,Garfield Wilson,2,False,Carnell Hunter,other,2019,1
+316,The Good Doctor,2,133289,Cheryl White,1,False,Carmen Dunn,other,2019,1
+317,The Good Doctor,2,1558027,Andres Joseph,2,False,Jake Dahlen,other,2019,1
+318,The Good Doctor,2,15566,Sharon Leal,1,False,Breeze Browne,other,2019,1
+319,The Good Doctor,2,2316502,Vered Blonstein,1,False,Lana Moore,other,2019,1
+320,The Good Doctor,2,2411762,Alex Plank,2,False,Javier Maldonado,other,2019,1
+321,The Good Doctor,2,156511,Emily Kuroda,1,False,Sunny Lee,other,2019,1
+322,The Good Doctor,2,1632396,Sheena Chou,1,False,Teresa Moon,other,2019,1
+323,The Good Doctor,2,1367840,Vedette Lim,1,False,Grace Lee,other,2019,1
+324,The Good Doctor,2,91337,Sunita Prasad,1,False,O.R. Nurse,nurse,2019,1
+325,The Good Doctor,2,1522797,Jemmy Chen,0,False,Beijing Nurse (voice),nurse,2019,1
+326,The Good Doctor,2,995457,Chloe Csengery,1,False,Molly / Karin Tindle,other,2019,2
+327,The Good Doctor,2,1320468,Lilli Birdsell,1,False,Shannon Tindle,other,2019,2
+328,The Good Doctor,2,49833,Mo Gaffney,1,False,Uber Driver,doctor,2019,2
+329,The Good Doctor,2,155429,Kurt Evans,2,False,Dean,other,2019,2
+330,The Good Doctor,2,116048,Michael David Simms,2,False,Flakey,other,2019,2
+331,The Good Doctor,2,129986,Bronwen Smith,1,False,Lori,other,2019,2
+332,The Good Doctor,2,112470,Elizabeth McLaughlin,1,False,Robin Demayne Scaplin,other,2019,2
+333,The Good Doctor,2,1343453,Karyn Halpin,1,False,30 Year Old Robin,other,2019,2
+334,The Good Doctor,2,1366512,Guyle Fraizer,0,False,50 Year Old Male Robin,other,2019,2
+335,The Good Doctor,2,2092560,Christine Laliberté,1,False,60 Year Old Grandmother,other,2019,2
+336,The Good Doctor,2,1887278,Kayla Deorksen,1,False,EMT,medic,2019,2
+337,The Good Doctor,2,15905,Robyn Lively,1,False,Diane Monroe,other,2019,2
+338,The Good Doctor,2,1041408,Ravi Kapoor,2,False,Minesh Goyal,other,2019,2
+339,The Good Doctor,2,970561,Joe Adler,2,False,Larry Childs,other,2019,2
+340,The Good Doctor,2,5009,Peter Benson,2,False,Nigel Monroe,other,2019,2
+341,The Good Doctor,2,41432,Candus Churchill,1,False,Candice,other,2019,2
+342,The Good Doctor,2,18307,Daniel Dae Kim,2,False,Jackson Han,other,2019,2
+343,The Good Doctor,2,1222945,Jasika Nicole,1,False,Carly Lever,other,2019,2
+344,The Good Doctor,2,49275,Spencer Garrett,2,False,Pastor Clarence,other,2019,2
+345,The Good Doctor,2,117515,Kelsey Crane,1,False,Sadie Barnes,other,2019,2
+346,The Good Doctor,2,1318741,Diana Pavlovská,1,False,Pastor Clarence's Wife,other,2019,2
+347,The Good Doctor,2,94482,Natasha Calis,1,False,Jess Barnes,other,2019,2
+348,The Good Doctor,2,181511,James Immekus,2,False,Kenny Grimm,other,2019,3
+349,The Good Doctor,2,185504,Joy Osmanski,1,False,Laura Petrie,other,2019,3
+350,The Good Doctor,2,118462,Bill Dow,2,False,Committee Chair,other,2019,3
+351,The Good Doctor,2,2412181,Anita Wittenberg,1,False,Sally Grimm,other,2019,3
+352,The Good Doctor,2,2412182,Sarah Almonte Peguero,1,False,Female Customer,other,2019,3
+353,The Good Doctor,2,1475826,Jake Guy,2,False,Food Runner,other,2019,3
+354,The Good Doctor,2,2259669,Ryan Jinn,2,False,Host,other,2019,3
+355,The Good Doctor,2,2412183,Shelene Yung,1,False,Police Officer #1,other,2019,3
+356,The Good Doctor,2,1535525,Helenna Santos,1,False,Doctor #1,doctor,2019,3
+357,The Good Doctor,2,1881528,Lissa Neptuno,1,False,Nurse Ocampo,nurse,2019,3
+358,The Good Doctor,2,130395,Greg Calderone,2,False,Zack Cordell,other,2019,3
+359,The Good Doctor,2,35515,June Squibb,1,False,Ida Guelph,other,2019,3
+360,The Good Doctor,2,1683952,Paul Belsito,2,False,Bartender,other,2019,3
+361,The Good Doctor,2,203294,Jill Morrison,1,False,Jenny Waring,other,2019,3
+362,The Good Doctor,3,1281,Freddie Highmore,2,True,Shaun Murphy,other,2019,9
+363,The Good Doctor,3,31028,Richard Schiff,2,True,Aaron Glassman,other,2019,9
+364,The Good Doctor,3,61852,Nicholas Gonzalez,2,True,Neil Melendez,other,2019,9
+365,The Good Doctor,3,57686,Hill Harper,2,True,Marcus Andrews,doctor,2019,9
+366,The Good Doctor,3,1215689,Christina Chang,1,True,Audrey Lim,doctor,2019,9
+367,The Good Doctor,3,1454610,Paige Spara,1,True,Lea Dilallo,other,2019,9
+368,The Good Doctor,3,1233749,Fiona Gubelmann,1,True,Morgan Reznick,other,2019,9
+369,The Good Doctor,3,10884,Will Yun Lee,2,True,Alex Park,other,2019,9
+370,The Good Doctor,3,1222945,Jasika Nicole,1,True,Carly Lever,other,2019,9
+371,The Good Doctor,3,221981,Antonia Thomas,1,True,Claire Browne,other,2019,9
+372,The Good Doctor,3,3134,Tamlyn Tomita,1,False,Allegra Aoki,other,2019,9
+373,The Good Doctor,3,4734,Jenny O'Hara,1,False,Ruby,other,2019,9
+374,The Good Doctor,3,203294,Jill Morrison,1,False,Jenny Waring,other,2019,9
+375,The Good Doctor,3,173006,John Innes,2,False,Harvey,other,2019,9
+376,The Good Doctor,3,1522916,Sophia Lauchlin Hirt,1,False,Suzanne,other,2019,9
+377,The Good Doctor,3,2427814,Soppo Gomez,2,False,Marco,other,2019,9
+378,The Good Doctor,3,2427815,Armin Karame,2,False,Waiter,other,2019,9
+379,The Good Doctor,3,1454808,Frances Flanagan,1,False,Stephanie,other,2019,9
+380,The Good Doctor,3,58395,Karin Konoval,1,False,Deena Petringa,other,2019,9
+381,The Good Doctor,3,1292115,Aren Buchholz,2,False,Alex Martin,other,2019,9
+382,The Good Doctor,3,72099,Ben Cotton,2,False,Tom Cantrell,other,2019,9
+383,The Good Doctor,3,1368518,Mik Byskov,2,False,Josh Bunker,other,2019,9
+384,The Good Doctor,3,112338,Christina Sicoli,1,False,Dina Cantrell,other,2019,9
+385,The Good Doctor,3,2458601,Tina Georgieva,1,False,Olivia,other,2019,9
+386,The Good Doctor,3,60609,Doron Bell,2,False,EMT #1,medic,2019,9
+387,The Good Doctor,3,1090397,Juliana Wimbles,1,False,EMT #2,medic,2019,9
+388,The Good Doctor,3,2458602,Tony Baretta,2,False,Orderly #1,other,2019,9
+389,The Good Doctor,3,68109,Sheila Kelley,1,False,Debbie Wexler,other,2019,9
+390,The Good Doctor,3,15566,Sharon Leal,1,False,Breeze Browne,other,2019,9
+391,The Good Doctor,3,2692,Robert Sean Leonard,2,False,Shamus O'Malley,other,2019,10
+392,The Good Doctor,3,10580,Tracie Thoms,1,False,Patricia Reynolds,other,2019,10
+393,The Good Doctor,3,1371108,Kyla-Drew,1,False,Michelle Reynolds,other,2019,10
+394,The Good Doctor,3,1219552,Iris Quinn,1,False,Dr. Donovan,doctor,2019,10
+395,The Good Doctor,3,2458595,Karee Ducharme,1,False,Tisha,other,2019,10
+396,The Good Doctor,3,2205031,Melice Bell,1,False,Nurse Walden,nurse,2019,10
+397,The Good Doctor,3,2458597,Greg Larson,2,False,Fishing Buddy #1,other,2019,10
+398,The Good Doctor,3,2458599,Uzoma Onuoha,2,False,Fishing Buddy #2,other,2019,10
+399,The Good Doctor,3,2458600,Tobi Akinbiyi,2,False,Police Officer,other,2019,10
+400,The Good Doctor,3,51800,Teryl Rothery,1,False,JL,other,2019,10
+401,The Good Doctor,3,1287658,Jennifer Lafleur,1,False,Lily Barstow,other,2019,10
+402,The Good Doctor,3,59311,Mark Hildreth,2,False,Jonas Barstow,other,2019,10
+403,The Good Doctor,3,131642,Joshua Malina,2,False,Mitchell Stewart,other,2019,10
+404,The Good Doctor,3,1838745,Eva De Viveiros,1,False,Delia Willis,other,2019,10
+405,The Good Doctor,3,2458591,Jamall Johnson,2,False,Dex,other,2019,10
+406,The Good Doctor,3,2068462,Carl McDonald,0,False,Announcer,other,2019,10
+407,The Good Doctor,3,2071058,Robert Kaiser,2,False,Drag Queen,doctor,2019,10
+408,The Good Doctor,3,2441741,Nadia Vanessa Rose,1,False,Jen,other,2019,10
+409,The Good Doctor,3,1710335,Elijah Silva,2,False,Roger,other,2019,10
+410,The Good Doctor,3,2458592,Alexis Charles,2,False,Officiant,other,2019,10
+411,The Good Doctor,3,203639,Elfina Luk,1,False,Dalisay Villanueva,other,2019,10
+412,The Good Doctor,3,1512173,Aidan Kahn,2,False,Curtis Murphrees,other,2019,10
+413,The Good Doctor,3,1450387,Stacie Greenwell,0,False,Beth Eckert,other,2019,10
+414,The Good Doctor,3,98410,Nefetari Spencer,1,False,Teal Murphrees,other,2019,10
+415,The Good Doctor,3,91337,Sunita Prasad,1,False,Nurse,nurse,2019,10
+416,The Good Doctor,3,2458590,Moises Schini,2,False,Doctor #1,doctor,2019,10
+417,The Good Doctor,3,1435838,Dylan Kingwell,2,False,Steve Murphy,other,2019,10
+418,The Good Doctor,3,63797,Alistair Abell,2,False,Arnold Granger,other,2019,11
+419,The Good Doctor,3,963192,Tiffany Daniels,0,False,Patty Fields,other,2019,11
+420,The Good Doctor,3,1884537,Hannah Drew,1,False,Wilma Tifft,other,2019,11
+421,The Good Doctor,3,1532422,Quentin Plair,2,False,Andre Fields,doctor,2019,11
+422,The Good Doctor,3,2458589,Cassandra Naud,1,False,Scrub Tech,other,2019,11
+423,The Good Doctor,3,2321680,Isaac Keoughan,2,False,Burly Guy,other,2019,11
+424,The Good Doctor,3,74369,Brittney Wilson,1,False,Julie Fletch,other,2019,11
+425,The Good Doctor,3,1680899,April Cameron,1,False,Alyssa Hawks,other,2019,11
+426,The Good Doctor,3,1742866,Christopher Rosamond,2,False,Charlie's Dad,other,2019,11
+427,The Good Doctor,3,61555,Haley Ramm,1,False,Tara,other,2019,11
+428,The Good Doctor,3,1487247,Kiefer O'Reilly,2,False,Charlie,other,2019,11
+429,The Good Doctor,3,1716543,Kate Isaac,1,False,Charlie's Mom,other,2019,11
+430,The Good Doctor,3,1475791,Tanja Dixon-Warren,1,False,Brynn Pryce,other,2019,11
+431,The Good Doctor,3,1371172,Seth Whittaker,2,False,Bouncer,other,2019,11
+432,The Good Doctor,3,2458603,Tamia Yankson,1,False,Cute Slushie Girl,other,2019,11
+433,The Good Doctor,3,2447703,Jayce Barreiro,2,False,Man,other,2019,11
+434,The Good Doctor,3,1761093,Donna Benedicto,1,False,Wren Braxton,other,2019,11
+435,The Good Doctor,3,279018,Kathleen Duborg,1,False,Rosalind Elion,other,2019,11
+436,The Good Doctor,3,26069,Paul McGillion,2,False,Leo Adan,other,2019,11
+437,The Good Doctor,3,1079850,Irene Choi,1,False,Jeanie,other,2019,11
+438,The Good Doctor,3,1211966,Sharif Atkins,2,False,Kane Omar,other,2019,11
+439,The Good Doctor,3,1560379,Hayden Szeto,2,False,Tony Liu,other,2019,11
+440,The Good Doctor,3,184816,Chelsea Hobbs,1,False,Sasha Omar,other,2019,11
+441,The Good Doctor,3,2473443,Aiyanna Miorin,1,False,Allie,other,2019,11
+442,The Good Doctor,3,83456,Michael Trucco,2,False,Ethan Murphy,other,2019,12
+443,The Good Doctor,3,59662,Joanna Going,1,False,Marcie Murphy,other,2019,12
+444,The Good Doctor,3,59015,James Earl,2,False,Art Kalman,other,2019,12
+445,The Good Doctor,3,2115854,Winslow Fegley,2,False,Shaun Murphy,other,2019,12
+446,The Good Doctor,3,25389,Peter Bryant,2,False,Art's Doctor,doctor,2019,12
+447,The Good Doctor,3,1236387,Liza Huget,1,False,Art's Mother,other,2019,12
+448,The Good Doctor,3,1225906,Kelly-Ruth Mercier,1,False,Donna Malkin,other,2019,12
+449,The Good Doctor,3,3070088,Logan Pierce,2,False,Steve Murphy,other,2019,12
+450,The Good Doctor,3,1494866,Patrick Sparling,2,False,Trainer,other,2019,12
+451,The Good Doctor,3,2444038,Xander Hall,2,False,Ray Kalman,other,2019,12
+452,The Good Doctor,3,51940,Ben Wilkinson,2,False,Ben Hanks,other,2019,12
+453,The Good Doctor,3,1529426,Graham Verchere,2,False,Shaun Murphy,other,2019,12
+454,The Good Doctor,3,105875,Tongayi Chirisa,2,False,Boyd Gaston,other,2020,1
+455,The Good Doctor,3,57412,Moisés Arias,2,False,Luca Jones,other,2020,1
+456,The Good Doctor,3,2034416,Nakai Takawira,1,False,Sharon Gaston,other,2020,1
+457,The Good Doctor,3,1229684,Milauna Jackson,1,False,Kerry Gaston,other,2020,1
+458,The Good Doctor,3,1727683,Adil Zaidi,2,False,Jag Dhanoa,other,2020,1
+459,The Good Doctor,3,135409,Brigid Brannagh,1,False,Elise Valens,other,2020,1
+460,The Good Doctor,3,1951261,Alyssa Jirrels,1,False,Angie Valens,other,2020,1
+461,The Good Doctor,3,2525701,David Iacono,0,False,Ryan Cooper,other,2020,1
+462,The Good Doctor,3,1858370,Thomas Cadrot,2,False,James McDougal,other,2020,1
+463,The Good Doctor,3,1488612,Kaare Anderson,2,False,Doug Cooper,other,2020,1
+464,The Good Doctor,3,2842166,Rebecca Wass,0,False,Nurse,nurse,2020,1
+465,The Good Doctor,3,1046431,Caitlin Stryker,1,False,Marjorie,other,2020,1
+466,The Good Doctor,3,1734,Annette O'Toole,1,False,Caroline Reznik,other,2020,1
+467,The Good Doctor,3,85718,Allen Leech,2,False,Ariel Reznik,other,2020,1
+468,The Good Doctor,3,64343,John Ales,2,False,Oliver Thomas,other,2020,1
+469,The Good Doctor,3,25946,Bonita Friedericy,1,False,Bella Thomas,other,2020,1
+470,The Good Doctor,3,1449399,Angela Moore,1,False,Nurse Jones,nurse,2020,1
+471,The Good Doctor,3,1367249,Chelsea Alden,1,False,Kayley Parker,other,2020,2
+472,The Good Doctor,3,229558,Cristina Rosato,1,False,Ann Stewart,other,2020,2
+473,The Good Doctor,3,2542950,Mila Jones,1,False,Marla Stewart,other,2020,2
+474,The Good Doctor,3,3075270,Nicola Whitney-Griffiths,0,False,Receptionist,other,2020,2
+475,The Good Doctor,3,2031510,Sherilyn Allen,1,False,Youtuber,other,2020,2
+476,The Good Doctor,3,3075272,Maya Ann Chariandy,0,False,Young Girl #1,other,2020,2
+477,The Good Doctor,3,2492169,Shelby Armstrong,1,False,Young Girl #2,other,2020,2
+478,The Good Doctor,3,1749283,Kennith Overbey,0,False,Orderly,other,2020,2
+479,The Good Doctor,3,1276127,Matthew Bridges,2,False,Sergio Beltran,other,2020,2
+480,The Good Doctor,3,2542953,Zade Garcia,0,False,Cory Beltran,other,2020,2
+481,The Good Doctor,3,1815071,Neil Webb,2,False,Teddy,other,2020,2
+482,The Good Doctor,3,1366717,Brittany-Ellen Willacy,0,False,Fran Huck,other,2020,2
+483,The Good Doctor,3,1515051,Karina Noelle Castillo,0,False,Gabriella Beltran,other,2020,2
+484,The Good Doctor,3,3075283,Rebecca Brown,0,False,O.R. Nurse #1,nurse,2020,2
+485,The Good Doctor,3,2944824,Joanne Wilkinson,0,False,Anesthesiologist,other,2020,2
+486,The Good Doctor,3,3003896,Cathy Bruneau,0,False,Nurse,nurse,2020,2
+487,The Good Doctor,3,1753977,Cameron Gellman,2,False,Aiden Porter,other,2020,2
+488,The Good Doctor,3,2555175,Ariah Lee,0,False,Trinity,other,2020,2
+489,The Good Doctor,3,1369075,Luke Camilleri,2,False,Jules Ventane,other,2020,2
+490,The Good Doctor,3,2312110,Jessica Van der Veen,1,False,Maribel Ventane,other,2020,2
+491,The Good Doctor,3,2556025,Patrice Jefferson,0,False,Trinity's Mother,other,2020,2
+492,The Good Doctor,3,183016,Dalias Blake,2,False,Security Guard,other,2020,2
+493,The Good Doctor,3,1887278,Kayla Deorksen,1,False,EMT #1,medic,2020,2
+494,The Good Doctor,3,6195,Harold Perrineau,2,False,Wes Keller,other,2020,3
+495,The Good Doctor,3,41557,Ever Carradine,1,False,Alice Gottfried,other,2020,3
+496,The Good Doctor,3,155282,David Cubitt,2,False,Owen Gottfried,other,2020,3
+497,The Good Doctor,3,1697346,Luke Slattery,2,False,Max Reed,other,2020,3
+498,The Good Doctor,3,1549672,Aman Mann,2,False,Victor,other,2020,3
+499,The Good Doctor,3,2556026,Alix West Lefler,1,False,Ruby Gottfried,other,2020,3
+500,The Good Doctor,3,43464,John Patrick Amedori,2,False,Dash Snyder,other,2020,3
+501,The Good Doctor,3,1927025,Ricky He,2,False,Kellan Park,other,2020,3
+502,The Good Doctor,3,1841595,Tina Grant,1,False,EMT #1,medic,2020,3
+503,The Good Doctor,3,1368848,Nick Hunnings,0,False,EMT #2,medic,2020,3
+504,The Good Doctor,3,928698,Nic Novicki,0,False,Finn Michaels,other,2020,3
+505,The Good Doctor,3,27004,Meghan Heffern,1,False,Nathalie Beauchemin,other,2020,3
+506,The Good Doctor,3,1475542,Paula Burrows,1,False,Kate Spotts,other,2020,3
+507,The Good Doctor,3,558343,Tom Stevens,2,False,Tyson,other,2020,3
+508,The Good Doctor,3,3075293,Cäsar Jacobson,0,False,Bartender,other,2020,3
+509,The Good Doctor,3,2556895,Christina Lewall,0,False,Kelly Smith,other,2020,3
+510,The Good Doctor,3,2481158,Bentley Green,2,False,Casey Taylor,other,2020,3
+511,The Good Doctor,3,164094,Marin Ireland,1,False,Vera Bernard,other,2020,3
+512,The Good Doctor,3,2556147,Jeremiah Oh,2,False,Dan Jackson,other,2020,3
+513,The Good Doctor,3,2578201,Avery Konrad,1,False,Tamara Krantz,other,2020,3
+514,The Good Doctor,3,99407,Lesley Boone,1,False,Marta Cruz,other,2020,3
+515,The Good Doctor,3,116575,Kim Hawthorne,1,False,Noreen Frank,other,2020,3
+516,The Good Doctor,3,2294312,Eric Yue,0,False,Carl Dell,other,2020,3
+517,The Good Doctor,3,3075297,Sebastian Cordoba,0,False,Man with Pole,other,2020,3
+518,The Good Doctor,3,2577899,Bombyx Du Murier,2,False,Casey's Father (voice),other,2020,3
+519,The Good Doctor,4,1281,Freddie Highmore,2,True,Shaun Murphy,other,2020,11
+520,The Good Doctor,4,31028,Richard Schiff,2,True,Aaron Glassman,other,2020,11
+521,The Good Doctor,4,57686,Hill Harper,2,True,Marcus Andrews,doctor,2020,11
+522,The Good Doctor,4,1215689,Christina Chang,1,True,Audrey Lim,doctor,2020,11
+523,The Good Doctor,4,1454610,Paige Spara,1,True,Lea Dilallo,other,2020,11
+524,The Good Doctor,4,1233749,Fiona Gubelmann,1,True,Morgan Reznick,other,2020,11
+525,The Good Doctor,4,10884,Will Yun Lee,2,True,Alex Park,other,2020,11
+526,The Good Doctor,4,221981,Antonia Thomas,1,True,Claire Browne,other,2020,11
+527,The Good Doctor,4,61852,Nicholas Gonzalez,2,False,Neil Melendez,other,2020,11
+528,The Good Doctor,4,20403,Beau Garrett,1,False,Jessica Preston,other,2020,11
+529,The Good Doctor,4,1512137,Jamillah Ross,1,False,Mildred St. Marry,doctor,2020,11
+530,The Good Doctor,4,157836,Julianne Christie,1,False,Karen Cross,other,2020,11
+531,The Good Doctor,4,21091,Jerry Wasserman,2,False,Walter Flemming,other,2020,11
+532,The Good Doctor,4,1927025,Ricky He,2,False,Kellan Park,other,2020,11
+533,The Good Doctor,4,58395,Karin Konoval,1,False,Deena Petringa,other,2020,11
+534,The Good Doctor,4,1175759,Jennifer Birmingham Lee,1,False,Mia Wuellner,other,2020,11
+535,The Good Doctor,4,58058,Lochlyn Munro,2,False,Martin Cross,other,2020,11
+536,The Good Doctor,4,569210,Bethany Brown,1,False,Rochelle St. Marry,other,2020,11
+537,The Good Doctor,4,43903,Carly Pope,1,False,Lily Cross,other,2020,11
+538,The Good Doctor,4,1052133,Arlen Aguayo-Stewart,1,False,Ambar Estrada,other,2020,11
+539,The Good Doctor,4,2842166,Rebecca Wass,0,False,Nurse,nurse,2020,11
+540,The Good Doctor,4,2465888,Tracey Roath,0,False,Patrice Gromski,other,2020,11
+541,The Good Doctor,4,3075306,Ché Aimee Dorval,0,False,Cashier,other,2020,11
+542,The Good Doctor,4,68109,Sheila Kelley,1,False,Debbie Wexler,other,2020,11
+543,The Good Doctor,4,203639,Elfina Luk,1,False,Dalisay Villanueva,other,2020,11
+544,The Good Doctor,4,1389677,James Kot,2,False,Jimmy Petringa,other,2020,11
+545,The Good Doctor,4,1486572,Robert Leaf,0,False,Donald Sulkin,other,2020,11
+546,The Good Doctor,4,1512170,Natasha Burnett,1,False,Patient's Daughter,other,2020,11
+547,The Good Doctor,4,2561219,Bailey Burr,1,False,Patient's Granddaughter,other,2020,11
+548,The Good Doctor,4,3075309,Isaiah Sawatzky,0,False,Patient's Grandson,other,2020,11
+549,The Good Doctor,4,2601751,Bria Samoné Henderson,1,False,Jordan Allen,other,2020,11
+550,The Good Doctor,4,1472747,Noah Galvin,2,False,Asher Wolke,other,2020,11
+551,The Good Doctor,4,1739694,Michael Liu,2,False,John Lundberg,other,2020,11
+552,The Good Doctor,4,2346247,Sam Robert Muik,2,False,Will Hooper,other,2020,11
+553,The Good Doctor,4,2765502,Samer Salem,2,False,Josh Bunker,other,2020,11
+554,The Good Doctor,4,2878646,Sophia Bucior,0,False,Monica Torres,other,2020,11
+555,The Good Doctor,4,1560243,Brian Marc,2,False,Enrique Guerin,other,2020,11
+556,The Good Doctor,4,1736925,Summer Brown,1,False,Olivia Jackson,other,2020,11
+557,The Good Doctor,4,33527,Adam Beach,2,False,Billy Carr,other,2020,11
+558,The Good Doctor,4,2863423,Jasmine Ashanti,0,False,Kenzie,other,2020,11
+559,The Good Doctor,4,95521,Lindsey Kraft,1,False,Ellie Lewis,other,2020,11
+560,The Good Doctor,4,1288278,Daniel Di Tomasso,2,False,Zane Lumet,other,2020,11
+561,The Good Doctor,4,21298,Ryan Kennedy,2,False,Brendan Lewis,other,2020,11
+562,The Good Doctor,4,1212247,Carlos Lacámara,2,False,Carlo Porter,other,2020,11
+563,The Good Doctor,4,1368788,Jennifer Juniper Angeli,1,False,Toni Snyder,other,2020,11
+564,The Good Doctor,4,1884162,Araz Yaghoubi,0,False,Tech Guy,other,2020,11
+565,The Good Doctor,4,1381542,Alison Wandzura,1,False,Ella Davis,other,2021,1
+566,The Good Doctor,4,29384,Sheila McCarthy,1,False,Rose Babcock,other,2021,1
+567,The Good Doctor,4,210389,David Del Rio,2,False,Ben,other,2021,1
+568,The Good Doctor,4,111685,Kim Shaw,1,False,Zoe,other,2021,1
+569,The Good Doctor,4,2147639,Parmiss Sehat,1,False,Valerie Myers,other,2021,1
+570,The Good Doctor,4,2577900,Daylin Willis,2,False,Driver,doctor,2021,1
+571,The Good Doctor,4,2989121,Katrina Kwan,1,False,Social Worker,other,2021,1
+572,The Good Doctor,4,62172,Benjamin Ayres,2,False,Wyatt Moore,other,2021,1
+573,The Good Doctor,4,122888,Ashley Williams,1,False,Hannah Palmer,other,2021,1
+574,The Good Doctor,4,140182,Matthew MacCaull,2,False,Alan Palmer,other,2021,1
+575,The Good Doctor,4,1711569,Jess Salgueiro,1,False,Sophie,other,2021,1
+576,The Good Doctor,4,2944858,Chelsea Brady,0,False,Patient,other,2021,1
+577,The Good Doctor,4,2944824,Joanne Wilkinson,0,False,Anesthesiologist,other,2021,1
+578,The Good Doctor,4,159386,Kristoffer Polaha,2,False,Anton Denys,other,2021,1
+579,The Good Doctor,4,2682330,Eden Summer Gilmore,0,False,Darya Denys,other,2021,1
+580,The Good Doctor,4,43431,Barclay Hope,2,False,Mike Dilallo,other,2021,1
+581,The Good Doctor,4,63681,Julie Warner,1,False,Pam Dilallo,other,2021,1
+582,The Good Doctor,4,2267887,X Mayo,0,False,Zara Norton,other,2021,2
+583,The Good Doctor,4,2972192,Emmett Preciado,2,False,Rio Gutierrez,other,2021,2
+584,The Good Doctor,4,1132655,Priscilla Faia,1,False,Cintia D'Souza,other,2021,2
+585,The Good Doctor,4,1432082,Johnathan Sousa,0,False,Eliz Simpson,other,2021,2
+586,The Good Doctor,4,1090397,Juliana Wimbles,1,False,Paramedic #1,medic,2021,2
+587,The Good Doctor,4,37059,Nicholas D'Agosto,2,False,Insurance Rep,other,2021,2
+588,The Good Doctor,4,2988570,Caley Versfelt,0,False,Jamie,other,2021,2
+589,The Good Doctor,4,814184,Kurt Yaeger,2,False,Cort Graham,other,2021,2
+590,The Good Doctor,4,1569339,Agnes Tong,1,False,Rachel Trainor,other,2021,2
+591,The Good Doctor,4,137170,Andrew Gillingham,0,False,EMT,medic,2021,2
+592,The Good Doctor,4,184571,Lossen Chambers,1,False,Oncology Nurse,nurse,2021,2
+593,The Good Doctor,4,2988576,Marina Neale,0,False,Tara,other,2021,2
+594,The Good Doctor,4,2988577,Stuart Murray,0,False,Chris,other,2021,2
+595,The Good Doctor,4,3075343,Arnie Licas,0,False,Poker Buddy #1,other,2021,2
+596,The Good Doctor,4,32752,Jerry Walliser,2,False,Poker Buddy #2,other,2021,2
+597,The Good Doctor,4,1680899,April Cameron,1,False,Alyssa Hawks,other,2021,2
+598,The Good Doctor,4,3003890,Michael Taylor,2,False,Jeff Williams,other,2021,3
+599,The Good Doctor,4,12226,Michael B. Silver,2,False,Elias Miller,other,2021,3
+600,The Good Doctor,4,31167,Elizabeth Mitchell,1,False,Dannie Miller,other,2021,3
+601,The Good Doctor,4,1840729,Jesse Stretch,2,False,Tricky,other,2021,3
+602,The Good Doctor,4,3003895,Harry Singh,0,False,MC,other,2021,3
+603,The Good Doctor,4,3003896,Cathy Bruneau,0,False,Nurse,nurse,2021,3
+604,The Good Doctor,4,41517,Christian Clemenson,2,False,Silas Chambers,other,2021,3
+605,The Good Doctor,4,74427,John Hensley,2,False,Oscar,other,2021,3
+606,The Good Doctor,4,157096,Onahoua Rodriguez,1,False,Ana,other,2021,3
+607,The Good Doctor,4,3021857,Sandy Minh Abley,0,False,Receptionist,other,2021,3
+608,The Good Doctor,4,2385472,Jasmine Vega,1,False,Maya Flores,other,2021,3
+609,The Good Doctor,4,1657834,Michael Rosen,2,False,Leo Chen,other,2021,3
+610,The Good Doctor,4,1937046,Robbie Segulam,2,False,Patient,other,2021,3
+611,The Good Doctor,4,1687444,Theresa Wong,1,False,OBGYN,other,2021,3
+612,The Good Doctor,4,110929,Marcuis Harris,2,False,Miles Browne,other,2021,3
+613,The Good Doctor,4,2526726,Wonita Joy,1,False,Mrs. Williams,other,2021,4
+614,The Good Doctor,4,1857203,Farley Jackson,2,False,Bradley Vargas,other,2021,4
+615,The Good Doctor,4,150954,Diane Farr,1,False,Jean Starzak,other,2021,4
+616,The Good Doctor,4,2532472,Alisson Amigo,1,False,Melody,other,2021,4
+617,The Good Doctor,4,3048803,Valerie Duthil,1,False,Theresa,other,2021,4
+618,The Good Doctor,4,1677354,Roan Curtis,1,False,Tory Starzak,other,2021,4
+619,The Good Doctor,4,3061576,Nikita Inniss-Boston,0,False,Pregnant Woman #1,other,2021,4
+620,The Good Doctor,4,2802803,Shyinne Anastacio,1,False,Pregnant Woman #2,other,2021,4
+621,The Good Doctor,4,1685448,Teana-Marie Smith,0,False,OBGYN,other,2021,4
+622,The Good Doctor,4,119758,Anita Brown,1,False,Laboring Woman,other,2021,4
+623,The Good Doctor,4,1457250,Noel Johansen,2,False,Dr. Knox,doctor,2021,4
+624,The Good Doctor,4,3075351,Pam Langham,0,False,Female Patient,other,2021,4
+625,The Good Doctor,4,3075352,Melanie Thorsen,0,False,Wife,other,2021,4
+626,The Good Doctor,4,3075353,Tristan Rehwald,0,False,Husband,other,2021,4
+627,The Good Doctor,4,2429897,Shalyn Ferdinand,1,False,Heather Boyd,other,2021,4
+628,The Good Doctor,4,212429,Italia Ricci,1,False,Taryn Wilkie,other,2021,4
+629,The Good Doctor,4,65421,Elizabeth Rodriguez,1,False,Carina Bardo,other,2021,4
+630,The Good Doctor,4,2140706,Dominic Mariche,0,False,Mason,other,2021,4
+631,The Good Doctor,4,2911856,Knox Hamilton,2,False,Ethan,other,2021,4
+632,The Good Doctor,4,2185507,Wonser De-Gbon,0,False,Nurse #1,nurse,2021,4
+633,The Good Doctor,4,2671437,Dumisile Owane,1,False,Nurse #3,nurse,2021,4
+634,The Good Doctor,4,1887278,Kayla Deorksen,1,False,EMT #1,medic,2021,4
+635,The Good Doctor,4,1906754,Andrew Barber,2,False,EMT #2,medic,2021,4
+636,The Good Doctor,4,2528465,Neetu Garcha,1,False,TV Reporter,other,2021,4
+637,The Good Doctor,4,5047,Veronica Cartwright,1,False,Maxine Stanley,other,2021,5
+638,The Good Doctor,4,3087027,Dani Manning,0,False,Mixologist,other,2021,5
+639,The Good Doctor,4,2126839,Jihan Amer,1,False,Respiratory Tech,other,2021,5
+640,The Good Doctor,4,110525,Kett Turton,2,False,,other,2021,5
+641,The Good Doctor,4,65528,Cynthia Stevenson,1,False,Marian Clark,other,2021,5
+642,The Good Doctor,4,1822025,Asif Ali,2,False,Cal Lewis,other,2021,5
+643,The Good Doctor,4,60719,Hiro Kanagawa,2,False,Paul Nakano,other,2021,5
+644,The Good Doctor,4,1906241,Carly Bentall,1,False,Carly,other,2021,5
+645,The Good Doctor,4,1212317,Derek McGrath,2,False,Artie Hill,other,2021,5
+646,The Good Doctor,4,46898,Peter Graham-Gaudreau,2,False,Pete,other,2021,5
+647,The Good Doctor,4,204239,Zibby Allen,1,False,Darlene Burns,other,2021,5
+648,The Good Doctor,4,1927073,Nevis Unipan,1,False,Ava Burns,other,2021,5
+649,The Good Doctor,4,1475838,Ryan Alexander McDonald,2,False,Park Ranger,other,2021,5
+650,The Good Doctor,4,3103193,Hyder Ali Ajmeri,0,False,EMT,medic,2021,5
+651,The Good Doctor,4,1313645,Jeremy Schuetze,2,False,Benny Davis,other,2021,5
+652,The Good Doctor,4,76828,Patrick Gilmore,2,False,Murray Burns,other,2021,5
+653,The Good Doctor,4,937314,Osvaldo Benavides,2,False,Mateo Rendón,other,2021,5
+654,The Good Doctor,4,1820201,Michel Issa Rubio,2,False,Adelmo's Dad,other,2021,5
+655,The Good Doctor,4,2678039,Antonio Molina,0,False,Adelmo,other,2021,5
+656,The Good Doctor,4,3118414,Zachary Ali,0,False,Óscar Salgado,other,2021,5
+657,The Good Doctor,4,3118418,Muhammad Rizky,0,False,Gaby's Husband,other,2021,5
+658,The Good Doctor,4,3118421,Ana Carrizales,1,False,Señora Gómez,other,2021,5
+659,The Good Doctor,4,2989123,Joselyn Picard,1,False,Aimé Navarro Gomez,other,2021,5
+660,The Good Doctor,4,172990,Alonso Oyarzun,2,False,Sheep Farmer,other,2021,5
+661,The Good Doctor,4,271413,Francisco Cano,2,False,Cab Driver,doctor,2021,5
+662,The Good Doctor,4,2287583,Erika Hau,1,False,Laboring Woman,other,2021,5
+663,The Good Doctor,4,1377968,Raf Rogers,2,False,Laboring Woman's Husband,other,2021,5
+664,The Good Doctor,4,3118431,K. Kortez,0,False,Roberto,other,2021,5
+665,The Good Doctor,4,3103468,Aidan Ferreira,0,False,Nurse #1,nurse,2021,5
+666,The Good Doctor,4,974031,Esmeralda Pimentel,1,False,Nurse Ana Morales,nurse,2021,5
+667,The Good Doctor,4,180937,Allegra Fulton,1,False,Karla Saravia,other,2021,5
+668,The Good Doctor,4,1331278,Javier Lacroix,0,False,Miguel,other,2021,5
+669,The Good Doctor,4,3118406,Melina Alessandra Cermeno,0,False,Tiziana Garza,other,2021,5
+670,The Good Doctor,4,3118408,Shadan Saul Guerrero,1,False,Edna Garza,other,2021,5
+671,The Good Doctor,4,3118409,Benjamin Valdivieso,0,False,Bastion Alonso Ramos,other,2021,5
+672,The Good Doctor,4,2651015,Bianca Caroca,1,False,Sofía Salgado,other,2021,5
+673,The Good Doctor,4,2431685,Ana-Maria Alvarado,1,False,Señora Ramos,other,2021,5
+674,The Good Doctor,4,3118415,Alison Azurdia,0,False,Gaby,other,2021,5
+675,The Good Doctor,4,2685484,Guilherme Babilonia,2,False,León Castillo,other,2021,5
+676,The Good Doctor,4,1403338,Arlina Rodríguez,0,False,Nurse Guerrero,nurse,2021,6
+677,The Good Doctor,4,2059882,Juana Lerma Juarez,1,False,Nurse Aguilar,nurse,2021,6
+678,The Good Doctor,4,1813360,Francisco Trujillo,2,False,Demtost,medic,2021,6
+679,The Good Doctor,5,1281,Freddie Highmore,2,True,Shaun Murphy,other,2021,9
+680,The Good Doctor,5,31028,Richard Schiff,2,True,Aaron Glassman,other,2021,9
+681,The Good Doctor,5,57686,Hill Harper,2,True,Marcus Andrews,doctor,2021,9
+682,The Good Doctor,5,1215689,Christina Chang,1,True,Audrey Lim,doctor,2021,9
+683,The Good Doctor,5,1454610,Paige Spara,1,True,Lea Dilallo,other,2021,9
+684,The Good Doctor,5,1233749,Fiona Gubelmann,1,True,Morgan Reznick,other,2021,9
+685,The Good Doctor,5,10884,Will Yun Lee,2,True,Alex Park,other,2021,9
+686,The Good Doctor,5,2601751,Bria Samoné Henderson,1,True,Jordan Allen,other,2021,9
+687,The Good Doctor,5,1472747,Noah Galvin,2,True,Asher Wolke,other,2021,9
+688,The Good Doctor,5,937314,Osvaldo Benavides,2,True,Mateo Rendón,other,2021,9
+689,The Good Doctor,5,1254399,Angel Parker,1,False,Sarah,other,2021,9
+690,The Good Doctor,5,1699413,Leopold Manswell,2,False,Nick,other,2021,9
+691,The Good Doctor,5,3252258,Kenneth Boateng,0,False,Jackson,other,2021,9
+692,The Good Doctor,5,2671251,Keon Boateng,2,False,Riley,other,2021,9
+693,The Good Doctor,5,1555119,Baldeep Singh,2,False,Officiant,other,2021,9
+694,The Good Doctor,5,1557066,Alex Sturman,1,False,Female Bartender,other,2021,9
+695,The Good Doctor,5,3252259,Lynette Tien,0,False,María,other,2021,9
+696,The Good Doctor,5,3255864,Christly Charles,0,False,Attractive Woman,other,2021,9
+697,The Good Doctor,5,2138774,Rachel Bay Jones,1,False,Salen Morrison,other,2021,9
+698,The Good Doctor,5,2780098,Blessing Adedijo,1,False,Madeline Cross,other,2021,10
+699,The Good Doctor,5,1347553,Constance Ejuma,1,False,Esther,other,2021,10
+700,The Good Doctor,5,1420663,Lyndon Smith,1,False,Abby Clemmis,other,2021,10
+701,The Good Doctor,5,2911787,Moire Kiyingi,1,False,Guard,other,2021,10
+702,The Good Doctor,5,3104694,Erik Gow,0,False,Photographer,other,2021,10
+703,The Good Doctor,5,203639,Elfina Luk,1,False,Dalisay Villanueva,other,2021,10
+704,The Good Doctor,5,68769,Julie Gonzalo,1,False,Jenna,other,2021,10
+705,The Good Doctor,5,51528,Kelli Fox,1,False,Ellen,other,2021,10
+706,The Good Doctor,5,3003896,Cathy Bruneau,0,False,Nurse,nurse,2021,10
+707,The Good Doctor,5,60609,Doron Bell,2,False,EMT,medic,2021,10
+708,The Good Doctor,5,1680899,April Cameron,1,False,Alyssa Hawks,other,2021,10
+709,The Good Doctor,5,1362456,Kevin Davey,2,False,Car Repair Guy,other,2021,10
+710,The Good Doctor,5,936932,Adam DiMarco,2,False,Henry Campbell,other,2021,10
+711,The Good Doctor,5,2226950,Maria Nash,1,False,Holly Taylor,other,2021,10
+712,The Good Doctor,5,21214,Jill Teed,1,False,Gina Campbell,other,2021,10
+713,The Good Doctor,5,116526,Jeremiah Birkett,2,False,Walt Taylor,other,2021,10
+714,The Good Doctor,5,60851,François Chau,2,False,Leonard Song,other,2021,11
+715,The Good Doctor,5,1163979,Jee Young Han,1,False,Emily Song,other,2021,11
+716,The Good Doctor,5,2059958,Jessica Garcie,1,False,Florist,other,2021,11
+717,The Good Doctor,5,118002,Tom Pickett,2,False,Tailor,other,2021,11
+718,The Good Doctor,5,3294092,Lorena Martinez,1,False,Rosa Castillo,other,2021,11
+719,The Good Doctor,5,157029,Derek Webster,2,False,Ed,other,2021,11
+720,The Good Doctor,5,26929,Crystle Lightning,1,False,Val,other,2021,11
+721,The Good Doctor,5,3095791,Shalev Snitz,0,False,Ollie,other,2021,11
+722,The Good Doctor,5,1825526,Robert Underwood,2,False,Jerry,other,2021,11
+723,The Good Doctor,5,987251,Denise Stauffer,1,False,Cardiologist,other,2021,11
+724,The Good Doctor,5,1459439,Patricia Isaac,1,False,Nira,other,2021,11
+725,The Good Doctor,5,936878,Anthony Ames,2,False,Colson,other,2021,11
+726,The Good Doctor,5,59260,Ann Cusack,1,False,Ilana Reeves,other,2021,11
+727,The Good Doctor,5,1337712,Sean T. Krishnan,2,False,Sunil Rajani,other,2021,11
+728,The Good Doctor,5,59242,Desiree Zurowski,1,False,Shelly Carrol,other,2021,11
+729,The Good Doctor,5,1918751,Shayn Walker,2,False,Burly Guy,other,2021,11
+730,The Good Doctor,5,2536411,Natalee Linez,1,False,Alma García,other,2021,11
+731,The Good Doctor,5,939457,Adam Greydon Reid,2,False,Dr. Fremes,doctor,2021,11
+732,The Good Doctor,5,1246891,Charley Koontz,2,False,Phil Hall,other,2022,2
+733,The Good Doctor,5,1237292,Roberta Valderrama,1,False,Candace Williams,other,2022,2
+734,The Good Doctor,5,1578631,Rebecca Olson,1,False,Monica,other,2022,2
+735,The Good Doctor,5,63563,Veena Sood,1,False,Jacqueline Plante,other,2022,2
+736,The Good Doctor,5,1727683,Adil Zaidi,2,False,Jag Dhanoa,other,2022,2
+737,The Good Doctor,5,1887278,Kayla Deorksen,1,False,EMT,medic,2022,2
+738,The Good Doctor,5,169292,David Marciano,2,False,Joe,other,2022,3
+739,The Good Doctor,5,113926,AJ Michalka,1,False,Nelly Dunn,other,2022,3
+740,The Good Doctor,5,90033,Aly Michalka,1,False,Lexi Dunn,other,2022,3
+741,The Good Doctor,5,141774,Reese Alexander,2,False,Dustin Novick,other,2022,3
+742,The Good Doctor,5,3462651,Mathew Horner,0,False,Cody,other,2022,3
+743,The Good Doctor,5,51800,Teryl Rothery,1,False,Jen Lancaster,other,2022,3
+744,The Good Doctor,5,53930,Tina Majorino,1,False,Grace,other,2022,3
+745,The Good Doctor,5,2964509,Spencer Lord,2,False,Ryan,other,2022,3
+746,The Good Doctor,5,1218928,Erica Cerra,1,False,Amanda,other,2022,3
+747,The Good Doctor,5,1840722,Albert Nicholas,2,False,Dom,other,2022,3
+748,The Good Doctor,5,3468924,Daniela Cabral,0,False,Ryan's Wife,other,2022,3
+749,The Good Doctor,5,3478587,Isla Rose Hall,0,False,Isla Liu,other,2022,3
+750,The Good Doctor,5,3331408,Cheyenne Rouleau,0,False,Gail,other,2022,3
+751,The Good Doctor,5,1517275,Edelyn Okano,1,False,Elaine Liu,other,2022,3
+752,The Good Doctor,5,1582521,Kameron Louangxay,2,False,Bryan Liu,other,2022,3
+753,The Good Doctor,5,27112,Terence Kelly,2,False,Donald,other,2022,3
+754,The Good Doctor,5,33049,Giacomo Baessato,2,False,Jerome,other,2022,3
+755,The Good Doctor,5,1485093,Donna Lynne Champlin,1,False,Brenna,other,2022,3
+756,The Good Doctor,5,78434,America Olivo,1,False,Mariel Torres,other,2022,3
+757,The Good Doctor,5,1475080,Cole Vigue,2,False,Isaac,other,2022,3
+758,The Good Doctor,5,999339,David Tompa,2,False,Viktor,other,2022,3
+759,The Good Doctor,5,1869716,Emily Schoen,0,False,Ferguson,other,2022,3
+760,The Good Doctor,5,2234170,Kapila Rego,1,False,EMT,medic,2022,3
+761,The Good Doctor,5,3522483,Mohamad Hajem,0,False,NICU Resident,other,2022,3
+762,The Good Doctor,5,208310,Cherise Boothe,1,False,Carrie,other,2022,4
+763,The Good Doctor,5,1489441,Annalisa Cochrane,1,False,Kayla Quinn,other,2022,4
+764,The Good Doctor,5,1838549,Mishka Thébaud,2,False,Justin Quinn,other,2022,4
+765,The Good Doctor,5,2441746,Zavien Garrett,0,False,Trent,other,2022,4
+766,The Good Doctor,5,2674944,Sage Linder,0,False,Dixie,other,2022,4
+767,The Good Doctor,5,569210,Bethany Brown,1,False,Rochelle,other,2022,4
+768,The Good Doctor,5,1368520,Jason Burkart,2,False,Cameron,other,2022,4
+769,The Good Doctor,5,1581107,Ash Lee,2,False,Ben,other,2022,4
+770,The Good Doctor,5,1794575,Tarun Keram,2,False,Jake,other,2022,4
+771,The Good Doctor,5,1698676,Kylee Bush,1,False,Brea,other,2022,4
+772,The Good Doctor,5,2964190,Julian Nelson,2,False,Ted,other,2022,4
+773,The Good Doctor,5,2849821,Dan Ginnane,2,False,Young Man,other,2022,4
+774,The Good Doctor,5,1476033,Paul Moniz de Sa,2,False,Doctor #1,doctor,2022,4
+775,The Good Doctor,5,3183739,Britney Mocca,0,False,Doctor #2,doctor,2022,4
+776,The Good Doctor,5,23975,Lee Garlington,1,False,Joan,other,2022,4
+777,The Good Doctor,5,3104809,"Marcus ""MJ"" Gladney Jr.",0,False,Kevin Dolin,other,2022,4
+778,The Good Doctor,5,52457,Eileen Pedde,1,False,Sara,other,2022,4
+779,The Good Doctor,5,27128,Aaron Pearl,2,False,Dale,other,2022,4
+780,The Good Doctor,5,2026853,Jennifer Tong,1,False,Allie,other,2022,4
+781,The Good Doctor,5,2845710,Mariesa Crouse,1,False,Suzie,other,2022,4
+782,The Good Doctor,5,3522492,Demi Pedersen,0,False,Jamie,other,2022,4
+783,The Good Doctor,5,1840900,Carlo Yu,2,False,Joan's Friend,other,2022,4
+784,The Good Doctor,5,2509658,Alisha Ahamed,1,False,Joan's Friend,other,2022,4
+785,The Good Doctor,5,233264,Jenna Romanin,1,False,Joan's Friend,other,2022,4
+786,The Good Doctor,5,3522494,Frank Paige,0,False,Joan's Friend,other,2022,4
+787,The Good Doctor,5,3522489,Hollis Jane Andrews,0,False,Sophie,other,2022,4
+788,The Good Doctor,5,169778,Mercedes de la Zerda,1,False,Dana Bradley,other,2022,5
+789,The Good Doctor,5,113930,Sandy Robson,2,False,Grant Ferlin,other,2022,5
+790,The Good Doctor,5,3538453,Naomi Rose MacFadden,0,False,Nicole,other,2022,5
+791,The Good Doctor,5,3538455,Patrick Gerber,0,False,Vance,other,2022,5
+792,The Good Doctor,5,221981,Antonia Thomas,1,False,Claire Browne,other,2022,5
+793,The Good Doctor,5,2673040,Daniel Romolliwa,2,False,Philip,other,2022,5
+794,The Good Doctor,5,1090397,Juliana Wimbles,1,False,EMT,medic,2022,5
+795,The Good Doctor,5,3545006,Julian Rangel,0,False,Lucho,other,2022,5
+796,The Good Doctor,5,79346,John Shaw,2,False,Vincent,other,2022,5
+797,The Good Doctor,5,2387518,Kiera Allen,1,False,Steph Lewis,other,2022,5
+798,The Good Doctor,5,97950,Kathe Mazur,1,False,Miriam Wolke,other,2022,5
+799,The Good Doctor,5,11677,Terry Chen,2,False,Dalisay's Ex,other,2022,5
+800,The Good Doctor,5,31282,Richard Topol,2,False,Yosel Wolke,other,2022,5
+801,The Good Doctor,5,3553382,Matthew Clarke,0,False,Steph's Husband,other,2022,5
+802,The Good Doctor,5,1529426,Graham Verchere,2,False,Shaun Murphy,other,2022,5

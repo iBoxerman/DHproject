@@ -8,10 +8,10 @@ class Record:
         self.season_number = int(season_number)
         self.actor_id = int(credit.id)
         self.actor_name = str(credit.name)
-        self.character = str(credit.character)
+        self.character_name = str(credit.character)
         self.gender = int(credit.gender)
         self.main_cast = bool(credit.is_main)
-        self.occupation = str(credit.find_occ())
+        self.character_occupation = str(credit.find_occ())
         self.year = int(episode.year)
         self.month = int(episode.month)
 
@@ -25,7 +25,8 @@ class Credit:
         self.is_main = bool(is_main)
 
     def find_occ(self):
-        doctor_synonym = ['doctor', 'doc', 'dr', 'dr.', 'physician', 'surgeon', 'specialist']
+        doctor_synonym = ['doctor', 'doc', 'dr', 'dr.', 'dr ', 'dr. ',
+                          'physician', 'surgeon', 'specialist']
         nurse_synonym = ['nurse']
         intern_synonym = ['intern']
         medic_synonym = ['medic', 'emt', 'assistant']
