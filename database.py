@@ -36,7 +36,7 @@ def get_results(endpoint_url, id):
 
 def get_tv_show_roles(id):
     if id in tv_show_data:
-        return {}
+        return tv_show_data[id]
     results = get_results(endpoint_url,id)["results"]["bindings"]
     dict = {}
     for result in results:
@@ -54,6 +54,9 @@ def get_occupations(id,name):
         return tv_show_data[id][name]
     else:
         return []
+
+
+
 
 
 
