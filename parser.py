@@ -16,8 +16,9 @@ def parse_date(yyyy_mm_dd, goal='y'):
         return yyyy_mm_dd.split('-')[-1]
 
 
-def parse_credit(credit, is_main):
-    return if_satisfy(Credit(credit.id,
+def parse_credit(show_id, credit, is_main):
+    return if_satisfy(Credit(show_id,
+                             credit.id,
                              credit.name,
                              credit.character,
                              credit.gender,
@@ -25,17 +26,18 @@ def parse_credit(credit, is_main):
                       validate_credit(credit))
 
 
-def parse_credits(credits, is_main):
-    return list(filter(None, [parse_credit(credit, is_main) for credit in credits]))
+def parse_credits(show_id, credits, is_main):
+    return list(filter(None, [parse_credit(show_id, credit, is_main) for credit in credits]))
 
 
-def parse_episode(episode_details):
-    episode = Episode(episode_details.id,
+def parse_episode(show_id, episode_details):
+    episode = Episode(show_id,
+                      episode_details.id,
                       parse_date(episode_details.air_date),
                       parse_date(episode_details.air_date, 'm'),
-                      parse_credits(episode_details.credits.cast, True))
+                      parse_credits(show_id, episode_details.credits.cast, True))
     try:
-        guest_stars = parse_credits(episode_details.credits.guest_stars, False)
+        guest_stars = parse_credits(show_id, episode_details.credits.guest_stars, False)
         if guest_stars:
             episode.append_to_cast(guest_stars)
     except RuntimeError:

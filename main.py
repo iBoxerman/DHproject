@@ -22,7 +22,7 @@ def handle_episode(df, show, season_number, episode):
     return df
 
 
-shows = ["The Good Doctor", "ER", "Scrubs", "Grey's Anatomy"]
+shows = ["Grey's Anatomy", "The Good Doctor", "ER", "Scrubs"]
 for show in shows:
     show_df = pd.DataFrame(columns=COLUMNS, dtype=object)
     show = get_show(show)

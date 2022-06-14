@@ -2,6 +2,10 @@ COLUMNS = ['show_name', 'season_number', 'actor_id', 'actor_name', 'gender',
            'main_cast', 'character_name', 'character_occupation', 'year', 'month']
 
 
+def ext(show_id, name):
+    return ["surgeon"]
+
+
 class Record:
     def __init__(self, credit, show_name, season_number, episode):
         self.show_name = str(show_name)
@@ -17,7 +21,8 @@ class Record:
 
 
 class Credit:
-    def __init__(self, id, name, character, gender, is_main):
+    def __init__(self, show_id, id, name, character, gender, is_main):
+        self.show_id = int(show_id)
         self.id = int(id)
         self.name = str(name)
         self.character = str(character)
@@ -25,21 +30,32 @@ class Credit:
         self.is_main = bool(is_main)
 
     def find_occ(self):
-        doctor_synonym = ['doctor', 'doc', 'dr', 'dr.', 'dr ', 'dr. ',
-                          'physician', 'surgeon', 'specialist']
-        nurse_synonym = ['nurse']
+        doctor_synonym = ['doctor', 'doc',
+                          'dr', 'dr.', 'dr ', 'dr. ',
+                          'physician', 'surgeon', 'specialist',
+                          'neurosurgeon', 'pediatrician', 'gynaecologist',
+                          'internist', 'obstetrician']
+        nurse_synonym = ['nurse', 'midwife']
         intern_synonym = ['intern']
-        medic_synonym = ['medic', 'emt', 'assistant']
+        medic_synonym = ['medic', 'emt', 'assistant', 'psychiatrist', 'anesthesiologist']
         character_name = self.character.lower()
-        for synonym in [doctor_synonym, nurse_synonym, intern_synonym, medic_synonym]:
+        synonyms = [doctor_synonym, nurse_synonym, intern_synonym, medic_synonym]
+        for synonym in synonyms:
             for occ in synonym:
                 if character_name.find(occ) != -1:
                     return synonym[0]
+        other_occs = ext(self.show_id, self.character)
+        for other_occ in other_occs:
+            for synonym in synonyms:
+                for occ in synonym:
+                    if other_occ.find(occ) != -1:
+                        return synonym[0]
         return 'other'
 
 
 class Episode:
-    def __init__(self, id, year, month, cast):
+    def __init__(self, show_id, id, year, month, cast):
+        self.show_id = int(show_id)
         self.id = int(id)
         self.year = int(year)
         self.month = int(month)

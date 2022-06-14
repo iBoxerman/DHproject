@@ -22,5 +22,5 @@ def get_seasons(show):
 
 def get_episodes(show_id, season):
     episodes_api = Episode()
-    return [parse_episode(episodes_api.details(show_id, season.number, episode, append_to_response="credits"))
+    return [parse_episode(show_id, episodes_api.details(show_id, season.number, episode, append_to_response="credits"))
             for episode in range(1, season.episodes_number + 1)]
