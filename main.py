@@ -1,12 +1,11 @@
-from tmdb_client import get_show, get_episodes, get_seasons
 import pandas as pd
 from scheme import Record, COLUMNS
+from client_tmdb import get_show, get_episodes, get_seasons
 
 
 def add_or_update(df, record):
     ind = df.index[(df["actor_id"] == record.actor_id) & (df["season_number"] == record.season_number)].tolist()
     if len(ind) > 0:
-        # print("double")
         old = df.at[ind[0], "actor_id"]
         if old != record.actor_id:
             print("PROMOTION")
@@ -22,7 +21,7 @@ def handle_episode(df, show, season_number, episode):
     return df
 
 
-shows = ["Grey's Anatomy", "The Good Doctor", "ER", "Scrubs"]
+shows = ["Grey's Anatomy", "The Good Doctor", "ER", "Scrubs", "House"]
 for show in shows:
     show_df = pd.DataFrame(columns=COLUMNS, dtype=object)
     show = get_show(show)

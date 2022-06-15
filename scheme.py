@@ -1,9 +1,7 @@
+from client_wikidata import get_occupations
+
 COLUMNS = ['show_name', 'season_number', 'actor_id', 'actor_name', 'gender',
            'main_cast', 'character_name', 'character_occupation', 'year', 'month']
-
-
-def ext(show_id, name):
-    return ["surgeon"]
 
 
 class Record:
@@ -15,21 +13,21 @@ class Record:
         self.character_name = str(credit.character)
         self.gender = int(credit.gender)
         self.main_cast = bool(credit.is_main)
-        self.character_occupation = str(credit.find_occ())
+        self.character_occupation = str(credit.find_occupation())
         self.year = int(episode.year)
         self.month = int(episode.month)
 
 
 class Credit:
-    def __init__(self, show_id, id, name, character, gender, is_main):
+    def __init__(self, show_id, actor_id, name, character, gender, is_main):
         self.show_id = int(show_id)
-        self.id = int(id)
+        self.id = int(actor_id)
         self.name = str(name)
         self.character = str(character)
         self.gender = int(gender)
         self.is_main = bool(is_main)
 
-    def find_occ(self):
+    def find_occupation(self):
         doctor_synonym = ['doctor', 'doc',
                           'dr', 'dr.', 'dr ', 'dr. ',
                           'physician', 'surgeon', 'specialist',
@@ -40,23 +38,30 @@ class Credit:
         medic_synonym = ['medic', 'emt', 'assistant', 'psychiatrist', 'anesthesiologist']
         character_name = self.character.lower()
         synonyms = [doctor_synonym, nurse_synonym, intern_synonym, medic_synonym]
-        for synonym in synonyms:
-            for occ in synonym:
-                if character_name.find(occ) != -1:
-                    return synonym[0]
-        other_occs = ext(self.show_id, self.character)
-        for other_occ in other_occs:
+
+        def search_for_in_all_synonyms(x):
             for synonym in synonyms:
-                for occ in synonym:
-                    if other_occ.find(occ) != -1:
+                for occupation in synonym:
+                    if x.find(occupation) != -1:
                         return synonym[0]
-        return 'other'
+            return None
+
+        found = search_for_in_all_synonyms(character_name)
+        if found:
+            return found
+
+        cross_reference_occupations = get_occupations(self.show_id, self.character)
+        for other_occupation in cross_reference_occupations:
+            found = search_for_in_all_synonyms(other_occupation)
+            if found:
+                return found
+        return 'other' if not self.is_main else 'doctor (probably)'
 
 
 class Episode:
-    def __init__(self, show_id, id, year, month, cast):
+    def __init__(self, show_id, episode_id, year, month, cast):
         self.show_id = int(show_id)
-        self.id = int(id)
+        self.id = int(episode_id)
         self.year = int(year)
         self.month = int(month)
         self.cast = cast
@@ -66,14 +71,14 @@ class Episode:
 
 
 class Season:
-    def __init__(self, id, season_number, episodes_number):
-        self.id = int(id)
+    def __init__(self, season_id, season_number, episodes_number):
+        self.id = int(season_id)
         self.number = int(season_number)
         self.episodes_number = int(episodes_number)
 
 
 class Show:
-    def __init__(self, id, name, seasons_number):
-        self.id = int(id)
+    def __init__(self, show_id, name, seasons_number):
+        self.id = int(show_id)
         self.name = str(name)
         self.seasons_number = int(seasons_number)

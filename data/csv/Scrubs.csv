@@ -1,11 +1,11 @@
 ,show_name,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
-0,Scrubs,1,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2001,10
-1,Scrubs,1,49002,Donald Faison,2,True,Christopher Turk,other,2001,10
-2,Scrubs,1,11885,John C. McGinley,2,True,Perry Cox,other,2001,10
-3,Scrubs,1,38570,Ken Jenkins,2,True,Bob Kelso,other,2001,10
-4,Scrubs,1,159657,Judy Reyes,1,True,Carla Espinosa,other,2001,10
-5,Scrubs,1,43776,Neil Flynn,2,True,Janitor,other,2001,10
-6,Scrubs,1,49001,Sarah Chalke,1,True,Elliot Reid,other,2001,10
+0,Scrubs,1,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2001,10
+1,Scrubs,1,49002,Donald Faison,2,True,Christopher Turk,doctor,2001,10
+2,Scrubs,1,11885,John C. McGinley,2,True,Perry Cox,doctor,2001,10
+3,Scrubs,1,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2001,10
+4,Scrubs,1,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2001,10
+5,Scrubs,1,43776,Neil Flynn,2,True,Janitor,doctor (probably),2001,10
+6,Scrubs,1,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2001,10
 7,Scrubs,1,116907,Marshall Manesh,2,False,Pizza Guy,other,2001,10
 8,Scrubs,1,1231142,Michael Hobert,2,False,Pizza Guy,other,2001,10
 9,Scrubs,1,1236034,Jake Fritz,0,False,Billy,other,2001,10
@@ -120,13 +120,13 @@
 118,Scrubs,1,2091688,April Pressel,0,False,Denise Bober,other,2002,5
 119,Scrubs,1,1798968,Michael Cotter,2,False,Intern,intern,2002,5
 120,Scrubs,1,91323,Don Perry,2,False,Mr. Bober,other,2002,5
-121,Scrubs,2,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2002,9
-122,Scrubs,2,49002,Donald Faison,2,True,Christopher Turk,other,2002,9
-123,Scrubs,2,11885,John C. McGinley,2,True,Perry Cox,other,2002,9
-124,Scrubs,2,38570,Ken Jenkins,2,True,Bob Kelso,other,2002,9
-125,Scrubs,2,159657,Judy Reyes,1,True,Carla Espinosa,other,2002,9
-126,Scrubs,2,43776,Neil Flynn,2,True,Janitor,other,2002,9
-127,Scrubs,2,49001,Sarah Chalke,1,True,Elliot Reid,other,2002,9
+121,Scrubs,2,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2002,9
+122,Scrubs,2,49002,Donald Faison,2,True,Christopher Turk,doctor,2002,9
+123,Scrubs,2,11885,John C. McGinley,2,True,Perry Cox,doctor,2002,9
+124,Scrubs,2,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2002,9
+125,Scrubs,2,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2002,9
+126,Scrubs,2,43776,Neil Flynn,2,True,Janitor,doctor (probably),2002,9
+127,Scrubs,2,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2002,9
 128,Scrubs,2,60228,Colin Hay,2,False,Troubador,other,2002,9
 129,Scrubs,2,2221739,Scott Peacock,0,False,Mr. Zerbo,other,2002,9
 130,Scrubs,2,1217130,Bob McClurg,2,False,Car Driver,doctor,2002,9
@@ -235,13 +235,13 @@
 233,Scrubs,2,155510,Richard Voigts,2,False,Mr. Weinberg,other,2003,4
 234,Scrubs,2,1925263,James Henriksen,0,False,Husband,other,2003,4
 235,Scrubs,2,45000,Sarah Lilly,1,False,Wife,other,2003,4
-236,Scrubs,3,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2003,10
-237,Scrubs,3,49002,Donald Faison,2,True,Christopher Turk,other,2003,10
-238,Scrubs,3,11885,John C. McGinley,2,True,Perry Cox,other,2003,10
-239,Scrubs,3,38570,Ken Jenkins,2,True,Bob Kelso,other,2003,10
-240,Scrubs,3,159657,Judy Reyes,1,True,Carla Espinosa,other,2003,10
-241,Scrubs,3,43776,Neil Flynn,2,True,Janitor,other,2003,10
-242,Scrubs,3,49001,Sarah Chalke,1,True,Elliot Reid,other,2003,10
+236,Scrubs,3,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2003,10
+237,Scrubs,3,49002,Donald Faison,2,True,Christopher Turk,doctor,2003,10
+238,Scrubs,3,11885,John C. McGinley,2,True,Perry Cox,doctor,2003,10
+239,Scrubs,3,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2003,10
+240,Scrubs,3,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2003,10
+241,Scrubs,3,43776,Neil Flynn,2,True,Janitor,doctor (probably),2003,10
+242,Scrubs,3,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2003,10
 243,Scrubs,3,35595,Scott Foley,2,False,Sean Kelly,other,2003,10
 244,Scrubs,3,9996,Sean Whalen,2,False,Laddy,other,2003,10
 245,Scrubs,3,1710,Lee Arenberg,2,False,Dr. Moyer,doctor,2003,10
@@ -363,13 +363,13 @@
 361,Scrubs,3,1237161,George Miserlis,0,False,Crispin,other,2004,5
 362,Scrubs,3,2221731,Philip McNiven,2,False,Roy,other,2004,5
 363,Scrubs,3,2227127,Paul F. Perry,0,False,Randall,other,2004,5
-364,Scrubs,4,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2004,8
-365,Scrubs,4,49002,Donald Faison,2,True,Christopher Turk,other,2004,8
-366,Scrubs,4,11885,John C. McGinley,2,True,Perry Cox,other,2004,8
-367,Scrubs,4,38570,Ken Jenkins,2,True,Bob Kelso,other,2004,8
-368,Scrubs,4,159657,Judy Reyes,1,True,Carla Espinosa,other,2004,8
-369,Scrubs,4,43776,Neil Flynn,2,True,Janitor,other,2004,8
-370,Scrubs,4,49001,Sarah Chalke,1,True,Elliot Reid,other,2004,8
+364,Scrubs,4,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2004,8
+365,Scrubs,4,49002,Donald Faison,2,True,Christopher Turk,doctor,2004,8
+366,Scrubs,4,11885,John C. McGinley,2,True,Perry Cox,doctor,2004,8
+367,Scrubs,4,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2004,8
+368,Scrubs,4,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2004,8
+369,Scrubs,4,43776,Neil Flynn,2,True,Janitor,doctor (probably),2004,8
+370,Scrubs,4,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2004,8
 371,Scrubs,4,1349480,Cynthia Frost,1,False,Mrs. Grodberg,other,2004,8
 372,Scrubs,4,59215,Jordi Caballero,2,False,Massimo,other,2004,8
 373,Scrubs,4,14853,Michael Alaimo,2,False,Mr. Radford,other,2004,8
@@ -521,13 +521,13 @@
 519,Scrubs,4,1341061,Stuart McLean,2,False,Dr. Gold,doctor,2005,5
 520,Scrubs,4,2408698,Madison R. Wells,0,False,Karen,other,2005,5
 521,Scrubs,4,1381388,Brian Oerly,0,False,Angry Neighbor,other,2005,5
-522,Scrubs,5,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2006,1
-523,Scrubs,5,49002,Donald Faison,2,True,Christopher Turk,other,2006,1
-524,Scrubs,5,11885,John C. McGinley,2,True,Perry Cox,other,2006,1
-525,Scrubs,5,38570,Ken Jenkins,2,True,Bob Kelso,other,2006,1
-526,Scrubs,5,159657,Judy Reyes,1,True,Carla Espinosa,other,2006,1
-527,Scrubs,5,43776,Neil Flynn,2,True,Janitor,other,2006,1
-528,Scrubs,5,49001,Sarah Chalke,1,True,Elliot Reid,other,2006,1
+522,Scrubs,5,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2006,1
+523,Scrubs,5,49002,Donald Faison,2,True,Christopher Turk,doctor,2006,1
+524,Scrubs,5,11885,John C. McGinley,2,True,Perry Cox,doctor,2006,1
+525,Scrubs,5,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2006,1
+526,Scrubs,5,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2006,1
+527,Scrubs,5,43776,Neil Flynn,2,True,Janitor,doctor (probably),2006,1
+528,Scrubs,5,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2006,1
 529,Scrubs,5,46927,Josh Hammond,2,False,Razor,other,2006,1
 530,Scrubs,5,155027,Joe Costanza,2,False,Mr. Kellerman,other,2006,1
 531,Scrubs,5,1863792,Opender Singh,0,False,Omar,other,2006,1
@@ -680,13 +680,13 @@
 678,Scrubs,5,2412194,Leon David Franco,0,False,Greaser,other,2006,5
 679,Scrubs,5,9281,Elizabeth Banks,1,False,Dr. Kim Briggs,doctor,2006,5
 680,Scrubs,5,2412198,Edward Tinney,0,False,Dr. Fulton,doctor,2006,5
-681,Scrubs,6,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2006,11
-682,Scrubs,6,49002,Donald Faison,2,True,Christopher Turk,other,2006,11
-683,Scrubs,6,11885,John C. McGinley,2,True,Perry Cox,other,2006,11
-684,Scrubs,6,38570,Ken Jenkins,2,True,Bob Kelso,other,2006,11
-685,Scrubs,6,159657,Judy Reyes,1,True,Carla Espinosa,other,2006,11
-686,Scrubs,6,43776,Neil Flynn,2,True,Janitor,other,2006,11
-687,Scrubs,6,49001,Sarah Chalke,1,True,Elliot Reid,other,2006,11
+681,Scrubs,6,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2006,11
+682,Scrubs,6,49002,Donald Faison,2,True,Christopher Turk,doctor,2006,11
+683,Scrubs,6,11885,John C. McGinley,2,True,Perry Cox,doctor,2006,11
+684,Scrubs,6,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2006,11
+685,Scrubs,6,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2006,11
+686,Scrubs,6,43776,Neil Flynn,2,True,Janitor,doctor (probably),2006,11
+687,Scrubs,6,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2006,11
 688,Scrubs,6,1531017,Chris Dougherty,2,False,Jerry,other,2006,11
 689,Scrubs,6,81739,Tate Hanyok,1,False,Debbie,other,2006,11
 690,Scrubs,6,2154096,Carl J. Johnson,0,False,Harvey,other,2006,11
@@ -812,13 +812,13 @@
 810,Scrubs,6,562701,Mary Kathleen Gordon,1,False,Mrs. Cole,other,2007,5
 811,Scrubs,6,2415019,Campbell Whitman,0,False,Jen,other,2007,5
 812,Scrubs,6,2409993,Tim Kahle,0,False,Priest,other,2007,5
-813,Scrubs,7,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2007,10
-814,Scrubs,7,49002,Donald Faison,2,True,Christopher Turk,other,2007,10
-815,Scrubs,7,11885,John C. McGinley,2,True,Perry Cox,other,2007,10
-816,Scrubs,7,38570,Ken Jenkins,2,True,Bob Kelso,other,2007,10
-817,Scrubs,7,159657,Judy Reyes,1,True,Carla Espinosa,other,2007,10
-818,Scrubs,7,43776,Neil Flynn,2,True,Janitor,other,2007,10
-819,Scrubs,7,49001,Sarah Chalke,1,True,Elliot Reid,other,2007,10
+813,Scrubs,7,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2007,10
+814,Scrubs,7,49002,Donald Faison,2,True,Christopher Turk,doctor,2007,10
+815,Scrubs,7,11885,John C. McGinley,2,True,Perry Cox,doctor,2007,10
+816,Scrubs,7,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2007,10
+817,Scrubs,7,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2007,10
+818,Scrubs,7,43776,Neil Flynn,2,True,Janitor,doctor (probably),2007,10
+819,Scrubs,7,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2007,10
 820,Scrubs,7,97604,Kevin Rahm,2,False,Mr. Hutnik,other,2007,10
 821,Scrubs,7,9281,Elizabeth Banks,1,False,Dr. Kim Briggs,doctor,2007,10
 822,Scrubs,7,2407936,Geoff Stevenson,0,False,Dr. Beardface,doctor,2007,10
@@ -877,13 +877,13 @@
 875,Scrubs,7,203801,Katie Gill,1,False,Marian,other,2008,5
 876,Scrubs,7,1357479,Paul Kwo,2,False,Potions Tech,other,2008,5
 877,Scrubs,7,2412779,Lindsay Ravage,0,False,Slagathor,other,2008,5
-878,Scrubs,8,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2009,1
-879,Scrubs,8,49002,Donald Faison,2,True,Christopher Turk,other,2009,1
-880,Scrubs,8,11885,John C. McGinley,2,True,Perry Cox,other,2009,1
-881,Scrubs,8,38570,Ken Jenkins,2,True,Bob Kelso,other,2009,1
-882,Scrubs,8,159657,Judy Reyes,1,True,Carla Espinosa,other,2009,1
-883,Scrubs,8,43776,Neil Flynn,2,True,Janitor,other,2009,1
-884,Scrubs,8,49001,Sarah Chalke,1,True,Elliot Reid,other,2009,1
+878,Scrubs,8,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2009,1
+879,Scrubs,8,49002,Donald Faison,2,True,Christopher Turk,doctor,2009,1
+880,Scrubs,8,11885,John C. McGinley,2,True,Perry Cox,doctor,2009,1
+881,Scrubs,8,38570,Ken Jenkins,2,True,Bob Kelso,doctor,2009,1
+882,Scrubs,8,159657,Judy Reyes,1,True,Carla Espinosa,nurse,2009,1
+883,Scrubs,8,43776,Neil Flynn,2,True,Janitor,doctor (probably),2009,1
+884,Scrubs,8,49001,Sarah Chalke,1,True,Elliot Reid,doctor,2009,1
 885,Scrubs,8,1213573,Taran Killam,2,False,Jimmy,other,2009,1
 886,Scrubs,8,86626,Aziz Ansari,2,False,Ed,other,2009,1
 887,Scrubs,8,14405,Courteney Cox,1,False,Dr. Maddox,doctor,2009,1
@@ -985,18 +985,18 @@
 983,Scrubs,8,2412779,Lindsay Ravage,0,False,Slagathor,other,2009,5
 984,Scrubs,8,87280,Bellamy Young,1,False,Dr. Miller,doctor,2009,5
 985,Scrubs,8,35521,Matt Winston,2,False,Jeffrey Steadman,other,2009,5
-986,Scrubs,9,5367,Zach Braff,2,True,"John ""J.D."" Dorian",other,2009,12
-987,Scrubs,9,49002,Donald Faison,2,True,Christopher Turk,other,2009,12
-988,Scrubs,9,11885,John C. McGinley,2,True,Perry Cox,other,2009,12
-989,Scrubs,9,210050,Eliza Coupe,1,True,Denise Mahoney,other,2009,12
-990,Scrubs,9,58356,Kerry Bishé,1,True,Lucy Bennett,other,2009,12
+986,Scrubs,9,5367,Zach Braff,2,True,"John ""J.D."" Dorian",doctor (probably),2009,12
+987,Scrubs,9,49002,Donald Faison,2,True,Christopher Turk,doctor,2009,12
+988,Scrubs,9,11885,John C. McGinley,2,True,Perry Cox,doctor,2009,12
+989,Scrubs,9,210050,Eliza Coupe,1,True,Denise Mahoney,doctor,2009,12
+990,Scrubs,9,58356,Kerry Bishé,1,True,Lucy Bennett,doctor (probably),2009,12
 991,Scrubs,9,72994,Michael Mosley,2,True,Drew Suffin,doctor,2009,12
-992,Scrubs,9,54697,Dave Franco,2,True,Cole Aaronson,other,2009,12
+992,Scrubs,9,54697,Dave Franco,2,True,Cole Aaronson,doctor (probably),2009,12
 993,Scrubs,9,43776,Neil Flynn,2,False,Janitor,other,2009,12
 994,Scrubs,9,2431014,David Kobzantsev,0,False,Michael,other,2009,12
 995,Scrubs,9,44222,"Antonio Sabàto, Jr.",2,False,Himself,other,2009,12
 996,Scrubs,9,1216705,Robert Maschio,2,False,Todd,other,2009,12
-997,Scrubs,9,49001,Sarah Chalke,1,False,Elliot Reid,other,2009,12
+997,Scrubs,9,49001,Sarah Chalke,1,False,Elliot Reid,doctor,2009,12
 998,Scrubs,9,79349,Walter Addison,2,False,Ben,other,2009,12
 999,Scrubs,9,38570,Ken Jenkins,2,False,Dr. Kelso,doctor,2009,12
 1000,Scrubs,9,212833,Nicky Whelan,1,False,Maya,other,2009,12

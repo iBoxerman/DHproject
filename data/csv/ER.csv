@@ -1,10 +1,10 @@
 ,show_name,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
-0,ER,1,33653,Sherry Stringfield,1,True,Susan Lewis,other,1994,9
-1,ER,1,23628,Eriq La Salle,2,True,Peter Benton,other,1994,9
-2,ER,1,25654,Julianna Margulies,1,True,Carol Hathaway,other,1994,9
-3,ER,1,13526,Noah Wyle,2,True,John Carter,other,1994,9
-4,ER,1,11085,Anthony Edwards,2,True,Mark Greene,other,1994,9
-5,ER,1,1461,George Clooney,2,True,Doug Ross,other,1994,9
+0,ER,1,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,1994,9
+1,ER,1,23628,Eriq La Salle,2,True,Peter Benton,doctor,1994,9
+2,ER,1,25654,Julianna Margulies,1,True,Carol Hathaway,doctor (probably),1994,9
+3,ER,1,11085,Anthony Edwards,2,True,Mark Greene,doctor,1994,9
+4,ER,1,13526,Noah Wyle,2,True,John Carter,doctor,1994,9
+5,ER,1,1461,George Clooney,2,True,Doug Ross,doctor,1994,9
 6,ER,1,58265,Herbert Jefferson Jr.,2,False,Trooper,other,1994,9
 7,ER,1,3905,William H. Macy,2,False,David Morgenstern,other,1994,9
 8,ER,1,124786,Holly Gagnier,1,False,Tracy Young,other,1994,9
@@ -393,12 +393,12 @@
 391,ER,1,2930341,Jeff Seibert,0,False,Thomas Ellison,other,1995,5
 392,ER,1,2672490,Herman Sinitzyn,2,False,Uncle Michel,other,1995,5
 393,ER,1,1092605,Györgyi Tarján,1,False,Helen Hathaway,other,1995,5
-394,ER,2,33653,Sherry Stringfield,1,True,Susan Lewis,other,1995,9
-395,ER,2,23628,Eriq La Salle,2,True,Peter Benton,other,1995,9
-396,ER,2,25654,Julianna Margulies,1,True,Carol Hathaway,other,1995,9
-397,ER,2,11085,Anthony Edwards,2,True,Mark Greene,other,1995,9
-398,ER,2,13526,Noah Wyle,2,True,John Carter,other,1995,9
-399,ER,2,1461,George Clooney,2,True,Doug Ross,other,1995,9
+394,ER,2,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,1995,9
+395,ER,2,23628,Eriq La Salle,2,True,Peter Benton,doctor,1995,9
+396,ER,2,25654,Julianna Margulies,1,True,Carol Hathaway,doctor (probably),1995,9
+397,ER,2,11085,Anthony Edwards,2,True,Mark Greene,doctor,1995,9
+398,ER,2,13526,Noah Wyle,2,True,John Carter,doctor,1995,9
+399,ER,2,1461,George Clooney,2,True,Doug Ross,doctor,1995,9
 400,ER,2,96554,Mary Mara,1,False,Loretta Sweet,other,1995,9
 401,ER,2,3905,William H. Macy,2,False,David Morgenstern,other,1995,9
 402,ER,2,13727,Penny Fuller,1,False,Mrs. Constantine,other,1995,9
@@ -424,7 +424,7 @@
 422,ER,2,54127,David Spielberg,2,False,Neil Bernstein,other,1995,9
 423,ER,2,956719,Tim DeZarn,2,False,Mr. Krawczyk,other,1995,9
 424,ER,2,1375894,Jesse Littlejohn,2,False,Noah Krawczyk,other,1995,9
-425,ER,2,454973,Laura Innes,1,False,Kerry Weaver,other,1995,9
+425,ER,2,454973,Laura Innes,1,False,Kerry Weaver,doctor,1995,9
 426,ER,2,12260,Ron Eldard,2,False,Ray Shepard,other,1995,9
 427,ER,2,165285,Vanessa Marquez,1,False,Wendy Goldman,other,1995,9
 428,ER,2,541733,Deezer D,2,False,Malik McGrath,other,1995,9
@@ -500,7 +500,7 @@
 498,ER,2,1495438,Alejandra Flores,0,False,Mrs. Valdez,other,1995,11
 499,ER,2,2656976,Marlo Lovitch,0,False,Janie,other,1995,11
 500,ER,2,86499,Mike Genovese,2,False,Officer Al Grabarsky,other,1995,11
-501,ER,2,60671,Luis Ávalos,2,False,Private-Practice Pediatrician,other,1995,11
+501,ER,2,60671,Luis Ávalos,2,False,Private-Practice Pediatrician,doctor,1995,11
 502,ER,2,85171,Ellen Albertini Dow,1,False,Mrs. Riblet,other,1995,11
 503,ER,2,156432,J. Madison Wright,1,False,Molly Phillips,other,1995,11
 504,ER,2,156431,Robert Cicchini,2,False,Chopper Reporter,other,1995,11
@@ -712,14 +712,14 @@
 710,ER,2,18346,Rae'Ven Larrymore Kelly,1,False,Monique,other,1996,5
 711,ER,2,1838340,Michael Manuel,0,False,Richard,other,1996,5
 712,ER,2,1857005,Colleen McQuade,1,False,Isabel,other,1996,5
-713,ER,3,33653,Sherry Stringfield,1,True,Susan Lewis,other,1996,9
-714,ER,3,23628,Eriq La Salle,2,True,Peter Benton,other,1996,9
-715,ER,3,454973,Laura Innes,1,True,Kerry Weaver,other,1996,9
-716,ER,3,25654,Julianna Margulies,1,True,Carol Hathaway,other,1996,9
-717,ER,3,13526,Noah Wyle,2,True,John Carter,other,1996,9
-718,ER,3,11085,Anthony Edwards,2,True,Mark Greene,other,1996,9
-719,ER,3,1461,George Clooney,2,True,Doug Ross,other,1996,9
-720,ER,3,21369,Gloria Reuben,1,True,Jeanie Boulet,other,1996,9
+713,ER,3,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,1996,9
+714,ER,3,23628,Eriq La Salle,2,True,Peter Benton,doctor,1996,9
+715,ER,3,454973,Laura Innes,1,True,Kerry Weaver,doctor,1996,9
+716,ER,3,25654,Julianna Margulies,1,True,Carol Hathaway,doctor (probably),1996,9
+717,ER,3,13526,Noah Wyle,2,True,John Carter,doctor,1996,9
+718,ER,3,11085,Anthony Edwards,2,True,Mark Greene,doctor,1996,9
+719,ER,3,1461,George Clooney,2,True,Doug Ross,doctor,1996,9
+720,ER,3,21369,Gloria Reuben,1,True,Jeanie Boulet,doctor (probably),1996,9
 721,ER,3,84894,Michelle Clunie,1,False,Gretchen,other,1996,9
 722,ER,3,169707,Conni Marie Brazelton,1,False,Connie Oligario,other,1996,9
 723,ER,3,55274,Lisa Nicole Carson,1,False,Carla Reece,other,1996,9
@@ -837,7 +837,7 @@
 835,ER,3,1467217,Meg Thalken,0,False,Chopper EMT Dee McManus,medic,1996,11
 836,ER,3,590,William Sanderson,2,False,Mr. Percy,other,1996,11
 837,ER,3,7210,Kathleen Freeman,1,False,Rhonda's Patient,other,1996,11
-838,ER,3,129661,Bob Clendenin,2,False,Anesthesiologist,other,1996,11
+838,ER,3,129661,Bob Clendenin,2,False,Anesthesiologist,medic,1996,11
 839,ER,3,85500,Sab Shimono,2,False,Dr. Okida,doctor,1996,11
 840,ER,3,1216135,Joan McMurtrey,1,False,Birdwatcher,other,1996,11
 841,ER,3,27736,Tom Towles,2,False,Teenage Boy's Father,other,1996,11
@@ -1030,15 +1030,15 @@
 1028,ER,3,1492913,Clarinda Ross,1,False,Mrs. Martinez,other,1997,5
 1029,ER,3,2721308,Juan Sanchez Jr.,0,False,Julio,other,1997,5
 1030,ER,3,1786434,Michael Vira,0,False,Chuck Martinez,other,1997,5
-1031,ER,4,83701,Alex Kingston,1,True,Elizabeth Corday,other,1997,9
-1032,ER,4,23628,Eriq La Salle,2,True,Peter Benton,other,1997,9
-1033,ER,4,454973,Laura Innes,1,True,Kerry Weaver,other,1997,9
-1034,ER,4,25654,Julianna Margulies,1,True,Carol Hathaway,other,1997,9
-1035,ER,4,11085,Anthony Edwards,2,True,Mark Greene,other,1997,9
-1036,ER,4,13526,Noah Wyle,2,True,John Carter,other,1997,9
-1037,ER,4,49,Maria Bello,1,True,Anna Del Amico,other,1997,9
-1038,ER,4,1461,George Clooney,2,True,Doug Ross,other,1997,9
-1039,ER,4,21369,Gloria Reuben,1,True,Jeanie Boulet,other,1997,9
+1031,ER,4,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),1997,9
+1032,ER,4,23628,Eriq La Salle,2,True,Peter Benton,doctor,1997,9
+1033,ER,4,454973,Laura Innes,1,True,Kerry Weaver,doctor,1997,9
+1034,ER,4,25654,Julianna Margulies,1,True,Carol Hathaway,doctor (probably),1997,9
+1035,ER,4,11085,Anthony Edwards,2,True,Mark Greene,doctor,1997,9
+1036,ER,4,13526,Noah Wyle,2,True,John Carter,doctor,1997,9
+1037,ER,4,49,Maria Bello,1,True,Anna Del Amico,doctor (probably),1997,9
+1038,ER,4,1461,George Clooney,2,True,Doug Ross,doctor,1997,9
+1039,ER,4,21369,Gloria Reuben,1,True,Jeanie Boulet,doctor (probably),1997,9
 1040,ER,4,16861,John Hawkes,2,False,P.A.,other,1997,9
 1041,ER,4,3905,William H. Macy,2,False,David Morgenstern,other,1997,9
 1042,ER,4,34543,Summer Phoenix,1,False,Petra,other,1997,9
@@ -1369,15 +1369,15 @@
 1367,ER,4,1503475,Pete Willcox,2,False,Over-the-Hill Elvis,other,1998,5
 1368,ER,4,156729,Page Leong,1,False,Gloria,other,1998,5
 1369,ER,4,6310,David Brisbin,2,False,Dr. Alexander Babcock,doctor,1998,5
-1370,ER,5,83701,Alex Kingston,1,True,Elizabeth Corday,other,1998,9
-1371,ER,5,93663,Kellie Martin,1,True,Lucy Knight,other,1998,9
-1372,ER,5,23628,Eriq La Salle,2,True,Peter Benton,other,1998,9
-1373,ER,5,454973,Laura Innes,1,True,Kerry Weaver,other,1998,9
-1374,ER,5,25654,Julianna Margulies,1,True,Carol Hathaway,other,1998,9
-1375,ER,5,13526,Noah Wyle,2,True,John Carter,other,1998,9
-1376,ER,5,11085,Anthony Edwards,2,True,Mark Greene,other,1998,9
-1377,ER,5,1461,George Clooney,2,True,Doug Ross,other,1998,9
-1378,ER,5,21369,Gloria Reuben,1,True,Jeanie Boulet,other,1998,9
+1370,ER,5,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),1998,9
+1371,ER,5,93663,Kellie Martin,1,True,Lucy Knight,doctor (probably),1998,9
+1372,ER,5,23628,Eriq La Salle,2,True,Peter Benton,doctor,1998,9
+1373,ER,5,454973,Laura Innes,1,True,Kerry Weaver,doctor,1998,9
+1374,ER,5,25654,Julianna Margulies,1,True,Carol Hathaway,doctor (probably),1998,9
+1375,ER,5,11085,Anthony Edwards,2,True,Mark Greene,doctor,1998,9
+1376,ER,5,13526,Noah Wyle,2,True,John Carter,doctor,1998,9
+1377,ER,5,1461,George Clooney,2,True,Doug Ross,doctor,1998,9
+1378,ER,5,21369,Gloria Reuben,1,True,Jeanie Boulet,doctor (probably),1998,9
 1379,ER,5,132054,Terrence Evans,2,False,Barry Mahoney,other,1998,9
 1380,ER,5,41350,Ken Kercheval,2,False,Mr. Zwicki,other,1998,9
 1381,ER,5,169707,Conni Marie Brazelton,1,False,Connie Oligario,other,1998,9
@@ -1728,17 +1728,17 @@
 1726,ER,5,1435163,Monnae Michaell,1,False,Mrs. Bell,other,1999,5
 1727,ER,5,8437,Teri Garr,1,False,Celinda Randlett,other,1999,5
 1728,ER,5,2748279,Joe Krowka,0,False,Grocer,other,1999,5
-1729,ER,6,5725,Goran Visnjic,2,True,Luka Kovac,other,1999,9
-1730,ER,6,83701,Alex Kingston,1,True,Elizabeth Corday,other,1999,9
-1731,ER,6,93663,Kellie Martin,1,True,Lucy Knight,other,1999,9
-1732,ER,6,39977,Michael Michele,1,True,Cleo Finch,other,1999,9
-1733,ER,6,23628,Eriq La Salle,2,True,Peter Benton,other,1999,9
-1734,ER,6,454973,Laura Innes,1,True,Kerry Weaver,other,1999,9
-1735,ER,6,25654,Julianna Margulies,1,True,Carol Hathaway,other,1999,9
-1736,ER,6,13526,Noah Wyle,2,True,John Carter,other,1999,9
-1737,ER,6,11085,Anthony Edwards,2,True,Mark Greene,other,1999,9
-1738,ER,6,32393,Paul McCrane,2,True,Robert Romano,other,1999,9
-1739,ER,6,21369,Gloria Reuben,1,True,Jeanie Boulet,other,1999,9
+1729,ER,6,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),1999,9
+1730,ER,6,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),1999,9
+1731,ER,6,93663,Kellie Martin,1,True,Lucy Knight,doctor (probably),1999,9
+1732,ER,6,39977,Michael Michele,1,True,Cleo Finch,doctor (probably),1999,9
+1733,ER,6,23628,Eriq La Salle,2,True,Peter Benton,doctor,1999,9
+1734,ER,6,454973,Laura Innes,1,True,Kerry Weaver,doctor,1999,9
+1735,ER,6,25654,Julianna Margulies,1,True,Carol Hathaway,doctor (probably),1999,9
+1736,ER,6,13526,Noah Wyle,2,True,John Carter,doctor,1999,9
+1737,ER,6,11085,Anthony Edwards,2,True,Mark Greene,doctor,1999,9
+1738,ER,6,32393,Paul McCrane,2,True,Robert Romano,doctor (probably),1999,9
+1739,ER,6,21369,Gloria Reuben,1,True,Jeanie Boulet,doctor (probably),1999,9
 1740,ER,6,55961,Courtland Mead,2,False,Vanilla Latte Boy,other,1999,9
 1741,ER,6,4735,John Doman,2,False,Dr. Carl Deraad,doctor,1999,9
 1742,ER,6,1218000,Bellina Logan,1,False,Nurse Kit,nurse,1999,9
@@ -1872,12 +1872,12 @@
 1870,ER,6,154041,Montrose Hagins,1,False,Mrs. Olson,other,1999,11
 1871,ER,6,66542,Brian Patrick Clarke,2,False,,other,1999,11
 1872,ER,6,65421,Elizabeth Rodriguez,1,False,Nurse Sandra,doctor,1999,11
-1873,ER,6,1940145,Robert Dolan,2,False,Pediatrician,other,1999,11
+1873,ER,6,1940145,Robert Dolan,2,False,Pediatrician,doctor,1999,11
 1874,ER,6,2723873,Jackie Millines,0,False,Stab Wound Victim,other,1999,11
 1875,ER,6,2800035,Russ Reed,0,False,Old Man,other,1999,11
 1876,ER,6,156874,Todd Truley,0,False,Doorman,other,1999,11
 1877,ER,6,6310,David Brisbin,2,False,Dr. Alexander Babcock,doctor,1999,11
-1878,ER,6,16307,Maura Tierney,1,False,Abby Lockhart,other,1999,11
+1878,ER,6,16307,Maura Tierney,1,False,Abby Lockhart,nurse,1999,11
 1879,ER,6,33457,Amy Aquino,1,False,Dr. Janet Coburn,doctor,1999,11
 1880,ER,6,17342,Paul Adelstein,2,False,Hank Loman,other,1999,12
 1881,ER,6,72698,Mike Weinberg,2,False,Tommy,other,1999,12
@@ -2056,7 +2056,7 @@
 2054,ER,6,5006,Madison Eginton,1,False,Hannah O'Brien,other,2000,5
 2055,ER,6,2826817,Lisa DiGangi,0,False,Clerk,other,2000,5
 2056,ER,6,1356753,Duane R. Shepard Sr.,0,False,Janitor,other,2000,5
-2057,ER,6,1461,George Clooney,2,False,Doug Ross,other,2000,5
+2057,ER,6,1461,George Clooney,2,False,Doug Ross,doctor,2000,5
 2058,ER,6,60461,Stewart Finlay-McLennan,2,False,Mr. Tanner,other,2000,5
 2059,ER,6,1223049,Alvin Alvarez,2,False,Daniel,other,2000,5
 2060,ER,6,156940,Kyle Sullivan,2,False,Nicholas Rosato,other,2000,5
@@ -2068,17 +2068,17 @@
 2066,ER,6,2826891,Michael Johnson,2,False,Gunman,other,2000,5
 2067,ER,6,64238,Randolph Mantooth,2,False,Policeman (uncredited),other,2000,5
 2068,ER,6,84209,RonReaco Lee,2,False,Davis,other,2000,5
-2069,ER,7,5725,Goran Visnjic,2,True,Luka Kovac,other,2000,10
-2070,ER,7,83701,Alex Kingston,1,True,Elizabeth Corday,other,2000,10
-2071,ER,7,39977,Michael Michele,1,True,Cleo Finch,other,2000,10
-2072,ER,7,23628,Eriq La Salle,2,True,Peter Benton,other,2000,10
-2073,ER,7,454973,Laura Innes,1,True,Kerry Weaver,other,2000,10
-2074,ER,7,11085,Anthony Edwards,2,True,Mark Greene,other,2000,10
-2075,ER,7,13526,Noah Wyle,2,True,John Carter,other,2000,10
-2076,ER,7,32393,Paul McCrane,2,True,Robert Romano,other,2000,10
-2077,ER,7,43902,Erik Palladino,2,True,Dave Malucci,other,2000,10
-2078,ER,7,16307,Maura Tierney,1,True,Abby Lockhart,other,2000,10
-2079,ER,7,21702,Ming-Na Wen,1,True,Jing-Mei Chen,other,2000,10
+2069,ER,7,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2000,10
+2070,ER,7,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),2000,10
+2071,ER,7,39977,Michael Michele,1,True,Cleo Finch,doctor (probably),2000,10
+2072,ER,7,23628,Eriq La Salle,2,True,Peter Benton,doctor,2000,10
+2073,ER,7,454973,Laura Innes,1,True,Kerry Weaver,doctor,2000,10
+2074,ER,7,11085,Anthony Edwards,2,True,Mark Greene,doctor,2000,10
+2075,ER,7,13526,Noah Wyle,2,True,John Carter,doctor,2000,10
+2076,ER,7,32393,Paul McCrane,2,True,Robert Romano,doctor (probably),2000,10
+2077,ER,7,43902,Erik Palladino,2,True,Dave Malucci,doctor,2000,10
+2078,ER,7,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2000,10
+2079,ER,7,21702,Ming-Na Wen,1,True,Jing-Mei Chen,doctor (probably),2000,10
 2080,ER,7,3972,Wentworth Miller,2,False,Mike Palmieri,other,2000,10
 2081,ER,7,31006,Troy Evans,2,False,Frank Martin,other,2000,10
 2082,ER,7,156869,Bob Minor,2,False,Officer Jenkins,other,2000,10
@@ -2224,19 +2224,19 @@
 2222,ER,7,27564,Eric Lloyd,2,False,Martin Leanly,other,2001,5
 2223,ER,7,52603,Alfonso Freeman,2,False,Brant,other,2001,5
 2224,ER,7,26067,Rachel Luttrell,1,False,Paramedic,medic,2001,5
-2225,ER,8,33653,Sherry Stringfield,1,True,Susan Lewis,other,2001,9
-2226,ER,8,5725,Goran Visnjic,2,True,Luka Kovac,other,2001,9
-2227,ER,8,83701,Alex Kingston,1,True,Elizabeth Corday,other,2001,9
-2228,ER,8,1211966,Sharif Atkins,2,True,Michael Gallant,other,2001,9
-2229,ER,8,39977,Michael Michele,1,True,Cleo Finch,other,2001,9
-2230,ER,8,23628,Eriq La Salle,2,True,Peter Benton,other,2001,9
-2231,ER,8,454973,Laura Innes,1,True,Kerry Weaver,other,2001,9
-2232,ER,8,13526,Noah Wyle,2,True,John Carter,other,2001,9
-2233,ER,8,11085,Anthony Edwards,2,True,Mark Greene,other,2001,9
-2234,ER,8,32393,Paul McCrane,2,True,Robert Romano,other,2001,9
-2235,ER,8,43902,Erik Palladino,2,True,Dave Malucci,other,2001,9
-2236,ER,8,16307,Maura Tierney,1,True,Abby Lockhart,other,2001,9
-2237,ER,8,21702,Ming-Na Wen,1,True,Jing-Mei Chen,other,2001,9
+2225,ER,8,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,2001,9
+2226,ER,8,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2001,9
+2227,ER,8,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),2001,9
+2228,ER,8,1211966,Sharif Atkins,2,True,Michael Gallant,doctor (probably),2001,9
+2229,ER,8,39977,Michael Michele,1,True,Cleo Finch,doctor (probably),2001,9
+2230,ER,8,23628,Eriq La Salle,2,True,Peter Benton,doctor,2001,9
+2231,ER,8,454973,Laura Innes,1,True,Kerry Weaver,doctor,2001,9
+2232,ER,8,11085,Anthony Edwards,2,True,Mark Greene,doctor,2001,9
+2233,ER,8,13526,Noah Wyle,2,True,John Carter,doctor,2001,9
+2234,ER,8,32393,Paul McCrane,2,True,Robert Romano,doctor (probably),2001,9
+2235,ER,8,43902,Erik Palladino,2,True,Dave Malucci,doctor,2001,9
+2236,ER,8,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2001,9
+2237,ER,8,21702,Ming-Na Wen,1,True,Jing-Mei Chen,doctor (probably),2001,9
 2238,ER,8,1219117,Jazzmun,2,False,Drag Queen,doctor,2001,9
 2239,ER,8,1218000,Bellina Logan,1,False,Nurse Kit,nurse,2001,9
 2240,ER,8,94430,Erica Gimpel,1,False,Adele Newman,other,2001,9
@@ -2373,16 +2373,16 @@
 2371,ER,8,98159,Miranda Kwok,1,False,Kristen Shoop,other,2002,5
 2372,ER,8,14331,Nestor Serrano,2,False,"David Torres, CDC",other,2002,5
 2373,ER,8,62551,Heidi Swedberg,1,False,Robin Turner,other,2002,5
-2374,ER,9,33653,Sherry Stringfield,1,True,Susan Lewis,other,2002,9
-2375,ER,9,5725,Goran Visnjic,2,True,Luka Kovac,other,2002,9
-2376,ER,9,327,Mekhi Phifer,2,True,Greg Pratt,other,2002,9
-2377,ER,9,83701,Alex Kingston,1,True,Elizabeth Corday,other,2002,9
-2378,ER,9,1211966,Sharif Atkins,2,True,Michael Gallant,other,2002,9
-2379,ER,9,454973,Laura Innes,1,True,Kerry Weaver,other,2002,9
-2380,ER,9,13526,Noah Wyle,2,True,John Carter,other,2002,9
-2381,ER,9,32393,Paul McCrane,2,True,Robert Romano,other,2002,9
-2382,ER,9,16307,Maura Tierney,1,True,Abby Lockhart,other,2002,9
-2383,ER,9,21702,Ming-Na Wen,1,True,Jing-Mei Chen,other,2002,9
+2374,ER,9,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,2002,9
+2375,ER,9,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2002,9
+2376,ER,9,327,Mekhi Phifer,2,True,Greg Pratt,doctor (probably),2002,9
+2377,ER,9,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),2002,9
+2378,ER,9,1211966,Sharif Atkins,2,True,Michael Gallant,doctor (probably),2002,9
+2379,ER,9,454973,Laura Innes,1,True,Kerry Weaver,doctor,2002,9
+2380,ER,9,13526,Noah Wyle,2,True,John Carter,doctor,2002,9
+2381,ER,9,32393,Paul McCrane,2,True,Robert Romano,doctor (probably),2002,9
+2382,ER,9,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2002,9
+2383,ER,9,21702,Ming-Na Wen,1,True,Jing-Mei Chen,doctor (probably),2002,9
 2384,ER,9,31006,Troy Evans,2,False,Frank Martin,other,2002,9
 2385,ER,9,103833,John Aylward,2,False,Donald Anspaugh,other,2002,9
 2386,ER,9,43859,Diane Delano,1,False,Delores,other,2002,9
@@ -2424,7 +2424,7 @@
 2422,ER,9,157108,Alexandra Kyle,1,False,Marlene,other,2002,10
 2423,ER,9,98085,Julia Morizawa,1,False,Amy (uncredited),other,2002,10
 2424,ER,9,18262,Richard Riehle,2,False,Mandrake Patient,doctor,2002,10
-2425,ER,9,154287,Lynne Marta,1,False,Midwife,other,2002,10
+2425,ER,9,154287,Lynne Marta,1,False,Midwife,nurse,2002,10
 2426,ER,9,76038,Shane Johnson,2,False,Jason,other,2002,10
 2427,ER,9,52420,John Newton,2,False,Terry,other,2002,10
 2428,ER,9,51798,Katee Sackhoff,1,False,Jason's Girlfriend,other,2002,10
@@ -2524,18 +2524,18 @@
 2522,ER,9,156015,June Kyoto Lu,1,False,Zuin-an,other,2003,5
 2523,ER,9,1220816,Monti Sharp,2,False,Henry,other,2003,5
 2524,ER,9,84081,Earl Houston Bullock,0,False,Thorpe,other,2003,5
-2525,ER,10,33653,Sherry Stringfield,1,True,Susan Lewis,other,2003,9
-2526,ER,10,5725,Goran Visnjic,2,True,Luka Kovac,other,2003,9
-2527,ER,10,231610,Parminder Nagra,1,True,Neela Rasgotra,other,2003,9
-2528,ER,10,1817,Linda Cardellini,1,True,Samantha Taggart,other,2003,9
-2529,ER,10,327,Mekhi Phifer,2,True,Greg Pratt,other,2003,9
-2530,ER,10,83701,Alex Kingston,1,True,Elizabeth Corday,other,2003,9
-2531,ER,10,1211966,Sharif Atkins,2,True,Michael Gallant,other,2003,9
-2532,ER,10,454973,Laura Innes,1,True,Kerry Weaver,other,2003,9
-2533,ER,10,13526,Noah Wyle,2,True,John Carter,other,2003,9
-2534,ER,10,32393,Paul McCrane,2,True,Robert Romano,other,2003,9
-2535,ER,10,16307,Maura Tierney,1,True,Abby Lockhart,other,2003,9
-2536,ER,10,21702,Ming-Na Wen,1,True,Jing-Mei Chen,other,2003,9
+2525,ER,10,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,2003,9
+2526,ER,10,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2003,9
+2527,ER,10,231610,Parminder Nagra,1,True,Neela Rasgotra,doctor (probably),2003,9
+2528,ER,10,1817,Linda Cardellini,1,True,Samantha Taggart,nurse,2003,9
+2529,ER,10,327,Mekhi Phifer,2,True,Greg Pratt,doctor (probably),2003,9
+2530,ER,10,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),2003,9
+2531,ER,10,1211966,Sharif Atkins,2,True,Michael Gallant,doctor (probably),2003,9
+2532,ER,10,454973,Laura Innes,1,True,Kerry Weaver,doctor,2003,9
+2533,ER,10,13526,Noah Wyle,2,True,John Carter,doctor,2003,9
+2534,ER,10,32393,Paul McCrane,2,True,Robert Romano,doctor (probably),2003,9
+2535,ER,10,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2003,9
+2536,ER,10,21702,Ming-Na Wen,1,True,Jing-Mei Chen,doctor (probably),2003,9
 2537,ER,10,154011,Amy Hunter,1,False,Hannah's Mom,other,2003,9
 2538,ER,10,10825,Donal Logue,2,False,Chuck Martin,other,2003,9
 2539,ER,10,28415,Bret Loehr,2,False,Matthew,other,2003,9
@@ -2652,17 +2652,17 @@
 2650,ER,10,71726,Casey Boersma,2,False,Michael #2,other,2004,5
 2651,ER,10,181553,Dylan Boersma,2,False,Michael #1,other,2004,5
 2652,ER,10,1212913,Cynthia Ettinger,1,False,Linda Pryor,other,2004,5
-2653,ER,11,33653,Sherry Stringfield,1,True,Susan Lewis,other,2004,9
-2654,ER,11,5725,Goran Visnjic,2,True,Luka Kovac,other,2004,9
-2655,ER,11,231610,Parminder Nagra,1,True,Neela Rasgotra,other,2004,9
-2656,ER,11,1817,Linda Cardellini,1,True,Samantha Taggart,other,2004,9
-2657,ER,11,327,Mekhi Phifer,2,True,Greg Pratt,other,2004,9
-2658,ER,11,83701,Alex Kingston,1,True,Elizabeth Corday,other,2004,9
-2659,ER,11,454973,Laura Innes,1,True,Kerry Weaver,other,2004,9
-2660,ER,11,13526,Noah Wyle,2,True,John Carter,other,2004,9
-2661,ER,11,16307,Maura Tierney,1,True,Abby Lockhart,other,2004,9
-2662,ER,11,21702,Ming-Na Wen,1,True,Jing-Mei Chen,other,2004,9
-2663,ER,11,81295,Shane West,2,True,Ray Barnett,other,2004,9
+2653,ER,11,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,2004,9
+2654,ER,11,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2004,9
+2655,ER,11,231610,Parminder Nagra,1,True,Neela Rasgotra,doctor (probably),2004,9
+2656,ER,11,1817,Linda Cardellini,1,True,Samantha Taggart,nurse,2004,9
+2657,ER,11,327,Mekhi Phifer,2,True,Greg Pratt,doctor (probably),2004,9
+2658,ER,11,83701,Alex Kingston,1,True,Elizabeth Corday,doctor (probably),2004,9
+2659,ER,11,454973,Laura Innes,1,True,Kerry Weaver,doctor,2004,9
+2660,ER,11,13526,Noah Wyle,2,True,John Carter,doctor,2004,9
+2661,ER,11,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2004,9
+2662,ER,11,21702,Ming-Na Wen,1,True,Jing-Mei Chen,doctor (probably),2004,9
+2663,ER,11,81295,Shane West,2,True,Ray Barnett,doctor (probably),2004,9
 2664,ER,11,235782,Vanessa Martinez,1,False,Tiffany James,other,2004,9
 2665,ER,11,48138,Petrea Burchard,1,False,Judge Amoroso,other,2004,9
 2666,ER,11,31006,Troy Evans,2,False,Frank Martin,other,2004,9
@@ -2770,16 +2770,16 @@
 2768,ER,11,170737,Michael Kostroff,2,False,Community Theatre Director,other,2005,5
 2769,ER,11,650356,Erin Carufel,1,False,Natalie Brougham,other,2005,5
 2770,ER,11,25654,Julianna Margulies,1,False,Carol Hathaway,other,2005,5
-2771,ER,11,11085,Anthony Edwards,2,False,Mark Greene,other,2005,5
-2772,ER,12,33653,Sherry Stringfield,1,True,Susan Lewis,other,2005,9
-2773,ER,12,5725,Goran Visnjic,2,True,Luka Kovac,other,2005,9
-2774,ER,12,231610,Parminder Nagra,1,True,Neela Rasgotra,other,2005,9
-2775,ER,12,1817,Linda Cardellini,1,True,Samantha Taggart,other,2005,9
-2776,ER,12,327,Mekhi Phifer,2,True,Greg Pratt,other,2005,9
-2777,ER,12,454973,Laura Innes,1,True,Kerry Weaver,other,2005,9
-2778,ER,12,16307,Maura Tierney,1,True,Abby Lockhart,other,2005,9
-2779,ER,12,81295,Shane West,2,True,Ray Barnett,other,2005,9
-2780,ER,12,35091,Scott Grimes,2,True,Archie Morris,other,2005,9
+2771,ER,11,11085,Anthony Edwards,2,False,Mark Greene,doctor,2005,5
+2772,ER,12,33653,Sherry Stringfield,1,True,Susan Lewis,doctor,2005,9
+2773,ER,12,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2005,9
+2774,ER,12,231610,Parminder Nagra,1,True,Neela Rasgotra,doctor (probably),2005,9
+2775,ER,12,1817,Linda Cardellini,1,True,Samantha Taggart,nurse,2005,9
+2776,ER,12,327,Mekhi Phifer,2,True,Greg Pratt,doctor (probably),2005,9
+2777,ER,12,454973,Laura Innes,1,True,Kerry Weaver,doctor,2005,9
+2778,ER,12,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2005,9
+2779,ER,12,81295,Shane West,2,True,Ray Barnett,doctor (probably),2005,9
+2780,ER,12,35091,Scott Grimes,2,True,Archie Morris,doctor (probably),2005,9
 2781,ER,12,1223903,Dominic Janes,2,False,Alex Taggart,other,2005,9
 2782,ER,12,31006,Troy Evans,2,False,Frank Martin,other,2005,9
 2783,ER,12,3282,Sara Gilbert,1,False,Jane Figler,other,2005,9
@@ -2857,7 +2857,7 @@
 2855,ER,12,74242,Shea Whigham,2,False,Bobby Kenyon,other,2006,2
 2856,ER,12,1980,Mary McCormack,1,False,Debbie,other,2006,2
 2857,ER,12,1224245,Lise Simms,1,False,Emcee,other,2006,2
-2858,ER,12,13526,Noah Wyle,2,False,John Carter,other,2006,2
+2858,ER,12,13526,Noah Wyle,2,False,John Carter,doctor,2006,2
 2859,ER,12,19299,Eamonn Walker,2,False,Dr. Stephen Dakarai,doctor,2006,3
 2860,ER,12,80615,Juanita Jennings,1,False,ICU Doctor,doctor,2006,3
 2861,ER,12,2939039,Jacob Urrutia,0,False,Jose Rodriguez,doctor,2006,3
@@ -2884,15 +2884,15 @@
 2882,ER,12,3270,Natasha Gregson Wagner,1,False,Mary Warner,other,2006,5
 2883,ER,12,61263,Skyler Gisondo,2,False,Timmy Jankowski,other,2006,5
 2884,ER,12,116727,Connie Sawyer,1,False,Second Old Lady,other,2006,5
-2885,ER,13,5725,Goran Visnjic,2,True,Luka Kovac,other,2006,9
-2886,ER,13,231610,Parminder Nagra,1,True,Neela Rasgotra,other,2006,9
-2887,ER,13,1817,Linda Cardellini,1,True,Samantha Taggart,other,2006,9
-2888,ER,13,327,Mekhi Phifer,2,True,Greg Pratt,other,2006,9
-2889,ER,13,454973,Laura Innes,1,True,Kerry Weaver,other,2006,9
-2890,ER,13,16307,Maura Tierney,1,True,Abby Lockhart,other,2006,9
-2891,ER,13,32600,John Stamos,2,True,Tony Gates,other,2006,9
-2892,ER,13,81295,Shane West,2,True,Ray Barnett,other,2006,9
-2893,ER,13,35091,Scott Grimes,2,True,Archie Morris,other,2006,9
+2885,ER,13,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2006,9
+2886,ER,13,231610,Parminder Nagra,1,True,Neela Rasgotra,doctor (probably),2006,9
+2887,ER,13,1817,Linda Cardellini,1,True,Samantha Taggart,nurse,2006,9
+2888,ER,13,327,Mekhi Phifer,2,True,Greg Pratt,doctor (probably),2006,9
+2889,ER,13,454973,Laura Innes,1,True,Kerry Weaver,doctor,2006,9
+2890,ER,13,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2006,9
+2891,ER,13,32600,John Stamos,2,True,Tony Gates,doctor (probably),2006,9
+2892,ER,13,81295,Shane West,2,True,Ray Barnett,doctor (probably),2006,9
+2893,ER,13,35091,Scott Grimes,2,True,Archie Morris,doctor (probably),2006,9
 2894,ER,13,51381,Michael Weston,2,False,Rafe Hendricks,doctor,2006,9
 2895,ER,13,39520,Garret Dillahunt,2,False,Steve Curtis,other,2006,9
 2896,ER,13,1223903,Dominic Janes,2,False,Alex Taggart,other,2006,9
@@ -2990,13 +2990,13 @@
 2988,ER,13,183813,Stephanie Childers,1,False,Hilary,other,2007,5
 2989,ER,13,1574299,Rosalee Mayeux,0,False,Jacy Barnett,other,2007,5
 2990,ER,13,202654,Malaya Rivera Drew,1,False,Katey Alvaro,other,2007,5
-2991,ER,14,5725,Goran Visnjic,2,True,Luka Kovac,other,2007,9
-2992,ER,14,231610,Parminder Nagra,1,True,Neela Rasgotra,other,2007,9
-2993,ER,14,1817,Linda Cardellini,1,True,Samantha Taggart,other,2007,9
-2994,ER,14,327,Mekhi Phifer,2,True,Greg Pratt,other,2007,9
-2995,ER,14,16307,Maura Tierney,1,True,Abby Lockhart,other,2007,9
-2996,ER,14,32600,John Stamos,2,True,Tony Gates,other,2007,9
-2997,ER,14,35091,Scott Grimes,2,True,Archie Morris,other,2007,9
+2991,ER,14,5725,Goran Visnjic,2,True,Luka Kovac,doctor (probably),2007,9
+2992,ER,14,231610,Parminder Nagra,1,True,Neela Rasgotra,doctor (probably),2007,9
+2993,ER,14,1817,Linda Cardellini,1,True,Samantha Taggart,nurse,2007,9
+2994,ER,14,327,Mekhi Phifer,2,True,Greg Pratt,doctor (probably),2007,9
+2995,ER,14,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2007,9
+2996,ER,14,32600,John Stamos,2,True,Tony Gates,doctor (probably),2007,9
+2997,ER,14,35091,Scott Grimes,2,True,Archie Morris,doctor (probably),2007,9
 2998,ER,14,2283,Stanley Tucci,2,False,Dr. Kevin Moretti,doctor,2007,9
 2999,ER,14,31006,Troy Evans,2,False,Frank Martin,other,2007,9
 3000,ER,14,35516,Howard Hesseman,2,False,Dr. James Broderick,doctor,2007,9
@@ -3085,13 +3085,13 @@
 3083,ER,14,884,Steve Buscemi,2,False,Art Masterson,other,2008,5
 3084,ER,14,51998,Liza Lapira,1,False,Christine,other,2008,5
 3085,ER,14,33241,Michael Gaston,2,False,Rick,other,2008,5
-3086,ER,15,231610,Parminder Nagra,1,True,Neela Rasgotra,other,2008,9
-3087,ER,15,1817,Linda Cardellini,1,True,Samantha Taggart,other,2008,9
-3088,ER,15,76941,David Lyons,2,True,Simon Brenner,other,2008,9
-3089,ER,15,9780,Angela Bassett,1,True,Catherine Banfield,other,2008,9
-3090,ER,15,16307,Maura Tierney,1,True,Abby Lockhart,other,2008,9
-3091,ER,15,32600,John Stamos,2,True,Tony Gates,other,2008,9
-3092,ER,15,35091,Scott Grimes,2,True,Archie Morris,other,2008,9
+3086,ER,15,231610,Parminder Nagra,1,True,Neela Rasgotra,doctor (probably),2008,9
+3087,ER,15,1817,Linda Cardellini,1,True,Samantha Taggart,nurse,2008,9
+3088,ER,15,76941,David Lyons,2,True,Simon Brenner,doctor (probably),2008,9
+3089,ER,15,9780,Angela Bassett,1,True,Catherine Banfield,doctor (probably),2008,9
+3090,ER,15,16307,Maura Tierney,1,True,Abby Lockhart,nurse,2008,9
+3091,ER,15,32600,John Stamos,2,True,Tony Gates,doctor (probably),2008,9
+3092,ER,15,35091,Scott Grimes,2,True,Archie Morris,doctor (probably),2008,9
 3093,ER,15,212234,Mason Vale Cotton,2,False,Brian,other,2008,9
 3094,ER,15,66071,Charlotte Rae,1,False,Roxanne Gaines,other,2008,9
 3095,ER,15,1003386,Sam Jones,2,False,Chaz Pratt,other,2008,9
@@ -3112,7 +3112,7 @@
 3110,ER,15,148618,Shane Kinsman,2,False,Larry Weddington,other,2008,10
 3111,ER,15,156413,Perry Anzilotti,2,False,Perry,other,2008,10
 3112,ER,15,16760,Ntare Guma Mbaho Mwine,2,False,Paul Traylor,other,2008,10
-3113,ER,15,11085,Anthony Edwards,2,False,Mark Greene,other,2008,10
+3113,ER,15,11085,Anthony Edwards,2,False,Mark Greene,doctor,2008,10
 3114,ER,15,91332,Dedee Pfeiffer,1,False,Annie Raskin,other,2008,10
 3115,ER,15,80641,Sterling Beaumon,2,False,Danny Raskin,other,2008,10
 3116,ER,15,2518,Gregg Henry,2,False,Officer Mark Downey,other,2008,10

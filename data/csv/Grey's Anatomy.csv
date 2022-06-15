@@ -1,13 +1,13 @@
 ,show_name,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
-0,Grey's Anatomy,1,9280,Ellen Pompeo,1,True,Meredith Grey,other,2005,3
-1,Grey's Anatomy,1,25544,James Pickens Jr.,2,True,Richard Webber,other,2005,3
-2,Grey's Anatomy,1,171075,Chandra Wilson,1,True,Miranda Bailey,other,2005,3
-3,Grey's Anatomy,1,20746,Justin Chambers,2,True,Alex Karev,other,2005,3
-4,Grey's Anatomy,1,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2005,3
-5,Grey's Anatomy,1,25540,Sandra Oh,1,True,Cristina Yang,other,2005,3
-6,Grey's Anatomy,1,25541,Katherine Heigl,1,True,Izzie Stevens,other,2005,3
-7,Grey's Anatomy,1,164205,T.R. Knight,2,True,George O'Malley,other,2005,3
-8,Grey's Anatomy,1,21353,Isaiah Washington,2,True,Preston Burke,other,2005,3
+0,Grey's Anatomy,1,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2005,3
+1,Grey's Anatomy,1,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2005,3
+2,Grey's Anatomy,1,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2005,3
+3,Grey's Anatomy,1,20746,Justin Chambers,2,True,Alex Karev,doctor,2005,3
+4,Grey's Anatomy,1,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2005,3
+5,Grey's Anatomy,1,25540,Sandra Oh,1,True,Cristina Yang,doctor,2005,3
+6,Grey's Anatomy,1,25541,Katherine Heigl,1,True,Izzie Stevens,doctor (probably),2005,3
+7,Grey's Anatomy,1,164205,T.R. Knight,2,True,George O'Malley,doctor,2005,3
+8,Grey's Anatomy,1,21353,Isaiah Washington,2,True,Preston Burke,doctor (probably),2005,3
 9,Grey's Anatomy,1,165425,Sendhil Ramamurthy,2,False,Intern #2,intern,2005,3
 10,Grey's Anatomy,1,93379,Skyler Shaye,1,False,Katie Bryce,other,2005,3
 11,Grey's Anatomy,1,180602,Laura Carson,1,False,Gloria Savitch,other,2005,3
@@ -20,10 +20,10 @@
 18,Grey's Anatomy,1,113976,Grinnell Morris,2,False,Intern #4,intern,2005,3
 19,Grey's Anatomy,1,3036242,Noelle McCutchen,0,False,Nurse #2,nurse,2005,3
 20,Grey's Anatomy,1,1133449,Josh Bywater,2,False,Intern #1,intern,2005,3
-21,Grey's Anatomy,1,25555,Kathleen M. Darcy,1,False,Anesthesiologist,other,2005,3
+21,Grey's Anatomy,1,25555,Kathleen M. Darcy,1,False,Anesthesiologist,medic,2005,3
 22,Grey's Anatomy,1,112878,Moe Irvin,0,False,Nurse Tyler Christian,nurse,2005,3
 23,Grey's Anatomy,1,2646905,Bokhee An,1,False,Nurse Bokhee,nurse,2005,3
-24,Grey's Anatomy,1,20879,Kate Burton,1,False,Ellis Grey,other,2005,3
+24,Grey's Anatomy,1,20879,Kate Burton,1,False,Ellis Grey,doctor,2005,3
 25,Grey's Anatomy,1,61116,Alice Lo,1,False,Qing Lu,other,2005,4
 26,Grey's Anatomy,1,188543,Gary Kraus,2,False,Louis Cardon,other,2005,4
 27,Grey's Anatomy,1,169334,Elise Robertson,1,False,Ms. Johnson,other,2005,4
@@ -99,17 +99,17 @@
 97,Grey's Anatomy,1,1213599,Joyce Guy,1,False,Ms. Henry,other,2005,5
 98,Grey's Anatomy,1,125026,Patty McCormack,1,False,Rebecca Franklin,other,2005,5
 99,Grey's Anatomy,1,1228876,Jack Shearer,2,False,Jordan Franklin,other,2005,5
-100,Grey's Anatomy,1,61114,Kate Walsh,1,False,Addison Montgomery,other,2005,5
-101,Grey's Anatomy,2,9280,Ellen Pompeo,1,True,Meredith Grey,other,2005,9
-102,Grey's Anatomy,2,25544,James Pickens Jr.,2,True,Richard Webber,other,2005,9
-103,Grey's Anatomy,2,171075,Chandra Wilson,1,True,Miranda Bailey,other,2005,9
-104,Grey's Anatomy,2,20746,Justin Chambers,2,True,Alex Karev,other,2005,9
-105,Grey's Anatomy,2,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2005,9
-106,Grey's Anatomy,2,25540,Sandra Oh,1,True,Cristina Yang,other,2005,9
-107,Grey's Anatomy,2,25541,Katherine Heigl,1,True,Izzie Stevens,other,2005,9
-108,Grey's Anatomy,2,164205,T.R. Knight,2,True,George O'Malley,other,2005,9
-109,Grey's Anatomy,2,21353,Isaiah Washington,2,True,Preston Burke,other,2005,9
-110,Grey's Anatomy,2,61114,Kate Walsh,1,True,Addison Montgomery,other,2005,9
+100,Grey's Anatomy,1,61114,Kate Walsh,1,False,Addison Montgomery,doctor,2005,5
+101,Grey's Anatomy,2,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2005,9
+102,Grey's Anatomy,2,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2005,9
+103,Grey's Anatomy,2,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2005,9
+104,Grey's Anatomy,2,20746,Justin Chambers,2,True,Alex Karev,doctor,2005,9
+105,Grey's Anatomy,2,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2005,9
+106,Grey's Anatomy,2,25540,Sandra Oh,1,True,Cristina Yang,doctor,2005,9
+107,Grey's Anatomy,2,25541,Katherine Heigl,1,True,Izzie Stevens,doctor (probably),2005,9
+108,Grey's Anatomy,2,164205,T.R. Knight,2,True,George O'Malley,doctor,2005,9
+109,Grey's Anatomy,2,21353,Isaiah Washington,2,True,Preston Burke,doctor (probably),2005,9
+110,Grey's Anatomy,2,61114,Kate Walsh,1,True,Addison Montgomery,doctor,2005,9
 111,Grey's Anatomy,2,1224063,Steven W. Bailey,2,False,Joe,other,2005,9
 112,Grey's Anatomy,2,18327,Wendy Gazelle,1,False,Julie Phillips,other,2005,9
 113,Grey's Anatomy,2,3036242,Noelle McCutchen,0,False,Nurse Vivian,nurse,2005,9
@@ -128,14 +128,14 @@
 126,Grey's Anatomy,2,1449096,Jeremy Rabb,0,False,ER Resident,other,2005,10
 127,Grey's Anatomy,2,1212250,Sarah Utterback,1,False,Olivia Harper,other,2005,10
 128,Grey's Anatomy,2,11515,Angela Goethals,1,False,Kelly Roesch,other,2005,10
-129,Grey's Anatomy,2,20879,Kate Burton,1,False,Ellis Grey,other,2005,10
+129,Grey's Anatomy,2,20879,Kate Burton,1,False,Ellis Grey,doctor,2005,10
 130,Grey's Anatomy,2,21403,Thomas Ian Nicholas,2,False,Jeremiah Tate,other,2005,10
 131,Grey's Anatomy,2,23975,Lee Garlington,1,False,Fara Linden,other,2005,10
 132,Grey's Anatomy,2,169337,Katherine LaNasa,1,False,Kalpana Vera,other,2005,10
 133,Grey's Anatomy,2,79025,Don McManus,2,False,Samuel Linden,other,2005,10
 134,Grey's Anatomy,2,10075,Tsai Chin,1,False,Helen Rubenstein,other,2005,10
 135,Grey's Anatomy,2,203022,Linda Eve Miller,1,False,E.R. Nurse,nurse,2005,10
-136,Grey's Anatomy,2,25555,Kathleen M. Darcy,1,False,Anesthesiologist,other,2005,10
+136,Grey's Anatomy,2,25555,Kathleen M. Darcy,1,False,Anesthesiologist,medic,2005,10
 137,Grey's Anatomy,2,112878,Moe Irvin,0,False,Nurse Tyler Christian,nurse,2005,10
 138,Grey's Anatomy,2,55253,Michelle Krusiec,1,False,Anna Chue,other,2005,10
 139,Grey's Anatomy,2,91495,Mimi Kennedy,1,False,Verna Bradley,other,2005,10
@@ -212,7 +212,7 @@
 210,Grey's Anatomy,2,42724,John Prosky,2,False,Mr. Singleton,other,2006,1
 211,Grey's Anatomy,2,20185,Becca Gardner,1,False,Rebecca 'Bex' Singleton,other,2006,1
 212,Grey's Anatomy,2,1213599,Joyce Guy,1,False,Administrator,other,2006,1
-213,Grey's Anatomy,2,588110,Rob Narita,0,False,Anesthesiologist,other,2006,1
+213,Grey's Anatomy,2,588110,Rob Narita,0,False,Anesthesiologist,medic,2006,1
 214,Grey's Anatomy,2,47296,Jeffrey Dean Morgan,2,False,Denny Duquette,other,2006,1
 215,Grey's Anatomy,2,58141,Donovan Leitch,2,False,Rick Friart,other,2006,1
 216,Grey's Anatomy,2,41730,Carole Cook,1,False,Sophie Larson,other,2006,1
@@ -237,11 +237,11 @@
 235,Grey's Anatomy,2,6886,Christina Ricci,1,False,Hannah Davies,other,2006,2
 236,Grey's Anatomy,2,9210,Jeff Perry,2,False,Thatcher Grey,other,2006,2
 237,Grey's Anatomy,2,88124,Jesse Plemons,2,False,Jake Burton,other,2006,2
-238,Grey's Anatomy,2,58115,Eric Dane,2,False,Mark Sloan,other,2006,2
+238,Grey's Anatomy,2,58115,Eric Dane,2,False,Mark Sloan,doctor,2006,2
 239,Grey's Anatomy,2,106807,Deborah Geffner,1,False,Mrs. Burton,other,2006,2
 240,Grey's Anatomy,2,17413,Julio Oscar Mechoso,2,False,Chuck Eaton,other,2006,2
 241,Grey's Anatomy,2,94852,Matt Roth,2,False,Michael Beglight,other,2006,2
-242,Grey's Anatomy,2,125055,Sara Ramirez,3,False,Callie Torres,other,2006,2
+242,Grey's Anatomy,2,125055,Sara Ramirez,3,False,Callie Torres,doctor,2006,2
 243,Grey's Anatomy,2,88949,Mark Harelik,2,False,Keith Polace,other,2006,2
 244,Grey's Anatomy,2,59260,Ann Cusack,1,False,Susan Grant,other,2006,2
 245,Grey's Anatomy,2,17302,Noah Gray-Cabey,2,False,Shawn Beglight,other,2006,2
@@ -271,18 +271,18 @@
 269,Grey's Anatomy,2,1224085,Tiffany Hines,1,False,Natalie,other,2006,5
 270,Grey's Anatomy,2,62561,Tessa Thompson,1,False,Camille Travis,other,2006,5
 271,Grey's Anatomy,2,43894,Hallee Hirsh,1,False,Claire,other,2006,5
-272,Grey's Anatomy,3,9280,Ellen Pompeo,1,True,Meredith Grey,other,2006,9
-273,Grey's Anatomy,3,25544,James Pickens Jr.,2,True,Richard Webber,other,2006,9
-274,Grey's Anatomy,3,171075,Chandra Wilson,1,True,Miranda Bailey,other,2006,9
-275,Grey's Anatomy,3,20746,Justin Chambers,2,True,Alex Karev,other,2006,9
-276,Grey's Anatomy,3,125055,Sara Ramirez,3,True,Callie Torres,other,2006,9
-277,Grey's Anatomy,3,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2006,9
-278,Grey's Anatomy,3,25540,Sandra Oh,1,True,Cristina Yang,other,2006,9
-279,Grey's Anatomy,3,25541,Katherine Heigl,1,True,Izzie Stevens,other,2006,9
-280,Grey's Anatomy,3,58115,Eric Dane,2,True,Mark Sloan,other,2006,9
-281,Grey's Anatomy,3,164205,T.R. Knight,2,True,George O'Malley,other,2006,9
-282,Grey's Anatomy,3,21353,Isaiah Washington,2,True,Preston Burke,other,2006,9
-283,Grey's Anatomy,3,61114,Kate Walsh,1,True,Addison Montgomery,other,2006,9
+272,Grey's Anatomy,3,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2006,9
+273,Grey's Anatomy,3,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2006,9
+274,Grey's Anatomy,3,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2006,9
+275,Grey's Anatomy,3,20746,Justin Chambers,2,True,Alex Karev,doctor,2006,9
+276,Grey's Anatomy,3,125055,Sara Ramirez,3,True,Callie Torres,doctor,2006,9
+277,Grey's Anatomy,3,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2006,9
+278,Grey's Anatomy,3,25540,Sandra Oh,1,True,Cristina Yang,doctor,2006,9
+279,Grey's Anatomy,3,25541,Katherine Heigl,1,True,Izzie Stevens,doctor (probably),2006,9
+280,Grey's Anatomy,3,58115,Eric Dane,2,True,Mark Sloan,doctor,2006,9
+281,Grey's Anatomy,3,164205,T.R. Knight,2,True,George O'Malley,doctor,2006,9
+282,Grey's Anatomy,3,21353,Isaiah Washington,2,True,Preston Burke,doctor (probably),2006,9
+283,Grey's Anatomy,3,61114,Kate Walsh,1,True,Addison Montgomery,doctor,2006,9
 284,Grey's Anatomy,3,5577,Chris O'Donnell,2,False,Finn Dandridge,doctor,2006,9
 285,Grey's Anatomy,3,156689,Jessica Tuck,1,False,Shannon's Mom,other,2006,9
 286,Grey's Anatomy,3,18284,Loretta Devine,1,False,Adele Webber,other,2006,9
@@ -292,7 +292,7 @@
 290,Grey's Anatomy,3,2202,Steve Harris,2,False,Omar Toussant (uncredited),other,2006,9
 291,Grey's Anatomy,3,1219581,Mia Wesley,1,False,Karen's Mom,other,2006,9
 292,Grey's Anatomy,3,1212250,Sarah Utterback,1,False,Olivia Harper,other,2006,9
-293,Grey's Anatomy,3,20879,Kate Burton,1,False,Ellis Grey,other,2006,9
+293,Grey's Anatomy,3,20879,Kate Burton,1,False,Ellis Grey,doctor,2006,9
 294,Grey's Anatomy,3,20158,Diahann Carroll,1,False,Jane Burke,other,2006,9
 295,Grey's Anatomy,3,6487,Richard Roundtree,2,False,Donald Burke,other,2006,9
 296,Grey's Anatomy,3,29021,Roxanne Hart,1,False,Dana Seabury,other,2006,9
@@ -376,23 +376,23 @@
 374,Grey's Anatomy,3,128012,Stephanie Niznik,1,False,Carol,other,2007,5
 375,Grey's Anatomy,3,97943,Raphael Sbarge,2,False,Paul,other,2007,5
 376,Grey's Anatomy,3,40632,David Anders,2,False,Jim,other,2007,5
-377,Grey's Anatomy,3,69210,Chyler Leigh,1,False,Lexie Grey,other,2007,5
+377,Grey's Anatomy,3,69210,Chyler Leigh,1,False,Lexie Grey,doctor,2007,5
 378,Grey's Anatomy,3,114000,Kevin Rankin,2,False,Jack Vaughan,other,2007,5
 379,Grey's Anatomy,3,134012,Derek Phillips,2,False,Dale Winick,other,2007,5
 380,Grey's Anatomy,3,116278,Brian Tee,2,False,Andy Meltzer,other,2007,5
 381,Grey's Anatomy,3,52474,Jason London,2,False,Jeff Pope,other,2007,5
-382,Grey's Anatomy,4,9280,Ellen Pompeo,1,True,Meredith Grey,other,2007,9
-383,Grey's Anatomy,4,25544,James Pickens Jr.,2,True,Richard Webber,other,2007,9
-384,Grey's Anatomy,4,171075,Chandra Wilson,1,True,Miranda Bailey,other,2007,9
-385,Grey's Anatomy,4,20746,Justin Chambers,2,True,Alex Karev,other,2007,9
-386,Grey's Anatomy,4,125055,Sara Ramirez,3,True,Callie Torres,other,2007,9
-387,Grey's Anatomy,4,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2007,9
-388,Grey's Anatomy,4,25540,Sandra Oh,1,True,Cristina Yang,other,2007,9
-389,Grey's Anatomy,4,25541,Katherine Heigl,1,True,Izzie Stevens,other,2007,9
-390,Grey's Anatomy,4,58115,Eric Dane,2,True,Mark Sloan,other,2007,9
-391,Grey's Anatomy,4,69210,Chyler Leigh,1,True,Lexie Grey,other,2007,9
-392,Grey's Anatomy,4,164205,T.R. Knight,2,True,George O'Malley,other,2007,9
-393,Grey's Anatomy,4,31649,Brooke Smith,1,True,Erica Hahn,other,2007,9
+382,Grey's Anatomy,4,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2007,9
+383,Grey's Anatomy,4,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2007,9
+384,Grey's Anatomy,4,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2007,9
+385,Grey's Anatomy,4,20746,Justin Chambers,2,True,Alex Karev,doctor,2007,9
+386,Grey's Anatomy,4,125055,Sara Ramirez,3,True,Callie Torres,doctor,2007,9
+387,Grey's Anatomy,4,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2007,9
+388,Grey's Anatomy,4,25540,Sandra Oh,1,True,Cristina Yang,doctor,2007,9
+389,Grey's Anatomy,4,25541,Katherine Heigl,1,True,Izzie Stevens,doctor (probably),2007,9
+390,Grey's Anatomy,4,58115,Eric Dane,2,True,Mark Sloan,doctor,2007,9
+391,Grey's Anatomy,4,69210,Chyler Leigh,1,True,Lexie Grey,doctor,2007,9
+392,Grey's Anatomy,4,164205,T.R. Knight,2,True,George O'Malley,doctor,2007,9
+393,Grey's Anatomy,4,31649,Brooke Smith,1,True,Erica Hahn,doctor,2007,9
 394,Grey's Anatomy,4,1215837,Mac Brandt,2,False,Paramedic #3,medic,2007,9
 395,Grey's Anatomy,4,52932,Gloria Garayua,1,False,Intern Graciella,intern,2007,9
 396,Grey's Anatomy,4,1236,Mark Pellegrino,2,False,Chris,other,2007,9
@@ -448,7 +448,7 @@
 446,Grey's Anatomy,4,183812,Jason O'Mara,2,False,Phillip Robinson,other,2008,4
 447,Grey's Anatomy,4,3308379,Cheech Marin,0,False,Otis Sharon,other,2008,4
 448,Grey's Anatomy,4,155949,Steven Flynn,2,False,Scott Robinson,other,2008,4
-449,Grey's Anatomy,4,61114,Kate Walsh,1,False,Addison Montgomery,other,2008,5
+449,Grey's Anatomy,4,61114,Kate Walsh,1,False,Addison Montgomery,doctor,2008,5
 450,Grey's Anatomy,4,116128,John M. Jackson,2,False,Kevin Covington,other,2008,5
 451,Grey's Anatomy,4,1212210,Zilah Mendoza,1,False,Kyra Marshall,other,2008,5
 452,Grey's Anatomy,4,206757,David Giuntoli,2,False,Todd Vernon,other,2008,5
@@ -460,19 +460,19 @@
 458,Grey's Anatomy,4,59017,Jurnee Smollett,1,False,Beth Monroe,other,2008,5
 459,Grey's Anatomy,4,87741,Sterling Knight,2,False,Kip,other,2008,5
 460,Grey's Anatomy,4,9785,"John Cothran, Jr.",2,False,Ken Monroe,other,2008,5
-461,Grey's Anatomy,5,9280,Ellen Pompeo,1,True,Meredith Grey,other,2008,9
-462,Grey's Anatomy,5,25544,James Pickens Jr.,2,True,Richard Webber,other,2008,9
-463,Grey's Anatomy,5,171075,Chandra Wilson,1,True,Miranda Bailey,other,2008,9
-464,Grey's Anatomy,5,20746,Justin Chambers,2,True,Alex Karev,other,2008,9
-465,Grey's Anatomy,5,125055,Sara Ramirez,3,True,Callie Torres,other,2008,9
-466,Grey's Anatomy,5,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2008,9
-467,Grey's Anatomy,5,25540,Sandra Oh,1,True,Cristina Yang,other,2008,9
-468,Grey's Anatomy,5,9013,Kevin McKidd,2,True,Owen Hunt,other,2008,9
-469,Grey's Anatomy,5,25541,Katherine Heigl,1,True,Izzie Stevens,other,2008,9
-470,Grey's Anatomy,5,58115,Eric Dane,2,True,Mark Sloan,other,2008,9
-471,Grey's Anatomy,5,69210,Chyler Leigh,1,True,Lexie Grey,other,2008,9
-472,Grey's Anatomy,5,164205,T.R. Knight,2,True,George O'Malley,other,2008,9
-473,Grey's Anatomy,5,31649,Brooke Smith,1,True,Erica Hahn,other,2008,9
+461,Grey's Anatomy,5,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2008,9
+462,Grey's Anatomy,5,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2008,9
+463,Grey's Anatomy,5,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2008,9
+464,Grey's Anatomy,5,20746,Justin Chambers,2,True,Alex Karev,doctor,2008,9
+465,Grey's Anatomy,5,125055,Sara Ramirez,3,True,Callie Torres,doctor,2008,9
+466,Grey's Anatomy,5,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2008,9
+467,Grey's Anatomy,5,25540,Sandra Oh,1,True,Cristina Yang,doctor,2008,9
+468,Grey's Anatomy,5,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2008,9
+469,Grey's Anatomy,5,25541,Katherine Heigl,1,True,Izzie Stevens,doctor (probably),2008,9
+470,Grey's Anatomy,5,58115,Eric Dane,2,True,Mark Sloan,doctor,2008,9
+471,Grey's Anatomy,5,69210,Chyler Leigh,1,True,Lexie Grey,doctor,2008,9
+472,Grey's Anatomy,5,164205,T.R. Knight,2,True,George O'Malley,doctor,2008,9
+473,Grey's Anatomy,5,31649,Brooke Smith,1,True,Erica Hahn,doctor,2008,9
 474,Grey's Anatomy,5,44301,Cliff DeYoung,2,False,Phillip Loomis,other,2008,9
 475,Grey's Anatomy,5,110463,Lauren Stamile,1,False,Nurse Rose,nurse,2008,9
 476,Grey's Anatomy,5,16131,Mariette Hartley,1,False,Betty Kenner,other,2008,9
@@ -505,7 +505,7 @@
 503,Grey's Anatomy,5,63372,Christa B. Allen,1,False,Holly Anderson,other,2008,12
 504,Grey's Anatomy,5,38703,Kay Panabaker,1,False,Emma Anderson,other,2008,12
 505,Grey's Anatomy,5,74073,Rosalind Chao,1,False,Kathleen Patterson,other,2008,12
-506,Grey's Anatomy,5,2205,Jessica Capshaw,1,False,Arizona Robbins,other,2009,1
+506,Grey's Anatomy,5,2205,Jessica Capshaw,1,False,Arizona Robbins,doctor,2009,1
 507,Grey's Anatomy,5,68495,Perrey Reeves,1,False,Margaret,other,2009,1
 508,Grey's Anatomy,5,7036,Eric Stoltz,2,False,William Dunn,other,2009,1
 509,Grey's Anatomy,5,20767,Samantha Mathis,1,False,Melinda Prescott,other,2009,1
@@ -521,7 +521,7 @@
 519,Grey's Anatomy,5,187565,Audra McDonald,1,False,Dr. Naomi Bennett,doctor,2009,2
 520,Grey's Anatomy,5,36221,Sam Anderson,2,False,Michael Whitman,other,2009,2
 521,Grey's Anatomy,5,17637,Taye Diggs,2,False,Dr. Sam Bennett,doctor,2009,2
-522,Grey's Anatomy,5,61114,Kate Walsh,1,False,Addison Montgomery,other,2009,2
+522,Grey's Anatomy,5,61114,Kate Walsh,1,False,Addison Montgomery,doctor,2009,2
 523,Grey's Anatomy,5,52932,Gloria Garayua,1,False,Intern Graciella,intern,2009,2
 524,Grey's Anatomy,5,212218,Mark Saul,2,False,Intern Steve,intern,2009,2
 525,Grey's Anatomy,5,6450,Faye Dunaway,1,False,Dr. Margaret Campbell,doctor,2009,2
@@ -551,19 +551,19 @@
 549,Grey's Anatomy,5,55546,Liza Weil,1,False,Alison Clark,other,2009,5
 550,Grey's Anatomy,5,69504,Debra Mooney,1,False,Evelyn Hunt,other,2009,5
 551,Grey's Anatomy,5,84299,Shannon Lucio,1,False,Amanda,other,2009,5
-552,Grey's Anatomy,6,9280,Ellen Pompeo,1,True,Meredith Grey,other,2009,9
-553,Grey's Anatomy,6,25544,James Pickens Jr.,2,True,Richard Webber,other,2009,9
-554,Grey's Anatomy,6,171075,Chandra Wilson,1,True,Miranda Bailey,other,2009,9
-555,Grey's Anatomy,6,20746,Justin Chambers,2,True,Alex Karev,other,2009,9
-556,Grey's Anatomy,6,125055,Sara Ramirez,3,True,Callie Torres,other,2009,9
-557,Grey's Anatomy,6,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2009,9
-558,Grey's Anatomy,6,25540,Sandra Oh,1,True,Cristina Yang,other,2009,9
-559,Grey's Anatomy,6,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2009,9
-560,Grey's Anatomy,6,9013,Kevin McKidd,2,True,Owen Hunt,other,2009,9
-561,Grey's Anatomy,6,25541,Katherine Heigl,1,True,Izzie Stevens,other,2009,9
-562,Grey's Anatomy,6,58115,Eric Dane,2,True,Mark Sloan,other,2009,9
-563,Grey's Anatomy,6,69210,Chyler Leigh,1,True,Lexie Grey,other,2009,9
-564,Grey's Anatomy,6,17836,Kim Raver,1,True,Teddy Altman,other,2009,9
+552,Grey's Anatomy,6,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2009,9
+553,Grey's Anatomy,6,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2009,9
+554,Grey's Anatomy,6,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2009,9
+555,Grey's Anatomy,6,20746,Justin Chambers,2,True,Alex Karev,doctor,2009,9
+556,Grey's Anatomy,6,125055,Sara Ramirez,3,True,Callie Torres,doctor,2009,9
+557,Grey's Anatomy,6,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2009,9
+558,Grey's Anatomy,6,25540,Sandra Oh,1,True,Cristina Yang,doctor,2009,9
+559,Grey's Anatomy,6,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2009,9
+560,Grey's Anatomy,6,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2009,9
+561,Grey's Anatomy,6,25541,Katherine Heigl,1,True,Izzie Stevens,doctor (probably),2009,9
+562,Grey's Anatomy,6,58115,Eric Dane,2,True,Mark Sloan,doctor,2009,9
+563,Grey's Anatomy,6,69210,Chyler Leigh,1,True,Lexie Grey,doctor,2009,9
+564,Grey's Anatomy,6,17836,Kim Raver,1,True,Teddy Altman,doctor,2009,9
 565,Grey's Anatomy,6,52932,Gloria Garayua,1,False,Intern Graciella,intern,2009,9
 566,Grey's Anatomy,6,12644,Mitch Pileggi,2,False,Lawrence Jennings,other,2009,9
 567,Grey's Anatomy,6,212218,Mark Saul,2,False,Intern Steve,intern,2009,9
@@ -587,8 +587,8 @@
 585,Grey's Anatomy,6,157582,Bruce French,2,False,Father Kevin,other,2009,10
 586,Grey's Anatomy,6,42335,Kathleen Wilhoite,1,False,Leslie Goldman,other,2009,10
 587,Grey's Anatomy,6,87669,Alexie Gilmore,1,False,Sarah Freemont,other,2009,10
-588,Grey's Anatomy,6,210695,Jesse Williams,2,False,Jackson Avery,other,2009,10
-589,Grey's Anatomy,6,198927,Sarah Drew,1,False,April Kepner,other,2009,10
+588,Grey's Anatomy,6,210695,Jesse Williams,2,False,Jackson Avery,doctor,2009,10
+589,Grey's Anatomy,6,198927,Sarah Drew,1,False,April Kepner,doctor,2009,10
 590,Grey's Anatomy,6,112878,Moe Irvin,0,False,Nurse Tyler Christian,nurse,2009,10
 591,Grey's Anatomy,6,94149,Ron Roggé,2,False,Fire Captain,other,2009,10
 592,Grey's Anatomy,6,34398,Bill Fagerbakke,2,False,Roy Mackinaw,other,2009,10
@@ -615,7 +615,7 @@
 613,Grey's Anatomy,6,219664,Cody Christian,2,False,Brad,other,2010,2
 614,Grey's Anatomy,6,49275,Spencer Garrett,2,False,Jim Walker,other,2010,2
 615,Grey's Anatomy,6,202950,Chastity Dotson,1,False,Leslie Wilson,other,2010,2
-616,Grey's Anatomy,6,95475,Jason George,2,False,Ben Warren,other,2010,2
+616,Grey's Anatomy,6,95475,Jason George,2,False,Ben Warren,medic,2010,2
 617,Grey's Anatomy,6,14699,Pamela Reed,1,False,Mrs. Banks,other,2010,2
 618,Grey's Anatomy,6,34490,Sarah Paulson,1,False,Ellis Grey jeune,other,2010,2
 619,Grey's Anatomy,6,55755,Richard T. Jones,2,False,Colonel Dan Mooney,other,2010,3
@@ -627,20 +627,20 @@
 625,Grey's Anatomy,6,61183,Ryan Devlin,2,False,Bill Portman,other,2010,5
 626,Grey's Anatomy,6,16855,Mandy Moore,1,False,Mary Portman,other,2010,5
 627,Grey's Anatomy,6,21710,Michael O'Neill,2,False,Gary Clark,other,2010,5
-628,Grey's Anatomy,7,9280,Ellen Pompeo,1,True,Meredith Grey,other,2010,9
-629,Grey's Anatomy,7,25544,James Pickens Jr.,2,True,Richard Webber,other,2010,9
-630,Grey's Anatomy,7,171075,Chandra Wilson,1,True,Miranda Bailey,other,2010,9
-631,Grey's Anatomy,7,20746,Justin Chambers,2,True,Alex Karev,other,2010,9
-632,Grey's Anatomy,7,125055,Sara Ramirez,3,True,Callie Torres,other,2010,9
-633,Grey's Anatomy,7,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2010,9
-634,Grey's Anatomy,7,25540,Sandra Oh,1,True,Cristina Yang,other,2010,9
-635,Grey's Anatomy,7,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2010,9
-636,Grey's Anatomy,7,9013,Kevin McKidd,2,True,Owen Hunt,other,2010,9
-637,Grey's Anatomy,7,58115,Eric Dane,2,True,Mark Sloan,other,2010,9
-638,Grey's Anatomy,7,69210,Chyler Leigh,1,True,Lexie Grey,other,2010,9
-639,Grey's Anatomy,7,17836,Kim Raver,1,True,Teddy Altman,other,2010,9
-640,Grey's Anatomy,7,210695,Jesse Williams,2,True,Jackson Avery,other,2010,9
-641,Grey's Anatomy,7,198927,Sarah Drew,1,True,April Kepner,other,2010,9
+628,Grey's Anatomy,7,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2010,9
+629,Grey's Anatomy,7,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2010,9
+630,Grey's Anatomy,7,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2010,9
+631,Grey's Anatomy,7,20746,Justin Chambers,2,True,Alex Karev,doctor,2010,9
+632,Grey's Anatomy,7,125055,Sara Ramirez,3,True,Callie Torres,doctor,2010,9
+633,Grey's Anatomy,7,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2010,9
+634,Grey's Anatomy,7,25540,Sandra Oh,1,True,Cristina Yang,doctor,2010,9
+635,Grey's Anatomy,7,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2010,9
+636,Grey's Anatomy,7,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2010,9
+637,Grey's Anatomy,7,58115,Eric Dane,2,True,Mark Sloan,doctor,2010,9
+638,Grey's Anatomy,7,69210,Chyler Leigh,1,True,Lexie Grey,doctor,2010,9
+639,Grey's Anatomy,7,17836,Kim Raver,1,True,Teddy Altman,doctor,2010,9
+640,Grey's Anatomy,7,210695,Jesse Williams,2,True,Jackson Avery,doctor,2010,9
+641,Grey's Anatomy,7,198927,Sarah Drew,1,True,April Kepner,doctor,2010,9
 642,Grey's Anatomy,7,119807,James Tupper,2,False,Dr. Andrew Perkins,doctor,2010,9
 643,Grey's Anatomy,7,4432,Frances Conroy,1,False,Eleanor Davis,other,2010,10
 644,Grey's Anatomy,7,212700,Candice Patton,1,False,Megan Waylon,other,2010,10
@@ -659,20 +659,20 @@
 657,Grey's Anatomy,7,1210,Hector Elizondo,2,False,Carlos Torres,other,2011,5
 658,Grey's Anatomy,7,2378539,Mark Sinacori,2,False,Hospital Staff,other,2011,5
 659,Grey's Anatomy,7,1116802,Jet Jurgensmeyer,2,False,Jack Hobart,other,2011,5
-660,Grey's Anatomy,8,9280,Ellen Pompeo,1,True,Meredith Grey,other,2011,9
-661,Grey's Anatomy,8,25544,James Pickens Jr.,2,True,Richard Webber,other,2011,9
-662,Grey's Anatomy,8,171075,Chandra Wilson,1,True,Miranda Bailey,other,2011,9
-663,Grey's Anatomy,8,20746,Justin Chambers,2,True,Alex Karev,other,2011,9
-664,Grey's Anatomy,8,125055,Sara Ramirez,3,True,Callie Torres,other,2011,9
-665,Grey's Anatomy,8,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2011,9
-666,Grey's Anatomy,8,25540,Sandra Oh,1,True,Cristina Yang,other,2011,9
-667,Grey's Anatomy,8,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2011,9
-668,Grey's Anatomy,8,9013,Kevin McKidd,2,True,Owen Hunt,other,2011,9
-669,Grey's Anatomy,8,58115,Eric Dane,2,True,Mark Sloan,other,2011,9
-670,Grey's Anatomy,8,69210,Chyler Leigh,1,True,Lexie Grey,other,2011,9
-671,Grey's Anatomy,8,17836,Kim Raver,1,True,Teddy Altman,other,2011,9
-672,Grey's Anatomy,8,210695,Jesse Williams,2,True,Jackson Avery,other,2011,9
-673,Grey's Anatomy,8,198927,Sarah Drew,1,True,April Kepner,other,2011,9
+660,Grey's Anatomy,8,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2011,9
+661,Grey's Anatomy,8,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2011,9
+662,Grey's Anatomy,8,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2011,9
+663,Grey's Anatomy,8,20746,Justin Chambers,2,True,Alex Karev,doctor,2011,9
+664,Grey's Anatomy,8,125055,Sara Ramirez,3,True,Callie Torres,doctor,2011,9
+665,Grey's Anatomy,8,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2011,9
+666,Grey's Anatomy,8,25540,Sandra Oh,1,True,Cristina Yang,doctor,2011,9
+667,Grey's Anatomy,8,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2011,9
+668,Grey's Anatomy,8,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2011,9
+669,Grey's Anatomy,8,58115,Eric Dane,2,True,Mark Sloan,doctor,2011,9
+670,Grey's Anatomy,8,69210,Chyler Leigh,1,True,Lexie Grey,doctor,2011,9
+671,Grey's Anatomy,8,17836,Kim Raver,1,True,Teddy Altman,doctor,2011,9
+672,Grey's Anatomy,8,210695,Jesse Williams,2,True,Jackson Avery,doctor,2011,9
+673,Grey's Anatomy,8,198927,Sarah Drew,1,True,April Kepner,doctor,2011,9
 674,Grey's Anatomy,8,35595,Scott Foley,2,False,Henry Burton,other,2011,9
 675,Grey's Anatomy,8,2378539,Mark Sinacori,2,False,Hospital Staff,other,2011,10
 676,Grey's Anatomy,8,3237,Joelle Carter,1,False,Mary Rolich,other,2011,10
@@ -685,18 +685,18 @@
 683,Grey's Anatomy,8,36216,Cynthia Watros,1,False,Mrs Connor,other,2012,5
 684,Grey's Anatomy,8,97600,David DeLuise,2,False,Charlie Connor,other,2012,5
 685,Grey's Anatomy,8,10775,William Daniels,2,False,Dr. Craig Thomas,doctor,2012,5
-686,Grey's Anatomy,9,9280,Ellen Pompeo,1,True,Meredith Grey,other,2012,9
-687,Grey's Anatomy,9,25544,James Pickens Jr.,2,True,Richard Webber,other,2012,9
-688,Grey's Anatomy,9,171075,Chandra Wilson,1,True,Miranda Bailey,other,2012,9
-689,Grey's Anatomy,9,20746,Justin Chambers,2,True,Alex Karev,other,2012,9
-690,Grey's Anatomy,9,125055,Sara Ramirez,3,True,Callie Torres,other,2012,9
-691,Grey's Anatomy,9,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2012,9
-692,Grey's Anatomy,9,25540,Sandra Oh,1,True,Cristina Yang,other,2012,9
-693,Grey's Anatomy,9,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2012,9
-694,Grey's Anatomy,9,9013,Kevin McKidd,2,True,Owen Hunt,other,2012,9
-695,Grey's Anatomy,9,58115,Eric Dane,2,True,Mark Sloan,other,2012,9
-696,Grey's Anatomy,9,210695,Jesse Williams,2,True,Jackson Avery,other,2012,9
-697,Grey's Anatomy,9,198927,Sarah Drew,1,True,April Kepner,other,2012,9
+686,Grey's Anatomy,9,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2012,9
+687,Grey's Anatomy,9,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2012,9
+688,Grey's Anatomy,9,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2012,9
+689,Grey's Anatomy,9,20746,Justin Chambers,2,True,Alex Karev,doctor,2012,9
+690,Grey's Anatomy,9,125055,Sara Ramirez,3,True,Callie Torres,doctor,2012,9
+691,Grey's Anatomy,9,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2012,9
+692,Grey's Anatomy,9,25540,Sandra Oh,1,True,Cristina Yang,doctor,2012,9
+693,Grey's Anatomy,9,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2012,9
+694,Grey's Anatomy,9,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2012,9
+695,Grey's Anatomy,9,58115,Eric Dane,2,True,Mark Sloan,doctor,2012,9
+696,Grey's Anatomy,9,210695,Jesse Williams,2,True,Jackson Avery,doctor,2012,9
+697,Grey's Anatomy,9,198927,Sarah Drew,1,True,April Kepner,doctor,2012,9
 698,Grey's Anatomy,9,118374,Gaius Charles,2,False,Shane Ross,other,2012,9
 699,Grey's Anatomy,9,10775,William Daniels,2,False,Dr. Craig Thomas,doctor,2012,9
 700,Grey's Anatomy,9,58019,Ethan Embry,2,False,Dr. David Moore,doctor,2012,10
@@ -710,21 +710,21 @@
 708,Grey's Anatomy,9,85812,Michael Buie,2,False,Paul Dawson,other,2013,3
 709,Grey's Anatomy,9,35472,Hilarie Burton,1,False,Lauren Boswell,other,2013,5
 710,Grey's Anatomy,9,2175867,Ella Jay Basco,1,False,Evie,other,2013,5
-711,Grey's Anatomy,10,9280,Ellen Pompeo,1,True,Meredith Grey,other,2013,9
-712,Grey's Anatomy,10,25544,James Pickens Jr.,2,True,Richard Webber,other,2013,9
-713,Grey's Anatomy,10,171075,Chandra Wilson,1,True,Miranda Bailey,other,2013,9
-714,Grey's Anatomy,10,20746,Justin Chambers,2,True,Alex Karev,other,2013,9
-715,Grey's Anatomy,10,125055,Sara Ramirez,3,True,Callie Torres,other,2013,9
-716,Grey's Anatomy,10,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2013,9
-717,Grey's Anatomy,10,25540,Sandra Oh,1,True,Cristina Yang,other,2013,9
-718,Grey's Anatomy,10,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2013,9
-719,Grey's Anatomy,10,9013,Kevin McKidd,2,True,Owen Hunt,other,2013,9
-720,Grey's Anatomy,10,236021,Camilla Luddington,1,True,Jo Wilson,other,2013,9
-721,Grey's Anatomy,10,217589,Jerrika Hinton,1,True,Stephanie Edwards,other,2013,9
-722,Grey's Anatomy,10,118374,Gaius Charles,2,True,Shane Ross,other,2013,9
-723,Grey's Anatomy,10,1096077,Tessa Ferrer,1,True,Leah Murphy,other,2013,9
-724,Grey's Anatomy,10,210695,Jesse Williams,2,True,Jackson Avery,other,2013,9
-725,Grey's Anatomy,10,198927,Sarah Drew,1,True,April Kepner,other,2013,9
+711,Grey's Anatomy,10,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2013,9
+712,Grey's Anatomy,10,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2013,9
+713,Grey's Anatomy,10,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2013,9
+714,Grey's Anatomy,10,20746,Justin Chambers,2,True,Alex Karev,doctor,2013,9
+715,Grey's Anatomy,10,125055,Sara Ramirez,3,True,Callie Torres,doctor,2013,9
+716,Grey's Anatomy,10,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2013,9
+717,Grey's Anatomy,10,25540,Sandra Oh,1,True,Cristina Yang,doctor,2013,9
+718,Grey's Anatomy,10,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2013,9
+719,Grey's Anatomy,10,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2013,9
+720,Grey's Anatomy,10,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2013,9
+721,Grey's Anatomy,10,217589,Jerrika Hinton,1,True,Stephanie Edwards,doctor (probably),2013,9
+722,Grey's Anatomy,10,118374,Gaius Charles,2,True,Shane Ross,doctor (probably),2013,9
+723,Grey's Anatomy,10,1096077,Tessa Ferrer,1,True,Leah Murphy,doctor (probably),2013,9
+724,Grey's Anatomy,10,210695,Jesse Williams,2,True,Jackson Avery,doctor,2013,9
+725,Grey's Anatomy,10,198927,Sarah Drew,1,True,April Kepner,doctor,2013,9
 726,Grey's Anatomy,10,156990,Julie Dretzin,1,False,Carmen Hall,other,2013,10
 727,Grey's Anatomy,10,1392542,Laya DeLeon Hayes,0,False,Taryn Davis,other,2013,10
 728,Grey's Anatomy,10,1099229,Evan Crooks,2,False,Will,other,2013,11
@@ -754,25 +754,25 @@
 752,Grey's Anatomy,10,1212271,Harley Graham,1,False,Francesca McNeil,other,2014,4
 753,Grey's Anatomy,10,1540601,Thomas Barbusca,2,False,Link McNeil,other,2014,4
 754,Grey's Anatomy,10,112878,Moe Irvin,0,False,Nurse Tyler Christian,nurse,2014,4
-755,Grey's Anatomy,10,81684,Caterina Scorsone,1,False,Amelia Shepherd,other,2014,5
-756,Grey's Anatomy,10,1256638,Kelly McCreary,1,False,Maggie Pierce,other,2014,5
-757,Grey's Anatomy,11,9280,Ellen Pompeo,1,True,Meredith Grey,other,2014,9
-758,Grey's Anatomy,11,25544,James Pickens Jr.,2,True,Richard Webber,other,2014,9
-759,Grey's Anatomy,11,171075,Chandra Wilson,1,True,Miranda Bailey,other,2014,9
-760,Grey's Anatomy,11,20746,Justin Chambers,2,True,Alex Karev,other,2014,9
-761,Grey's Anatomy,11,125055,Sara Ramirez,3,True,Callie Torres,other,2014,9
-762,Grey's Anatomy,11,18352,Patrick Dempsey,2,True,Derek Shepherd,other,2014,9
-763,Grey's Anatomy,11,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2014,9
-764,Grey's Anatomy,11,9013,Kevin McKidd,2,True,Owen Hunt,other,2014,9
-765,Grey's Anatomy,11,236021,Camilla Luddington,1,True,Jo Wilson,other,2014,9
-766,Grey's Anatomy,11,217589,Jerrika Hinton,1,True,Stephanie Edwards,other,2014,9
-767,Grey's Anatomy,11,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2014,9
-768,Grey's Anatomy,11,1256638,Kelly McCreary,1,True,Maggie Pierce,other,2014,9
-769,Grey's Anatomy,11,210695,Jesse Williams,2,True,Jackson Avery,other,2014,9
-770,Grey's Anatomy,11,198927,Sarah Drew,1,True,April Kepner,other,2014,9
+755,Grey's Anatomy,10,81684,Caterina Scorsone,1,False,Amelia Shepherd,doctor,2014,5
+756,Grey's Anatomy,10,1256638,Kelly McCreary,1,False,Maggie Pierce,doctor,2014,5
+757,Grey's Anatomy,11,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2014,9
+758,Grey's Anatomy,11,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2014,9
+759,Grey's Anatomy,11,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2014,9
+760,Grey's Anatomy,11,20746,Justin Chambers,2,True,Alex Karev,doctor,2014,9
+761,Grey's Anatomy,11,125055,Sara Ramirez,3,True,Callie Torres,doctor,2014,9
+762,Grey's Anatomy,11,18352,Patrick Dempsey,2,True,Derek Shepherd,doctor,2014,9
+763,Grey's Anatomy,11,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2014,9
+764,Grey's Anatomy,11,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2014,9
+765,Grey's Anatomy,11,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2014,9
+766,Grey's Anatomy,11,217589,Jerrika Hinton,1,True,Stephanie Edwards,doctor (probably),2014,9
+767,Grey's Anatomy,11,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2014,9
+768,Grey's Anatomy,11,1256638,Kelly McCreary,1,True,Maggie Pierce,doctor,2014,9
+769,Grey's Anatomy,11,210695,Jesse Williams,2,True,Jackson Avery,doctor,2014,9
+770,Grey's Anatomy,11,198927,Sarah Drew,1,True,April Kepner,doctor,2014,9
 771,Grey's Anatomy,11,1257563,Annet Mahendru,1,False,Ana,other,2014,9
 772,Grey's Anatomy,11,16935,Geena Davis,1,False,Nicole Herman,other,2014,9
-773,Grey's Anatomy,11,20879,Kate Burton,1,False,Ellis Grey,other,2014,9
+773,Grey's Anatomy,11,20879,Kate Burton,1,False,Ellis Grey,doctor,2014,9
 774,Grey's Anatomy,11,1373097,Chad James Buchanan,2,False,Brian,other,2014,10
 775,Grey's Anatomy,11,58791,Patrick Fabian,2,False,Dr. Oliver Lebackes,doctor,2014,10
 776,Grey's Anatomy,11,141185,Shawn-Caulin Young,2,False,Steve Tate,other,2014,10
@@ -786,29 +786,29 @@
 784,Grey's Anatomy,11,1440058,Nicolas Bechtel,2,False,Jack,other,2015,1
 785,Grey's Anatomy,11,2009663,AJ Achinger,2,False,Dylan,other,2015,1
 786,Grey's Anatomy,11,149831,Rob Nagle,2,False,Howard Bonaman,other,2015,2
-787,Grey's Anatomy,11,1828992,Danny Nero,2,False,Anesthesiologist,other,2015,3
+787,Grey's Anatomy,11,1828992,Danny Nero,2,False,Anesthesiologist,medic,2015,3
 788,Grey's Anatomy,11,1356210,Millie Bobby Brown,1,False,Ruby,other,2015,3
 789,Grey's Anatomy,11,58957,Crista Flanagan,1,False,Andrea,doctor,2015,3
 790,Grey's Anatomy,11,1789713,Ajiona Alexus,1,False,Marissa McKay,other,2015,4
 791,Grey's Anatomy,11,92287,Alex Craig Mann,2,False,Sam Garrett,other,2015,4
 792,Grey's Anatomy,11,139048,Elizabeth Ann Bennett,1,False,Anne Chambers,other,2015,4
 793,Grey's Anatomy,11,33656,Heather Matarazzo,1,False,Joan Paulson,other,2015,5
-794,Grey's Anatomy,12,9280,Ellen Pompeo,1,True,Meredith Grey,other,2015,9
-795,Grey's Anatomy,12,25544,James Pickens Jr.,2,True,Richard Webber,other,2015,9
-796,Grey's Anatomy,12,171075,Chandra Wilson,1,True,Miranda Bailey,other,2015,9
-797,Grey's Anatomy,12,20746,Justin Chambers,2,True,Alex Karev,other,2015,9
-798,Grey's Anatomy,12,125055,Sara Ramirez,3,True,Callie Torres,other,2015,9
-799,Grey's Anatomy,12,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2015,9
-800,Grey's Anatomy,12,9013,Kevin McKidd,2,True,Owen Hunt,other,2015,9
-801,Grey's Anatomy,12,236021,Camilla Luddington,1,True,Jo Wilson,other,2015,9
-802,Grey's Anatomy,12,217589,Jerrika Hinton,1,True,Stephanie Edwards,other,2015,9
+794,Grey's Anatomy,12,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2015,9
+795,Grey's Anatomy,12,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2015,9
+796,Grey's Anatomy,12,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2015,9
+797,Grey's Anatomy,12,20746,Justin Chambers,2,True,Alex Karev,doctor,2015,9
+798,Grey's Anatomy,12,125055,Sara Ramirez,3,True,Callie Torres,doctor,2015,9
+799,Grey's Anatomy,12,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2015,9
+800,Grey's Anatomy,12,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2015,9
+801,Grey's Anatomy,12,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2015,9
+802,Grey's Anatomy,12,217589,Jerrika Hinton,1,True,Stephanie Edwards,doctor (probably),2015,9
 803,Grey's Anatomy,12,1362995,Giacomo Gianniotti,2,True,Andrew DeLuca,doctor,2015,9
-804,Grey's Anatomy,12,26291,Martin Henderson,2,True,Nathan Riggs,other,2015,9
-805,Grey's Anatomy,12,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2015,9
-806,Grey's Anatomy,12,1256638,Kelly McCreary,1,True,Maggie Pierce,other,2015,9
-807,Grey's Anatomy,12,210695,Jesse Williams,2,True,Jackson Avery,other,2015,9
-808,Grey's Anatomy,12,198927,Sarah Drew,1,True,April Kepner,other,2015,9
-809,Grey's Anatomy,12,95475,Jason George,2,True,Ben Warren,other,2015,9
+804,Grey's Anatomy,12,26291,Martin Henderson,2,True,Nathan Riggs,doctor,2015,9
+805,Grey's Anatomy,12,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2015,9
+806,Grey's Anatomy,12,1256638,Kelly McCreary,1,True,Maggie Pierce,doctor,2015,9
+807,Grey's Anatomy,12,210695,Jesse Williams,2,True,Jackson Avery,doctor,2015,9
+808,Grey's Anatomy,12,198927,Sarah Drew,1,True,April Kepner,doctor,2015,9
+809,Grey's Anatomy,12,95475,Jason George,2,True,Ben Warren,medic,2015,9
 810,Grey's Anatomy,12,2252,Maz Jobrani,2,False,Dakhir Hamed,other,2015,9
 811,Grey's Anatomy,12,2529988,Lindsay Kay Hayward,0,False,Jade Bell,other,2015,10
 812,Grey's Anatomy,12,1391888,William Leon,0,False,Garry Walton,other,2015,11
@@ -819,21 +819,21 @@
 817,Grey's Anatomy,12,1347705,Nina Rausch,1,False,Sheila Davis,other,2016,4
 818,Grey's Anatomy,12,1213395,Brianne Tju,1,False,Stacy,other,2016,4
 819,Grey's Anatomy,12,1015739,David Fierro,2,False,James,other,2016,4
-820,Grey's Anatomy,13,9280,Ellen Pompeo,1,True,Meredith Grey,other,2016,9
-821,Grey's Anatomy,13,25544,James Pickens Jr.,2,True,Richard Webber,other,2016,9
-822,Grey's Anatomy,13,171075,Chandra Wilson,1,True,Miranda Bailey,other,2016,9
-823,Grey's Anatomy,13,20746,Justin Chambers,2,True,Alex Karev,other,2016,9
-824,Grey's Anatomy,13,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2016,9
-825,Grey's Anatomy,13,9013,Kevin McKidd,2,True,Owen Hunt,other,2016,9
-826,Grey's Anatomy,13,236021,Camilla Luddington,1,True,Jo Wilson,other,2016,9
-827,Grey's Anatomy,13,217589,Jerrika Hinton,1,True,Stephanie Edwards,other,2016,9
+820,Grey's Anatomy,13,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2016,9
+821,Grey's Anatomy,13,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2016,9
+822,Grey's Anatomy,13,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2016,9
+823,Grey's Anatomy,13,20746,Justin Chambers,2,True,Alex Karev,doctor,2016,9
+824,Grey's Anatomy,13,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2016,9
+825,Grey's Anatomy,13,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2016,9
+826,Grey's Anatomy,13,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2016,9
+827,Grey's Anatomy,13,217589,Jerrika Hinton,1,True,Stephanie Edwards,doctor (probably),2016,9
 828,Grey's Anatomy,13,1362995,Giacomo Gianniotti,2,True,Andrew DeLuca,doctor,2016,9
-829,Grey's Anatomy,13,26291,Martin Henderson,2,True,Nathan Riggs,other,2016,9
-830,Grey's Anatomy,13,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2016,9
-831,Grey's Anatomy,13,1256638,Kelly McCreary,1,True,Maggie Pierce,other,2016,9
-832,Grey's Anatomy,13,210695,Jesse Williams,2,True,Jackson Avery,other,2016,9
-833,Grey's Anatomy,13,198927,Sarah Drew,1,True,April Kepner,other,2016,9
-834,Grey's Anatomy,13,95475,Jason George,2,True,Ben Warren,other,2016,9
+829,Grey's Anatomy,13,26291,Martin Henderson,2,True,Nathan Riggs,doctor,2016,9
+830,Grey's Anatomy,13,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2016,9
+831,Grey's Anatomy,13,1256638,Kelly McCreary,1,True,Maggie Pierce,doctor,2016,9
+832,Grey's Anatomy,13,210695,Jesse Williams,2,True,Jackson Avery,doctor,2016,9
+833,Grey's Anatomy,13,198927,Sarah Drew,1,True,April Kepner,doctor,2016,9
+834,Grey's Anatomy,13,95475,Jason George,2,True,Ben Warren,medic,2016,9
 835,Grey's Anatomy,13,168994,Kimberly Quinn,1,False,Reena Thompson,other,2016,9
 836,Grey's Anatomy,13,1335818,Taylour Paige,1,False,Emma,other,2016,10
 837,Grey's Anatomy,13,106883,Sage Kirkpatrick,1,False,Carolyn Adkins,other,2016,11
@@ -849,20 +849,20 @@
 847,Grey's Anatomy,13,35515,June Squibb,1,False,Dr. Elsie Clatch,doctor,2017,3
 848,Grey's Anatomy,13,1700684,Hudson West,2,False,Liam Fisher,other,2017,5
 849,Grey's Anatomy,13,1583326,Peyton McDavitt,1,False,Denise Miller,other,2017,5
-850,Grey's Anatomy,14,9280,Ellen Pompeo,1,True,Meredith Grey,other,2017,9
-851,Grey's Anatomy,14,25544,James Pickens Jr.,2,True,Richard Webber,other,2017,9
-852,Grey's Anatomy,14,171075,Chandra Wilson,1,True,Miranda Bailey,other,2017,9
-853,Grey's Anatomy,14,20746,Justin Chambers,2,True,Alex Karev,other,2017,9
-854,Grey's Anatomy,14,2205,Jessica Capshaw,1,True,Arizona Robbins,other,2017,9
-855,Grey's Anatomy,14,9013,Kevin McKidd,2,True,Owen Hunt,other,2017,9
-856,Grey's Anatomy,14,236021,Camilla Luddington,1,True,Jo Wilson,other,2017,9
+850,Grey's Anatomy,14,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2017,9
+851,Grey's Anatomy,14,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2017,9
+852,Grey's Anatomy,14,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2017,9
+853,Grey's Anatomy,14,20746,Justin Chambers,2,True,Alex Karev,doctor,2017,9
+854,Grey's Anatomy,14,2205,Jessica Capshaw,1,True,Arizona Robbins,doctor,2017,9
+855,Grey's Anatomy,14,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2017,9
+856,Grey's Anatomy,14,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2017,9
 857,Grey's Anatomy,14,1362995,Giacomo Gianniotti,2,True,Andrew DeLuca,doctor,2017,9
-858,Grey's Anatomy,14,26291,Martin Henderson,2,True,Nathan Riggs,other,2017,9
-859,Grey's Anatomy,14,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2017,9
-860,Grey's Anatomy,14,1256638,Kelly McCreary,1,True,Maggie Pierce,other,2017,9
-861,Grey's Anatomy,14,210695,Jesse Williams,2,True,Jackson Avery,other,2017,9
-862,Grey's Anatomy,14,198927,Sarah Drew,1,True,April Kepner,other,2017,9
-863,Grey's Anatomy,14,95475,Jason George,2,True,Ben Warren,other,2017,9
+858,Grey's Anatomy,14,26291,Martin Henderson,2,True,Nathan Riggs,doctor,2017,9
+859,Grey's Anatomy,14,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2017,9
+860,Grey's Anatomy,14,1256638,Kelly McCreary,1,True,Maggie Pierce,doctor,2017,9
+861,Grey's Anatomy,14,210695,Jesse Williams,2,True,Jackson Avery,doctor,2017,9
+862,Grey's Anatomy,14,198927,Sarah Drew,1,True,April Kepner,doctor,2017,9
+863,Grey's Anatomy,14,95475,Jason George,2,True,Ben Warren,medic,2017,9
 864,Grey's Anatomy,14,1581103,Stefania Spampinato,1,False,Carina DeLuca,other,2017,9
 865,Grey's Anatomy,14,2026485,Nina Gosiengfiao,0,False,Picture Perfect Interviewee,other,2017,10
 866,Grey's Anatomy,14,1163789,Sophia Ali,1,False,Dahlia Qadri,doctor,2017,10
@@ -883,17 +883,17 @@
 881,Grey's Anatomy,14,2116086,Santino Barnard,2,False,Mike,other,2018,4
 882,Grey's Anatomy,14,16935,Geena Davis,1,False,Nicole Herman,other,2018,5
 883,Grey's Anatomy,14,1786368,Grace Rowe,1,False,Paramedic Grace,medic,2018,5
-884,Grey's Anatomy,15,9280,Ellen Pompeo,1,True,Meredith Grey,other,2018,9
-885,Grey's Anatomy,15,25544,James Pickens Jr.,2,True,Richard Webber,other,2018,9
-886,Grey's Anatomy,15,171075,Chandra Wilson,1,True,Miranda Bailey,other,2018,9
-887,Grey's Anatomy,15,20746,Justin Chambers,2,True,Alex Karev,other,2018,9
-888,Grey's Anatomy,15,9013,Kevin McKidd,2,True,Owen Hunt,other,2018,9
-889,Grey's Anatomy,15,236021,Camilla Luddington,1,True,Jo Wilson,other,2018,9
-890,Grey's Anatomy,15,17836,Kim Raver,1,True,Teddy Altman,other,2018,9
+884,Grey's Anatomy,15,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2018,9
+885,Grey's Anatomy,15,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2018,9
+886,Grey's Anatomy,15,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2018,9
+887,Grey's Anatomy,15,20746,Justin Chambers,2,True,Alex Karev,doctor,2018,9
+888,Grey's Anatomy,15,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2018,9
+889,Grey's Anatomy,15,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2018,9
+890,Grey's Anatomy,15,17836,Kim Raver,1,True,Teddy Altman,doctor,2018,9
 891,Grey's Anatomy,15,1362995,Giacomo Gianniotti,2,True,Andrew DeLuca,doctor,2018,9
-892,Grey's Anatomy,15,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2018,9
-893,Grey's Anatomy,15,1256638,Kelly McCreary,1,True,Maggie Pierce,other,2018,9
-894,Grey's Anatomy,15,210695,Jesse Williams,2,True,Jackson Avery,other,2018,9
+892,Grey's Anatomy,15,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2018,9
+893,Grey's Anatomy,15,1256638,Kelly McCreary,1,True,Maggie Pierce,doctor,2018,9
+894,Grey's Anatomy,15,210695,Jesse Williams,2,True,Jackson Avery,doctor,2018,9
 895,Grey's Anatomy,15,1313637,Sloan Robinson,1,False,Dabitha,other,2018,9
 896,Grey's Anatomy,15,2003073,Caroline Clay,1,False,Cece Colvin,other,2018,9
 897,Grey's Anatomy,15,1402319,Bayne Gibby,1,False,Cheryl Giles,other,2018,9
@@ -920,7 +920,7 @@
 918,Grey's Anatomy,15,1224099,Vivian Nixon,1,False,Hannah Brody,other,2018,10
 919,Grey's Anatomy,15,2646905,Bokhee An,1,False,Nurse Bokhee,nurse,2018,10
 920,Grey's Anatomy,15,2513214,Frances Nichols,1,False,Nurse Karen,nurse,2018,10
-921,Grey's Anatomy,15,95475,Jason George,2,False,Ben Warren,other,2018,10
+921,Grey's Anatomy,15,95475,Jason George,2,False,Ben Warren,medic,2018,10
 922,Grey's Anatomy,15,109686,Flex Alexander,2,False,Evan Forrester,other,2018,10
 923,Grey's Anatomy,15,1523924,Caleb Emery,2,False,Julius,other,2018,10
 924,Grey's Anatomy,15,144009,Josh Radnor,2,False,Jon,other,2018,10
@@ -953,7 +953,7 @@
 951,Grey's Anatomy,15,2821346,Crystal De La Cruz,1,False,Cousin,other,2018,11
 952,Grey's Anatomy,15,2956850,Arlene Hogan,1,False,Nurse Arlene,nurse,2018,11
 953,Grey's Anatomy,15,1477243,BJ Tanner,2,False,Tuck Bailey Jones,other,2018,11
-954,Grey's Anatomy,15,20879,Kate Burton,1,False,Ellis Grey,other,2018,11
+954,Grey's Anatomy,15,20879,Kate Burton,1,False,Ellis Grey,doctor,2018,11
 955,Grey's Anatomy,15,2562978,Olivia-Diane Joseph,0,False,Nurse Liv,nurse,2018,11
 956,Grey's Anatomy,15,2268579,Qualiema Green,1,False,Waitress,other,2019,2
 957,Grey's Anatomy,15,1329,Billy Boyd,2,False,Seamus,other,2019,2
@@ -964,19 +964,19 @@
 962,Grey's Anatomy,15,80758,Boris Kodjoe,2,False,Captain Robert Sullivan,other,2019,5
 963,Grey's Anatomy,15,1224188,Brett Tucker,2,False,Lucas Ripley,other,2019,5
 964,Grey's Anatomy,15,1225812,Jane Wall,0,False,Frances Pinfield,other,2019,5
-965,Grey's Anatomy,16,9280,Ellen Pompeo,1,True,Meredith Grey,other,2019,9
-966,Grey's Anatomy,16,25544,James Pickens Jr.,2,True,Richard Webber,other,2019,9
-967,Grey's Anatomy,16,171075,Chandra Wilson,1,True,Miranda Bailey,other,2019,9
-968,Grey's Anatomy,16,20746,Justin Chambers,2,True,Alex Karev,other,2019,9
-969,Grey's Anatomy,16,9013,Kevin McKidd,2,True,Owen Hunt,other,2019,9
-970,Grey's Anatomy,16,236021,Camilla Luddington,1,True,Jo Wilson,other,2019,9
-971,Grey's Anatomy,16,17836,Kim Raver,1,True,Teddy Altman,other,2019,9
+965,Grey's Anatomy,16,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2019,9
+966,Grey's Anatomy,16,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2019,9
+967,Grey's Anatomy,16,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2019,9
+968,Grey's Anatomy,16,20746,Justin Chambers,2,True,Alex Karev,doctor,2019,9
+969,Grey's Anatomy,16,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2019,9
+970,Grey's Anatomy,16,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2019,9
+971,Grey's Anatomy,16,17836,Kim Raver,1,True,Teddy Altman,doctor,2019,9
 972,Grey's Anatomy,16,1362995,Giacomo Gianniotti,2,True,Andrew DeLuca,doctor,2019,9
-973,Grey's Anatomy,16,87440,Chris Carmack,2,True,Atticus Lincoln,other,2019,9
-974,Grey's Anatomy,16,1450286,Jake Borelli,2,True,Levi Schmitt,other,2019,9
-975,Grey's Anatomy,16,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2019,9
-976,Grey's Anatomy,16,210695,Jesse Williams,2,True,Jackson Avery,other,2019,9
-977,Grey's Anatomy,16,19974,Greg Germann,2,True,Tom Koracick,other,2019,9
+973,Grey's Anatomy,16,87440,Chris Carmack,2,True,Atticus Lincoln,doctor (probably),2019,9
+974,Grey's Anatomy,16,1450286,Jake Borelli,2,True,Levi Schmitt,doctor (probably),2019,9
+975,Grey's Anatomy,16,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2019,9
+976,Grey's Anatomy,16,210695,Jesse Williams,2,True,Jackson Avery,doctor,2019,9
+977,Grey's Anatomy,16,19974,Greg Germann,2,True,Tom Koracick,doctor (probably),2019,9
 978,Grey's Anatomy,16,1599175,Patrick O'Connor,2,False,Judge Finch,other,2019,9
 979,Grey's Anatomy,16,15453,Debra Jo Rupp,1,False,Jo's Therapist,other,2019,9
 980,Grey's Anatomy,16,1317158,Asher Deva,2,False,Jai Prishna,other,2019,9
@@ -996,14 +996,14 @@
 994,Grey's Anatomy,16,1450431,Vanessa Mizzone,0,False,Sheila Goodrich,doctor,2019,10
 995,Grey's Anatomy,16,1677397,Isidora Goreshter,1,False,Paula,other,2019,10
 996,Grey's Anatomy,16,2294468,Alex Blue Davis,2,False,Casey Parker,other,2020,1
-997,Grey's Anatomy,16,95475,Jason George,2,False,Ben Warren,other,2020,1
+997,Grey's Anatomy,16,95475,Jason George,2,False,Ben Warren,medic,2020,1
 998,Grey's Anatomy,16,2300113,Alex Landi,2,False,Nico Kim,other,2020,1
 999,Grey's Anatomy,16,2294469,Jaicy Elliot,1,False,Taryn Helm,other,2020,1
 1000,Grey's Anatomy,16,2777491,Jacob Radin,2,False,Elijah,other,2020,1
 1001,Grey's Anatomy,16,154856,Sarah Rafferty,1,False,Suzanne Britland,other,2020,1
 1002,Grey's Anatomy,16,2726870,Karri Aiken,0,False,Mary Powers,other,2020,2
 1003,Grey's Anatomy,16,64373,Elyse Dinh,1,False,Kathleen,other,2020,2
-1004,Grey's Anatomy,16,1256638,Kelly McCreary,1,False,Maggie Pierce,other,2020,3
+1004,Grey's Anatomy,16,1256638,Kelly McCreary,1,False,Maggie Pierce,doctor,2020,3
 1005,Grey's Anatomy,16,1506297,Mason Shea Joyce,2,False,Guthrie Hamilton,other,2020,4
 1006,Grey's Anatomy,16,1218908,Tan Kheng Hua,1,False,Vera Roberts,other,2020,4
 1007,Grey's Anatomy,16,1428991,Richard Flood,2,False,Cormac Hayes,other,2020,4
@@ -1016,26 +1016,26 @@
 1014,Grey's Anatomy,16,2706259,Branden Silverman,0,False,Paramedic,medic,2020,4
 1015,Grey's Anatomy,16,1224099,Vivian Nixon,1,False,Hannah Brody,other,2020,4
 1016,Grey's Anatomy,16,69504,Debra Mooney,1,False,Evelyn Hunt,other,2020,4
-1017,Grey's Anatomy,16,32395,Debbie Allen,1,False,Catherine Avery,other,2020,4
+1017,Grey's Anatomy,16,32395,Debbie Allen,1,False,Catherine Avery,doctor,2020,4
 1018,Grey's Anatomy,16,2706257,"Norman Nixon, Jr.",0,False,Nurse James,nurse,2020,4
 1019,Grey's Anatomy,16,2513214,Frances Nichols,1,False,Nurse Karen,nurse,2020,4
 1020,Grey's Anatomy,16,1581103,Stefania Spampinato,1,False,Carina DeLuca,other,2020,4
 1021,Grey's Anatomy,16,2706258,Sylvia Kwan,0,False,Mabel Tseng,other,2020,4
-1022,Grey's Anatomy,17,9280,Ellen Pompeo,1,True,Meredith Grey,other,2020,11
-1023,Grey's Anatomy,17,25544,James Pickens Jr.,2,True,Richard Webber,other,2020,11
-1024,Grey's Anatomy,17,171075,Chandra Wilson,1,True,Miranda Bailey,other,2020,11
-1025,Grey's Anatomy,17,9013,Kevin McKidd,2,True,Owen Hunt,other,2020,11
-1026,Grey's Anatomy,17,236021,Camilla Luddington,1,True,Jo Wilson,other,2020,11
-1027,Grey's Anatomy,17,17836,Kim Raver,1,True,Teddy Altman,other,2020,11
+1022,Grey's Anatomy,17,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2020,11
+1023,Grey's Anatomy,17,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2020,11
+1024,Grey's Anatomy,17,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2020,11
+1025,Grey's Anatomy,17,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2020,11
+1026,Grey's Anatomy,17,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2020,11
+1027,Grey's Anatomy,17,17836,Kim Raver,1,True,Teddy Altman,doctor,2020,11
 1028,Grey's Anatomy,17,1362995,Giacomo Gianniotti,2,True,Andrew DeLuca,doctor,2020,11
-1029,Grey's Anatomy,17,87440,Chris Carmack,2,True,Atticus Lincoln,other,2020,11
-1030,Grey's Anatomy,17,1450286,Jake Borelli,2,True,Levi Schmitt,other,2020,11
-1031,Grey's Anatomy,17,1583975,Anthony Hill,2,True,Winston Ndugu,other,2020,11
-1032,Grey's Anatomy,17,1428991,Richard Flood,2,True,Cormac Hayes,other,2020,11
-1033,Grey's Anatomy,17,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2020,11
-1034,Grey's Anatomy,17,1256638,Kelly McCreary,1,True,Maggie Pierce,other,2020,11
-1035,Grey's Anatomy,17,210695,Jesse Williams,2,True,Jackson Avery,other,2020,11
-1036,Grey's Anatomy,17,19974,Greg Germann,2,True,Tom Koracick,other,2020,11
+1029,Grey's Anatomy,17,87440,Chris Carmack,2,True,Atticus Lincoln,doctor (probably),2020,11
+1030,Grey's Anatomy,17,1450286,Jake Borelli,2,True,Levi Schmitt,doctor (probably),2020,11
+1031,Grey's Anatomy,17,1583975,Anthony Hill,2,True,Winston Ndugu,doctor (probably),2020,11
+1032,Grey's Anatomy,17,1428991,Richard Flood,2,True,Cormac Hayes,doctor (probably),2020,11
+1033,Grey's Anatomy,17,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2020,11
+1034,Grey's Anatomy,17,1256638,Kelly McCreary,1,True,Maggie Pierce,doctor,2020,11
+1035,Grey's Anatomy,17,210695,Jesse Williams,2,True,Jackson Avery,doctor,2020,11
+1036,Grey's Anatomy,17,19974,Greg Germann,2,True,Tom Koracick,doctor (probably),2020,11
 1037,Grey's Anatomy,17,2872826,V. Vieux,0,False,Rosalind Warren,other,2020,11
 1038,Grey's Anatomy,17,2477774,Noah Alexander Gerry,2,False,Joey Phillips,other,2020,11
 1039,Grey's Anatomy,17,1123267,Alexandra Doke,1,False,Erin / Cindy,other,2020,11
@@ -1052,12 +1052,12 @@
 1050,Grey's Anatomy,17,1702827,Barrett Doss,1,False,Victoria Hughes,other,2020,11
 1051,Grey's Anatomy,17,1105796,Jay Hayden,2,False,Travis Montgomery,other,2020,11
 1052,Grey's Anatomy,17,2513214,Frances Nichols,1,False,Nurse Karen,nurse,2020,11
-1053,Grey's Anatomy,17,95475,Jason George,2,False,Ben Warren,other,2020,11
+1053,Grey's Anatomy,17,95475,Jason George,2,False,Ben Warren,medic,2020,11
 1054,Grey's Anatomy,17,1581103,Stefania Spampinato,1,False,Carina DeLuca,other,2020,11
 1055,Grey's Anatomy,17,2706258,Sylvia Kwan,0,False,Mabel Tseng,other,2020,11
 1056,Grey's Anatomy,17,2300113,Alex Landi,2,False,Nico Kim,other,2020,11
 1057,Grey's Anatomy,17,2294469,Jaicy Elliot,1,False,Taryn Helm,other,2020,11
-1058,Grey's Anatomy,17,18352,Patrick Dempsey,2,False,Derek Shepherd,other,2020,11
+1058,Grey's Anatomy,17,18352,Patrick Dempsey,2,False,Derek Shepherd,doctor,2020,11
 1059,Grey's Anatomy,17,1384679,Justin Ellings,2,False,Frankie Morris,other,2020,11
 1060,Grey's Anatomy,17,2706259,Branden Silverman,0,False,Paramedic,medic,2020,11
 1061,Grey's Anatomy,17,2955472,Aniela Gumbs,1,False,Zola,other,2020,11
@@ -1073,7 +1073,7 @@
 1071,Grey's Anatomy,17,1862691,Nikhil Shukla,2,False,Reza Khan,other,2020,11
 1072,Grey's Anatomy,17,3036194,Ella Faris,0,False,Ellis Shepherd,other,2020,11
 1073,Grey's Anatomy,17,3036195,Gracie Faris,0,False,Ellis Shepherd,other,2020,11
-1074,Grey's Anatomy,17,164205,T.R. Knight,2,False,George O'Malley,other,2020,12
+1074,Grey's Anatomy,17,164205,T.R. Knight,2,False,George O'Malley,doctor,2020,12
 1075,Grey's Anatomy,17,1576429,Scott Keiji Takeda,2,False,Dave Oyadomari,other,2020,12
 1076,Grey's Anatomy,17,1533764,Annie Chang,1,False,Tammi Oyadomari,other,2020,12
 1077,Grey's Anatomy,17,1444817,Hilda Boulware,1,False,Antoinette Ndugu,other,2020,12
@@ -1098,8 +1098,8 @@
 1096,Grey's Anatomy,17,2646905,Bokhee An,1,False,Nurse Bokhee,nurse,2021,3
 1097,Grey's Anatomy,17,1226076,Sherri Saum,1,False,Allison Browne,other,2021,3
 1098,Grey's Anatomy,17,1775924,Melanie Benz,1,False,Screaming Woman,other,2021,3
-1099,Grey's Anatomy,17,58115,Eric Dane,2,False,Mark Sloan,other,2021,4
-1100,Grey's Anatomy,17,69210,Chyler Leigh,1,False,Lexie Grey,other,2021,4
+1099,Grey's Anatomy,17,58115,Eric Dane,2,False,Mark Sloan,doctor,2021,4
+1100,Grey's Anatomy,17,69210,Chyler Leigh,1,False,Lexie Grey,doctor,2021,4
 1101,Grey's Anatomy,17,22621,Angela Alvarado,1,False,Marcella Diaz,other,2021,4
 1102,Grey's Anatomy,17,3036215,Azure Antoinette,0,False,Irene Davis,other,2021,4
 1103,Grey's Anatomy,17,1790710,Ivan Leung,0,False,Jerry Bletzer,other,2021,4
@@ -1107,19 +1107,19 @@
 1105,Grey's Anatomy,17,1442093,Kyle Harris,2,False,Mason Post,other,2021,5
 1106,Grey's Anatomy,17,1725627,Aina Dumlao,1,False,Gerle Bernardo,other,2021,6
 1107,Grey's Anatomy,17,1891226,Sohm Kapila,1,False,Sophie,other,2021,6
-1108,Grey's Anatomy,18,9280,Ellen Pompeo,1,True,Meredith Grey,other,2021,9
-1109,Grey's Anatomy,18,25544,James Pickens Jr.,2,True,Richard Webber,other,2021,9
-1110,Grey's Anatomy,18,171075,Chandra Wilson,1,True,Miranda Bailey,other,2021,9
-1111,Grey's Anatomy,18,9013,Kevin McKidd,2,True,Owen Hunt,other,2021,9
-1112,Grey's Anatomy,18,236021,Camilla Luddington,1,True,Jo Wilson,other,2021,9
-1113,Grey's Anatomy,18,17836,Kim Raver,1,True,Teddy Altman,other,2021,9
-1114,Grey's Anatomy,18,87440,Chris Carmack,2,True,Atticus Lincoln,other,2021,9
-1115,Grey's Anatomy,18,1450286,Jake Borelli,2,True,Levi Schmitt,other,2021,9
-1116,Grey's Anatomy,18,1583975,Anthony Hill,2,True,Winston Ndugu,other,2021,9
-1117,Grey's Anatomy,18,100,Scott Speedman,2,True,Nick Marsh,other,2021,9
-1118,Grey's Anatomy,18,1428991,Richard Flood,2,True,Cormac Hayes,other,2021,9
-1119,Grey's Anatomy,18,81684,Caterina Scorsone,1,True,Amelia Shepherd,other,2021,9
-1120,Grey's Anatomy,18,1256638,Kelly McCreary,1,True,Maggie Pierce,other,2021,9
+1108,Grey's Anatomy,18,9280,Ellen Pompeo,1,True,Meredith Grey,doctor,2021,9
+1109,Grey's Anatomy,18,25544,James Pickens Jr.,2,True,Richard Webber,doctor,2021,9
+1110,Grey's Anatomy,18,171075,Chandra Wilson,1,True,Miranda Bailey,doctor,2021,9
+1111,Grey's Anatomy,18,9013,Kevin McKidd,2,True,Owen Hunt,doctor,2021,9
+1112,Grey's Anatomy,18,236021,Camilla Luddington,1,True,Jo Wilson,doctor (probably),2021,9
+1113,Grey's Anatomy,18,17836,Kim Raver,1,True,Teddy Altman,doctor,2021,9
+1114,Grey's Anatomy,18,87440,Chris Carmack,2,True,Atticus Lincoln,doctor (probably),2021,9
+1115,Grey's Anatomy,18,1450286,Jake Borelli,2,True,Levi Schmitt,doctor (probably),2021,9
+1116,Grey's Anatomy,18,1583975,Anthony Hill,2,True,Winston Ndugu,doctor (probably),2021,9
+1117,Grey's Anatomy,18,100,Scott Speedman,2,True,Nick Marsh,doctor (probably),2021,9
+1118,Grey's Anatomy,18,1428991,Richard Flood,2,True,Cormac Hayes,doctor (probably),2021,9
+1119,Grey's Anatomy,18,81684,Caterina Scorsone,1,True,Amelia Shepherd,doctor,2021,9
+1120,Grey's Anatomy,18,1256638,Kelly McCreary,1,True,Maggie Pierce,doctor,2021,9
 1121,Grey's Anatomy,18,2903185,Barbara Lee Bragg,0,False,Betsy,other,2021,9
 1122,Grey's Anatomy,18,69504,Debra Mooney,1,False,Evelyn Hunt,other,2021,9
 1123,Grey's Anatomy,18,80257,Bernie Kopell,2,False,Father Christopher,other,2021,9
@@ -1127,7 +1127,7 @@
 1125,Grey's Anatomy,18,74954,Corinne Bohrer,1,False,Emma Correa,other,2021,9
 1126,Grey's Anatomy,18,2004252,Michael Gazin,2,False,Kyle Schroeder,other,2021,9
 1127,Grey's Anatomy,18,1581659,Mark Anthony Williams,0,False,James Shulman,other,2021,9
-1128,Grey's Anatomy,18,20879,Kate Burton,1,False,Ellis Grey,other,2021,9
+1128,Grey's Anatomy,18,20879,Kate Burton,1,False,Ellis Grey,doctor,2021,9
 1129,Grey's Anatomy,18,84462,Lynn Chen,1,False,Michelle Lin,other,2021,9
 1130,Grey's Anatomy,18,2190594,Melissa DuPrey,1,False,Sara Ortiz,other,2021,9
 1131,Grey's Anatomy,18,2300113,Alex Landi,2,False,Nico Kim,other,2021,9
@@ -1143,9 +1143,9 @@
 1141,Grey's Anatomy,18,2706258,Sylvia Kwan,0,False,Mabel Tseng,other,2021,10
 1142,Grey's Anatomy,18,2849185,E. R. Fightmaster,3,False,Kai Bartley,other,2021,10
 1143,Grey's Anatomy,18,1632090,Johnny Rey Diaz,2,False,Noah Young,other,2021,10
-1144,Grey's Anatomy,18,61114,Kate Walsh,1,False,Addison Montgomery,other,2021,10
+1144,Grey's Anatomy,18,61114,Kate Walsh,1,False,Addison Montgomery,doctor,2021,10
 1145,Grey's Anatomy,18,1308820,Meryl Hathaway,0,False,Tovah Freedman,other,2021,10
-1146,Grey's Anatomy,18,95475,Jason George,2,False,Ben Warren,other,2021,10
+1146,Grey's Anatomy,18,95475,Jason George,2,False,Ben Warren,medic,2021,10
 1147,Grey's Anatomy,18,2955472,Aniela Gumbs,1,False,Zola Grey Shepherd,other,2021,10
 1148,Grey's Anatomy,18,1581103,Stefania Spampinato,1,False,Carina DeLuca,other,2021,10
 1149,Grey's Anatomy,18,32395,Debbie Allen,1,False,Catherine Fox,other,2021,10
@@ -1229,7 +1229,7 @@
 1227,Grey's Anatomy,18,2956861,Payton Silver,2,False,Dr. Knox,doctor,2022,5
 1228,Grey's Anatomy,18,148112,Kristin Lehman,1,False,Cora,other,2022,5
 1229,Grey's Anatomy,18,53931,Sandy Martin,1,False,Sally,other,2022,5
-1230,Grey's Anatomy,18,210695,Jesse Williams,2,False,Jackson Avery,other,2022,5
-1231,Grey's Anatomy,18,198927,Sarah Drew,1,False,April Kepner,other,2022,5
+1230,Grey's Anatomy,18,210695,Jesse Williams,2,False,Jackson Avery,doctor,2022,5
+1231,Grey's Anatomy,18,198927,Sarah Drew,1,False,April Kepner,doctor,2022,5
 1232,Grey's Anatomy,18,2246290,Penelope Kapudija,0,False,Harriet,other,2022,5
 1233,Grey's Anatomy,18,1695651,Cathy Chang,0,False,Rose Wong,other,2022,5
