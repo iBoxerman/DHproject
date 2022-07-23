@@ -2,6 +2,8 @@
 A project in digital humanization  
 By Omer Lerner & Igal Boxerman Ben-Gurion University , CS dept. 2022
 
+## [CLICK HERE FOR OUR AMAZING SITE!](https://omerler16.wixsite.com/digitalhumanities)
+
 ## Our Goal 
 **See gender changes in MD TV series across 1990-today**
 - **Head counts - fe/male doctors/nurses**
