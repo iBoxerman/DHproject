@@ -1,0 +1,767 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,New Amsterdam,US,1,1181353,Ryan Eggold,2,True,Dr. Max Goodwin,doctor,2018,9
+1,New Amsterdam,US,1,1182929,Freema Agyeman,1,True,Dr. Helen Sharpe,doctor,2018,9
+2,New Amsterdam,US,1,90755,Janet Montgomery,1,True,Dr. Lauren Bloom,doctor,2018,9
+3,New Amsterdam,US,1,51383,Tyler Labine,2,True,Dr. Iggy Frome,doctor,2018,9
+4,New Amsterdam,US,1,107939,Jocko Sims,2,True,Dr. Floyd Reynolds,doctor,2018,9
+5,New Amsterdam,US,1,6217,Anupam Kher,2,True,Dr. Vijay Kapoor,doctor,2018,9
+6,New Amsterdam,US,1,2008015,Rose Bianco,1,False,Patricia,other,2018,9
+7,New Amsterdam,US,1,3369796,Jason Kisare,2,False,Alain,other,2018,9
+8,New Amsterdam,US,1,96320,Gary Perez,2,False,Carlos Martin,other,2018,9
+9,New Amsterdam,US,1,1346714,Michael Basile,2,False,Parademic Moreland,other,2018,9
+10,New Amsterdam,US,1,1191504,Alanna Blair,1,False,Teacher,other,2018,9
+11,New Amsterdam,US,1,163959,Eric Martin Brown,2,False,TV Anchor Dan,other,2018,9
+12,New Amsterdam,US,1,1660247,Elisabeth Garcia,1,False,Team Member #1,other,2018,9
+13,New Amsterdam,US,1,3157186,Natalie Carvalho,1,False,Bianca,other,2018,9
+14,New Amsterdam,US,1,3369813,Antoinette Cirillo,1,False,ISO Nurse,nurse,2018,9
+15,New Amsterdam,US,1,3369816,Katherine Costanzo,1,False,ER Nurse #1,nurse,2018,9
+16,New Amsterdam,US,1,2543810,Yvette Garnier,1,False,ED Nurse Linda Weber,nurse,2018,9
+17,New Amsterdam,US,1,2706223,Troy Iwata,2,False,ED Intern #2,intern,2018,9
+18,New Amsterdam,US,1,1015892,Gregory Jones,2,False,NSA Agent Bratton,other,2018,9
+19,New Amsterdam,US,1,1314554,Vanessa Kai,1,False,Dr. Suzanne Izuka,doctor,2018,9
+20,New Amsterdam,US,1,2172330,Olivia Khoshatefeh,1,False,ED Intern #1,intern,2018,9
+21,New Amsterdam,US,1,2113850,Irma Estella La Guerre,1,False,Patricias Mother,other,2018,9
+22,New Amsterdam,US,1,160849,Michael Medeiros,2,False,Russian Ambassador,other,2018,9
+23,New Amsterdam,US,1,3169588,Ammie Montas,0,False,Patricias Daughter #1,other,2018,9
+24,New Amsterdam,US,1,1530440,Jay Santiago,2,False,Patricias Father,other,2018,9
+25,New Amsterdam,US,1,1679859,Raúl Torres,2,False,Mexican Ambassador,other,2018,9
+26,New Amsterdam,US,1,2166818,Liba Vaynberg,1,False,ICU Nurse (Russian),nurse,2018,9
+27,New Amsterdam,US,1,3369844,Lisa Wing Huntzinger,1,False,Team Member #2,other,2018,9
+28,New Amsterdam,US,1,1074897,Lizzy DeClement,1,False,Jemma,other,2018,9
+29,New Amsterdam,US,1,2050162,Greta Quispe,1,False,Nurse Sabrina,nurse,2018,9
+30,New Amsterdam,US,1,2376910,Shukura,0,False,Prison Guard Raina,other,2018,9
+31,New Amsterdam,US,1,171955,Zabryna Guevara,1,False,Dora,other,2018,9
+32,New Amsterdam,US,1,1326471,Donnetta Lavinia Grays,1,False,Sophia,other,2018,9
+33,New Amsterdam,US,1,1348896,Lisa O'Hare,1,False,Georgia Goodwin,other,2018,9
+34,New Amsterdam,US,1,2013575,Emma Ramos,1,False,E.D. Resident Mariana,other,2018,9
+35,New Amsterdam,US,1,75612,Anthony Ruiz,2,False,Miguel Vicario,other,2018,9
+36,New Amsterdam,US,1,2004019,Megan Byrne,1,False,Gladys,other,2018,9
+37,New Amsterdam,US,1,1647347,Christine Chang,1,False,Dr. Agnes Kao,doctor,2018,9
+38,New Amsterdam,US,1,1925705,Stacey Raymond,1,False,Paramedic Whitaker,medic,2018,9
+39,New Amsterdam,US,1,56685,Brooke Bloom,1,False,Millie,other,2018,10
+40,New Amsterdam,US,1,1237385,Michelle Federer,1,False,Leo's Mom,other,2018,10
+41,New Amsterdam,US,1,155465,Clifton Davis,2,False,Pierre Pampil,other,2018,10
+42,New Amsterdam,US,1,3370623,Finn Egan-Liang,2,False,Leo Chen,other,2018,10
+43,New Amsterdam,US,1,3370624,Christopher Cassarino,2,False,Dr. Ed Nottingham,doctor,2018,10
+44,New Amsterdam,US,1,1171670,Christopher Cassarino,2,False,Judge Hayashi,other,2018,10
+45,New Amsterdam,US,1,3264832,Sandra Daley,1,False,Dr. Elsie Villarreal,doctor,2018,10
+46,New Amsterdam,US,1,3370626,Soeurette Diogene-Le Corps,0,False,Gad-Ko Participant #2,other,2018,10
+47,New Amsterdam,US,1,1995536,John Goodlow,2,False,Second Administrator,other,2018,10
+48,New Amsterdam,US,1,3370627,Ruth Henry,1,False,Gad-Ko Participant #1,other,2018,10
+49,New Amsterdam,US,1,3370628,Wilnette Henry,0,False,Mambo,other,2018,10
+50,New Amsterdam,US,1,2069118,Fedna Jacquet,0,False,Jozette Pampil,other,2018,10
+51,New Amsterdam,US,1,3370629,Vanessa Kai,1,False,Dr. Izuka,doctor,2018,10
+52,New Amsterdam,US,1,1851167,Malika Nzinga,1,False,Third Administrator,other,2018,10
+53,New Amsterdam,US,1,1601831,Lorna Guity Pruce,1,False,Pierre's Wife,other,2018,10
+54,New Amsterdam,US,1,205597,James Lloyd Reynolds,2,False,Mr. Bishop,other,2018,10
+55,New Amsterdam,US,1,1664567,Jenny L. Saldaña,1,False,Cleaning Lady,other,2018,10
+56,New Amsterdam,US,1,3370634,Crispin Thys,2,False,Priest,other,2018,10
+57,New Amsterdam,US,1,164270,Josh Philip Weinstein,2,False,First Administrator,other,2018,10
+58,New Amsterdam,US,1,1711160,Brit Whittle,2,False,Man,other,2018,10
+59,New Amsterdam,US,1,3370635,Melina Lanza,1,False,Student (uncredited),other,2018,10
+60,New Amsterdam,US,1,3370636,Troy Lewis,2,False,Janitor (uncredited),other,2018,10
+61,New Amsterdam,US,1,2821211,Angela McKenzie,1,False,Oncology Nurse (uncredited),nurse,2018,10
+62,New Amsterdam,US,1,3169426,Vera Lam,1,False,Anesthesiologist,medic,2018,10
+63,New Amsterdam,US,1,1716907,Em Grosland,0,False,E.D. Nurse Brunsetter,nurse,2018,10
+64,New Amsterdam,US,1,2554572,Raquel Dominguez,1,False,Janelle Mason,other,2018,10
+65,New Amsterdam,US,1,1232599,Matthew Maher,2,False,Ray DeMarco,other,2018,10
+66,New Amsterdam,US,1,27260,Laila Robins,1,False,Mrs. Ryland,other,2018,10
+67,New Amsterdam,US,1,1596648,Marinda Anderson,1,False,Dr. Jessup,doctor,2018,10
+68,New Amsterdam,US,1,1293295,Ken Ard,2,False,Mason,other,2018,10
+69,New Amsterdam,US,1,1701873,Amy Blackman,1,False,Anna,other,2018,10
+70,New Amsterdam,US,1,2559951,Guy A. Fortt,2,False,Szura,other,2018,10
+71,New Amsterdam,US,1,3370640,Sarah Manton,1,False,Maddy Gianni,other,2018,10
+72,New Amsterdam,US,1,1730741,Ruibo Qian,1,False,Yong-Mi,other,2018,10
+73,New Amsterdam,US,1,3370643,Nichelle Wright,1,False,Nurse,nurse,2018,10
+74,New Amsterdam,US,1,3370644,Taylor Leigh Davis,2,False,Intern (uncredited),intern,2018,10
+75,New Amsterdam,US,1,2555496,Peter Romano,2,False,Paramedic Bradley,medic,2018,10
+76,New Amsterdam,US,1,3372620,Katrine Hoyt,1,False,ED Nurse (uncredited),nurse,2018,10
+77,New Amsterdam,US,1,1840932,Rachel Nicks,1,False,Dr. Hastings,doctor,2018,10
+78,New Amsterdam,US,1,12122,Ron Rifkin,2,False,Dean Fulton,other,2018,10
+79,New Amsterdam,US,1,2552984,Alejandro Hernandez,2,False,Casey Acosta,other,2018,10
+80,New Amsterdam,US,1,2255197,Dierdre Friel,1,False,Ella,other,2018,10
+81,New Amsterdam,US,1,2376224,Keren Lugo,1,False,Dr. Diana Flores,doctor,2018,10
+82,New Amsterdam,US,1,220038,Joanna Adler,1,False,Faye,other,2018,10
+83,New Amsterdam,US,1,3370648,Zuri Giddings,0,False,Tianna,other,2018,10
+84,New Amsterdam,US,1,83052,Linda Thorson,1,False,Mrs. Monaghan,other,2018,10
+85,New Amsterdam,US,1,1899213,Shawn Andrew,2,False,Zak,other,2018,10
+86,New Amsterdam,US,1,2090811,Mike Cabellon,2,False,EMT Kennedy,medic,2018,10
+87,New Amsterdam,US,1,1720659,Jorge Cordova,2,False,Dr. Mateo Fernandez,doctor,2018,10
+88,New Amsterdam,US,1,3370650,Rose Harwood,1,False,Dr. Margaux,doctor,2018,10
+89,New Amsterdam,US,1,3101880,Eboni Flowers,1,False,Ayeesha,other,2018,10
+90,New Amsterdam,US,1,1787031,Michael Sean McGuinness,2,False,Paul,other,2018,10
+91,New Amsterdam,US,1,3370655,Jonathon Olivo,2,False,Young Patient,other,2018,10
+92,New Amsterdam,US,1,454210,P.J. Sosko,2,False,Vance,other,2018,10
+93,New Amsterdam,US,1,2355282,Avondre E.D. Beverley,2,False,Patient (uncredited),other,2018,10
+94,New Amsterdam,US,1,1457224,Doris McCarthy,1,False,Upscale Resident (uncredited),other,2018,10
+95,New Amsterdam,US,1,3095814,Roger Brenner,2,False,FDNY / EMT (uncredited),medic,2018,10
+96,New Amsterdam,US,1,1670818,Isaiah Seward,2,False,Paramedic Durango,medic,2018,10
+97,New Amsterdam,US,1,2823774,Teresa Patel,1,False,Paramedic Harvell,medic,2018,10
+98,New Amsterdam,US,1,2243679,Johnathan Nieves,2,False,Javier Pagan,other,2018,10
+99,New Amsterdam,US,1,2578372,Jessica Frances Dukes,1,False,Rhonda Tewkes,other,2018,10
+100,New Amsterdam,US,1,2525701,David Iacono,2,False,Jalen Pagan,other,2018,10
+101,New Amsterdam,US,1,10963,José Zúñiga,2,False,Louis 'Lou' Navarro,other,2018,10
+102,New Amsterdam,US,1,2822626,Erick Betancourt,2,False,Security Guard,other,2018,10
+103,New Amsterdam,US,1,226780,Greg Crowe,2,False,Harold,other,2018,10
+104,New Amsterdam,US,1,2365645,Liz Eng,1,False,Code Nurse,nurse,2018,10
+105,New Amsterdam,US,1,3370656,Reginald N. Ferguson,2,False,Code Doctor,doctor,2018,10
+106,New Amsterdam,US,1,1456895,Joe Gately,2,False,Detective Adams,other,2018,10
+107,New Amsterdam,US,1,3370657,Amyrh Harris,2,False,Friend,other,2018,10
+108,New Amsterdam,US,1,3076391,Melvin Lima,2,False,Nurse Clark Manfred,nurse,2018,10
+109,New Amsterdam,US,1,2940840,DeAnna Quiroga,1,False,Jalen's Mother,other,2018,10
+110,New Amsterdam,US,1,1218081,Kate Rigg,1,False,Dr. Rada Gregorian,doctor,2018,10
+111,New Amsterdam,US,1,1500113,Renee Santos,1,False,Nurse Heidi Breldin,nurse,2018,10
+112,New Amsterdam,US,1,3370661,David-Allen Sumner,0,False,Malik Stokes,other,2018,10
+113,New Amsterdam,US,1,2822635,Matthew Jeffers,2,False,ED Resident Mark Walsh,other,2018,10
+114,New Amsterdam,US,1,583885,Matthew Bellows,2,False,Dr. Clint Hartman,doctor,2018,10
+115,New Amsterdam,US,1,1681752,Vandit Bhatt,2,False,Rohan,other,2018,10
+116,New Amsterdam,US,1,1456915,Catherine Chadwick,1,False,Ramdom Donor,other,2018,10
+117,New Amsterdam,US,1,1681740,Gregory Perri,2,False,Christopher,other,2018,10
+118,New Amsterdam,US,1,3265487,Sean Nelson,2,False,Manny Daye,other,2018,10
+119,New Amsterdam,US,1,53937,Olga Merediz,1,False,Warden Gloria Salazar,other,2018,10
+120,New Amsterdam,US,1,29445,Ethan Phillips,2,False,Dan Marken,other,2018,10
+121,New Amsterdam,US,1,19293,Lusia Strus,1,False,Jeffers,other,2018,10
+122,New Amsterdam,US,1,77155,James Saito,2,False,Andrew Nomura,doctor,2018,10
+123,New Amsterdam,US,1,1907022,Athena Colon,1,False,Nurse Hedera,nurse,2018,10
+124,New Amsterdam,US,1,106797,Michael O'Leary,2,False,Donor,other,2018,10
+125,New Amsterdam,US,1,3370664,Andrew James Gordon,2,False,Gala Event Staff (uncredited),other,2018,10
+126,New Amsterdam,US,1,2355244,Emmanuel Rodriguez,2,False,Hospital Visitor (uncredited),other,2018,10
+127,New Amsterdam,US,1,3370667,J.D. Wesley,0,False,Wealthy Gala Guest / Bloom Boy (uncredited),other,2018,10
+128,New Amsterdam,US,1,2657512,Aneesh Sheth,2,False,Lila,other,2018,10
+129,New Amsterdam,US,1,1332651,Margot Bingham,1,False,Evie Garrison,other,2018,10
+130,New Amsterdam,US,1,2836818,LaRae Muscat,1,False,Sameera,other,2018,10
+131,New Amsterdam,US,1,27107,Mike Doyle,2,False,Martin McIntyre,other,2018,10
+132,New Amsterdam,US,1,164050,Andres Munar,2,False,Diego,other,2018,11
+133,New Amsterdam,US,1,118913,Therese Plaehn,1,False,Tanya,other,2018,11
+134,New Amsterdam,US,1,2907003,Naomi Serrano,1,False,Gianna,other,2018,11
+135,New Amsterdam,US,1,1362974,Babak Tafti,2,False,Tariq Ali,other,2018,11
+136,New Amsterdam,US,1,2406119,Emmy Berkowitz,1,False,Tanya Kid 5YO,other,2018,11
+137,New Amsterdam,US,1,2206816,Nathalie Carvalho,1,False,Blanca,other,2018,11
+138,New Amsterdam,US,1,122265,Tod Engle,2,False,Uniformed Doorman,other,2018,11
+139,New Amsterdam,US,1,1460936,Rula Sirhan Gardenier,1,False,Maryam,other,2018,11
+140,New Amsterdam,US,1,3265605,Aubrey Hickerson,3,False,Tanya Kid 7YO,other,2018,11
+141,New Amsterdam,US,1,1653772,Soraya Kelley,1,False,Aminah Ali,other,2018,11
+142,New Amsterdam,US,1,1396327,Scott Stangland,2,False,Matthew 'Matty' Levy,other,2018,11
+143,New Amsterdam,US,1,2281904,Jamaal Burcher,2,False,Doctor (uncredited),doctor,2018,11
+144,New Amsterdam,US,1,1761738,Zoë Sophia Garcia,1,False,Intern (uncredited),intern,2018,11
+145,New Amsterdam,US,1,2592202,Carla Carvalho,1,False,Nurse (uncredited),nurse,2018,11
+146,New Amsterdam,US,1,1269910,Wai Ching Ho,1,False,June Chiang,other,2018,11
+147,New Amsterdam,US,1,2392602,Poppy Liu,1,False,Amy Chiang,other,2018,11
+148,New Amsterdam,US,1,14669,George Wyner,2,False,Rabbi Skillman,other,2018,11
+149,New Amsterdam,US,1,1472859,Tina Fabrique,1,False,Louise Conway,other,2018,11
+150,New Amsterdam,US,1,939229,William Lee,2,False,Homeless Man,other,2018,11
+151,New Amsterdam,US,1,90776,Roscoe Orman,2,False,Rodger Conway,other,2018,11
+152,New Amsterdam,US,1,3255357,Lori Wilner,1,False,Rebecca Skillman,other,2018,11
+153,New Amsterdam,US,1,3370675,Elisabetta D'Avenia,1,False,Jane (uncredited),other,2018,11
+154,New Amsterdam,US,1,2192724,Louise Mara,1,False,New Yorker (uncredited),other,2018,11
+155,New Amsterdam,US,1,2427102,Denise Pillott,1,False,Nurse Ortega,nurse,2018,11
+156,New Amsterdam,US,1,1505886,Anna Suzuki,1,False,Sandra Fall,doctor,2018,11
+157,New Amsterdam,US,1,3372619,Toney Gracen Araujo,2,False,Shay,other,2018,11
+158,New Amsterdam,US,1,1444792,Andrea Syglowski,1,False,Sarah Madsen,other,2018,11
+159,New Amsterdam,US,1,2107319,Ari Barkan,2,False,LaDavius Powell,other,2018,11
+160,New Amsterdam,US,1,1693304,Nick Choksi,2,False,Andy Madsen,other,2018,11
+161,New Amsterdam,US,1,1295509,Carey Van Driest,1,False,Jillian Miller,other,2018,11
+162,New Amsterdam,US,1,2638091,Yvette Ganier,1,False,Nurse Linda Weber,nurse,2018,11
+163,New Amsterdam,US,1,2283761,Elise Santora,1,False,OTF Dr. Kleinman,doctor,2018,11
+164,New Amsterdam,US,1,1358406,Tim Wright,2,False,Grant Miller,other,2018,11
+165,New Amsterdam,US,1,995487,Jordana Keller,1,False,Psych Patient (uncredited),other,2018,11
+166,New Amsterdam,US,1,3188107,Bob Leszczak,2,False,Cancer Lab Scientist (uncredited),other,2018,11
+167,New Amsterdam,US,1,165425,Sendhil Ramamurthy,2,False,Dr. Panthaki,doctor,2018,11
+168,New Amsterdam,US,1,1695395,Nana Mensah,1,False,Dr. Candelario,doctor,2019,1
+169,New Amsterdam,US,1,3372644,Marc Boies,2,False,Medevac Pilot,other,2019,1
+170,New Amsterdam,US,1,3227008,Jonathan Burke,2,False,Basem,other,2019,1
+171,New Amsterdam,US,1,1765948,Joseph Castillo-Midyett,2,False,Medevac Nery,other,2019,1
+172,New Amsterdam,US,1,1540259,Erica Cho,1,False,Female Intern,intern,2019,1
+173,New Amsterdam,US,1,1320502,Michael Pemberton,2,False,Dr. Nash,doctor,2019,1
+174,New Amsterdam,US,1,2162029,Mary Shultz,1,False,Marina Latimer,other,2019,1
+175,New Amsterdam,US,1,3372645,Suki Úna Rae,0,False,Patient (uncredited),other,2019,1
+176,New Amsterdam,US,1,1791223,Frankie Verroca,2,False,ER Homeless man (uncredited),other,2019,1
+177,New Amsterdam,US,1,2592139,James J. LaBonte,2,False,Patient,other,2019,1
+178,New Amsterdam,US,1,205761,Teddy Cañez,2,False,Hector Rivera,other,2019,1
+179,New Amsterdam,US,1,1232566,Michael Cullen,2,False,Andy Keener,other,2019,1
+180,New Amsterdam,US,1,2875070,Jake Ryan Lozano,2,False,Tony,other,2019,1
+181,New Amsterdam,US,1,964138,Jimmy Gary Jr.,2,False,Big Mike Kiggens,other,2019,1
+182,New Amsterdam,US,1,2524755,Caroline Hewitt,1,False,Penny Atwater,other,2019,1
+183,New Amsterdam,US,1,1502285,John Orantes,2,False,Pizza Guy,other,2019,1
+184,New Amsterdam,US,1,3372649,Tony White,2,False,Friendly New Yorker,other,2019,1
+185,New Amsterdam,US,1,2473343,Katie Lee Hill,1,False,Willow Yun,other,2019,1
+186,New Amsterdam,US,1,2329457,Marilee Talkington,1,False,Maren Thompson,other,2019,1
+187,New Amsterdam,US,1,2592163,Caroline Kiebach,1,False,Nurses Aide (uncredited),nurse,2019,2
+188,New Amsterdam,US,1,10386,Debra Monk,1,False,Karen Brantley,other,2019,2
+189,New Amsterdam,US,1,2928993,Elijah Richardson,2,False,Avi,other,2019,3
+190,New Amsterdam,US,1,115453,Virginia Vale,1,False,kira davis,other,2019,4
+191,New Amsterdam,US,1,2287101,Lauren Ridloff,1,False,Margot,other,2019,4
+192,New Amsterdam,US,1,1156046,Hayley Lovitt,1,False,Tori,other,2019,4
+193,New Amsterdam,US,1,4892,Chuck Cooper,2,False,Leon Hargrow,other,2019,4
+194,New Amsterdam,US,1,19239,Judith Ivey,1,False,Virginia Stauton,other,2019,4
+195,New Amsterdam,US,1,1011106,Maximilian Osinski,2,False,Angelo Russetti,other,2019,4
+196,New Amsterdam,US,1,1971683,Aaron Roman Weiner,2,False,Detective Felix O‘Connor,other,2019,4
+197,New Amsterdam,US,1,3376919,Barbra Wengerd,1,False,NYPD Marie McNeil,other,2019,4
+198,New Amsterdam,US,1,1359352,Gameela Wright,1,False,Dr. Christiansen,doctor,2019,4
+199,New Amsterdam,US,1,1750500,Kim Ramirez,1,False,Anesthesiologist Alicia Smith,medic,2019,4
+200,New Amsterdam,US,1,1544828,Dean Ciallella,2,False,Head Admin (uncredited),other,2019,5
+201,New Amsterdam,US,1,208310,Cherise Boothe,1,False,Brandi,other,2019,5
+202,New Amsterdam,US,1,1252466,Brian R. Norris,2,False,Jacob,other,2019,5
+203,New Amsterdam,US,1,1918417,DeLance Minefee,2,False,Sam,other,2019,5
+204,New Amsterdam,US,2,1181353,Ryan Eggold,2,True,Dr. Max Goodwin,doctor,2019,9
+205,New Amsterdam,US,2,1182929,Freema Agyeman,1,True,Dr. Helen Sharpe,doctor,2019,9
+206,New Amsterdam,US,2,90755,Janet Montgomery,1,True,Dr. Lauren Bloom,doctor,2019,9
+207,New Amsterdam,US,2,51383,Tyler Labine,2,True,Dr. Iggy Frome,doctor,2019,9
+208,New Amsterdam,US,2,107939,Jocko Sims,2,True,Dr. Floyd Reynolds,doctor,2019,9
+209,New Amsterdam,US,2,6217,Anupam Kher,2,True,Dr. Vijay Kapoor,doctor,2019,9
+210,New Amsterdam,US,2,2591428,Skylar Selene,1,False,Child Psych Patient (uncredited),other,2019,9
+211,New Amsterdam,US,2,1443647,Vicky Jeudy,1,False,Alma Pearson,other,2019,9
+212,New Amsterdam,US,2,53260,Adriane Lenox,1,False,Beth Klestadt,other,2019,9
+213,New Amsterdam,US,2,1326901,Tye Alexander,2,False,Paramedic Baines,medic,2019,9
+214,New Amsterdam,US,2,2132142,Aaralyn Anderson,0,False,Melinda,other,2019,9
+215,New Amsterdam,US,2,2836793,Joshua De Jesus,2,False,Ricky,other,2019,9
+216,New Amsterdam,US,2,2040397,Eric Elizaga,2,False,Dr. Samuel Chen,doctor,2019,9
+217,New Amsterdam,US,2,2172330,Olivia Khoshatefeh,1,False,ED Resident Yasmin Turan,other,2019,9
+218,New Amsterdam,US,2,1454098,Faye Yvette McQueen,1,False,Crying Woman,other,2019,9
+219,New Amsterdam,US,2,1061053,Ana Villafañe,1,False,Dr. Valentina Castro,doctor,2019,9
+220,New Amsterdam,US,2,1716907,Em Grosland,0,False,E.D. Nurse Brunsetter,nurse,2019,9
+221,New Amsterdam,US,2,1795332,Kerry Flanagan,1,False,Marsha,other,2019,9
+222,New Amsterdam,US,2,2638091,Yvette Ganier,1,False,E.D. Nurse Linda Weber,nurse,2019,9
+223,New Amsterdam,US,2,2555496,Peter Romano,2,False,Paramedic Bradley,medic,2019,9
+224,New Amsterdam,US,2,2740016,Ian Duff,2,False,Michael Duke,other,2019,9
+225,New Amsterdam,US,2,1695395,Nana Mensah,1,False,Dr. Camila Candelario,doctor,2019,9
+226,New Amsterdam,US,2,1426634,Rachel Alana Handler,1,False,Circulating Nurse,nurse,2019,9
+227,New Amsterdam,US,2,583885,Matthew Bellows,2,False,Dr. Clint Hartman,doctor,2019,9
+228,New Amsterdam,US,2,2270540,Tim Simon,2,False,Lab Tech George,other,2019,9
+229,New Amsterdam,US,2,1332651,Margot Bingham,1,False,Evie Garrison,other,2019,9
+230,New Amsterdam,US,2,1348896,Lisa O'Hare,1,False,Georgia Goodwin,other,2019,9
+231,New Amsterdam,US,2,2836818,LaRae Muscat,1,False,Sameera,other,2019,9
+232,New Amsterdam,US,2,1171670,Christopher Cassarino,2,False,Dr. Ed Nottingham,doctor,2019,9
+233,New Amsterdam,US,2,2004019,Megan Byrne,1,False,Gladys,other,2019,9
+234,New Amsterdam,US,2,10386,Debra Monk,1,False,Karen Brantley,other,2019,9
+235,New Amsterdam,US,2,27107,Mike Doyle,2,False,Martin McIntyre,other,2019,9
+236,New Amsterdam,US,2,2591925,Jarrett Winters Morley,2,False,New Amsterdam Doctor (uncredited),doctor,2019,10
+237,New Amsterdam,US,2,1237385,Michelle Federer,1,False,Leo's Mom,other,2019,10
+238,New Amsterdam,US,2,1366398,Eden Marryshow,2,False,Bijan,other,2019,10
+239,New Amsterdam,US,2,2822626,Erick Betancourt,2,False,Security Guard,other,2019,10
+240,New Amsterdam,US,2,53937,Olga Merediz,1,False,Warden Gloria Salazar,other,2019,10
+241,New Amsterdam,US,2,30710,JJ Feild,2,False,Dr. Zach Ligon,doctor,2019,10
+242,New Amsterdam,US,2,2013575,Emma Ramos,1,False,E.D. Resident Mariana,other,2019,10
+243,New Amsterdam,US,2,75612,Anthony Ruiz,2,False,Miguel Vicario,other,2019,10
+244,New Amsterdam,US,2,2844769,Marvin Avila,2,False,ICU Nurse Ocampo,nurse,2019,10
+245,New Amsterdam,US,2,1346714,Michael Basile,2,False,Paramedic Moreland,medic,2019,10
+246,New Amsterdam,US,2,2255197,Dierdre Friel,1,False,Ella,other,2019,10
+247,New Amsterdam,US,2,2314840,Jennifer Betit Yen,1,False,OR Nurse Aimee Kamoe,nurse,2019,10
+248,New Amsterdam,US,2,2536725,Abigail Dylan Harrison,1,False,Emily Whelan,other,2019,10
+249,New Amsterdam,US,2,1218800,Darren Pettie,2,False,Todd Benson,other,2019,10
+250,New Amsterdam,US,2,1681752,Vandit Bhatt,2,False,Rohan,other,2019,10
+251,New Amsterdam,US,2,1437557,Marcus Callender,2,False,Kenny,other,2019,10
+252,New Amsterdam,US,2,52003,Kathleen Chalfant,1,False,Molly,other,2019,10
+253,New Amsterdam,US,2,104785,Kevin Daniels,2,False,Marquis Cannon,other,2019,10
+254,New Amsterdam,US,2,3229884,Justus Davis Graham,2,False,Xander,other,2019,10
+255,New Amsterdam,US,2,1422497,Crystal Anne Dickinson,1,False,Tessa Martone,other,2019,10
+256,New Amsterdam,US,2,3378594,Demi Mills,1,False,Harmony,other,2019,10
+257,New Amsterdam,US,2,2105279,Kendrick Brown,2,False,Cameron,other,2019,10
+258,New Amsterdam,US,2,3378601,Lawrence Evans,2,False,Barber 1,other,2019,10
+259,New Amsterdam,US,2,1794439,Lee Garrett,2,False,Damian,other,2019,10
+260,New Amsterdam,US,2,1995372,Chris Lamberth,2,False,Lucas,other,2019,10
+261,New Amsterdam,US,2,61607,Adam LeFevre,2,False,Nathan Laettner,other,2019,10
+262,New Amsterdam,US,2,3378622,Jaimie Linn,1,False,Circulating Nurse,nurse,2019,10
+263,New Amsterdam,US,2,1925705,Stacey Raymond,1,False,Paramedic Moreland,medic,2019,10
+264,New Amsterdam,US,2,3378628,Matthew Shortell,2,False,Pablo Alonzo,other,2019,10
+265,New Amsterdam,US,2,2166818,Liba Vaynberg,1,False,ICU Nurse Kosloff,nurse,2019,10
+266,New Amsterdam,US,2,2249058,G.K. Williams,2,False,Rodney Roberson,other,2019,10
+267,New Amsterdam,US,2,2589011,Meltem Gulturk,1,False,Nurse Andie,nurse,2019,10
+268,New Amsterdam,US,2,2552984,Alejandro Hernandez,2,False,Casey Acosta,other,2019,10
+269,New Amsterdam,US,2,155186,Ted Koch,2,False,John Adams,other,2019,10
+270,New Amsterdam,US,2,1326471,Donnetta Lavinia Grays,1,False,Sophia,other,2019,10
+271,New Amsterdam,US,2,1617456,Carmen M. Herlihy,1,False,Paz Aquino,other,2019,10
+272,New Amsterdam,US,2,2292112,Emma Hong,1,False,Juliette Kimura,other,2019,10
+273,New Amsterdam,US,2,1154564,Jennifer Lim,1,False,Alana Kimura,other,2019,10
+274,New Amsterdam,US,2,210175,Bhavesh Patel,2,False,Anil Wijay,other,2019,10
+275,New Amsterdam,US,2,2296776,Kristen Sieh,1,False,Mackenzie Adams,other,2019,10
+276,New Amsterdam,US,2,1528809,James Yaegashi,2,False,Ethan Kimura,other,2019,10
+277,New Amsterdam,US,2,2970335,Aurora Leonard,1,False,Jasmine Aquino,other,2019,10
+278,New Amsterdam,US,2,3378712,Shigi Ohtsu,0,False,Calvin Kimura,other,2019,10
+279,New Amsterdam,US,2,1447919,Blair Sams,3,False,Ms. Frances Meyer,other,2019,10
+280,New Amsterdam,US,2,3380233,Gigi Cunningham,2,False,Chante,other,2019,10
+281,New Amsterdam,US,2,23970,Denise Dowse,1,False,Alfreda Watson,other,2019,10
+282,New Amsterdam,US,2,1712150,Patricia R. Floyd,1,False,Ms. Verdeen,other,2019,10
+283,New Amsterdam,US,2,2707317,April Matthis,1,False,Kaye Henry,other,2019,10
+284,New Amsterdam,US,2,2447200,Anne Bates,1,False,Detective Grove,other,2019,10
+285,New Amsterdam,US,2,3110164,Kymbali Craig,1,False,Lottie Jackson,other,2019,10
+286,New Amsterdam,US,2,196181,Ann Harada,1,False,Adaption Agency Director,other,2019,10
+287,New Amsterdam,US,2,2868859,Carole Denise Jones,1,False,Ida Lewis,other,2019,10
+288,New Amsterdam,US,2,3318080,Claudia Logan,1,False,Valencia,other,2019,10
+289,New Amsterdam,US,2,1447908,Rita Markova,1,False,Tidy Town Maid,other,2019,10
+290,New Amsterdam,US,2,2823726,Kevin Pasdon,2,False,Paramedic Irving,medic,2019,10
+291,New Amsterdam,US,2,3141606,Isabelle Pierre,1,False,Tamala Robeso,other,2019,10
+292,New Amsterdam,US,2,1195694,Alexis Suarez,2,False,Detective Vasquez,other,2019,10
+293,New Amsterdam,US,2,3230009,Ro Underwood,3,False,Shenika Donald,other,2019,10
+294,New Amsterdam,US,2,2735400,Kerry Warren,1,False,OR Nurse,nurse,2019,10
+295,New Amsterdam,US,2,2823857,Jenna Bosco,1,False,Paramedic Herrera,medic,2019,10
+296,New Amsterdam,US,2,1750500,Kim Ramirez,1,False,Anesthesiologist Alicia Smith,medic,2019,10
+297,New Amsterdam,US,2,2823696,Sarafina King,1,False,Paramedic Nokic,medic,2019,10
+298,New Amsterdam,US,2,2061074,Akram Basuni,2,False,Paramedic Nazari,medic,2019,10
+299,New Amsterdam,US,2,2823774,Teresa Patel,1,False,Paramedic Harvell,medic,2019,10
+300,New Amsterdam,US,2,2605257,Chris Walker,2,False,Vet #1,other,2019,11
+301,New Amsterdam,US,2,3380264,Yonel Dorelis,0,False,Quinn,other,2019,11
+302,New Amsterdam,US,2,1376582,Hunter Emery,2,False,Warren Bell,other,2019,11
+303,New Amsterdam,US,2,183709,Eileen Grubba,1,False,Elizabeth Archer,other,2019,11
+304,New Amsterdam,US,2,97809,Daniel H. Jenkins,2,False,Dr. Handler,doctor,2019,11
+305,New Amsterdam,US,2,2932241,Janab Kareem,1,False,Amalia,other,2019,11
+306,New Amsterdam,US,2,1404121,Anthony Michael Lopez,2,False,Nathan Fisk,other,2019,11
+307,New Amsterdam,US,2,164452,Alfredo Narciso,2,False,Dr. Juan Questa,doctor,2019,11
+308,New Amsterdam,US,2,1473153,Shana Solomon,1,False,Mrs. Trombley,other,2019,11
+309,New Amsterdam,US,2,12122,Ron Rifkin,2,False,Dean Fulton,other,2019,11
+310,New Amsterdam,US,2,3380268,Maeve Crispi,1,False,Recovery Nurse,nurse,2019,11
+311,New Amsterdam,US,2,2455957,Ariel Kim,1,False,Cardiac Nurse,nurse,2019,11
+312,New Amsterdam,US,2,3380271,Omar Rahim,2,False,Dr. Wahid Hawani,doctor,2019,11
+313,New Amsterdam,US,2,3380278,Michael V. Sulsona,2,False,Older Vet,other,2019,11
+314,New Amsterdam,US,2,3380280,Sarah Travers Henry,1,False,Makayla Bell,other,2019,11
+315,New Amsterdam,US,2,2960000,Melodie Wolford,1,False,Quinn‘s Wife,other,2019,11
+316,New Amsterdam,US,2,2591405,Sally Shepard,1,False,Pedestrian (uncredited),other,2019,11
+317,New Amsterdam,US,2,2096300,Milton Saul,2,False,Significant Other (uncredited),other,2019,11
+318,New Amsterdam,US,2,1647347,Christine Chang,1,False,Dr. Agnes Kao,doctor,2019,11
+319,New Amsterdam,US,2,155547,Murphy Guyer,2,False,Warden Hughes,other,2019,11
+320,New Amsterdam,US,2,1685879,Ivory Aquino,1,False,Fran Meale,other,2019,11
+321,New Amsterdam,US,2,1910393,Adina Verson,1,False,Dr. Tabitha Park,doctor,2020,1
+322,New Amsterdam,US,2,2525153,Alex Chester,1,False,Lenore,other,2020,1
+323,New Amsterdam,US,2,77264,Ashlie Atkinson,1,False,Jackie Connor,other,2020,1
+324,New Amsterdam,US,2,2577946,Melanie Arii Mah,1,False,Dr Brill,doctor,2020,1
+325,New Amsterdam,US,2,1797222,Jenelle Chu,1,False,Justine Siefert,other,2020,1
+326,New Amsterdam,US,2,2821211,Angela McKenzie,1,False,Nurse,nurse,2020,1
+327,New Amsterdam,US,2,2734294,Cole Tristan Murphy,2,False,Trey Masterson,other,2020,1
+328,New Amsterdam,US,2,1411183,Marissa Matrone,1,False,Dr. Baker,doctor,2020,1
+329,New Amsterdam,US,2,2713112,Harry Bouvy,2,False,Dr. Eliraz,doctor,2020,1
+330,New Amsterdam,US,2,1351030,Jeff Kim,2,False,Dr. Kapraelien,doctor,2020,1
+331,New Amsterdam,US,2,2821220,Natasha Sen,1,False,Pediatric Nurse,nurse,2020,1
+332,New Amsterdam,US,2,6168,Austin Pendleton,2,False,Eli Pembroke,other,2020,1
+333,New Amsterdam,US,2,112532,Kevin Interdonato,2,False,Marine Lt. Galatin,other,2020,1
+334,New Amsterdam,US,2,2151696,Graceann Dorse,1,False,Trey's Mother,other,2020,1
+335,New Amsterdam,US,2,2261062,Alison Luff,1,False,Alice Healy,other,2020,1
+336,New Amsterdam,US,2,2082926,Lily Du,1,False,Dr. Lawan Panyacosit,doctor,2020,1
+337,New Amsterdam,US,2,1505886,Anna Suzuki,1,False,Sandra Fall,doctor,2020,1
+338,New Amsterdam,US,2,2447204,Shaleen Mulvany,1,False,Ansuya Kapoor,other,2020,1
+339,New Amsterdam,US,2,2822620,Tim Liu,2,False,Rodney,other,2020,1
+340,New Amsterdam,US,2,2822623,Michael Alexander Henry,2,False,Dr. Madden,doctor,2020,1
+341,New Amsterdam,US,2,1450387,Stacie Greenwell,1,False,Louise Galena,other,2020,1
+342,New Amsterdam,US,2,1762337,Jessica Noboa,1,False,Kelly Lowe,other,2020,1
+343,New Amsterdam,US,2,1452000,Johnny M. Wu,2,False,Craig Lowe,other,2020,1
+344,New Amsterdam,US,2,1719003,Kelemete Misipeka,2,False,Ikaika Namakaokealohahaunele,other,2020,1
+345,New Amsterdam,US,2,1400694,Zach Appelman,2,False,Sam Singer,other,2020,1
+346,New Amsterdam,US,2,2731855,Molly Ranson,1,False,Melissa Singer,other,2020,1
+347,New Amsterdam,US,2,54124,Marceline Hugot,1,False,Annie Singer,other,2020,1
+348,New Amsterdam,US,2,2822636,Thomas J. Lillis,2,False,Jackson Lowe,other,2020,1
+349,New Amsterdam,US,2,2822637,Cristala Carter,0,False,Larkin Pettah,other,2020,1
+350,New Amsterdam,US,2,1252466,Brian R. Norris,2,False,Jacob,other,2020,1
+351,New Amsterdam,US,2,2822635,Matthew Jeffers,2,False,ED Resident Mark Walsh,other,2020,1
+352,New Amsterdam,US,2,964138,Jimmy Gary Jr.,2,False,Big Mike Kiggens,other,2020,1
+353,New Amsterdam,US,2,2426870,Matthias Sebastiun Garry,2,False,Acupuncturist (uncredited),other,2020,2
+354,New Amsterdam,US,2,1707629,Steve Blanchard,2,False,Ozzie Cobb,other,2020,2
+355,New Amsterdam,US,2,2822646,Nirvaan Pal,0,False,Salem,other,2020,2
+356,New Amsterdam,US,2,2200290,Daniel Danielson,2,False,Hospice Nurse,nurse,2020,2
+357,New Amsterdam,US,2,2822650,Gilbert D. Sanchez,2,False,Peter,other,2020,2
+358,New Amsterdam,US,2,26719,Veanne Cox,1,False,Debra Keating,other,2020,2
+359,New Amsterdam,US,2,1224555,Francis Jue,2,False,Zeke Meredith,other,2020,2
+360,New Amsterdam,US,2,1967064,Cheryse Dyllan,0,False,Regina Harris-Shipley,other,2020,2
+361,New Amsterdam,US,2,1386512,Chris McKinney,2,False,Peter's Father,other,2020,2
+362,New Amsterdam,US,2,2822663,George Diehl Jr.,2,False,Jeremy,other,2020,2
+363,New Amsterdam,US,2,57823,Marylouise Burke,1,False,Adele Eisenbaum,other,2020,2
+364,New Amsterdam,US,2,2591350,Morgan Montgomery,1,False,Hospital Pedestrian (uncredited),other,2020,2
+365,New Amsterdam,US,2,2524966,Marsin Mogielski,2,False,Nurse (uncredited),nurse,2020,2
+366,New Amsterdam,US,2,2055323,Ashley Brooke,1,False,Shirley Goldman,other,2020,2
+367,New Amsterdam,US,2,1180564,Rosal Colon,1,False,Ms. Fernandez,other,2020,2
+368,New Amsterdam,US,2,167604,Nadia Dajani,1,False,Steph Goldman,other,2020,2
+369,New Amsterdam,US,2,2193774,Gregory Diaz IV,2,False,Cephas Fernandez,other,2020,2
+370,New Amsterdam,US,2,2275518,Tiffany Villarin,1,False,Dr. Nolene George,doctor,2020,2
+371,New Amsterdam,US,2,2823690,Phae Amara,0,False,Fatima Abassi,other,2020,2
+372,New Amsterdam,US,2,11150,Gina Gershon,1,False,Jeanie Bloom,other,2020,2
+373,New Amsterdam,US,2,2376926,Aki Ando,1,False,Grace Hong,other,2020,2
+374,New Amsterdam,US,2,1328729,Ross Bennett,2,False,Nervous Man,other,2020,2
+375,New Amsterdam,US,2,2578463,Sarah Minor,1,False,Patient (uncredited),other,2020,2
+376,New Amsterdam,US,2,2088881,Michael Iacono,2,False,High School Student (uncredited),other,2020,2
+377,New Amsterdam,US,2,1360006,Ronald Boone,2,False,Local (uncredited),other,2020,2
+378,New Amsterdam,US,2,2614083,Joe Carroll,2,False,Chris,other,2020,2
+379,New Amsterdam,US,2,1182729,Kate Cobb,1,False,Jenny,other,2020,2
+380,New Amsterdam,US,2,1367016,Judith Delgado,1,False,Mrs. Hildebrandt,other,2020,2
+381,New Amsterdam,US,2,2823692,Dipa Anitia,1,False,Dr. Flynn,doctor,2020,2
+382,New Amsterdam,US,2,2823694,Amber Jaunai,1,False,Beth,other,2020,2
+383,New Amsterdam,US,2,2823695,Hank H. Kim,2,False,Dr. Farnum,doctor,2020,2
+384,New Amsterdam,US,2,2823699,Jessica Lee,1,False,Young Tourist,other,2020,2
+385,New Amsterdam,US,2,2040045,Kim Rios Lin,1,False,Audra Jacon,doctor,2020,2
+386,New Amsterdam,US,2,2823720,Michael McCarthy,2,False,Dr. Ruben,doctor,2020,2
+387,New Amsterdam,US,2,1593134,Lucy Taylor,1,False,Holland Mosley,other,2020,2
+388,New Amsterdam,US,2,1348457,Andrew Polk,2,False,Dr. Melvin Skein,doctor,2020,2
+389,New Amsterdam,US,2,1653355,Sheilagh Weymouth,0,False,Dr. Florence Brighton,doctor,2020,2
+390,New Amsterdam,US,2,2591346,Julissa Piatt,1,False,Student (uncredited),other,2020,3
+391,New Amsterdam,US,2,2823746,Sophie Tobias,1,False,Danica,other,2020,3
+392,New Amsterdam,US,2,2412567,Linwood Brown,2,False,Messenger,other,2020,3
+393,New Amsterdam,US,2,1510745,Albert M. Chan,2,False,EEG Tech,other,2020,3
+394,New Amsterdam,US,2,1900394,Migs Govea,0,False,Rudy Ramos,other,2020,3
+395,New Amsterdam,US,2,2823759,Charles Hinshaw,2,False,George Whitney,other,2020,3
+396,New Amsterdam,US,2,2138636,Satomi Hofmann,1,False,Wilma Ramos,other,2020,3
+397,New Amsterdam,US,2,2648690,Chantal Jean-Pierre,1,False,Principal Colvin,other,2020,3
+398,New Amsterdam,US,2,2823769,Isaac Krasner,2,False,Kid #2,other,2020,3
+399,New Amsterdam,US,2,2427102,Denise Pillott,1,False,Oncology Nurse May Ortega,nurse,2020,3
+400,New Amsterdam,US,2,2823777,Marc Prizov,2,False,Police Officer Young,other,2020,3
+401,New Amsterdam,US,2,2823781,Shayaan Siddiqui,0,False,Kid #1,other,2020,3
+402,New Amsterdam,US,2,1296115,Jennifer Ikeda,1,False,Robotics Doctor,doctor,2020,3
+403,New Amsterdam,US,2,2656955,Danny J. Gomez,2,False,Mateo,other,2020,3
+404,New Amsterdam,US,2,1442976,Justin H. Min,2,False,Jason Wang,other,2020,3
+405,New Amsterdam,US,2,2732178,Naveen Paddock,2,False,Tevi Bilson,other,2020,3
+406,New Amsterdam,US,2,2823804,Tyra Joy Smith,1,False,Jessye,other,2020,3
+407,New Amsterdam,US,2,1986547,Ezra Barnes,2,False,Dr. Louis,doctor,2020,3
+408,New Amsterdam,US,2,1992938,Larry Bull,2,False,Dr. Fisher,doctor,2020,3
+409,New Amsterdam,US,2,1873845,Lily Chee,1,False,Melanie,other,2020,3
+410,New Amsterdam,US,2,2823808,Carrie Compere,1,False,Lorraine Baker,other,2020,3
+411,New Amsterdam,US,2,2174643,Charles Everett,2,False,Matt Baker,other,2020,3
+412,New Amsterdam,US,2,2823811,Mickalia Forrester Ewen,1,False,Lisa Baker,other,2020,3
+413,New Amsterdam,US,2,1365505,Erik Frandsen,2,False,Neiron,other,2020,3
+414,New Amsterdam,US,2,1393181,Alex Garfin,2,False,Elio,other,2020,3
+415,New Amsterdam,US,2,2660555,Amel Khalil,1,False,Dr. Donna,doctor,2020,3
+416,New Amsterdam,US,2,171104,Glenn Kubota,2,False,Zhen Huan,other,2020,3
+417,New Amsterdam,US,2,1493977,Laura Lamberti,1,False,Gretta,other,2020,3
+418,New Amsterdam,US,2,1529324,Jeremy Lawrence,2,False,Dr. Harold Rothman,doctor,2020,3
+419,New Amsterdam,US,2,2732449,Milan Marsh,2,False,Allie Baker,other,2020,3
+420,New Amsterdam,US,2,1753213,Jeff Panzarella,2,False,Dr. Steve,doctor,2020,3
+421,New Amsterdam,US,2,2823828,Gabriella Piazza,1,False,Resident Gasecki,other,2020,3
+422,New Amsterdam,US,2,1422485,Lance Roberts,2,False,Jhansi,other,2020,3
+423,New Amsterdam,US,2,2823829,Justin Sandoval,2,False,Alan,other,2020,3
+424,New Amsterdam,US,2,2524332,Daniel Taveras,2,False,Vic,other,2020,3
+425,New Amsterdam,US,2,2376224,Keren Lugo,1,False,Dr. Diana Flores,doctor,2020,3
+426,New Amsterdam,US,2,156648,Joel de la Fuente,2,False,Dr. Gene Cholokian,doctor,2020,4
+427,New Amsterdam,US,2,931771,David Furr,2,False,Jeremy Cafferty,other,2020,4
+428,New Amsterdam,US,2,143256,Natalie Gold,1,False,Gretchen Cafferty,other,2020,4
+429,New Amsterdam,US,2,1454360,Jojo Gonzalez,0,False,Oliver Luzon,other,2020,4
+430,New Amsterdam,US,2,1742861,Alex Hurt,2,False,Brendan Philips,other,2020,4
+431,New Amsterdam,US,2,2823856,Deja Blaise,1,False,Museum Mom,other,2020,4
+432,New Amsterdam,US,2,2061069,Kersti Bryan,1,False,Ellie Phillips,other,2020,4
+433,New Amsterdam,US,2,58619,Cindy Cheung,1,False,Judge Hayashi,other,2020,4
+434,New Amsterdam,US,2,2823858,Briana Cortesiano,1,False,Victim #2,other,2020,4
+435,New Amsterdam,US,2,2823859,Neil Dawson,2,False,Museum Dad,other,2020,4
+436,New Amsterdam,US,2,2823860,Andrew Frace,2,False,Leonard James,other,2020,4
+437,New Amsterdam,US,2,1741756,Robert Gomes,2,False,Walter Kent,other,2020,4
+438,New Amsterdam,US,2,2823861,Starmya Howard,0,False,Museum Kid,other,2020,4
+439,New Amsterdam,US,2,2823862,Jequan Jackson,0,False,Victim #1,other,2020,4
+440,New Amsterdam,US,2,1909539,Harlin C. Kearsley,0,False,Defense Lawyer,other,2020,4
+441,New Amsterdam,US,2,2823863,Pat Labez,3,False,Lena Luzon,other,2020,4
+442,New Amsterdam,US,2,1407313,Guy Lemonnier,2,False,Brendan's Lawyer,other,2020,4
+443,New Amsterdam,US,2,2823864,Nicholas Piccolo,2,False,Liam,other,2020,4
+444,New Amsterdam,US,2,2823865,Noah Piccolo,2,False,Liam,other,2020,4
+445,New Amsterdam,US,2,2787778,Lamar Richardson,2,False,Victim #4,other,2020,4
+446,New Amsterdam,US,2,55266,Catherine Mary Stewart,1,False,Robin Kent,other,2020,4
+447,New Amsterdam,US,2,2687298,Audrey Wang,1,False,Victim #3,other,2020,4
+448,New Amsterdam,US,2,1409984,Jeffrey Grover,2,False,Incredulous Doctor,doctor,2020,4
+449,New Amsterdam,US,2,2818526,Gina Jun,1,False,Nurse,nurse,2020,4
+450,New Amsterdam,US,2,2348308,Paul Skye Lehrman,2,False,Dr. Simon Solare,doctor,2020,4
+451,New Amsterdam,US,2,18307,Daniel Dae Kim,2,False,Dr. Cassian Shin,doctor,2020,4
+452,New Amsterdam,US,3,1181353,Ryan Eggold,2,True,Dr. Max Goodwin,doctor,2021,3
+453,New Amsterdam,US,3,1182929,Freema Agyeman,1,True,Dr. Helen Sharpe,doctor,2021,3
+454,New Amsterdam,US,3,90755,Janet Montgomery,1,True,Dr. Lauren Bloom,doctor,2021,3
+455,New Amsterdam,US,3,51383,Tyler Labine,2,True,Dr. Iggy Frome,doctor,2021,3
+456,New Amsterdam,US,3,107939,Jocko Sims,2,True,Dr. Floyd Reynolds,doctor,2021,3
+457,New Amsterdam,US,3,1716907,Em Grosland,0,False,E.D. Nurse Brunsetter,nurse,2021,3
+458,New Amsterdam,US,3,1325562,Peter J. Fernandez,2,False,Nelson Peña,other,2021,3
+459,New Amsterdam,US,3,79987,Maury Ginsberg,2,False,Dr. Leland Clark,doctor,2021,3
+460,New Amsterdam,US,3,97943,Raphael Sbarge,2,False,Captain Dane Starks,other,2021,3
+461,New Amsterdam,US,3,6217,Anupam Kher,2,False,Dr. Vijay Kapoor,doctor,2021,3
+462,New Amsterdam,US,3,2897828,Shereen Ahmed,1,False,Shenaz Shetty,other,2021,3
+463,New Amsterdam,US,3,3478680,Elena Araoz,1,False,Dr. Miriam Kamnani,doctor,2021,3
+464,New Amsterdam,US,3,1649480,Vince Edgehill,2,False,Dying Patient,other,2021,3
+465,New Amsterdam,US,3,3478681,Earl Baker Jr.,2,False,Dr. Mandle,doctor,2021,3
+466,New Amsterdam,US,3,3478688,Melissa Glassman,1,False,Frumpy Dermatologist,other,2021,3
+467,New Amsterdam,US,3,2013575,Emma Ramos,1,False,E.D. Resident Mariana,other,2021,3
+468,New Amsterdam,US,3,1472782,Erica Camarano,1,False,Trauma Surgeon Reyes,doctor,2021,3
+469,New Amsterdam,US,3,3478692,Carmen Noemi Guzman,1,False,Wife,other,2021,3
+470,New Amsterdam,US,3,3478696,Stephen Hu,2,False,Dr. William Choi,doctor,2021,3
+471,New Amsterdam,US,3,2822635,Matthew Jeffers,2,False,Resident Walsh,other,2021,3
+472,New Amsterdam,US,3,2172330,Olivia Khoshatefeh,1,False,Resident Turan,other,2021,3
+473,New Amsterdam,US,3,2951875,Andrew Mayer,2,False,Writhing Patient,other,2021,3
+474,New Amsterdam,US,3,2836818,LaRae Muscat,1,False,Sameera,other,2021,3
+475,New Amsterdam,US,3,3101819,Namakula,1,False,FBI Agent Southern,other,2021,3
+476,New Amsterdam,US,3,1333690,Melissa Navia,1,False,Co-Pilot Eva Schafer,other,2021,3
+477,New Amsterdam,US,3,1653355,Sheilagh Weymouth,0,False,Dr. Florence Brighton,doctor,2021,3
+478,New Amsterdam,US,3,1750500,Kim Ramirez,1,False,Anesthesiologist Alicia Smith,medic,2021,3
+479,New Amsterdam,US,3,2314840,Jennifer Betit Yen,1,False,Nurse Aimee Kamoe,nurse,2021,3
+480,New Amsterdam,US,3,18307,Daniel Dae Kim,2,False,Dr. Cassian Shin,doctor,2021,3
+481,New Amsterdam,US,3,1346714,Michael Basile,2,False,Paramedic Moreland,medic,2021,3
+482,New Amsterdam,US,3,2004019,Megan Byrne,1,False,Gladys,other,2021,3
+483,New Amsterdam,US,3,1647347,Christine Chang,1,False,Dr. Agnes Kao,doctor,2021,3
+484,New Amsterdam,US,3,2552984,Alejandro Hernandez,2,False,Casey Acosta,other,2021,3
+485,New Amsterdam,US,3,3245492,Nora Clow,1,False,Luna,other,2021,3
+486,New Amsterdam,US,3,3245493,Opal Clow,1,False,Luna,other,2021,3
+487,New Amsterdam,US,3,2823774,Teresa Patel,1,False,Paramedic Harvell,medic,2021,3
+488,New Amsterdam,US,3,1925705,Stacey Raymond,1,False,Paramedic Whitaker,medic,2021,3
+489,New Amsterdam,US,3,2376224,Keren Lugo,1,False,Dr. Diana Flores,doctor,2021,3
+490,New Amsterdam,US,3,27107,Mike Doyle,2,False,Martin McIntyre,other,2021,3
+491,New Amsterdam,US,3,1418215,Sandra Berrios,1,False,Patient Susanna,other,2021,3
+492,New Amsterdam,US,3,2822626,Erick Betancourt,2,False,Security Guard McAdams,other,2021,3
+493,New Amsterdam,US,3,3484945,Shadrack Boakye,2,False,Messenger Braden,other,2021,3
+494,New Amsterdam,US,3,3133844,Jojo Brown,1,False,Messenger Kaina,other,2021,3
+495,New Amsterdam,US,3,1183784,Kimiye Corwin,1,False,Dr. Jan Matsudaira,doctor,2021,3
+496,New Amsterdam,US,3,2858239,Mahalet Dejene,1,False,Anesthesiologist,medic,2021,3
+497,New Amsterdam,US,3,2026200,Ray DeMattis,2,False,Patient Carl,other,2021,3
+498,New Amsterdam,US,3,1559868,Greg Jackson,2,False,Patient Terrence,other,2021,3
+499,New Amsterdam,US,3,122680,Jax Jackson,2,False,Patient Luol,other,2021,3
+500,New Amsterdam,US,3,2035135,Candice Jean-Jacques,1,False,Brenna Argento,other,2021,3
+501,New Amsterdam,US,3,3484967,Sam Kebede,2,False,Messenger Carter,other,2021,3
+502,New Amsterdam,US,3,2722610,Naaji Kenn,1,False,Patient Rosalee,other,2021,3
+503,New Amsterdam,US,3,3218986,Brian Lucas,2,False,Patient Rodrigo,doctor,2021,3
+504,New Amsterdam,US,3,2949562,Makia Martin,1,False,Patient Denise,other,2021,3
+505,New Amsterdam,US,3,1669955,Arash Mokhtar,2,False,Dr. Aldo Vartka,doctor,2021,3
+506,New Amsterdam,US,3,2179755,Shaquita Smith,1,False,Anesthetist,other,2021,3
+507,New Amsterdam,US,3,1837555,Esteban Suero,2,False,Paul Argento,other,2021,3
+508,New Amsterdam,US,3,2803692,Krystal Torres,1,False,Agent Douglas,other,2021,3
+509,New Amsterdam,US,3,1819943,Erikka Walsh,0,False,Agent Sully,other,2021,3
+510,New Amsterdam,US,3,2844769,Marvin Avila,2,False,ICU Nurse Ocampo,nurse,2021,3
+511,New Amsterdam,US,3,10386,Debra Monk,1,False,Karen Brantley,other,2021,3
+512,New Amsterdam,US,3,2255197,Dierdre Friel,1,False,Ella,other,2021,3
+513,New Amsterdam,US,3,3095878,Ben Horner,2,False,June's Father,other,2021,3
+514,New Amsterdam,US,3,1337186,Grayson Berry,2,False,Brad Slovis,other,2021,3
+515,New Amsterdam,US,3,3342869,Christian Blakesley,2,False,Paramedic,medic,2021,3
+516,New Amsterdam,US,3,2213606,Aidan Pierce Brennan,2,False,Brandon Tamberlay,other,2021,3
+517,New Amsterdam,US,3,210393,Joe Coots,2,False,Donny Tamberlay,other,2021,3
+518,New Amsterdam,US,3,2473343,Katie Lee Hill,1,False,Willow,other,2021,3
+519,New Amsterdam,US,3,2706223,Troy Iwata,2,False,Resident Garo Rose,other,2021,3
+520,New Amsterdam,US,3,1909808,John P. McGinty,2,False,Dr. Sertic,doctor,2021,3
+521,New Amsterdam,US,3,2527211,Kaitlin Mesh,1,False,Riley Dantine,other,2021,3
+522,New Amsterdam,US,3,2169581,Najla Said,1,False,Dr. Salaita,doctor,2021,3
+523,New Amsterdam,US,3,2931882,Vanessa Carrasco,1,False,June,other,2021,3
+524,New Amsterdam,US,3,1237385,Michelle Federer,1,False,Millie Tamberlay,other,2021,3
+525,New Amsterdam,US,3,164542,Roxanna Hope,1,False,Gabriella,other,2021,3
+526,New Amsterdam,US,3,122750,Leslie Uggams,1,False,Mamma Reynolds,other,2021,3
+527,New Amsterdam,US,3,2638091,Yvette Ganier,1,False,E.D. Nurse Linda Weber,nurse,2021,3
+528,New Amsterdam,US,3,171955,Zabryna Guevara,1,False,Dora,other,2021,3
+529,New Amsterdam,US,3,2823857,Jenna Bosco,1,False,Paramedic Herrera,medic,2021,3
+530,New Amsterdam,US,3,2031963,Jasmine Batchelor,1,False,Courtney,other,2021,3
+531,New Amsterdam,US,3,1332651,Margot Bingham,1,False,Evie Garrison,other,2021,3
+532,New Amsterdam,US,3,2013924,Shiva Kalaiselvan,1,False,Leyla,other,2021,3
+533,New Amsterdam,US,3,1921209,Paula Jon DeRose,1,False,Yana Wilding,other,2021,3
+534,New Amsterdam,US,3,2034960,Griffin Santopietro,2,False,Linus Wilding,other,2021,3
+535,New Amsterdam,US,3,2302919,Jackson Anderson,2,False,Jaden,other,2021,3
+536,New Amsterdam,US,3,2560239,Denis Ooi,2,False,Drunk Stockbroker,doctor,2021,3
+537,New Amsterdam,US,3,3343058,Ruben C. Ortiz,2,False,Edmundo,other,2021,3
+538,New Amsterdam,US,3,570285,Adam Ratcliffe,2,False,Officer Carter,other,2021,3
+539,New Amsterdam,US,3,2249049,Hank Strong,2,False,Bouncer,other,2021,3
+540,New Amsterdam,US,3,2735400,Kerry Warren,1,False,O.R. Nurse Carrie Varenne,nurse,2021,3
+541,New Amsterdam,US,3,1973527,Sol Marina Crespo,1,False,Scrub Nurse Kat Della Cruz,nurse,2021,3
+542,New Amsterdam,US,3,1272974,Myles Humphus,2,False,Hammond Sims,other,2021,3
+543,New Amsterdam,US,3,59206,Becky Ann Baker,1,False,Gwen Bennett,other,2021,3
+544,New Amsterdam,US,3,58549,Bill Irwin,2,False,Calvin Bennett,other,2021,3
+545,New Amsterdam,US,3,1670818,Isaiah Seward,2,False,Paramedic Durango,medic,2021,3
+546,New Amsterdam,US,3,2614086,Almeria Campbell,0,False,Anita Barkley,other,2021,3
+547,New Amsterdam,US,3,1231373,Camille Mana,1,False,Rose Castillo,other,2021,3
+548,New Amsterdam,US,3,1697346,Luke Slattery,2,False,PFC Chance Becker,other,2021,3
+549,New Amsterdam,US,3,3485009,Shian Tomlinson,1,False,Elisa Barkley,other,2021,3
+550,New Amsterdam,US,3,131390,Hunter Canning,2,False,Radiology Tech Raymond,other,2021,3
+551,New Amsterdam,US,3,3485010,Frank Carlo,2,False,Painter,other,2021,3
+552,New Amsterdam,US,3,3485011,Casey Erin Clark,1,False,Singer #3,other,2021,3
+553,New Amsterdam,US,3,2226022,Jennean Farmer,1,False,Rhonda,other,2021,3
+554,New Amsterdam,US,3,2823696,Sarafina King,1,False,Paramedic Nokic,medic,2021,3
+555,New Amsterdam,US,3,1641970,Telly Leung,2,False,Singer #2,other,2021,3
+556,New Amsterdam,US,3,3485013,Brandon Kazen-Maddox,2,False,ASL Interpreter,other,2021,3
+557,New Amsterdam,US,3,159435,Michael McElroy,2,False,Singer #1,other,2021,3
+558,New Amsterdam,US,3,1348212,Sue Kim,1,False,Dr. Kwok,doctor,2021,3
+559,New Amsterdam,US,3,1358218,Anton Obeid,2,False,Kevin McGlynn,other,2021,3
+560,New Amsterdam,US,3,3485014,Rani Varma,1,False,Salma Rajput,other,2021,3
+561,New Amsterdam,US,3,2570201,Desiree Rodriguez,1,False,Singer #4,other,2021,3
+562,New Amsterdam,US,3,3380278,Michael V. Sulsona,2,False,Combat Veteran 1,other,2021,3
+563,New Amsterdam,US,3,2605257,Chris Walker,2,False,Combat Veteran 2,other,2021,3
+564,New Amsterdam,US,3,1956018,Pilar Witherspoon,1,False,Woman,other,2021,3
+565,New Amsterdam,US,3,1505886,Anna Suzuki,1,False,Sandra Fall,doctor,2021,3
+566,New Amsterdam,US,3,2878535,Audrey Bennett,1,False,Luisa,other,2021,4
+567,New Amsterdam,US,3,116714,Juan Carlos Hernández,2,False,Wilmer Belasco,other,2021,4
+568,New Amsterdam,US,3,3343427,Jacob Dylan Igielsky,2,False,Ollie,other,2021,4
+569,New Amsterdam,US,3,1807137,Nikkole Salter,1,False,Isabel Sarasa,other,2021,4
+570,New Amsterdam,US,3,1884712,Alex Weisman,2,False,Murphy Coleman,other,2021,4
+571,New Amsterdam,US,3,1422515,Kenneth De Abrew,2,False,Kebir Abad,other,2021,4
+572,New Amsterdam,US,3,3343492,Ashley Nicole Baptiste,1,False,Audra,doctor,2021,4
+573,New Amsterdam,US,3,163814,Fred Berman,2,False,Dr. Harold Gallant,doctor,2021,4
+574,New Amsterdam,US,3,3343561,Eddie Carroll,2,False,Brian,other,2021,4
+575,New Amsterdam,US,3,3343566,Patrick Chang,2,False,Louis,other,2021,4
+576,New Amsterdam,US,3,3343567,Farrah Cine,1,False,Muriel,other,2021,4
+577,New Amsterdam,US,3,2115930,Silvia Dionicio,1,False,Katie,other,2021,4
+578,New Amsterdam,US,3,2082926,Lily Du,1,False,Dr. Lawan Panyacosit,doctor,2021,4
+579,New Amsterdam,US,3,2046488,Christopher Gerson,2,False,Dr. Eisner,doctor,2021,4
+580,New Amsterdam,US,3,2822623,Michael Alexander Henry,2,False,Dr. Christopher Madden,doctor,2021,4
+581,New Amsterdam,US,3,1223454,B. Todd Johnson,0,False,Tom,other,2021,4
+582,New Amsterdam,US,3,1351030,Jeff Kim,2,False,Dr. Alan Kapraelien,doctor,2021,4
+583,New Amsterdam,US,3,3343570,Karan Kumar,1,False,Sai,other,2021,4
+584,New Amsterdam,US,3,3079847,Malinda Logan,1,False,Kyla,other,2021,4
+585,New Amsterdam,US,3,2648686,Anastacia McCleskey,0,False,Dr. Phylicia Elder,doctor,2021,4
+586,New Amsterdam,US,3,3343571,Eduardo Navas,2,False,Rafael,other,2021,4
+587,New Amsterdam,US,3,3343574,Aidan Nicolas,2,False,Hector Belasco,other,2021,4
+588,New Amsterdam,US,3,3343575,Brandon Ocasio,2,False,Orderly Ronaldo Perez,other,2021,4
+589,New Amsterdam,US,3,2292112,Emma Hong,1,False,Juliette Kimura,other,2021,4
+590,New Amsterdam,US,3,2237441,Nadia Affolter,1,False,Mina,other,2021,4
+591,New Amsterdam,US,3,2061074,Akram Basuni,2,False,Paramedic Nazari,medic,2021,4
+592,New Amsterdam,US,3,1411183,Marissa Matrone,1,False,Dr. Margaret Baker,doctor,2021,4
+593,New Amsterdam,US,3,3313535,Shayna Jackson,1,False,Avery,other,2021,5
+594,New Amsterdam,US,3,3159595,Dorcas Sowunmi,1,False,Dr. Iyawa Metzger,doctor,2021,5
+595,New Amsterdam,US,3,1587319,Ricardo Dávila,2,False,Javier,other,2021,5
+596,New Amsterdam,US,3,1213094,Caroline Lagerfelt,1,False,Sister Edith Pursey,other,2021,5
+597,New Amsterdam,US,3,59177,Michael Rady,2,False,Dr. Hans Paré,doctor,2021,5
+598,New Amsterdam,US,3,2722849,Billy Beyrer,2,False,Kevin,other,2021,5
+599,New Amsterdam,US,3,59458,Myrna Cabello,1,False,Middle-Aged Woman,other,2021,5
+600,New Amsterdam,US,3,3389804,Xavier Cano,2,False,Benji Alvarez,other,2021,5
+601,New Amsterdam,US,3,2405878,Faiven Feshazion,1,False,Anesthesiologist,medic,2021,5
+602,New Amsterdam,US,3,2461282,Michael Raymond Fox,2,False,Surgeon #2,doctor,2021,5
+603,New Amsterdam,US,3,3342463,Henry Gross,2,False,Jacob Paré,other,2021,5
+604,New Amsterdam,US,3,1498429,Darwin Harris,2,False,Dr. Mike Frost,doctor,2021,5
+605,New Amsterdam,US,3,3261844,Gillian Hassert,1,False,Nurse Gretchen Winter,nurse,2021,5
+606,New Amsterdam,US,3,3245496,Claire Karpen,1,False,Dr. Michelle Goldman,doctor,2021,5
+607,New Amsterdam,US,3,3338753,Shomari Love,2,False,Bike Messenger,other,2021,5
+608,New Amsterdam,US,3,3389813,Shania Mundy,1,False,Vexed patient,other,2021,5
+609,New Amsterdam,US,3,3389821,Elena Ricardo,1,False,Desk Nurse Fran Lester,nurse,2021,5
+610,New Amsterdam,US,3,2868208,Tyrone L. Robinson,2,False,Custodian Jerry Watkins,other,2021,5
+611,New Amsterdam,US,3,3389823,Suzanne Slade,1,False,Surgeon #1,doctor,2021,5
+612,New Amsterdam,US,3,1815126,Fred Tolliver Jr.,2,False,Young Man,other,2021,5
+613,New Amsterdam,US,3,2026240,Natasha Yvette Williams,1,False,Social Worker Esther,other,2021,5
+614,New Amsterdam,US,3,3389806,Julian Cuenco Fadullon,2,False,Nurse Lin,nurse,2021,5
+615,New Amsterdam,US,3,75612,Anthony Ruiz,2,False,Miguel Vicario,other,2021,5
+616,New Amsterdam,US,3,1447862,Elia Monte-Brown,1,False,Madeline Almeida,other,2021,6
+617,New Amsterdam,US,3,1161607,Jenny Jules,1,False,Serwa Sharpe,other,2021,6
+618,New Amsterdam,US,4,1181353,Ryan Eggold,2,True,Dr. Max Goodwin,doctor,2021,9
+619,New Amsterdam,US,4,1182929,Freema Agyeman,1,True,Dr. Helen Sharpe,doctor,2021,9
+620,New Amsterdam,US,4,90755,Janet Montgomery,1,True,Dr. Lauren Bloom,doctor,2021,9
+621,New Amsterdam,US,4,51383,Tyler Labine,2,True,Dr. Iggy Frome,doctor,2021,9
+622,New Amsterdam,US,4,107939,Jocko Sims,2,True,Dr. Floyd Reynolds,doctor,2021,9
+623,New Amsterdam,US,4,1177995,Conner Marx,2,False,Ben,other,2021,9
+624,New Amsterdam,US,4,1795332,Kerry Flanagan,1,False,Marsha,other,2021,9
+625,New Amsterdam,US,4,2465122,Omar Ghonim,2,False,Simon,other,2021,9
+626,New Amsterdam,US,4,1348457,Andrew Polk,2,False,Dr. Melvin Skein,doctor,2021,9
+627,New Amsterdam,US,4,2987967,Chloe Freeman,1,False,E.D. Resident Pavan Carey,other,2021,9
+628,New Amsterdam,US,4,2314840,Jennifer Betit Yen,1,False,O.R. Nurse Aimee Kamoe,nurse,2021,9
+629,New Amsterdam,US,4,2050162,Greta Quispe,1,False,I.C.U. Nurse Sabrina Zamabrano,nurse,2021,9
+630,New Amsterdam,US,4,3245501,Jenna Hellmuth,1,False,Battalion Fire Chief Franco,other,2021,9
+631,New Amsterdam,US,4,3115523,Edward Heegan,2,False,Fireman,other,2021,9
+632,New Amsterdam,US,4,2700483,Patrena Murray,0,False,Corrections Ward Guard,other,2021,9
+633,New Amsterdam,US,4,1779174,Pearl Sun,1,False,Theresa Colgan,other,2021,9
+634,New Amsterdam,US,4,70881,Alan Cox,2,False,Painter Lyle Redmond,other,2021,9
+635,New Amsterdam,US,4,2979178,Amaia Arana,1,False,E.D. Resident Roxana Zamaya,other,2021,9
+636,New Amsterdam,US,4,3229834,Eric Robinson Jr.,2,False,Brandon Dover,other,2021,9
+637,New Amsterdam,US,4,1570317,Isabel Keating,1,False,Mary Wheeler,other,2021,9
+638,New Amsterdam,US,4,3159595,Dorcas Sowunmi,1,False,Dr. Iyawa Metzger,doctor,2021,9
+639,New Amsterdam,US,4,3245496,Claire Karpen,1,False,Dr. Michelle Goldman,doctor,2021,9
+640,New Amsterdam,US,4,1997501,Sandra Mae Frank,1,False,Dr. Elizabeth Wilder,doctor,2021,9
+641,New Amsterdam,US,4,1346714,Michael Basile,2,False,Paramedic Moreland,medic,2021,9
+642,New Amsterdam,US,4,2004019,Megan Byrne,1,False,Gladys,other,2021,9
+643,New Amsterdam,US,4,3245492,Nora Clow,1,False,Luna,other,2021,9
+644,New Amsterdam,US,4,3245493,Opal Clow,1,False,Luna,other,2021,9
+645,New Amsterdam,US,4,552526,Andre B. Blake,2,False,Dr. Claude Baptiste,doctor,2021,9
+646,New Amsterdam,US,4,2823774,Teresa Patel,1,False,Paramedic Harvell,medic,2021,9
+647,New Amsterdam,US,4,2172330,Olivia Khoshatefeh,1,False,Dr. Yasmin Turan,doctor,2021,9
+648,New Amsterdam,US,4,1505886,Anna Suzuki,1,False,Sandra Fall,doctor,2021,9
+649,New Amsterdam,US,4,1845809,Frances Turner,1,False,Dr. Lyn Malvo,doctor,2021,9
+650,New Amsterdam,US,4,2013924,Shiva Kalaiselvan,1,False,Leyla,other,2021,9
+651,New Amsterdam,US,4,2822635,Matthew Jeffers,2,False,Dr. Mark Walsh,doctor,2021,9
+652,New Amsterdam,US,4,3127830,Greg Cuellar,2,False,Psych Resident Chitto,other,2021,9
+653,New Amsterdam,US,4,3606070,Leslie Rodriguez Kritzer,1,False,Nurse Giselle,nurse,2021,9
+654,New Amsterdam,US,4,1849970,Jose Guns Alves,2,False,Lou,other,2021,9
+655,New Amsterdam,US,4,2844769,Marvin Avila,2,False,ICU Nurse Ocampo,nurse,2021,9
+656,New Amsterdam,US,4,1942150,Marilyn Busch,1,False,Big Tina,other,2021,9
+657,New Amsterdam,US,4,1623151,Hiram Delgado,2,False,Kevin Gonzalez aka Miguel,other,2021,9
+658,New Amsterdam,US,4,1760278,Danny Doherty,2,False,Terry,other,2021,9
+659,New Amsterdam,US,4,2734208,Kyle Fox Douglas,1,False,Ferris Young,other,2021,9
+660,New Amsterdam,US,4,2638091,Yvette Ganier,1,False,ED Nurse Linda Weber,nurse,2021,9
+661,New Amsterdam,US,4,2933975,Jaleesa Graham,1,False,Alana,other,2021,9
+662,New Amsterdam,US,4,1523186,Julie Hays,1,False,Carla Marchetti,other,2021,9
+663,New Amsterdam,US,4,2313917,Dave Murgittroyd,2,False,Brad Beacher,other,2021,9
+664,New Amsterdam,US,4,1872608,Jerry D. O'Donnell,2,False,Joe Farley,other,2021,9
+665,New Amsterdam,US,4,3606072,Rocky Vega,2,False,Nurse Amelia Faldo,nurse,2021,9
+666,New Amsterdam,US,4,3606073,Jazmin Williams,1,False,Psych Resident 2,other,2021,9
+667,New Amsterdam,US,4,1716907,Em Grosland,0,False,ED Nurse Brunstetter,nurse,2021,9
+668,New Amsterdam,US,4,41820,Michelle Forbes,1,False,Dr. Veronica Fuentes,doctor,2021,9
+669,New Amsterdam,US,4,2552984,Alejandro Hernandez,2,False,Casey Acosta,other,2021,9
+670,New Amsterdam,US,4,10386,Debra Monk,1,False,Karen Brantley,other,2021,9
+671,New Amsterdam,US,4,1545694,Ehad Berisha,2,False,ED Resident Huxley,other,2021,9
+672,New Amsterdam,US,4,2187703,Sasha Diamond,1,False,Dr. Wandy Agliar,doctor,2021,10
+673,New Amsterdam,US,4,2722459,Naiya Ortiz,1,False,Imani Moore,other,2021,10
+674,New Amsterdam,US,4,3606079,Ash Spencer,0,False,Cee,other,2021,10
+675,New Amsterdam,US,4,3606083,Leah John,1,False,Sylvie Varden,other,2021,10
+676,New Amsterdam,US,4,2728269,Jackson Mercado,2,False,Ronald Elgin,other,2021,10
+677,New Amsterdam,US,4,2061074,Akram Basuni,2,False,Paramedic Nazari,medic,2021,10
+678,New Amsterdam,US,4,1466166,Michael Chenevert,2,False,Nico Moore,other,2021,10
+679,New Amsterdam,US,4,3606088,Noelle LuSane,1,False,Cora Moore,other,2021,10
+680,New Amsterdam,US,4,171744,Fay Ann Lee,1,False,Lead Attorney Jiang,other,2021,10
+681,New Amsterdam,US,4,1568030,Rajesh Bose,2,False,Dr. Rahul Nagendran,doctor,2021,10
+682,New Amsterdam,US,4,3565686,Deepti Kingra-Mickelsen,1,False,Bride,other,2021,10
+683,New Amsterdam,US,4,3389806,Julian Cuenco Fadullon,2,False,Nurse Lin,nurse,2021,10
+684,New Amsterdam,US,4,3279197,Simone Vysnovsky,1,False,Student at a science fair,other,2021,10
+685,New Amsterdam,US,4,3606090,Dan Godlin,2,False,Tyler Grice,other,2021,10
+686,New Amsterdam,US,4,1670818,Isaiah Seward,2,False,Paramedic Durango,medic,2021,10
+687,New Amsterdam,US,4,2858239,Mahalet Dejene,1,False,Anesthesiologist Nyala Abebe,medic,2021,10
+688,New Amsterdam,US,4,1925705,Stacey Raymond,1,False,Paramedic Whitaker,medic,2021,10
+689,New Amsterdam,US,4,27107,Mike Doyle,2,False,Martin McIntyre,other,2021,10
+690,New Amsterdam,US,4,205701,Kristen Bush,1,False,Holly Logandorffer,other,2021,10
+691,New Amsterdam,US,4,1171670,Christopher Cassarino,2,False,Dr. Ed Nottingham,doctor,2021,10
+692,New Amsterdam,US,4,2089997,Jazmyn C Dorsey,1,False,Carrie Logandorffer,other,2021,10
+693,New Amsterdam,US,4,2187701,Danny Garcia,2,False,Domino,other,2021,10
+694,New Amsterdam,US,4,1832230,Vince Nappo,2,False,Clark Logandorffer,other,2021,10
+695,New Amsterdam,US,4,1647347,Christine Chang,1,False,Dr. Agnes Kao,doctor,2021,10
+696,New Amsterdam,US,4,3615034,Arsen Vanian,2,False,Addison Stadler (uncredited),other,2022,1
+697,New Amsterdam,US,4,2133250,Tina WongLu,1,False,Sydney,other,2022,1
+698,New Amsterdam,US,4,3615036,Cameron Silliman,2,False,Colie's Child,other,2022,1
+699,New Amsterdam,US,4,3343575,Brandon Ocasio,2,False,Orderly Perez,other,2022,1
+700,New Amsterdam,US,4,2473340,Brian Ray Norris,2,False,Colie's Husband,other,2022,1
+701,New Amsterdam,US,4,3615043,Sage Newman,3,False,Patient #1,other,2022,1
+702,New Amsterdam,US,4,1909808,John P. McGinty,2,False,Dr. Liam Sertic,doctor,2022,1
+703,New Amsterdam,US,4,3615045,Tariq Aamir Malik,2,False,30-Year-Old Patient,other,2022,1
+704,New Amsterdam,US,4,1411183,Marissa Matrone,1,False,Dr. Margaret Baker,doctor,2022,1
+705,New Amsterdam,US,4,3615047,Joseph H. LaBrasca,2,False,Kaelen Mancini,other,2022,1
+706,New Amsterdam,US,4,1798342,Grace Gawthrop,1,False,Patient #3,other,2022,1
+707,New Amsterdam,US,4,2171555,Felice Choi,1,False,Patient #2,other,2022,1
+708,New Amsterdam,US,4,1529708,Jamie Ann Burke,1,False,Colie Maru,other,2022,1
+709,New Amsterdam,US,4,2713112,Harry Bouvy,2,False,Dr. Jay Eliraz,doctor,2022,1
+710,New Amsterdam,US,4,2376224,Keren Lugo,1,False,Dr. Diana Flores,doctor,2022,1
+711,New Amsterdam,US,4,2348308,Paul Skye Lehrman,2,False,Dr. Simon Holgate,doctor,2022,1
+712,New Amsterdam,US,4,83223,Donnie Keshawarz,2,False,Dominic Mancini,other,2022,1
+713,New Amsterdam,US,4,2223359,Ryan Faucett,2,False,Trevor Vaughn,other,2022,1
+714,New Amsterdam,US,4,96791,Adriana DeMeo,1,False,Thora Mancini,other,2022,1
+715,New Amsterdam,US,4,53916,Ralph Brown,2,False,Sid Chiltern,other,2022,1
+716,New Amsterdam,US,4,1812411,Yadira Correa,1,False,Officer Elizondo,other,2022,1
+717,New Amsterdam,US,4,2473343,Katie Lee Hill,1,False,Willow Yun,other,2022,1
+718,New Amsterdam,US,4,1156545,Patrick Murney,2,False,Nico Jerrino,other,2022,1
+719,New Amsterdam,US,4,1289020,Genevieve Angelson,1,False,Dr. Mia Castries,doctor,2022,1
+720,New Amsterdam,US,4,3177260,Raji Ahsan,2,False,Dr. Rahul Vaishya,doctor,2022,1
+721,New Amsterdam,US,4,20046,Kapil Bawa,2,False,Dr. Ramchandani,doctor,2022,1
+722,New Amsterdam,US,4,2495070,Aadya Bedi,1,False,Dr. Aqsa Fadel,doctor,2022,1
+723,New Amsterdam,US,4,1056276,Maggie Benedict,1,False,Dr. Charmaine Stewart,doctor,2022,1
+724,New Amsterdam,US,4,2563434,Lorna Bennett,1,False,Nurse Shirley Wattles,nurse,2022,1
+725,New Amsterdam,US,4,1815236,Robert K. Benson,2,False,Dr. Winstanley,doctor,2022,1
+726,New Amsterdam,US,4,3615020,Mahnaz Damania,1,False,Dr. Narin Sadik,doctor,2022,1
+727,New Amsterdam,US,4,3281010,Cameron Folmar,2,False,Dr. Griffin Cornelissen,doctor,2022,1
+728,New Amsterdam,US,4,2230071,Clara Francesca Pagone,1,False,Receptionist Priscilla,other,2022,1
+729,New Amsterdam,US,4,1519476,Keturah Hamilton,0,False,Dr. Aboqela,doctor,2022,1
+730,New Amsterdam,US,4,3615024,Remy Laifer,2,False,NYPD Officer Mickey Pollack,other,2022,1
+731,New Amsterdam,US,4,3615027,Nick Petito,2,False,Delivery Person 1,other,2022,1
+732,New Amsterdam,US,4,1979097,Annie Pisapia,1,False,Agitated Woman,other,2022,1
+733,New Amsterdam,US,4,2653608,Paul Salvatoriello,2,False,Restaurant Manager,other,2022,1
+734,New Amsterdam,US,4,3615029,Ransel Sangster,0,False,Érman,other,2022,1
+735,New Amsterdam,US,4,2455897,Luke David Young,2,False,Security Guard Bertram,other,2022,1
+736,New Amsterdam,US,4,3004653,Tam Young,2,False,Delivery Person 2,other,2022,1
+737,New Amsterdam,US,4,1161607,Jenny Jules,1,False,Serwa Sharpe,other,2022,1
+738,New Amsterdam,US,4,116265,Jack Doolan,2,False,Colin,other,2022,1
+739,New Amsterdam,US,4,2255197,Dierdre Friel,1,False,Ella,other,2022,1
+740,New Amsterdam,US,4,3614965,Nicole Villamil,1,False,Delia Jimenez,other,2022,1
+741,New Amsterdam,US,4,1628772,Garrett Young,2,False,Adam Wilder,other,2022,1
+742,New Amsterdam,US,4,2657502,Jowin Marie Batoon,0,False,Trauma Nurse,nurse,2022,1
+743,New Amsterdam,US,4,3055964,Becca Ballenger,1,False,Paramedic Goodrich,doctor,2022,1
+744,New Amsterdam,US,4,3328214,Michael Castillejos,2,False,Dion Jimenez,other,2022,1
+745,New Amsterdam,US,4,1884096,Richard Crawford,2,False,Cabbie Malcom Goode,other,2022,1
+746,New Amsterdam,US,4,2563094,Phoebe L Dunn,1,False,Waiter,other,2022,1
+747,New Amsterdam,US,4,1893556,Atibon Nazaire,0,False,Janitor Carl,other,2022,1
+748,New Amsterdam,US,4,3614972,Luke Antony Neville,2,False,Duncan,other,2022,1
+749,New Amsterdam,US,4,3614973,Griffin Osborne,2,False,Ian,other,2022,1
+750,New Amsterdam,US,4,1681752,Vandit Bhatt,2,False,Rohan,other,2022,1
+751,New Amsterdam,US,4,117379,Stephen Adly Guirgis,2,False,Chaplain Alpert,other,2022,1
+752,New Amsterdam,US,4,3417174,Anthony John Joo,2,False,Jack Ehrlich,other,2022,1
+753,New Amsterdam,US,4,3614955,Morgan Aiken,2,False,Dr. Amaya Morgan,doctor,2022,1
+754,New Amsterdam,US,4,2735011,Alexis Cash,2,False,Paramedic Carmona,medic,2022,1
+755,New Amsterdam,US,4,3614956,Curtis Alejandro Crowe,2,False,Paramedic,medic,2022,1
+756,New Amsterdam,US,4,2427102,Denise Pillott,1,False,Nurse Ortega,nurse,2022,1
+757,New Amsterdam,US,4,3614957,Jennifer Presno,1,False,Nurse Jacinto,nurse,2022,1
+758,New Amsterdam,US,4,1700407,Cavan Rogers,2,False,Unhoused Person,other,2022,1
+759,New Amsterdam,US,4,2856113,Eric Stafford,2,False,Fournier,other,2022,1
+760,New Amsterdam,US,4,3376105,Renee Ternier,1,False,Nurse Devers,nurse,2022,1
+761,New Amsterdam,US,5,1181353,Ryan Eggold,2,True,Dr. Max Goodwin,doctor,2022,9
+762,New Amsterdam,US,5,1182929,Freema Agyeman,1,True,Dr. Helen Sharpe,doctor,2022,9
+763,New Amsterdam,US,5,90755,Janet Montgomery,1,True,Dr. Lauren Bloom,doctor,2022,9
+764,New Amsterdam,US,5,51383,Tyler Labine,2,True,Dr. Iggy Frome,doctor,2022,9
+765,New Amsterdam,US,5,107939,Jocko Sims,2,True,Dr. Floyd Reynolds,doctor,2022,9

@@ -1,0 +1,1164 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Chicago Med,US,1,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2015,11
+1,Chicago Med,US,1,60033,Yaya DaCosta,1,True,April Sexton,doctor (probably),2015,11
+2,Chicago Med,US,1,116278,Brian Tee,2,True,Dr. Ethan Choi,doctor,2015,11
+3,Chicago Med,US,1,33296,Torrey DeVitto,1,True,Dr. Natalie Manning,doctor,2015,11
+4,Chicago Med,US,1,1094635,Rachel DiPillo,1,True,Sarah Reese,doctor (probably),2015,11
+5,Chicago Med,US,1,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2015,11
+6,Chicago Med,US,1,1093632,Colin Donnell,2,True,Dr. Connor Rhodes,doctor,2015,11
+7,Chicago Med,US,1,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2015,11
+8,Chicago Med,US,1,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2015,11
+9,Chicago Med,US,1,1679833,Amy J. Carle,1,False,Dr. Patchefsky,doctor,2015,11
+10,Chicago Med,US,1,1070031,Gregory Abbey,2,False,Joel Donahue,other,2015,11
+11,Chicago Med,US,1,1197334,Marika Engelhardt,1,False,Beth Donahue,other,2015,11
+12,Chicago Med,US,1,1733324,Audrey Francis,1,False,Margie Cavanaugh,other,2015,11
+13,Chicago Med,US,1,1676845,Maria Rivera,1,False,Mariana Acosta,other,2015,11
+14,Chicago Med,US,1,1431438,Adam Farabee,2,False,Jamie Delson,other,2015,11
+15,Chicago Med,US,1,1230105,Rahm Emanuel,2,False,Himself,other,2015,11
+16,Chicago Med,US,1,1858787,Sasha Rossof,1,False,Rachel Lewis,other,2015,11
+17,Chicago Med,US,1,120583,Jon Bradford,2,False,David Lewis,other,2015,11
+18,Chicago Med,US,1,1884734,Stephanie Diaz,1,False,Yolanda Cruz,other,2015,11
+19,Chicago Med,US,1,1154231,Tonray Ho,1,False,Admitting Attendant,other,2015,11
+20,Chicago Med,US,1,1884712,Alex Weisman,2,False,Chout,other,2015,11
+21,Chicago Med,US,1,1885145,Kristie Berger,1,False,Linda Dilson,other,2015,11
+22,Chicago Med,US,1,1885146,Audrey Morgan,1,False,Mary,other,2015,11
+23,Chicago Med,US,1,1885147,Stephanie Monday,1,False,Anesthesiologist,medic,2015,11
+24,Chicago Med,US,1,1885148,Devin Demby,2,False,Orderly,other,2015,11
+25,Chicago Med,US,1,1885149,W. Matt Daniels,2,False,Gunshot Victim,other,2015,11
+26,Chicago Med,US,1,240934,Brian Rife,2,False,Paramedic #1,medic,2015,11
+27,Chicago Med,US,1,1885155,Nick Mayer,2,False,Paramedic #2,medic,2015,11
+28,Chicago Med,US,1,1868649,Desmond Gray,2,False,Paramedic #3,medic,2015,11
+29,Chicago Med,US,1,1860878,Cesar Jaime,2,False,Paramedic #4,medic,2015,11
+30,Chicago Med,US,1,1682540,Miriam Lee,1,False,Paramedic #5,medic,2015,11
+31,Chicago Med,US,1,27552,David Eigenberg,2,False,Christopher Herrmann,other,2015,11
+32,Chicago Med,US,1,1371298,Kara Killmer,1,False,Sylvie Brett,other,2015,11
+33,Chicago Med,US,1,1011102,Jesse Lee Soffer,2,False,Jay Halstead,other,2015,11
+34,Chicago Med,US,1,1860871,Amanda Marcheschi,1,False,Nurse Dina,nurse,2015,11
+35,Chicago Med,US,1,1719941,Lorena Diaz,1,False,Nurse Doris,nurse,2015,11
+36,Chicago Med,US,1,1174795,Marc Grapey,2,False,Peter Kalmick,other,2015,11
+37,Chicago Med,US,1,1218149,Brennan Brown,2,False,Dr. Sam Abrams,doctor,2015,11
+38,Chicago Med,US,1,108696,Susie Abromeit,1,False,Zoe Roth,other,2015,11
+39,Chicago Med,US,1,8873,Annie Potts,1,False,Helen,other,2015,11
+40,Chicago Med,US,1,49271,Brian Geraghty,2,False,Sean Roman,other,2015,11
+41,Chicago Med,US,1,1213094,Caroline Lagerfelt,1,False,Carol Donovan,other,2015,11
+42,Chicago Med,US,1,19511,Larry Pine,2,False,Tom Donovan,other,2015,11
+43,Chicago Med,US,1,1583618,Aislinn DeButch,1,False,Erika Dougherty,other,2015,11
+44,Chicago Med,US,1,1885234,Thomas Kelly,2,False,Doug,other,2015,11
+45,Chicago Med,US,1,1885235,Aemilia Scott,1,False,Jenna,other,2015,11
+46,Chicago Med,US,1,1885237,Cydney Moody,1,False,Tara,other,2015,11
+47,Chicago Med,US,1,1884699,Sarah Charipar,1,False,Dr. Savage,doctor,2015,11
+48,Chicago Med,US,1,1885239,Philip E. Johnson,2,False,Dr. Czerny,doctor,2015,11
+49,Chicago Med,US,1,1039285,Yelena Shmulenson,1,False,Dr. Rea Movitt,doctor,2015,11
+50,Chicago Med,US,1,1885240,John Byrnes,2,False,Brent,other,2015,11
+51,Chicago Med,US,1,1885241,Erin Noel Grennan,1,False,NICU Nurse,nurse,2015,11
+52,Chicago Med,US,1,1885242,Vahishta Vafadari,1,False,Med Student,other,2015,11
+53,Chicago Med,US,1,1885243,Armando Reyes,2,False,Chauffeur,other,2015,11
+54,Chicago Med,US,1,87956,D.W. Moffett,2,False,Cornelius Rhodes,other,2015,11
+55,Chicago Med,US,1,1570260,Jodi Kingsley,1,False,Madeline Gastern,other,2015,11
+56,Chicago Med,US,1,1100549,Marina Squerciati,1,False,Kim Burgess,other,2015,11
+57,Chicago Med,US,1,947574,Julie Berman,1,False,Dr. Sam Zanetti,doctor,2015,12
+58,Chicago Med,US,1,69483,Christina Brucato,1,False,Claire Rhodes,other,2015,12
+59,Chicago Med,US,1,1885244,Stephenie Park,1,False,Dylan,other,2015,12
+60,Chicago Med,US,1,1603372,Jared Canfield,2,False,Trevor Jackson,other,2015,12
+61,Chicago Med,US,1,1885245,Amber Page,1,False,Lauren Jackson,other,2015,12
+62,Chicago Med,US,1,1885246,Steve O'Connell,2,False,Russell Rollins,other,2015,12
+63,Chicago Med,US,1,1396309,David Parkes,2,False,Chairman Lindheim,other,2015,12
+64,Chicago Med,US,1,1885247,Bradley Petty,2,False,X-Ray Tech,other,2015,12
+65,Chicago Med,US,1,1332017,Brian Christensen,2,False,Jack,other,2015,12
+66,Chicago Med,US,1,210271,Taylor Kinney,2,False,Kelly Severide,other,2015,12
+67,Chicago Med,US,1,1863994,Jeremy Shouldis,2,False,Dr. Marty Peterson,doctor,2015,12
+68,Chicago Med,US,1,224136,Dora Madison,1,False,Jessica Chilton,other,2015,12
+69,Chicago Med,US,1,1885248,Joe Tapper,2,False,Rick Miller,other,2015,12
+70,Chicago Med,US,1,1232623,Paul Fitzgerald,2,False,Bill Simms,other,2015,12
+71,Chicago Med,US,1,1220815,Beth Chamberlin,1,False,Courtney Cole,other,2015,12
+72,Chicago Med,US,1,1695508,Gus Birney,1,False,Ashley Cole,other,2015,12
+73,Chicago Med,US,1,54830,Sophia Bush,1,False,Erin Lindsay,other,2015,12
+74,Chicago Med,US,1,1885295,Joan Porter,1,False,Gertrude Kovach,other,2015,12
+75,Chicago Med,US,1,1885297,Daniel Mozurkewich,2,False,Peter Wallace,other,2015,12
+76,Chicago Med,US,1,1885300,Mary McDonald Kerr,1,False,Brenda Wallace,other,2015,12
+77,Chicago Med,US,1,1885301,Shannon Parr,2,False,David Wallace,other,2015,12
+78,Chicago Med,US,1,1514000,Adam Poss,2,False,Paramedic #5,medic,2015,12
+79,Chicago Med,US,1,1885302,Michael Collins,2,False,News Anchor #1,other,2015,12
+80,Chicago Med,US,1,1885304,Aaron Holland,2,False,Reporter #1,other,2015,12
+81,Chicago Med,US,1,1885306,Darinka Lora-Stepan,1,False,Reporter #2,other,2015,12
+82,Chicago Med,US,1,1885307,Catherine Dughi,1,False,Field Reporter,other,2015,12
+83,Chicago Med,US,1,1885308,Michael Kevin Martin,2,False,Patient #1,other,2015,12
+84,Chicago Med,US,1,1885310,Kathleen Puls Andrade,1,False,Patient #2,other,2015,12
+85,Chicago Med,US,1,1885311,Joie Goodman,2,False,Server,other,2015,12
+86,Chicago Med,US,1,1349483,Sara Holden,1,False,Lucy Simms,other,2015,12
+87,Chicago Med,US,1,1885312,Connor Norris,2,False,Max Simms,other,2015,12
+88,Chicago Med,US,1,221600,Monica Raymund,1,False,Gabriela Dawson,other,2016,1
+89,Chicago Med,US,1,1396320,Robyn Coffin,1,False,Cindy Herrmann,other,2016,1
+90,Chicago Med,US,1,1218180,Billy Smith,2,False,Michael Shepperd,other,2016,1
+91,Chicago Med,US,1,1885314,Bria Cloyd,1,False,Nikki,other,2016,1
+92,Chicago Med,US,1,1862264,Gordon Chow,2,False,Nurse Anthony,nurse,2016,1
+93,Chicago Med,US,1,1885317,Chernise Yvette,1,False,Anesthesia Tech,other,2016,1
+94,Chicago Med,US,1,1686481,Caitlin Chuckta,1,False,Tour Guide,other,2016,1
+95,Chicago Med,US,1,1885318,Barton Fitzpatrick,2,False,GSW Patient,other,2016,1
+96,Chicago Med,US,1,1501739,Thea Camara,1,False,Irma Dunn,other,2016,1
+97,Chicago Med,US,1,1885321,Mercita Demonk,1,False,Carol,other,2016,1
+98,Chicago Med,US,1,1885322,Natalie M. Meyer,1,False,Jessica,other,2016,1
+99,Chicago Med,US,1,36091,Christian Stolte,2,False,Randall McHolland,other,2016,1
+100,Chicago Med,US,1,1437564,Peter Mark Kendall,2,False,Joey Thomas,other,2016,1
+101,Chicago Med,US,1,1885315,Camille Robinson,1,False,Nurse Tanya,nurse,2016,1
+102,Chicago Med,US,1,1574522,Mia Park,1,False,Nurse Beth,nurse,2016,1
+103,Chicago Med,US,1,1563211,Roland Buck III,2,False,Noah Sexton,other,2016,1
+104,Chicago Med,US,1,1368157,Joe Minoso,2,False,Joe Cruz,other,2016,1
+105,Chicago Med,US,1,1262789,Danielle Vega,1,False,Maria Gonzalez,other,2016,1
+106,Chicago Med,US,1,1885325,Kaeden Saunders,2,False,Parker Kindler,other,2016,1
+107,Chicago Med,US,1,1724589,Michael Aaron Lindner,2,False,Adam Kindler,other,2016,1
+108,Chicago Med,US,1,1611579,Amanda Drinkall,1,False,Lisa Kindler,other,2016,1
+109,Chicago Med,US,1,1885331,Kelly Owens,1,False,Dr. Reynolds,doctor,2016,1
+110,Chicago Med,US,1,1885332,Jenoah Bush,2,False,Cedric,doctor,2016,1
+111,Chicago Med,US,1,1870625,Dale Rivera,2,False,Agent Ramirez,other,2016,1
+112,Chicago Med,US,1,1499551,Xander O'Connor,2,False,Agent McManus,other,2016,1
+113,Chicago Med,US,1,1860839,Eric C. Lynch,2,False,Officer Dichter,other,2016,1
+114,Chicago Med,US,1,1884720,Erin Elizabeth,1,False,Orderly,other,2016,1
+115,Chicago Med,US,1,145113,Norm Lewis,2,False,Bobby,other,2016,1
+116,Chicago Med,US,1,60062,Scott Subiono,2,False,Walter Blevins,other,2016,1
+117,Chicago Med,US,1,113693,Samrat Chakrabarti,2,False,Dr. Farinas,doctor,2016,1
+118,Chicago Med,US,1,1885346,Joe Zawacki,2,False,Nick Pierce,other,2016,1
+119,Chicago Med,US,1,1237293,Ilyssa Fradin,1,False,Kathleen Pierce,other,2016,1
+120,Chicago Med,US,1,1885348,Hannah Godnik,1,False,Christy Pierce,other,2016,1
+121,Chicago Med,US,1,1885351,Wesley Truman Daniel,2,False,Mike,other,2016,1
+122,Chicago Med,US,1,1885353,Katie Maggart,1,False,Jess,other,2016,1
+123,Chicago Med,US,1,583229,Allison Latta,1,False,Amber,other,2016,1
+124,Chicago Med,US,1,1885356,Michael Hendricks,2,False,Lou Conte,other,2016,1
+125,Chicago Med,US,1,1885359,Chucho Perez,2,False,Courier,other,2016,1
+126,Chicago Med,US,1,1858966,Regan Rohde,1,False,Carol Conte,other,2016,1
+127,Chicago Med,US,1,2518,Gregg Henry,2,False,Dr. David Downey,doctor,2016,2
+128,Chicago Med,US,1,1190678,Matthew Humphreys,2,False,Henry Joffe,other,2016,2
+129,Chicago Med,US,1,65141,Laurence Mason,2,False,Chief Mason,other,2016,2
+130,Chicago Med,US,1,1885363,Margaret Cook,1,False,Amy,other,2016,2
+131,Chicago Med,US,1,1885366,Janelle Villas,1,False,Sloane,other,2016,2
+132,Chicago Med,US,1,1885371,Maisie Merlock,1,False,Michelle Joffe,other,2016,2
+133,Chicago Med,US,1,1624910,Peter DeFaria,2,False,Officer Tackett,other,2016,2
+134,Chicago Med,US,1,1885376,Iymen Chehade,2,False,Prince Faisal,other,2016,2
+135,Chicago Med,US,1,1885378,Cherie Cordero,1,False,Nurse Julia,nurse,2016,2
+136,Chicago Med,US,1,1885380,Mahmoud Alshaikh,2,False,Bodyguard,other,2016,2
+137,Chicago Med,US,1,182272,Cynthia Addai-Robinson,1,False,Dr. Vicki Glass,doctor,2016,2
+138,Chicago Med,US,1,1315752,Eva Kaminsky,1,False,Jennifer Baker,other,2016,2
+139,Chicago Med,US,1,1696150,Ross Kimball,2,False,Sal Baker,other,2016,2
+140,Chicago Med,US,1,1860870,Moira Hughes,1,False,Bailey,other,2016,2
+141,Chicago Med,US,1,1227552,William Stanford Davis,2,False,Ed Brennan,other,2016,2
+142,Chicago Med,US,1,107502,Angel Desai,1,False,Olivia Gray,other,2016,2
+143,Chicago Med,US,1,1724937,Courtney Rioux,1,False,Paramedic #1,medic,2016,2
+144,Chicago Med,US,1,58058,Lochlyn Munro,2,False,Jack Cooper,other,2016,2
+145,Chicago Med,US,1,1847297,Katherine Keberlein,1,False,Joan Cooper,other,2016,2
+146,Chicago Med,US,1,1173760,Tosin  Morohunfola,2,False,Dr. Vorspan,doctor,2016,2
+147,Chicago Med,US,1,1847439,Patti Murin,1,False,Pathologist,other,2016,2
+148,Chicago Med,US,1,1274253,Chance Bone,2,False,Tim Anderson,other,2016,2
+149,Chicago Med,US,1,1885393,Damian Conrad-Davis,2,False,Bret 'Bear' Cooper,other,2016,2
+150,Chicago Med,US,1,1706265,Antonio Polk,2,False,Ray Mosconi,other,2016,2
+151,Chicago Med,US,1,1192167,Scott Allen Luke,2,False,Bill (Scout),other,2016,2
+152,Chicago Med,US,1,1554324,Tyler Riley,2,False,Navy Recruit (uncredited),other,2016,2
+153,Chicago Med,US,1,33835,Tim Hopper,2,False,Ken Gallagher,other,2016,2
+154,Chicago Med,US,1,1885400,Nate Burger,2,False,Mr. Kane,other,2016,2
+155,Chicago Med,US,1,1885402,Nora Fiffer,1,False,Mrs. Kane,other,2016,2
+156,Chicago Med,US,1,1214447,Michael Harney,2,False,Dr. Ron Unger,doctor,2016,2
+157,Chicago Med,US,1,1885403,Aubree Young,1,False,Shiloh Kane,other,2016,2
+158,Chicago Med,US,1,1885404,Matthew Collins,2,False,Jim,other,2016,2
+159,Chicago Med,US,1,1885408,Sandra Marquez,1,False,Alicia Rivera,other,2016,2
+160,Chicago Med,US,1,1885409,Kristen Magee,1,False,Nurse Cindy,nurse,2016,2
+161,Chicago Med,US,1,1885411,Eric Parks,2,False,Elias,other,2016,2
+162,Chicago Med,US,1,1885412,London Rome,2,False,Dustin,other,2016,2
+163,Chicago Med,US,1,35520,Cheryl Hamada,1,False,School Principal,other,2016,2
+164,Chicago Med,US,1,1885414,Kalia Young,1,False,Molly,other,2016,2
+165,Chicago Med,US,1,223124,Ellen Wroe,1,False,Ms. Fisher,other,2016,3
+166,Chicago Med,US,1,1210967,Stephen O'Reilly,2,False,Kevin Dietrich,other,2016,3
+167,Chicago Med,US,1,1885511,Tiffany Oglesby,1,False,CPD Officer Kate Windham,other,2016,3
+168,Chicago Med,US,1,1394354,Thomas Gaitsch,2,False,Stan,other,2016,3
+169,Chicago Med,US,1,1885514,Michael Gideon Sherry,2,False,Trevor Woodsen,other,2016,3
+170,Chicago Med,US,1,1862263,Melissa Canciller,1,False,PICU Nurse,nurse,2016,3
+171,Chicago Med,US,1,1885516,Shantease Cartman,1,False,Guard,other,2016,3
+172,Chicago Med,US,1,1885517,Corrbette Pasko,1,False,Cellmate,other,2016,3
+173,Chicago Med,US,1,1885518,France Jean-Baptiste,1,False,Manic,other,2016,3
+174,Chicago Med,US,1,37203,Jason Beghe,2,False,Hank Voight,other,2016,3
+175,Chicago Med,US,1,4496,Nora Dunn,1,False,Dr. Lonnie Richardson,doctor,2016,3
+176,Chicago Med,US,1,1847426,Deron J. Powell,2,False,Tate Jenkins,other,2016,4
+177,Chicago Med,US,1,995514,Michael Nathanson,2,False,Mr. Tacker,other,2016,4
+178,Chicago Med,US,1,1577617,Jason Bradley,2,False,Mr. Patrick,other,2016,4
+179,Chicago Med,US,1,1860866,Mace Montgomery Miskel,2,False,Eric Jenkins,other,2016,4
+180,Chicago Med,US,1,1197749,Jeff Blim,2,False,Jerry,other,2016,4
+181,Chicago Med,US,1,1860874,Olivia D. Dawson,1,False,Chaplain,other,2016,4
+182,Chicago Med,US,1,1860879,Johnny Lim,2,False,Med Student,other,2016,4
+183,Chicago Med,US,1,1860881,Kelli Victoria Scarangello,1,False,Lisa Patrick,other,2016,4
+184,Chicago Med,US,1,1220768,Quincy Dunn-Baker,2,False,Aaron Taylor,other,2016,4
+185,Chicago Med,US,1,1266326,Michelle Mueller,1,False,Nedra Taylor,doctor,2016,4
+186,Chicago Med,US,1,1851579,Collin Jarvis,2,False,Griffin Taylor,other,2016,4
+187,Chicago Med,US,1,1586715,Shane Patrick Kearns,2,False,Levi Coleman,other,2016,4
+188,Chicago Med,US,1,1863996,Graham Carlson,2,False,Bo Taylor,other,2016,4
+189,Chicago Med,US,1,379541,Phil Ridarelli,2,False,Mr. Kellogg,other,2016,4
+190,Chicago Med,US,1,1103780,Clare O'Connor,1,False,Skyler Vance,other,2016,4
+191,Chicago Med,US,1,1863999,Patti Balsis,1,False,Skyler's Mother,other,2016,4
+192,Chicago Med,US,1,1782455,Karen Aldridge,1,False,Dr. Kendra Perrington,doctor,2016,4
+193,Chicago Med,US,1,235782,Vanessa Martinez,1,False,Neela Desai,other,2016,4
+194,Chicago Med,US,1,1512006,Robert Eli,2,False,Brian Tucker,other,2016,4
+195,Chicago Med,US,1,1868637,Taylor Marie Blim,1,False,Ellie Newman,other,2016,4
+196,Chicago Med,US,1,1868639,Walter Briggs,2,False,Andrew Tucker,doctor,2016,4
+197,Chicago Med,US,1,1868641,Jeanne T. Arrigo,1,False,Ms. Allen,other,2016,4
+198,Chicago Med,US,1,1868642,Aurora Adachi-Winter,1,False,Margaret,other,2016,4
+199,Chicago Med,US,1,1868643,Adrian Jumaane Hill,2,False,Basketball Player,other,2016,4
+200,Chicago Med,US,1,1868644,Michael-Andre Smith,2,False,Tate's Friend,other,2016,4
+201,Chicago Med,US,1,1868645,Deverin Deonte,2,False,Tate's Friend #2,other,2016,4
+202,Chicago Med,US,1,18261,Jayne Atkinson,1,False,Laura Clay,other,2016,5
+203,Chicago Med,US,1,162754,Francis Guinan,2,False,Nathan Clay,other,2016,5
+204,Chicago Med,US,1,1570306,McKenzie Chinn,1,False,Tara,other,2016,5
+205,Chicago Med,US,1,1868646,Ed Gass,2,False,Martin,other,2016,5
+206,Chicago Med,US,1,1868647,Si Osborne,2,False,Paul,other,2016,5
+207,Chicago Med,US,1,1868648,Hannaha Hall,1,False,Dana,other,2016,5
+208,Chicago Med,US,1,1868650,Emjoy Gavino,1,False,Dr. Harper,doctor,2016,5
+209,Chicago Med,US,1,1868651,C. Anthony Jackson,2,False,Earl the Guard,other,2016,5
+210,Chicago Med,US,1,1549307,Susan Fay,1,False,Mabel,other,2016,5
+211,Chicago Med,US,1,35516,Howard Hesseman,2,False,Clyde Glickman,other,2016,5
+212,Chicago Med,US,1,8792,Lynn Cohen,1,False,Rose Wechsler,other,2016,5
+213,Chicago Med,US,1,1884687,Rachel Sledd,1,False,Mrs. McCormick,other,2016,5
+214,Chicago Med,US,1,1884688,Brian P. Weddington,2,False,Frank McCormick,other,2016,5
+215,Chicago Med,US,1,11805,Frank Whaley,2,False,Chuck Gleason,other,2016,5
+216,Chicago Med,US,1,76988,Mary Ann Thebus,1,False,Wanda,other,2016,5
+217,Chicago Med,US,1,1884691,Curtis M. Jackson,2,False,Clerk,other,2016,5
+218,Chicago Med,US,1,212689,Jeff Hephner,2,False,Jeff Clarke,other,2016,5
+219,Chicago Med,US,1,1884693,Brookelyn Hebert,1,False,Shannon Thomas,other,2016,5
+220,Chicago Med,US,1,1884695,Brett Schneider,2,False,Nick Thomas,other,2016,5
+221,Chicago Med,US,1,109291,Leena Kurishingal,1,False,Dr. Abby Patel,doctor,2016,5
+222,Chicago Med,US,1,1884700,Ryan Semmelmayer,2,False,Dan Finley,other,2016,5
+223,Chicago Med,US,1,1884701,Drew Schad,2,False,Ty,other,2016,5
+224,Chicago Med,US,2,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2016,9
+225,Chicago Med,US,2,116278,Brian Tee,2,True,Dr. Ethan Choi,doctor,2016,9
+226,Chicago Med,US,2,60033,Yaya DaCosta,1,True,April Sexton,doctor (probably),2016,9
+227,Chicago Med,US,2,33296,Torrey DeVitto,1,True,Dr. Natalie Manning,doctor,2016,9
+228,Chicago Med,US,2,1094635,Rachel DiPillo,1,True,Sarah Reese,doctor (probably),2016,9
+229,Chicago Med,US,2,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2016,9
+230,Chicago Med,US,2,1093632,Colin Donnell,2,True,Dr. Connor Rhodes,doctor,2016,9
+231,Chicago Med,US,2,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2016,9
+232,Chicago Med,US,2,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2016,9
+233,Chicago Med,US,2,212689,Jeff Hephner,2,False,Jeff Clarke,other,2016,9
+234,Chicago Med,US,2,1847426,Deron J. Powell,2,False,Tate Jenkins,other,2016,9
+235,Chicago Med,US,2,1782455,Karen Aldridge,1,False,Dr. Kendra Perrington,doctor,2016,9
+236,Chicago Med,US,2,1884702,Cordelia Dewdney,1,False,Cheryl Martin,other,2016,9
+237,Chicago Med,US,2,1884703,KiKi Layne,1,False,Emmie Miles,other,2016,9
+238,Chicago Med,US,2,1884704,Chuck Quinn,2,False,Ray,other,2016,9
+239,Chicago Med,US,2,228364,Toya Turner,1,False,Jayna Miles,other,2016,9
+240,Chicago Med,US,2,1884710,Chris Brickhouse,2,False,Greg Allen,other,2016,9
+241,Chicago Med,US,2,1884712,Alex Weisman,2,False,Paramedic Chout,medic,2016,9
+242,Chicago Med,US,2,1803745,Janelle Snow,1,False,Dr. Lee,doctor,2016,9
+243,Chicago Med,US,2,1884720,Erin Elizabeth,1,False,Orderly,other,2016,9
+244,Chicago Med,US,2,1725462,Jurgen Hooper,2,False,Jason Wheeler,other,2016,9
+245,Chicago Med,US,2,1884723,Scarlett Wand,1,False,Anna Charles,other,2016,9
+246,Chicago Med,US,2,1437564,Peter Mark Kendall,2,False,Joey Thomas,other,2016,9
+247,Chicago Med,US,2,1563211,Roland Buck III,2,False,Noah Sexton,other,2016,9
+248,Chicago Med,US,2,5377,Ato Essandoh,2,False,Dr. Isidore Latham,doctor,2016,9
+249,Chicago Med,US,2,1860871,Amanda Marcheschi,1,False,Nurse Dina,nurse,2016,9
+250,Chicago Med,US,2,1724937,Courtney Rioux,1,False,Paramedic Courtney,medic,2016,9
+251,Chicago Med,US,2,1719941,Lorena Diaz,1,False,Nurse Doris,nurse,2016,9
+252,Chicago Med,US,2,1847439,Patti Murin,1,False,Dr. Nina Shore,doctor,2016,9
+253,Chicago Med,US,2,1154231,Tonray Ho,1,False,Nurse Leah,nurse,2016,9
+254,Chicago Med,US,2,85142,Paul Ben-Victor,2,False,Mr. McGregor,other,2016,9
+255,Chicago Med,US,2,1472892,Alex Hernandez,2,False,Javier,other,2016,9
+256,Chicago Med,US,2,479206,Demetria McKinney,1,False,Mrs. James,other,2016,9
+257,Chicago Med,US,2,1467376,Jennefer Folsom,1,False,Gayle,other,2016,9
+258,Chicago Med,US,2,1860839,Eric C. Lynch,2,False,Andre,doctor,2016,9
+259,Chicago Med,US,2,1860841,Collin Geraghty,2,False,John,other,2016,9
+260,Chicago Med,US,2,1860844,Shay Rose Aljadeff,1,False,Dr. Leah Bardovi,doctor,2016,9
+261,Chicago Med,US,2,1725460,Saurabh Pande,2,False,Pathology Resident Mark,other,2016,9
+262,Chicago Med,US,2,592322,Sadieh Rifai,1,False,Nurse Deb,nurse,2016,9
+263,Chicago Med,US,2,1653707,Maynor Alvarado,2,False,Marco,other,2016,9
+264,Chicago Med,US,2,1860852,Skarlett Beverly,1,False,Joy,other,2016,9
+265,Chicago Med,US,2,1860853,Anderson Hayes,2,False,Bobby,other,2016,9
+266,Chicago Med,US,2,1497919,Alexandra Grey,1,False,Denise Lockwood,other,2016,10
+267,Chicago Med,US,2,1885532,Marie Weiss,1,False,Amanda Kendrick-Dobbs,doctor,2016,10
+268,Chicago Med,US,2,1885537,Brian Grey,2,False,Mr. Dobbs,other,2016,10
+269,Chicago Med,US,2,1885538,Kanya Iwana,1,False,Farah,other,2016,10
+270,Chicago Med,US,2,1885540,James Houton,2,False,Glenn Simon,other,2016,10
+271,Chicago Med,US,2,1885543,Reggie Luis Ruivivar,2,False,Patient / Pitopang,other,2016,10
+272,Chicago Med,US,2,1173760,Tosin  Morohunfola,2,False,Dr. Allen Vorspan,doctor,2016,10
+273,Chicago Med,US,2,1674934,Norman Yap,2,False,Translator,other,2016,10
+274,Chicago Med,US,2,1885146,Audrey Morgan,1,False,Grandma Rose,other,2016,10
+275,Chicago Med,US,2,1885558,Herb Porter,2,False,Uncle Miles,other,2016,10
+276,Chicago Med,US,2,1371298,Kara Killmer,1,False,Sylvie Brett,other,2016,10
+277,Chicago Med,US,2,1885539,Susie McMonagle,1,False,Elaine Simon,other,2016,10
+278,Chicago Med,US,2,1860878,Cesar Jaime,2,False,Paramedic Cesar,medic,2016,10
+279,Chicago Med,US,2,221600,Monica Raymund,1,False,Gabriela Dawson,other,2016,10
+280,Chicago Med,US,2,1611048,Nick Marini,2,False,Danny Jones,other,2016,10
+281,Chicago Med,US,2,76795,Chris Johnson,2,False,Doug Kline,other,2016,10
+282,Chicago Med,US,2,36170,Daniel J. Travanti,2,False,Edward Hall,other,2016,10
+283,Chicago Med,US,2,1886237,Jeffrey A. Blockson,2,False,Erik Tillman,other,2016,10
+284,Chicago Med,US,2,1593037,Abigail Boucher,1,False,Elizabeth Kline,other,2016,10
+285,Chicago Med,US,2,1886239,Alyssa Freeman,1,False,Hayley Kline,other,2016,10
+286,Chicago Med,US,2,1886240,Victor Holstein,2,False,Tom Hall,other,2016,10
+287,Chicago Med,US,2,1102310,Iris Kohl,1,False,Laurie Kirmser,other,2016,10
+288,Chicago Med,US,2,1886245,Tiffany Scott,1,False,Mrs. Jones,other,2016,10
+289,Chicago Med,US,2,1886247,Lauren M. Vance,1,False,Hospital Staff,other,2016,10
+290,Chicago Med,US,2,202952,Mekia Cox,1,False,Dr. Robin Charles,doctor,2016,10
+291,Chicago Med,US,2,1174795,Marc Grapey,2,False,Peter Kalmick,other,2016,10
+292,Chicago Med,US,2,52462,Betty Buckley,1,False,Olga Barlow,other,2016,10
+293,Chicago Med,US,2,20974,Anita Gillette,1,False,Ruth,other,2016,10
+294,Chicago Med,US,2,106730,Branscombe Richmond,2,False,Keoni,other,2016,10
+295,Chicago Med,US,2,1863566,Tai'isha Davis,1,False,Michelle Kastpen,other,2016,10
+296,Chicago Med,US,2,13550,Elias Koteas,2,False,Alvin Olinsky,other,2016,10
+297,Chicago Med,US,2,1887133,Maddi Clarke,1,False,Phoebe,other,2016,10
+298,Chicago Med,US,2,1191517,Steve Casillas,2,False,Ignacio,other,2016,10
+299,Chicago Med,US,2,1887134,Kayla Carter,1,False,Lana,other,2016,10
+300,Chicago Med,US,2,1887135,Tony Lawry,2,False,Driver,doctor,2016,10
+301,Chicago Med,US,2,1887136,Kara Davidson,1,False,Woman,other,2016,10
+302,Chicago Med,US,2,1887137,Steve Lords,2,False,Puking Man,other,2016,10
+303,Chicago Med,US,2,1887132,Lawrence Grimm,2,False,Lawrence Dayle,other,2016,10
+304,Chicago Med,US,2,1724934,Dennis Bisto,2,False,Counter Guy,other,2016,10
+305,Chicago Med,US,2,54830,Sophia Bush,1,False,Erin Lindsay,other,2016,10
+306,Chicago Med,US,2,1862263,Melissa Canciller,1,False,PICU Nurse,nurse,2016,10
+307,Chicago Med,US,2,1887817,Haley Brooke Walker,1,False,Shannon Fisher,other,2016,10
+308,Chicago Med,US,2,1887820,Mildred Marie Langford,1,False,Cynthia Fisher,other,2016,10
+309,Chicago Med,US,2,1887824,Paul Grondy,2,False,Bart Logan,other,2016,10
+310,Chicago Med,US,2,1887826,Jack Hickey,2,False,Henry Collins,other,2016,10
+311,Chicago Med,US,2,1887827,Jean Moran,1,False,Dr. Bella Rowan,doctor,2016,10
+312,Chicago Med,US,2,1887828,Karissa Murrell Myers,1,False,Candace Leighton,other,2016,10
+313,Chicago Med,US,2,1887829,Armando Carlo IV,2,False,Kyle,other,2016,10
+314,Chicago Med,US,2,1863994,Jeremy Shouldis,2,False,Dr. Marty Peterson,doctor,2016,10
+315,Chicago Med,US,2,1218149,Brennan Brown,2,False,Dr. Sam Abrams,doctor,2016,10
+316,Chicago Med,US,2,15251,Robert Gossett,2,False,Reggie Dixon,other,2016,11
+317,Chicago Med,US,2,1887830,Paloma Nozicka,1,False,Pamela,other,2016,11
+318,Chicago Med,US,2,1854956,Julian Hester,2,False,Eliot,other,2016,11
+319,Chicago Med,US,2,1570285,Kamal Hans,2,False,Dr. Choudry,doctor,2016,11
+320,Chicago Med,US,2,1887839,Torian Miller,2,False,Barista,other,2016,11
+321,Chicago Med,US,2,1868649,Desmond Gray,2,False,Paramedic Desmond,medic,2016,11
+322,Chicago Med,US,2,1570286,Brenda Barrie,1,False,Ms. Goff,other,2016,11
+323,Chicago Med,US,2,2843,Rob Campbell,2,False,Mr. Wallace,other,2016,11
+324,Chicago Med,US,2,1887942,Levenix Riddle,2,False,Ian Vance,other,2016,11
+325,Chicago Med,US,2,1531587,Corey Hendrix,2,False,Jim Vance,other,2016,11
+326,Chicago Med,US,2,1888124,Abby Rose Merrill,1,False,Karrina Goff,other,2016,11
+327,Chicago Med,US,2,1888125,Christopher Popio,2,False,Guard Novak,other,2016,11
+328,Chicago Med,US,2,1888126,Kaiser Ahmed,2,False,Morgue Technician,other,2016,11
+329,Chicago Med,US,2,1888127,Ryan Heindl,2,False,Homeless Man,other,2016,11
+330,Chicago Med,US,2,1574522,Mia Park,1,False,Nurse Beth,nurse,2016,11
+331,Chicago Med,US,2,1011102,Jesse Lee Soffer,2,False,Jay Halstead,other,2016,11
+332,Chicago Med,US,2,4496,Nora Dunn,1,False,Dr. Lonnie Richardson,doctor,2016,11
+333,Chicago Med,US,2,171955,Zabryna Guevara,1,False,Meghan Scott,other,2017,1
+334,Chicago Med,US,2,1416557,Michael William Freeman,2,False,Ricky Wade,other,2017,1
+335,Chicago Med,US,2,1181296,Jaylen Moore,2,False,Aamir Hammad,other,2017,1
+336,Chicago Med,US,2,1326885,Joey Morgan,2,False,Ted Baylor,other,2017,1
+337,Chicago Med,US,2,1352077,Salar Ghajar,2,False,Cyrus Hammad,other,2017,1
+338,Chicago Med,US,2,1888137,Matt Kissane,2,False,Harold Baylor,other,2017,1
+339,Chicago Med,US,2,1560342,Eric Staves,2,False,Ike,other,2017,1
+340,Chicago Med,US,2,1691935,Anish Jethmalani,2,False,Omid Hammad,other,2017,1
+341,Chicago Med,US,2,1888364,Ariana Burks,1,False,Bria Scott,other,2017,1
+342,Chicago Med,US,2,1888366,Elic Bramlett,2,False,Oncologist,other,2017,1
+343,Chicago Med,US,2,1888370,Theresa Ro,1,False,Oncology Nurse,nurse,2017,1
+344,Chicago Med,US,2,1460936,Rula Sirhan Gardenier,1,False,Najla Hammad,other,2017,1
+345,Chicago Med,US,2,1898,Eddie Jemison,2,False,Dr. Stanley Stohl,doctor,2017,1
+346,Chicago Med,US,2,1525164,Tyler Fischer,2,False,Felix Koslow,other,2017,1
+347,Chicago Med,US,2,1438278,Jerod Haynes,2,False,Lt. Darryl Windham,other,2017,1
+348,Chicago Med,US,2,1885511,Tiffany Oglesby,1,False,Kate Windham,other,2017,1
+349,Chicago Med,US,2,1888372,Gavin William Barrett,2,False,Chaplain,other,2017,1
+350,Chicago Med,US,2,1888374,Judi Lee,1,False,Dr. Joann Gray,doctor,2017,1
+351,Chicago Med,US,2,26930,Amy Morton,1,False,Trudy Platt,other,2017,1
+352,Chicago Med,US,2,1889752,Tod Kent,2,False,Radiologist Taylor Stafford,other,2017,1
+353,Chicago Med,US,2,1889754,Justine C. Turner,1,False,Nurse Lucy Barton,nurse,2017,1
+354,Chicago Med,US,2,1546674,Nikea Gamby-Turner,1,False,Nurse Joanne Richmond,nurse,2017,1
+355,Chicago Med,US,2,1889755,Alex Moss,2,False,Resident Morgan Conway,other,2017,1
+356,Chicago Med,US,2,1889758,Keano Roberts,2,False,Rudy Hewitt,other,2017,1
+357,Chicago Med,US,2,1889759,Gina Taliaferro,1,False,Dr. Alex Weyland,doctor,2017,1
+358,Chicago Med,US,2,1889760,Marzena Bukowska,1,False,Ida,other,2017,1
+359,Chicago Med,US,2,1889761,Isabel Liss,1,False,Sonya,other,2017,1
+360,Chicago Med,US,2,1889766,Kelsey Shipley,1,False,Woman #1,other,2017,1
+361,Chicago Med,US,2,1889767,Vanessa Flores,1,False,Woman #2,other,2017,1
+362,Chicago Med,US,2,1889769,Ben Chang,2,False,Mr. Jian Hseih,other,2017,1
+363,Chicago Med,US,2,1889770,Colin Reeves,2,False,Mr. Vernon Woodfield,other,2017,1
+364,Chicago Med,US,2,1776723,Kristin Collins,1,False,Rudy's Mom,other,2017,1
+365,Chicago Med,US,2,1782469,Duke Czlonka,2,False,Rudy's Dad,other,2017,1
+366,Chicago Med,US,2,1889773,Talia Payomo,1,False,Janna Bolton,other,2017,1
+367,Chicago Med,US,2,1889774,Sam J. Frentzas,2,False,Son,other,2017,1
+368,Chicago Med,US,2,1889753,Carlos Rogelio Diaz,2,False,Nurse Hank,nurse,2017,1
+369,Chicago Med,US,2,928135,Rosie Benton,1,False,Laura Green,other,2017,2
+370,Chicago Med,US,2,1893140,Caroline Heffernan,1,False,Ariel Green,other,2017,2
+371,Chicago Med,US,2,1893141,Brian McCartney,2,False,Ed Mikulski,other,2017,2
+372,Chicago Med,US,2,1893142,Louis C. Giordano,2,False,Rey Ochoa,other,2017,2
+373,Chicago Med,US,2,98401,Gino Montesinos,2,False,Leo Ochoa,other,2017,2
+374,Chicago Med,US,2,1187730,Sean Bradley,2,False,Lyle,other,2017,2
+375,Chicago Med,US,2,1894141,Alex Dauphin,1,False,Nurse Stacy Finn,nurse,2017,2
+376,Chicago Med,US,2,1894142,Maurice Demus,2,False,Jason Dodd,other,2017,2
+377,Chicago Med,US,2,1894143,Selena Roque,1,False,Becca Dodd,other,2017,2
+378,Chicago Med,US,2,1894144,Melissa Dennis,1,False,Dr. Alyssa Pellino,doctor,2017,2
+379,Chicago Med,US,2,1894138,Arvin Jalandoon,2,False,Paul Deakins,other,2017,2
+380,Chicago Med,US,2,1219831,Julie Ariola,1,False,Ms. Holloway,other,2017,2
+381,Chicago Med,US,2,1894326,Leah Karpel,1,False,Grace Snow,other,2017,2
+382,Chicago Med,US,2,1894327,Connor McNamara,2,False,Mark Scott,other,2017,2
+383,Chicago Med,US,2,1898781,Zach Thomas,2,False,Gabe Moore,other,2017,2
+384,Chicago Med,US,2,1898782,Tommy Lee Johnston,2,False,Mayor Jim Hendricks,doctor,2017,2
+385,Chicago Med,US,2,1549306,Doug MacKechnie,2,False,Mike Evans,other,2017,2
+386,Chicago Med,US,2,1898785,Richard Perez,2,False,Robert,other,2017,2
+387,Chicago Med,US,2,586032,Kristi Engelmann,1,False,Lisa,other,2017,2
+388,Chicago Med,US,2,1898789,John Henry Roberts,2,False,Surgeon #1,doctor,2017,2
+389,Chicago Med,US,2,1586685,Sharon Freedman,1,False,Surgeon #2,doctor,2017,2
+390,Chicago Med,US,2,1898793,Aaron Barker,2,False,Cop,other,2017,2
+391,Chicago Med,US,2,1898795,Andy Lutz,2,False,Bartender,other,2017,2
+392,Chicago Med,US,2,1898796,LaShawn Hazelwood,1,False,Nurse,nurse,2017,2
+393,Chicago Med,US,2,2009012,Cameron Knight,2,False,Adam Moore,other,2017,2
+394,Chicago Med,US,2,1570260,Jodi Kingsley,1,False,Madeline Gastern,other,2017,2
+395,Chicago Med,US,2,138774,Laura Heisler,1,False,Susan Porter,other,2017,2
+396,Chicago Med,US,2,1906250,Scott Morehead,2,False,Jack Kellogg,other,2017,2
+397,Chicago Med,US,2,59180,Erica Hubbard,1,False,Dina Morris,other,2017,2
+398,Chicago Med,US,2,1906569,H.B. Ward,2,False,Rod Winter,other,2017,2
+399,Chicago Med,US,2,1646927,Cyrus Alexander,2,False,Blake Porter,other,2017,2
+400,Chicago Med,US,2,1906570,Tracey Kaplan,1,False,Helene Winter,other,2017,2
+401,Chicago Med,US,2,1514000,Adam Poss,2,False,Paramedic Adam,medic,2017,2
+402,Chicago Med,US,2,1577614,Charlie Babbo,2,False,Benjamin Porter,other,2017,2
+403,Chicago Med,US,2,1906577,Charlie Herman,2,False,Josh Burgin,other,2017,2
+404,Chicago Med,US,2,1906579,Roland Parker,2,False,Bloody Mouth,other,2017,2
+405,Chicago Med,US,2,1906580,Raymond Stumbaugh,2,False,Nurse Travis,nurse,2017,2
+406,Chicago Med,US,2,1906571,Jeri Marshall,1,False,Paramedic Jeri,medic,2017,2
+407,Chicago Med,US,2,1906572,Naima Hebrail Kidjo,1,False,Paramedic Naïma,medic,2017,2
+408,Chicago Med,US,2,1868651,C. Anthony Jackson,2,False,Security Guard Earl,other,2017,2
+409,Chicago Med,US,2,41422,Jesse Spencer,2,False,Matthew Casey,other,2017,2
+410,Chicago Med,US,2,210271,Taylor Kinney,2,False,Kelly Severide,other,2017,2
+411,Chicago Med,US,2,19299,Eamonn Walker,2,False,Wallace Boden,other,2017,2
+412,Chicago Med,US,2,1885247,Bradley Petty,2,False,X-Ray Tech,other,2017,3
+413,Chicago Med,US,2,589098,Ashley Grace,1,False,Melody Sayers,other,2017,3
+414,Chicago Med,US,2,1921140,Joseph Kibler,2,False,Nick,other,2017,3
+415,Chicago Med,US,2,1722989,Samantha Marie Ware,1,False,Julia,other,2017,3
+416,Chicago Med,US,2,1189226,Coburn Goss,0,False,Edward Thompson,other,2017,3
+417,Chicago Med,US,2,1921143,Linda Reiter,1,False,Mrs. Pepper,other,2017,3
+418,Chicago Med,US,2,1624949,Rick Uecker,2,False,Mr. Pepper,other,2017,3
+419,Chicago Med,US,2,1058026,Audi Resendez,1,False,Evelyn Kumer,other,2017,3
+420,Chicago Med,US,2,1921145,Heidi Kurzejka,1,False,Female Reporter #1,other,2017,3
+421,Chicago Med,US,2,1921147,Khnemu Menu-Ra,2,False,Male Reporter,other,2017,3
+422,Chicago Med,US,2,1921148,Edward Williams III,2,False,Male Patient,other,2017,3
+423,Chicago Med,US,2,1473723,Jenny Bacon,1,False,Angela Azen,other,2017,3
+424,Chicago Med,US,2,1502244,Doris Morgado,1,False,Zulmira Céspedes,other,2017,3
+425,Chicago Med,US,2,74227,Morgan Lily,1,False,Nancy Leigh,other,2017,3
+426,Chicago Med,US,2,1921151,Guy Massey,2,False,Dave Azen,other,2017,3
+427,Chicago Med,US,2,1610733,Cara Greene,1,False,Dr. Anita Baker,doctor,2017,3
+428,Chicago Med,US,2,1921154,Isabella Blythe Suarez,1,False,Bruna Cespedes,other,2017,3
+429,Chicago Med,US,2,1921155,Hal Kilgore,2,False,Janitor,other,2017,3
+430,Chicago Med,US,2,1921156,Andrew Brooks,2,False,Tom,other,2017,3
+431,Chicago Med,US,2,1921157,Micaiah Isaiah,1,False,Evelyn,other,2017,3
+432,Chicago Med,US,2,1921158,Becca Hurd,1,False,Teresa Azen,other,2017,3
+433,Chicago Med,US,2,209515,Amanda Leigh Cobb,1,False,Cheryl Banks,other,2017,3
+434,Chicago Med,US,2,1133449,Josh Bywater,2,False,David Banks,other,2017,3
+435,Chicago Med,US,2,68527,William R. Moses,2,False,Sean Adams,other,2017,3
+436,Chicago Med,US,2,1316478,Jason Gerhardt,2,False,Mitch Jacobs,other,2017,3
+437,Chicago Med,US,2,1360033,Lia D. Mortensen,1,False,Mrs. Adams,other,2017,3
+438,Chicago Med,US,2,1283943,Joe Cipriano,2,False,Brandon Jacobs,other,2017,3
+439,Chicago Med,US,2,122681,Casey Tutton,2,False,Nurse Monique,nurse,2017,3
+440,Chicago Med,US,2,31647,Garcelle Beauvais,1,False,Lyla Dempsey,other,2017,4
+441,Chicago Med,US,2,37937,Gregory Alan Williams,2,False,Bert Goodwin,other,2017,4
+442,Chicago Med,US,2,1600078,Lenne Klingaman,0,False,Emilia Bohlen,other,2017,4
+443,Chicago Med,US,2,98280,Joey Luthman,2,False,Elliot Gallagher,other,2017,4
+444,Chicago Med,US,2,2006584,Cassie Beck,1,False,Gayle Parks,other,2017,4
+445,Chicago Med,US,2,2854440,Michael McCracken,2,False,Dr. Joseph Harper,doctor,2017,4
+446,Chicago Med,US,2,1648774,Alana Arenas,1,False,Nicole Jansen,other,2017,5
+447,Chicago Med,US,2,1230687,Jennifer Landon,1,False,Janelle Nicholson,other,2017,5
+448,Chicago Med,US,2,1701851,Norma Kuhling,1,False,Dr. Ava Bekker,doctor,2017,5
+449,Chicago Med,US,2,1855064,Paola Sanchez Abreu,1,False,Sammie Sullivan,other,2017,5
+450,Chicago Med,US,3,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2017,11
+451,Chicago Med,US,3,60033,Yaya DaCosta,1,True,April Sexton,doctor (probably),2017,11
+452,Chicago Med,US,3,116278,Brian Tee,2,True,Dr. Ethan Choi,doctor,2017,11
+453,Chicago Med,US,3,33296,Torrey DeVitto,1,True,Dr. Natalie Manning,doctor,2017,11
+454,Chicago Med,US,3,1094635,Rachel DiPillo,1,True,Sarah Reese,doctor (probably),2017,11
+455,Chicago Med,US,3,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2017,11
+456,Chicago Med,US,3,1093632,Colin Donnell,2,True,Dr. Connor Rhodes,doctor,2017,11
+457,Chicago Med,US,3,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2017,11
+458,Chicago Med,US,3,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2017,11
+459,Chicago Med,US,3,1701851,Norma Kuhling,1,True,Dr. Ava Bekker,doctor,2017,11
+460,Chicago Med,US,3,180921,Demore Barnes,2,False,Marshall Matthews,other,2017,11
+461,Chicago Med,US,3,100567,Kerry O'Malley,1,False,Judith Cutler,other,2017,11
+462,Chicago Med,US,3,122681,Casey Tutton,2,False,Nurse Monique,nurse,2017,11
+463,Chicago Med,US,3,202952,Mekia Cox,1,False,Dr. Robin Charles,doctor,2017,11
+464,Chicago Med,US,3,1563211,Roland Buck III,2,False,Noah Sexton,other,2017,11
+465,Chicago Med,US,3,1898,Eddie Jemison,2,False,Dr. Stanley Stohl,doctor,2017,11
+466,Chicago Med,US,3,5377,Ato Essandoh,2,False,Dr. Isidore Latham,doctor,2017,11
+467,Chicago Med,US,3,1371298,Kara Killmer,1,False,Sylvie Brett,other,2017,11
+468,Chicago Med,US,3,1889753,Carlos Rogelio Diaz,2,False,Nurse Hank,nurse,2017,11
+469,Chicago Med,US,3,2068773,Connie Foster,1,False,Marge Cooper,other,2017,12
+470,Chicago Med,US,3,2553214,Donna Jay Fulks,1,False,CDC Lt. Commander Ellen Hart,other,2017,12
+471,Chicago Med,US,3,1977939,Natalie Loop,1,False,Denise,other,2018,1
+472,Chicago Med,US,3,1788775,Alixandra von Renner,1,False,Judy,other,2018,1
+473,Chicago Med,US,3,37937,Gregory Alan Williams,2,False,Bert Goodwin,other,2018,1
+474,Chicago Med,US,3,67602,Corbin Bleu,2,False,Tommy,other,2018,1
+475,Chicago Med,US,3,2817419,Christopher Wayland Jones,2,False,Male Pedestrian,other,2018,1
+476,Chicago Med,US,3,1981044,Sophie Thatcher,1,False,Deb,other,2018,3
+477,Chicago Med,US,3,1467220,Daniel Kyri,2,False,Lane Tucker,other,2018,4
+478,Chicago Med,US,3,3018036,Monica Orozco,1,False,Dr. Michelle Rios,doctor,2018,4
+479,Chicago Med,US,3,2053704,Leigh Foster,2,False,Mr. Parks,other,2018,4
+480,Chicago Med,US,3,1806227,Jessie Pinnick,1,False,Tracy,other,2018,5
+481,Chicago Med,US,3,117091,Heather Headley,1,False,Gwen Garrett,other,2018,5
+482,Chicago Med,US,4,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2018,9
+483,Chicago Med,US,4,60033,Yaya DaCosta,1,True,April Sexton,doctor (probably),2018,9
+484,Chicago Med,US,4,116278,Brian Tee,2,True,Dr. Ethan Choi,doctor,2018,9
+485,Chicago Med,US,4,33296,Torrey DeVitto,1,True,Dr. Natalie Manning,doctor,2018,9
+486,Chicago Med,US,4,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2018,9
+487,Chicago Med,US,4,1093632,Colin Donnell,2,True,Dr. Connor Rhodes,doctor,2018,9
+488,Chicago Med,US,4,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2018,9
+489,Chicago Med,US,4,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2018,9
+490,Chicago Med,US,4,1701851,Norma Kuhling,1,True,Dr. Ava Bekker,doctor,2018,9
+491,Chicago Med,US,4,1094635,Rachel DiPillo,1,False,Sarah Reese,other,2018,9
+492,Chicago Med,US,4,1224256,Michel Gill,2,False,Robert Haywood,other,2018,9
+493,Chicago Med,US,4,1514397,Raquel McPeek Rodriguez,1,False,Bonnie Rush,other,2018,9
+494,Chicago Med,US,4,2409404,James Caverly,2,False,Peter Rush,other,2018,9
+495,Chicago Med,US,4,1396309,David Parkes,2,False,Barry Lindheim,other,2018,9
+496,Chicago Med,US,4,2409562,Kat Bramley,1,False,Linda Keyes,other,2018,9
+497,Chicago Med,US,4,2409563,Cory Goodrich,1,False,Helen Moore,other,2018,9
+498,Chicago Med,US,4,2259610,Spenser Stokes,2,False,Trevor Keyes,other,2018,9
+499,Chicago Med,US,4,2409566,Lyle Miller,2,False,Norris Jackson,other,2018,9
+500,Chicago Med,US,4,1153612,Randy Steinmeyer,2,False,Detective Miller,other,2018,9
+501,Chicago Med,US,4,2153344,Andrew Jessop,2,False,Waiter,other,2018,9
+502,Chicago Med,US,4,2409568,Joseph Cucci,2,False,Valet,other,2018,9
+503,Chicago Med,US,4,2409569,Allison Black,1,False,Sue Marshall,other,2018,9
+504,Chicago Med,US,4,1320258,Rob Gleeson,2,False,Resident,other,2018,9
+505,Chicago Med,US,4,144279,Arden Cho,1,False,Emily,other,2018,9
+506,Chicago Med,US,4,87956,D.W. Moffett,2,False,Cornelius Rhodes,other,2018,9
+507,Chicago Med,US,4,2409403,Colby Lewis,2,False,Terry McNeal,other,2018,9
+508,Chicago Med,US,4,122681,Casey Tutton,2,False,Nurse Monique,nurse,2018,9
+509,Chicago Med,US,4,1551382,Molly Bernard,1,False,Elsa Curry,other,2018,9
+510,Chicago Med,US,4,2409561,Gail Shapiro,1,False,Nurse Belinda,nurse,2018,9
+511,Chicago Med,US,4,1563211,Roland Buck III,2,False,Noah Sexton,other,2018,9
+512,Chicago Med,US,4,1898,Eddie Jemison,2,False,Dr. Stanley Stohl,doctor,2018,9
+513,Chicago Med,US,4,117091,Heather Headley,1,False,Gwen Garrett,other,2018,9
+514,Chicago Med,US,4,5377,Ato Essandoh,2,False,Dr. Isidore Latham,doctor,2018,9
+515,Chicago Med,US,4,1371298,Kara Killmer,1,False,Sylvie Brett,other,2018,9
+516,Chicago Med,US,4,2409386,Nate Santana,2,False,Dr. James Lanik,doctor,2018,9
+517,Chicago Med,US,4,1724937,Courtney Rioux,1,False,Paramedic Courtney,medic,2018,9
+518,Chicago Med,US,4,1868649,Desmond Gray,2,False,Paramedic Desmond,medic,2018,9
+519,Chicago Med,US,4,150672,Yuriy Sardarov,2,False,Brian Zvonecek,other,2018,10
+520,Chicago Med,US,4,36091,Christian Stolte,2,False,Randall McHolland,other,2018,10
+521,Chicago Med,US,4,1525940,Miranda Rae Mayo,1,False,Stella Kidd,other,2018,10
+522,Chicago Med,US,4,1921209,Paula Jon DeRose,1,False,Leslie Scott,other,2018,10
+523,Chicago Med,US,4,1970717,Adam Jacobs,2,False,Ryan Scott,other,2018,10
+524,Chicago Med,US,4,93228,Louis Herthum,2,False,Pat Halstead,other,2018,10
+525,Chicago Med,US,4,2409390,Fernando del Cuadro,2,False,Distinctive Man,other,2018,10
+526,Chicago Med,US,4,2409391,Geneva Maccarone,1,False,Jane Doe,other,2018,10
+527,Chicago Med,US,4,2409392,Marie Elena Cohen,1,False,Blair Scott,other,2018,10
+528,Chicago Med,US,4,2409393,Keenan Browder,2,False,Security Guard Nate,other,2018,10
+529,Chicago Med,US,4,2409394,Priya Mohanty,1,False,Female Patient,other,2018,10
+530,Chicago Med,US,4,2409395,Barbara Blomquist,1,False,Distraught Woman,other,2018,10
+531,Chicago Med,US,4,1898796,LaShawn Hazelwood,1,False,Nurse #1,nurse,2018,10
+532,Chicago Med,US,4,2409396,Angel Preston,1,False,Nurse #2,nurse,2018,10
+533,Chicago Med,US,4,1154231,Tonray Ho,1,False,Leah,other,2018,10
+534,Chicago Med,US,4,1868651,C. Anthony Jackson,2,False,Security Guard Earl,other,2018,10
+535,Chicago Med,US,4,1368157,Joe Minoso,2,False,Joe Cruz,other,2018,10
+536,Chicago Med,US,4,41422,Jesse Spencer,2,False,Matthew Casey,other,2018,10
+537,Chicago Med,US,4,27552,David Eigenberg,2,False,Christopher Herrmann,other,2018,10
+538,Chicago Med,US,4,210271,Taylor Kinney,2,False,Kelly Severide,other,2018,10
+539,Chicago Med,US,4,1011102,Jesse Lee Soffer,2,False,Jay Halstead,other,2018,10
+540,Chicago Med,US,4,1256126,Randy Flagler,2,False,Capp,other,2018,10
+541,Chicago Med,US,4,1719941,Lorena Diaz,1,False,Nurse Doris,nurse,2018,10
+542,Chicago Med,US,4,1863994,Jeremy Shouldis,2,False,Dr. Marty Peterson,doctor,2018,10
+543,Chicago Med,US,4,1218149,Brennan Brown,2,False,Dr. Sam Abrams,doctor,2018,10
+544,Chicago Med,US,4,1437564,Peter Mark Kendall,2,False,Joey Thomas,other,2018,10
+545,Chicago Med,US,4,1217650,Bess Rous,1,False,Lisa Harris,other,2018,10
+546,Chicago Med,US,4,1563458,Brian King,2,False,Matt Harris,other,2018,10
+547,Chicago Med,US,4,1188192,Dan Waller,2,False,Chris Davis,other,2018,10
+548,Chicago Med,US,4,1494515,Sarai Rodriguez,1,False,Nurse Denise Valdez,nurse,2018,10
+549,Chicago Med,US,4,2007516,Glenn Harston,2,False,Bill Nevins,other,2018,10
+550,Chicago Med,US,4,2451805,Kayden Alexander Koshelev,2,False,Ben Davis,other,2018,10
+551,Chicago Med,US,4,2451808,Kroydell Galima,2,False,Radiology Tech Gene Pineda,other,2018,10
+552,Chicago Med,US,4,2451810,Hugh Callaly,2,False,Mr. Donovan,other,2018,10
+553,Chicago Med,US,4,586605,Kathleen Lawlor,1,False,Mrs. Donovan,other,2018,10
+554,Chicago Med,US,4,2451812,Brian Noonan,2,False,Crony,other,2018,10
+555,Chicago Med,US,4,2451815,William Eric Bramlett,2,False,Piano Teacher,other,2018,10
+556,Chicago Med,US,4,1888366,Elic Bramlett,2,False,Drinking Bud,doctor,2018,10
+557,Chicago Med,US,4,2451817,Ron Haynes,2,False,Police Officer,other,2018,10
+558,Chicago Med,US,4,1450212,Ron E. Rains,2,False,Father Brady,other,2018,10
+559,Chicago Med,US,4,155825,Dennis Cockrum,2,False,Ray Burke,other,2018,10
+560,Chicago Med,US,4,11516,Devin Ratray,2,False,Tommy Burke,other,2018,10
+561,Chicago Med,US,4,2062605,Adam Petchel,2,False,Tim Burke,other,2018,10
+562,Chicago Med,US,4,1100549,Marina Squerciati,1,False,Kim Burgess,other,2018,10
+563,Chicago Med,US,4,1860871,Amanda Marcheschi,1,False,Nurse Dina,nurse,2018,10
+564,Chicago Med,US,4,1945055,Filipe Valle Costa,2,False,Manny Calderon,other,2018,10
+565,Chicago Med,US,4,1731341,Kayli Carter,1,False,Tara,other,2018,10
+566,Chicago Med,US,4,2451835,Peggy Jo Jacobs,1,False,Brenna McDouglas,other,2018,10
+567,Chicago Med,US,4,1696238,Cruz Gonzalez-Cadel,1,False,Linda Harper,other,2018,10
+568,Chicago Med,US,4,1691946,Keith D. Gallagher,2,False,James Harper,other,2018,10
+569,Chicago Med,US,4,2452491,Tyler Gabrielle Brown,1,False,Photographer,other,2018,10
+570,Chicago Med,US,4,1844390,Greg Poljacik,2,False,ICE Agent #1,other,2018,10
+571,Chicago Med,US,4,2452493,David Goodloe,2,False,ICE Agent #2,other,2018,10
+572,Chicago Med,US,4,164380,C.S. Lee,2,False,Bernard Kim,other,2018,10
+573,Chicago Med,US,4,1906572,Naima Hebrail Kidjo,1,False,Paramedic Naïma,medic,2018,10
+574,Chicago Med,US,4,2452488,Curlie Curry,2,False,Nurse Curlie,nurse,2018,10
+575,Chicago Med,US,4,1574522,Mia Park,1,False,Nurse Beth,nurse,2018,10
+576,Chicago Med,US,4,37203,Jason Beghe,2,False,Hank Voight,other,2018,10
+577,Chicago Med,US,4,1860878,Cesar Jaime,2,False,Paramedic Cesar,medic,2018,10
+578,Chicago Med,US,4,1357972,Molly Lloyd,1,False,Tonya Griggs,other,2018,10
+579,Chicago Med,US,4,1438294,Andre Teamer,2,False,Keith Yates,other,2018,10
+580,Chicago Med,US,4,2452498,Jalen Gilbert,2,False,Max Yates,other,2018,10
+581,Chicago Med,US,4,64234,Anzu Lawson,1,False,Ashley Kim,other,2018,10
+582,Chicago Med,US,4,2452501,Grace Ransom,1,False,Neela Griggs,other,2018,10
+583,Chicago Med,US,4,1863950,Hil Horvath,1,False,Elodie,other,2018,10
+584,Chicago Med,US,4,2452511,Josephine Mo,1,False,Jamie Kim,other,2018,10
+585,Chicago Med,US,4,2452507,Patricia Kane,1,False,Charge Nurse Sandra,doctor,2018,10
+586,Chicago Med,US,4,963547,Anna Enger Ritch,1,False,Agent Ingrid Lee,other,2018,10
+587,Chicago Med,US,4,17642,Deidre Goodwin,1,False,Jeanette Phillips,other,2018,10
+588,Chicago Med,US,4,181521,Arnell Powell,2,False,John Phillips,other,2018,10
+589,Chicago Med,US,4,1394341,Ekaterina Zalitko,1,False,Daria Carson,other,2018,10
+590,Chicago Med,US,4,19225,Christian Campbell,2,False,Adam Carson,other,2018,10
+591,Chicago Med,US,4,2296602,Judae'a Brown,1,False,Gabby Phillips,other,2018,10
+592,Chicago Med,US,4,1531612,Michelle Shelton Huff,1,False,Alyssa Thompson,other,2018,10
+593,Chicago Med,US,4,2452525,Katrina Love,1,False,Nurse Katrina,nurse,2018,10
+594,Chicago Med,US,4,2336632,Walter S. Bernard,2,False,Dan,other,2018,10
+595,Chicago Med,US,4,2452528,Ted Sima,2,False,Bob,other,2018,10
+596,Chicago Med,US,4,2452529,Kirk Osgood,2,False,Barista,other,2018,10
+597,Chicago Med,US,4,2452524,Elena Marisa Flores,1,False,Officer Rosado,other,2018,10
+598,Chicago Med,US,4,1474246,Noelle P. Wilson,1,False,Claire Burton,other,2018,11
+599,Chicago Med,US,4,1885308,Michael Kevin Martin,2,False,Derek Glenn,other,2018,11
+600,Chicago Med,US,4,1884699,Sarah Charipar,1,False,Dr. Deidre Grant,doctor,2018,11
+601,Chicago Med,US,4,1887757,Susaan Jamshidi,0,False,MRI Tech,other,2018,11
+602,Chicago Med,US,4,182272,Cynthia Addai-Robinson,1,False,Dr. Vicki Glass,doctor,2018,11
+603,Chicago Med,US,4,1574715,Michael Wollner,2,False,Jacob Patrick,other,2018,11
+604,Chicago Med,US,4,19299,Eamonn Walker,2,False,Wallace Boden,other,2018,11
+605,Chicago Med,US,4,208678,Tracy Spiridakos,1,False,Hailey Upton,other,2018,11
+606,Chicago Med,US,4,2452830,Martasia Jones,1,False,Keegan,other,2018,11
+607,Chicago Med,US,4,2452831,Kathryn Acosta,1,False,Mary Brice,other,2018,11
+608,Chicago Med,US,4,1309207,Sia A. Moody,1,False,Doctor,doctor,2018,11
+609,Chicago Med,US,4,2452835,Michael Vaughn Shaw,2,False,X-Ray Tech,other,2018,11
+610,Chicago Med,US,4,1954100,Chet Siegel,1,False,Lisa Jensen,other,2018,12
+611,Chicago Med,US,4,1629351,Ben Edlin,2,False,Kevin Jensen,other,2018,12
+612,Chicago Med,US,4,115874,Carlos Gómez,2,False,James Young,other,2018,12
+613,Chicago Med,US,4,31649,Brooke Smith,1,False,Amber Young,other,2018,12
+614,Chicago Med,US,4,1885315,Camille Robinson,1,False,Nurse Tanya,nurse,2018,12
+615,Chicago Med,US,4,2455518,Isis A. Serrano,1,False,Nurse Isis Castelo,nurse,2018,12
+616,Chicago Med,US,4,1906571,Jeri Marshall,1,False,Paramedic Jeri,medic,2018,12
+617,Chicago Med,US,4,2455524,Echaka Agba,1,False,Officer Hughes,other,2018,12
+618,Chicago Med,US,4,1396310,Kris Wolff,2,False,Officer Tighe,other,2018,12
+619,Chicago Med,US,4,2118114,Cody Davis,2,False,Joey,other,2018,12
+620,Chicago Med,US,4,1574911,Nicole Santini,1,False,Mary Corcoran,other,2018,12
+621,Chicago Med,US,4,1467215,Nina Ganet,1,False,Photographer,other,2018,12
+622,Chicago Med,US,4,2455527,Huy Nguyen,2,False,Tailor,other,2018,12
+623,Chicago Med,US,4,2455528,Karl Hamilton,2,False,Shawn Corcoran,other,2018,12
+624,Chicago Med,US,4,1858966,Regan Rohde,1,False,Carol Conte,other,2018,12
+625,Chicago Med,US,4,2455523,Ari Morgan,2,False,Owen Jeffrey Manning,other,2018,12
+626,Chicago Med,US,4,2455509,Julie Proudfoot,1,False,Dr. Amy Watkins,doctor,2018,12
+627,Chicago Med,US,4,2456514,Ben Lorenz,2,False,Daniel Mitchell,other,2019,1
+628,Chicago Med,US,4,1933055,Al'Jaleel McGhee,0,False,Mr. Bennet,other,2019,1
+629,Chicago Med,US,4,2456523,Gabriel Robert,2,False,Davey Bennet,other,2019,1
+630,Chicago Med,US,4,1939951,Phoenix Gonzales,1,False,Ivy Davis,other,2019,1
+631,Chicago Med,US,4,222089,Ian Harding,2,False,Phillip Davis,other,2019,1
+632,Chicago Med,US,4,2456524,Timothy T. Harris,2,False,Officer Bedard,other,2019,1
+633,Chicago Med,US,4,2270941,Jeremy Pfaff,2,False,Dr. Jonathan Clark,doctor,2019,1
+634,Chicago Med,US,4,2457151,Garrett Long,1,False,Alana,other,2019,1
+635,Chicago Med,US,4,151433,Joe Urla,2,False,Patrick,other,2019,1
+636,Chicago Med,US,4,205745,Eddie McGee,2,False,Reginald Marks,other,2019,1
+637,Chicago Med,US,4,2457157,Madelyn DePorter,1,False,Celine,other,2019,1
+638,Chicago Med,US,4,2457159,Eliza Stoughton,1,False,Stephanie Addison,other,2019,1
+639,Chicago Med,US,4,1964441,Josh Odor,2,False,Nate Addison,other,2019,1
+640,Chicago Med,US,4,2457165,Aneisa Hicks,1,False,Denise Sanders,other,2019,1
+641,Chicago Med,US,4,2457170,Melanie Loren,1,False,Leslie Taylor,other,2019,1
+642,Chicago Med,US,4,2457174,Julie Mitre,1,False,Fran Mooney,other,2019,1
+643,Chicago Med,US,4,2457175,Diana Coates,1,False,Lacy Harding,other,2019,1
+644,Chicago Med,US,4,2457178,Sophia A. Meneses,1,False,Scrub Nurse Sophia Rodriguez,doctor,2019,1
+645,Chicago Med,US,4,2457180,Kayla Forde,1,False,Nurse Amy,nurse,2019,1
+646,Chicago Med,US,4,1367766,Elyse Fisher,1,False,Barista,other,2019,1
+647,Chicago Med,US,4,1637857,Eddie J. Fernandez Jr.,2,False,Thief,other,2019,1
+648,Chicago Med,US,4,1174795,Marc Grapey,2,False,Peter Kalmick,other,2019,1
+649,Chicago Med,US,4,1223780,Lauren Potter,1,False,Barbara Duncan,other,2019,1
+650,Chicago Med,US,4,167290,Mandy June Turpin,1,False,Kathy Duncan,other,2019,1
+651,Chicago Med,US,4,1218146,Tricia Paoluccio,1,False,Carol Green,other,2019,1
+652,Chicago Med,US,4,454210,P.J. Sosko,2,False,Bruce Green,other,2019,1
+653,Chicago Med,US,4,1960997,Christopher Convery,2,False,Jesse Green,other,2019,1
+654,Chicago Med,US,4,1894138,Arvin Jalandoon,2,False,Paul Deakins,other,2019,1
+655,Chicago Med,US,4,112287,John Cates,2,False,Pilot,other,2019,1
+656,Chicago Med,US,4,2458663,Marcela Munoz,1,False,Maria Flores,other,2019,1
+657,Chicago Med,US,4,1860792,Alejandro Ortiz,2,False,Pete Flores,other,2019,1
+658,Chicago Med,US,4,1889753,Carlos Rogelio Diaz,2,False,Nurse Hank,nurse,2019,1
+659,Chicago Med,US,4,1478382,Edwina Findley Dickerson,1,False,Sydney Hawkins,other,2019,2
+660,Chicago Med,US,4,1847439,Patti Murin,1,False,Nina Shore,other,2019,2
+661,Chicago Med,US,4,1707119,Terry Hamilton,2,False,Mr. Kaminsky,other,2019,2
+662,Chicago Med,US,4,1628772,Garrett Young,2,False,Jared Bray,other,2019,2
+663,Chicago Med,US,4,2458665,Chanell Bell,1,False,Lucy,other,2019,2
+664,Chicago Med,US,4,2458667,Jonathan Chronos,2,False,Bode Isiah,other,2019,2
+665,Chicago Med,US,4,1686656,Taylar Fondren,0,False,Jalissa Harris,other,2019,2
+666,Chicago Med,US,4,2142576,Paxton Singleton,2,False,Thomas Kramer,other,2019,2
+667,Chicago Med,US,4,2817412,Julia Atkin,1,False,Mia,other,2019,4
+668,Chicago Med,US,4,2348814,Tom McGregor,2,False,Dr. Wilde,doctor,2019,5
+669,Chicago Med,US,4,2734266,Corinne Anderson,1,False,Nurse Lizzie Shaffer,nurse,2019,5
+670,Chicago Med,US,4,1072648,Asher Grodman,2,False,Brandon Wycoff,other,2019,5
+671,Chicago Med,US,4,1498685,Akron Watson,0,False,Trevor,other,2019,5
+672,Chicago Med,US,5,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2019,9
+673,Chicago Med,US,5,60033,Yaya DaCosta,1,True,April Sexton,doctor (probably),2019,9
+674,Chicago Med,US,5,116278,Brian Tee,2,True,Dr. Ethan Choi,doctor,2019,9
+675,Chicago Med,US,5,33296,Torrey DeVitto,1,True,Dr. Natalie Manning,doctor,2019,9
+676,Chicago Med,US,5,146411,Dominic Rains,2,True,Dr. Crockett Marcel,doctor,2019,9
+677,Chicago Med,US,5,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2019,9
+678,Chicago Med,US,5,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2019,9
+679,Chicago Med,US,5,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2019,9
+680,Chicago Med,US,5,2558142,James Tasha Anne,1,False,Charge Nurse Patty,nurse,2019,9
+681,Chicago Med,US,5,1563211,Roland Buck III,2,False,Noah Sexton,other,2019,10
+682,Chicago Med,US,5,2883019,Debo Balogun,2,False,Paramedic Darren Clark,medic,2019,10
+683,Chicago Med,US,5,1860776,Anthony Ferraris,2,False,Tony,other,2019,10
+684,Chicago Med,US,5,1893124,Mary Cross,1,False,Bea Shepard,other,2019,10
+685,Chicago Med,US,5,2731230,Kimberly Michelle Vaughn,1,False,Nurse Paula Wilcox,nurse,2019,10
+686,Chicago Med,US,5,2817245,Mari Marroquin,1,False,Orthopedics Nurse Abigail Flores,nurse,2019,10
+687,Chicago Med,US,5,41422,Jesse Spencer,2,False,Matthew Casey,other,2019,10
+688,Chicago Med,US,5,27552,David Eigenberg,2,False,Christopher Herrmann,other,2019,10
+689,Chicago Med,US,5,1371298,Kara Killmer,1,False,Sylvie Brett,other,2019,10
+690,Chicago Med,US,5,210271,Taylor Kinney,2,False,Kelly Severide,other,2019,10
+691,Chicago Med,US,5,209196,Annie Ilonzeh,1,False,Emily Foster,other,2019,10
+692,Chicago Med,US,5,1011102,Jesse Lee Soffer,2,False,Jay Halstead,other,2019,10
+693,Chicago Med,US,5,19299,Eamonn Walker,2,False,Wallace Boden,other,2019,10
+694,Chicago Med,US,5,208678,Tracy Spiridakos,1,False,Hailey Upton,other,2019,10
+695,Chicago Med,US,5,115730,Patrick John Flueger,2,False,Adam Ruzek,other,2019,10
+696,Chicago Med,US,5,26930,Amy Morton,1,False,Trudy Platt,other,2019,10
+697,Chicago Med,US,5,1600095,Lisseth Chavez,1,False,Vanessa Rojas,other,2019,10
+698,Chicago Med,US,5,37203,Jason Beghe,2,False,Hank Voight,other,2019,10
+699,Chicago Med,US,5,168610,Kathleen Munroe,1,False,Dr. Andrea Danover,doctor,2019,10
+700,Chicago Med,US,5,1906091,Aaron Serotsky,2,False,Dr. David Seldon,doctor,2019,10
+701,Chicago Med,US,5,1261395,Laroyce Hawkins,2,False,Kevin Atwater,other,2019,10
+702,Chicago Med,US,5,3364862,Josh Zagoren,2,False,Reporter Jim Myers,other,2019,10
+703,Chicago Med,US,5,1100549,Marina Squerciati,1,False,Kim Burgess,other,2019,10
+704,Chicago Med,US,5,37937,Gregory Alan Williams,2,False,Bert Goodwin,other,2019,10
+705,Chicago Med,US,5,117091,Heather Headley,1,False,Gwen Garrett,other,2019,10
+706,Chicago Med,US,5,1658200,Angel Giuffria,1,False,Gina Todd,other,2019,11
+707,Chicago Med,US,5,2503970,Diane Sintich,1,False,Captain Christine Sims,other,2019,11
+708,Chicago Med,US,5,2546609,Mark Collins,2,False,Dr. Carl Williams,doctor,2019,11
+709,Chicago Med,US,5,1360035,Jim Kozyra,2,False,Jeremy McFarland,other,2019,11
+710,Chicago Med,US,5,2389389,Daniel Moreno,2,False,Alex Minguez,other,2020,1
+711,Chicago Med,US,5,2359018,Sawyer Jones,2,False,Jesse Driscoll,doctor,2020,1
+712,Chicago Med,US,5,2185770,Carl Clemons-Hopkins,3,False,Sean Richter,other,2020,1
+713,Chicago Med,US,5,2862717,Stephanie Wright Thompson,1,False,Mrs. Walker,other,2020,1
+714,Chicago Med,US,5,1568029,Andrew Dolan,2,False,Gary,other,2020,1
+715,Chicago Med,US,5,62730,Annabel Armour,1,False,Dr. Amanda Reid,doctor,2020,1
+716,Chicago Med,US,5,1494515,Sarai Rodriguez,1,False,Nurse Denise,nurse,2020,1
+717,Chicago Med,US,5,592322,Sadieh Rifai,1,False,Nurse Connie,nurse,2020,1
+718,Chicago Med,US,5,2285818,Tiffany Renee Johnson,1,False,Dr. Alyssa Morrison,doctor,2020,1
+719,Chicago Med,US,5,2561423,Emily Marso,1,False,Nurse Susie Dalton,nurse,2020,1
+720,Chicago Med,US,5,5377,Ato Essandoh,2,False,Dr. Isidore Latham,doctor,2020,1
+721,Chicago Med,US,5,2409386,Nate Santana,2,False,Dr. James Lanik,doctor,2020,1
+722,Chicago Med,US,5,1724937,Courtney Rioux,1,False,Paramedic Courtney,medic,2020,1
+723,Chicago Med,US,5,26974,Jessy Schram,1,False,Dr. Hannah Asher,doctor,2020,1
+724,Chicago Med,US,5,1719941,Lorena Diaz,1,False,Nurse Doris,nurse,2020,1
+725,Chicago Med,US,5,1863994,Jeremy Shouldis,2,False,Dr. Marty Peterson,doctor,2020,1
+726,Chicago Med,US,5,2854421,Marie Tredway,1,False,Nurse Trini,nurse,2020,1
+727,Chicago Med,US,5,2862727,Jacob Lee Weiss,2,False,Jamie Shaw,other,2020,2
+728,Chicago Med,US,5,1684414,Rae Gray,1,False,Julia Huntley,other,2020,2
+729,Chicago Med,US,5,1508134,Jeb Kreager,2,False,Gordon Shaw,other,2020,2
+730,Chicago Med,US,5,1480643,Hannah Riley,1,False,Anna Charles,other,2020,3
+731,Chicago Med,US,5,2958636,Caitlan Taylor,1,False,Paramedic Michelle,medic,2020,3
+732,Chicago Med,US,5,1937799,Christopher Farrar,2,False,Auggie,other,2020,3
+733,Chicago Med,US,6,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2020,11
+734,Chicago Med,US,6,60033,Yaya DaCosta,1,True,April Sexton,doctor (probably),2020,11
+735,Chicago Med,US,6,116278,Brian Tee,2,True,Dr. Ethan Choi,doctor,2020,11
+736,Chicago Med,US,6,33296,Torrey DeVitto,1,True,Dr. Natalie Manning,doctor,2020,11
+737,Chicago Med,US,6,146411,Dominic Rains,2,True,Dr. Crockett Marcel,doctor,2020,11
+738,Chicago Med,US,6,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2020,11
+739,Chicago Med,US,6,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2020,11
+740,Chicago Med,US,6,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2020,11
+741,Chicago Med,US,6,96223,Michelle Hurst,1,False,Beverly MacNeal,other,2020,11
+742,Chicago Med,US,6,200109,Tom Choi,2,False,Martin Lieu,other,2020,11
+743,Chicago Med,US,6,2854387,Brenna DiStasio,1,False,Anita Palmer,other,2020,11
+744,Chicago Med,US,6,2854427,Teddy Boone,2,False,Brad Palmer,other,2020,11
+745,Chicago Med,US,6,2854430,Alize Lee,1,False,Kellie Lieu,other,2020,11
+746,Chicago Med,US,6,2854440,Michael McCracken,2,False,Dr. Joseph Harper,doctor,2020,11
+747,Chicago Med,US,6,86575,James Chisem,2,False,Frederick MacNeal,other,2020,11
+748,Chicago Med,US,6,2854428,Anthony Lee Irons,2,False,Alvin Booker,other,2020,11
+749,Chicago Med,US,6,1868651,C. Anthony Jackson,2,False,Security Guard Earl,other,2020,11
+750,Chicago Med,US,6,587822,Tehmina Sunny,1,False,Dr. Sabeena Virani,doctor,2020,11
+751,Chicago Med,US,6,2409386,Nate Santana,2,False,Dr. James Lanik,doctor,2020,11
+752,Chicago Med,US,6,2455523,Ari Morgan,2,False,Owen Jeffrey Manning,other,2020,11
+753,Chicago Med,US,6,1889753,Carlos Rogelio Diaz,2,False,Nurse Hank,nurse,2020,11
+754,Chicago Med,US,6,1860871,Amanda Marcheschi,1,False,Nurse Dina,nurse,2020,11
+755,Chicago Med,US,6,1868649,Desmond Gray,2,False,Paramedic Desmond,medic,2020,11
+756,Chicago Med,US,6,26974,Jessy Schram,1,False,Dr. Hannah Asher,doctor,2020,11
+757,Chicago Med,US,6,1719941,Lorena Diaz,1,False,Nurse Doris,nurse,2020,11
+758,Chicago Med,US,6,1499555,Sarah Brooks,1,False,Paramedic Juliette,medic,2020,11
+759,Chicago Med,US,6,1480643,Hannah Riley,1,False,Anna Charles,other,2020,11
+760,Chicago Med,US,6,2854421,Marie Tredway,1,False,Nurse Trini,nurse,2020,11
+761,Chicago Med,US,6,1615562,Danielle Moné Truitt,1,False,Dr. Angela Douglas,doctor,2020,11
+762,Chicago Med,US,6,2863721,Dominique La'Shea,1,False,Aisha Barnes,other,2020,11
+763,Chicago Med,US,6,1946959,Charin Alvarez,1,False,Alejandra Cruz,doctor,2020,11
+764,Chicago Med,US,6,1197336,Christopher Meister,2,False,ASA Lake,other,2020,11
+765,Chicago Med,US,6,1860796,Xavier Lagunas,2,False,Officer Garcia,other,2020,11
+766,Chicago Med,US,6,2802051,Michael Milligan,2,False,Jerome Kirk,other,2020,11
+767,Chicago Med,US,6,1390006,Jill Abramovitz,1,False,Susan Charles,other,2020,11
+768,Chicago Med,US,6,2452835,Michael Vaughn Shaw,2,False,X-Ray Tech Mike,other,2020,11
+769,Chicago Med,US,6,1174795,Marc Grapey,2,False,Peter Kalmick,other,2020,11
+770,Chicago Med,US,6,1218149,Brennan Brown,2,False,Dr. Sam Abrams,doctor,2020,11
+771,Chicago Med,US,6,3018177,Lynnette Li,1,False,Nurse Nancy,nurse,2020,11
+772,Chicago Med,US,6,1493220,Hannah James,1,False,Megan,other,2021,1
+773,Chicago Med,US,6,2227928,Wendy Mateo,1,False,Mari Esquivel,other,2021,1
+774,Chicago Med,US,6,246960,Lynne Lipton,1,False,Ms. Webb,other,2021,1
+775,Chicago Med,US,6,2958636,Caitlan Taylor,1,False,Paramedic Michelle,medic,2021,1
+776,Chicago Med,US,6,1447840,Thomas H. Adisi,2,False,George,other,2021,1
+777,Chicago Med,US,6,2191357,Ricardo Gutierrez,2,False,Ruben Esquivel,other,2021,1
+778,Chicago Med,US,6,2958631,Kiera Prinz,1,False,Kelly Bissett,other,2021,1
+779,Chicago Med,US,6,1921143,Linda Reiter,1,False,Mrs. Bissett,other,2021,1
+780,Chicago Med,US,6,2452524,Elena Marisa Flores,1,False,Officer Rosado,other,2021,1
+781,Chicago Med,US,6,117309,Burgess Jenkins,2,False,Dr. Todd Lowry,doctor,2021,1
+782,Chicago Med,US,6,2526049,Bella Wholey Ortiz,1,False,Isabella,other,2021,1
+783,Chicago Med,US,6,1624948,Stephen Spencer,2,False,Dr. Tom Mayfield,doctor,2021,1
+784,Chicago Med,US,6,1772550,John Kelly,2,False,Edward Gessner,other,2021,1
+785,Chicago Med,US,6,2409561,Gail Shapiro,1,False,Nurse Belinda,nurse,2021,1
+786,Chicago Med,US,6,1868565,Anna Maldonado,1,False,CT Tech Charlotte,other,2021,1
+787,Chicago Med,US,6,2958890,Brooke Reams,1,False,Scrub Nurse Holly Palmer,nurse,2021,1
+788,Chicago Med,US,6,1937799,Christopher Farrar,2,False,Auggie,other,2021,1
+789,Chicago Med,US,6,1237293,Ilyssa Fradin,1,False,Dr. Kimberly Gillin,doctor,2021,1
+790,Chicago Med,US,6,1758632,Hampton Fluker,2,False,Michael Goodwin,other,2021,1
+791,Chicago Med,US,6,1514000,Adam Poss,2,False,Dr. Dylan Driskell,doctor,2021,1
+792,Chicago Med,US,6,53572,Charles Malik Whitfield,2,False,Ben Campbell,other,2021,1
+793,Chicago Med,US,6,1863994,Jeremy Shouldis,2,False,Dr. Marty Peterson,doctor,2021,1
+794,Chicago Med,US,6,1563211,Roland Buck III,2,False,Noah Sexton,other,2021,2
+795,Chicago Med,US,6,52057,Obba Babatundé,2,False,Dr. James Coleman,doctor,2021,2
+796,Chicago Med,US,6,2972598,Gary Alexander,2,False,Mediator Harvey Dean,other,2021,2
+797,Chicago Med,US,6,2972601,Bonnie Bower,1,False,Claire Bassett,other,2021,2
+798,Chicago Med,US,6,1261395,Laroyce Hawkins,2,False,Kevin Atwater,other,2021,2
+799,Chicago Med,US,6,1724937,Courtney Rioux,1,False,Paramedic Courtney,medic,2021,2
+800,Chicago Med,US,6,1860878,Cesar Jaime,2,False,Paramedic Cesar,medic,2021,2
+801,Chicago Med,US,6,169019,Charlie Bodin,2,False,Eric Bowman,other,2021,2
+802,Chicago Med,US,6,2895503,Amy Rapp,1,False,Carol Bowman,other,2021,2
+803,Chicago Med,US,6,2977126,Destini Huston,1,False,Cindy Morales,other,2021,2
+804,Chicago Med,US,6,2977147,Jeannie Affelder,1,False,Dr. Nadine Ziesler,doctor,2021,2
+805,Chicago Med,US,6,2451808,Kroydell Galima,2,False,Tech Gene,other,2021,2
+806,Chicago Med,US,6,1570260,Jodi Kingsley,1,False,Madeline Gastern,other,2021,2
+807,Chicago Med,US,6,159394,Jim Ortlieb,2,False,Dr. Richard Cohen,doctor,2021,2
+808,Chicago Med,US,6,2992428,Nathan Hosner,2,False,Ron Kelton,other,2021,2
+809,Chicago Med,US,6,1310610,Jerre Dye,2,False,Tim,other,2021,2
+810,Chicago Med,US,6,1234687,Austin Tichenor,2,False,Darryl Johnson,other,2021,2
+811,Chicago Med,US,6,131880,Kate Buddeke,1,False,Vera Johnson,other,2021,2
+812,Chicago Med,US,6,2992479,Landree Fleming,1,False,Deborah Cohen,other,2021,2
+813,Chicago Med,US,6,2992481,Jen Chada,1,False,Chaplain,other,2021,2
+814,Chicago Med,US,6,2992482,Bill Letz,2,False,Paul Beller,other,2021,2
+815,Chicago Med,US,6,2992429,Eric Epps,2,False,Antoine Carter,other,2021,2
+816,Chicago Med,US,6,2992471,Ericka Ratcliff,1,False,Maxine Carter,other,2021,2
+817,Chicago Med,US,6,2561423,Emily Marso,1,False,Nurse Susie,nurse,2021,2
+818,Chicago Med,US,6,2761608,K.D. O'Hair,1,False,Tally Sanders,other,2021,3
+819,Chicago Med,US,6,2850761,Benny Mora,2,False,Mike Sanders,other,2021,3
+820,Chicago Med,US,6,2129794,Ed Kross,2,False,Martin Becker,other,2021,3
+821,Chicago Med,US,6,3013210,Richard Gallion Jr.,2,False,Keshawn Carter,other,2021,3
+822,Chicago Med,US,6,8985,Margaret Colin,1,False,Carol Conte,other,2021,3
+823,Chicago Med,US,6,6106,Steven Weber,2,False,Dr. Dean Archer,doctor,2021,3
+824,Chicago Med,US,6,3018035,Sola Thompson,1,False,Tionne Jefferson,other,2021,3
+825,Chicago Med,US,6,1227952,Rene L. Moreno,2,False,Hector Campos,other,2021,3
+826,Chicago Med,US,6,3018036,Monica Orozco,1,False,Louisa Campos,other,2021,3
+827,Chicago Med,US,6,1040291,Daniel Patrick Sullivan,2,False,Dr. John Bridges,doctor,2021,3
+828,Chicago Med,US,6,1946943,Alma Washington,1,False,Clerk,other,2021,3
+829,Chicago Med,US,6,1884702,Cordelia Dewdney,1,False,Ramona Davis,other,2021,3
+830,Chicago Med,US,6,2455509,Julie Proudfoot,1,False,Dr. Amy Watkins,doctor,2021,3
+831,Chicago Med,US,6,1679833,Amy J. Carle,1,False,Dr. Olga Patchefsky,doctor,2021,3
+832,Chicago Med,US,6,2430160,Barzin Akhavan,2,False,Arash Mehti,other,2021,3
+833,Chicago Med,US,6,1885351,Wesley Truman Daniel,2,False,Brian Norris,other,2021,3
+834,Chicago Med,US,6,1515509,Lindsay Musil,1,False,Emily Norris,other,2021,3
+835,Chicago Med,US,6,1745434,Arash DeMaxi,2,False,Arash Mehti's Son,other,2021,3
+836,Chicago Med,US,6,164077,Sally Murphy,1,False,Mary Daniels,other,2021,3
+837,Chicago Med,US,6,3042555,Portia Adney,1,False,Circulator Nurse,nurse,2021,3
+838,Chicago Med,US,6,3042559,Rory Zacher,2,False,Russell Byrd,other,2021,3
+839,Chicago Med,US,6,3042560,Justin Mobley,2,False,Contractor,other,2021,3
+840,Chicago Med,US,6,1691967,Jeff Dumas,2,False,Perfusionist Roy Bellino,other,2021,3
+841,Chicago Med,US,6,3042562,Jacqueline Rosenau,1,False,Female Crowd Member,other,2021,3
+842,Chicago Med,US,6,2296580,Kristina Valada-Viars,1,False,Nurse Maya,nurse,2021,3
+843,Chicago Med,US,6,19151,James Eckhouse,2,False,Liam McIntyre,other,2021,4
+844,Chicago Med,US,6,3048723,Vincent Jamal Hooper,2,False,Montez Price,other,2021,4
+845,Chicago Med,US,6,1712677,Monica West,1,False,Lisa Holtzman,other,2021,4
+846,Chicago Med,US,6,3048821,Rita Simon,1,False,Gina Caine,other,2021,4
+847,Chicago Med,US,6,117091,Heather Headley,1,False,Gwen Garrett,other,2021,4
+848,Chicago Med,US,6,2722241,Blair Robertson,1,False,ENT Doctor Nicole Reed,doctor,2021,4
+849,Chicago Med,US,6,3048822,Dekyi Ronge,1,False,Cheryl,other,2021,4
+850,Chicago Med,US,6,1368157,Joe Minoso,2,False,Joe Cruz,other,2021,4
+851,Chicago Med,US,6,2317307,Hanako Greensmith,1,False,Violet Mikami,other,2021,4
+852,Chicago Med,US,6,1469245,Kumiko Konishi,1,False,Holly Forbes,other,2021,4
+853,Chicago Med,US,6,1245836,Justin Rain,2,False,Robert Forbes,other,2021,4
+854,Chicago Med,US,6,3068320,Tracey Greenwood,1,False,Michelle Howard,other,2021,4
+855,Chicago Med,US,6,1633438,Charlie Farrell,2,False,Mark Barragan,other,2021,4
+856,Chicago Med,US,6,1363647,Chris Mast,2,False,Eddie Howard,other,2021,4
+857,Chicago Med,US,6,3068552,Patrick Byrnes,2,False,Psych Tech Jim Collins,other,2021,4
+858,Chicago Med,US,6,2446460,Sonny Bhatti,2,False,Courier,other,2021,4
+859,Chicago Med,US,6,3068311,Jaq Seifert,0,False,Dr. Nic Young,doctor,2021,4
+860,Chicago Med,US,6,1371298,Kara Killmer,1,False,Sylvie Brett,other,2021,4
+861,Chicago Med,US,6,37937,Gregory Alan Williams,2,False,Bert Goodwin,other,2021,5
+862,Chicago Med,US,6,3099527,Jessica Eleanor Grant,1,False,Wendy Miller,other,2021,5
+863,Chicago Med,US,6,3063501,Daniel Cooney,2,False,Gerry Turner,other,2021,5
+864,Chicago Med,US,6,3070275,Alys Dickerson,1,False,Elaine Watkins,other,2021,5
+865,Chicago Med,US,6,3099701,Chase Clevenger,2,False,Sam Miller,other,2021,5
+866,Chicago Med,US,6,3099702,Nathan Koscielniak,2,False,Jake Miller,other,2021,5
+867,Chicago Med,US,6,2452507,Patricia Kane,1,False,PICU Nurse Sandra,doctor,2021,5
+868,Chicago Med,US,6,1317152,Asjha Cooper,1,False,Vanessa Taylor,other,2021,5
+869,Chicago Med,US,6,3099691,Rachel Kang,1,False,Dr. Kathleen Jamison,doctor,2021,5
+870,Chicago Med,US,6,2927681,Veronica Mejia,1,False,Rosa Fuentes,other,2021,5
+871,Chicago Med,US,6,1881556,Edgar Miguel Sanchez,2,False,Edgar Fuentes,other,2021,5
+872,Chicago Med,US,6,2561421,Mike Jimerson,2,False,Shawn Reynolds,other,2021,5
+873,Chicago Med,US,6,3099824,Geoff Dow,2,False,Johnny Mims,other,2021,5
+874,Chicago Med,US,6,512749,Danny Flaherty,2,False,Neil Dietrich,other,2021,5
+875,Chicago Med,US,6,3099857,Nicole Boucher,1,False,Mindy Kline,other,2021,5
+876,Chicago Med,US,6,3099858,Kelly Anne Clark,1,False,Dr. Anne Garner,doctor,2021,5
+877,Chicago Med,US,6,1291701,Jami Tennille,1,False,Mrs. Kline,other,2021,5
+878,Chicago Med,US,6,1711160,Brit Whittle,2,False,Mark Kline,other,2021,5
+879,Chicago Med,US,6,2234525,Stephanie Andrea Barron,1,False,Hillary Barton,other,2021,5
+880,Chicago Med,US,6,3099860,Connor McKinley Griffin,2,False,James Barton,other,2021,5
+881,Chicago Med,US,6,1501739,Thea Camara,1,False,Lab Tech Irma,other,2021,5
+882,Chicago Med,US,6,3099927,James Gordon,2,False,Kent Taylor,other,2021,5
+883,Chicago Med,US,6,3099926,Jeanne Sparrow,1,False,Bea Taylor,other,2021,5
+884,Chicago Med,US,6,2368,Elya Baskin,2,False,Dr. Mischa Lenkov,doctor,2021,5
+885,Chicago Med,US,6,5377,Ato Essandoh,2,False,Dr. Isidore Latham,doctor,2021,5
+886,Chicago Med,US,6,1476066,Zenon Zeleniuch,2,False,Pavel Zorin,other,2021,5
+887,Chicago Med,US,6,3109394,Wendye Clarendon,1,False,Ellen Scott,other,2021,5
+888,Chicago Med,US,6,3109393,Deanna Myers,1,False,Dr. Betty Dunn,doctor,2021,5
+889,Chicago Med,US,7,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2021,9
+890,Chicago Med,US,7,146411,Dominic Rains,2,True,Dr. Crockett Marcel,doctor,2021,9
+891,Chicago Med,US,7,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2021,9
+892,Chicago Med,US,7,2389314,Guy Lockard,2,True,Dr. Dylan Scott,doctor,2021,9
+893,Chicago Med,US,7,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2021,9
+894,Chicago Med,US,7,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2021,9
+895,Chicago Med,US,7,33296,Torrey DeVitto,1,False,Dr. Natalie Manning,doctor,2021,9
+896,Chicago Med,US,7,2409386,Nate Santana,2,False,Dr. James Lanik,doctor,2021,9
+897,Chicago Med,US,7,2131021,Patrese McClain,1,False,Aleesha Russel,other,2021,9
+898,Chicago Med,US,7,1618593,Elizabeth Hinkler,1,False,Gemma Brooks,other,2021,9
+899,Chicago Med,US,7,1618594,Emily Hinkler,1,False,Emma Brooks,other,2021,9
+900,Chicago Med,US,7,3250505,Harper Anthony,2,False,Malik Williams,other,2021,9
+901,Chicago Med,US,7,2410995,Anita Chandwaney,1,False,Dr. Camila Rao,doctor,2021,9
+902,Chicago Med,US,7,2452493,David Goodloe,2,False,Stan Williams,other,2021,9
+903,Chicago Med,US,7,59409,Bill McGough,2,False,Darren Daley,other,2021,9
+904,Chicago Med,US,7,2971159,Susan Moniz,1,False,Lois Durant,other,2021,9
+905,Chicago Med,US,7,2455523,Ari Morgan,2,False,Owen Jeffrey Manning,other,2021,9
+906,Chicago Med,US,7,3250507,Nayeli Razaa,1,False,Jasmine Russel,other,2021,9
+907,Chicago Med,US,7,3250509,Britney Wittes,1,False,Skyler,other,2021,9
+908,Chicago Med,US,7,25946,Bonita Friedericy,1,False,Terri Hammer,other,2021,9
+909,Chicago Med,US,7,2561423,Emily Marso,1,False,Nurse Susie,nurse,2021,9
+910,Chicago Med,US,7,73454,Kristen Hager,1,False,Dr. Stevie Hammer,doctor,2021,9
+911,Chicago Med,US,7,1724937,Courtney Rioux,1,False,Paramedic Courtney,medic,2021,9
+912,Chicago Med,US,7,59177,Michael Rady,2,False,Dr. Matt Cooper,doctor,2021,9
+913,Chicago Med,US,7,1719941,Lorena Diaz,1,False,Nurse Doris,nurse,2021,9
+914,Chicago Med,US,7,1860784,Renellè Nicole,1,False,Nurse Trisha,nurse,2021,9
+915,Chicago Med,US,7,1863994,Jeremy Shouldis,2,False,Dr. Marty Peterson,doctor,2021,9
+916,Chicago Med,US,7,6106,Steven Weber,2,False,Dr. Dean Archer,doctor,2021,9
+917,Chicago Med,US,7,1317152,Asjha Cooper,1,False,Dr. Vanessa Taylor,doctor,2021,9
+918,Chicago Med,US,7,1860878,Cesar Jaime,2,False,Paramedic Cesar,medic,2021,9
+919,Chicago Med,US,7,3018177,Lynnette Li,1,False,Nurse Nancy,nurse,2021,9
+920,Chicago Med,US,7,2854421,Marie Tredway,1,False,Nurse Trini,nurse,2021,9
+921,Chicago Med,US,7,3260156,Cher Alvarez,1,False,Krista Valdez,other,2021,9
+922,Chicago Med,US,7,3260158,Declan Thomas Desmond,2,False,Brandon Davis,other,2021,9
+923,Chicago Med,US,7,1396306,Rebekah Ward,1,False,Marie Davis,other,2021,9
+924,Chicago Med,US,7,2453207,Bassam Abdelfattah,2,False,Officer Willie Bronson,other,2021,9
+925,Chicago Med,US,7,3260166,Kennedy Rae Dunner,1,False,Daughter,other,2021,9
+926,Chicago Med,US,7,1889759,Gina Taliaferro,1,False,Mya Jones,other,2021,9
+927,Chicago Med,US,7,3260167,Darian Tene,1,False,Mother,other,2021,9
+928,Chicago Med,US,7,78578,Angela Oh,1,False,Dr. Joy Yang,doctor,2021,9
+929,Chicago Med,US,7,1154231,Tonray Ho,1,False,Admitting Clerk Leah,other,2021,9
+930,Chicago Med,US,7,1868649,Desmond Gray,2,False,Paramedic Desmond,medic,2021,9
+931,Chicago Med,US,7,1499555,Sarah Brooks,1,False,Paramedic Juliette,medic,2021,9
+932,Chicago Med,US,7,1261395,Laroyce Hawkins,2,False,Kevin Atwater,other,2021,10
+933,Chicago Med,US,7,2097513,Natalie Woolams-Torres,1,False,Candace Mason,other,2021,10
+934,Chicago Med,US,7,2498022,Beth Hawkes,1,False,Gina Hawley,other,2021,10
+935,Chicago Med,US,7,1219576,Terry Bozeman,2,False,Jim Foster,other,2021,10
+936,Chicago Med,US,7,1885539,Susie McMonagle,1,False,Elaine Foster,other,2021,10
+937,Chicago Med,US,7,3263825,Neala Barron,1,False,Liza,other,2021,10
+938,Chicago Med,US,7,2452507,Patricia Kane,1,False,PICU Nurse Sandra,doctor,2021,10
+939,Chicago Med,US,7,1880682,Brianna McClellan,1,False,Volunteer,other,2021,10
+940,Chicago Med,US,7,2640282,Ana Ortiz-Monasterio Draa,1,False,Waitress,other,2021,10
+941,Chicago Med,US,7,3088912,Kenny Rasmussen,2,False,Michael Peckham,other,2021,10
+942,Chicago Med,US,7,2349030,Deanne Lauvin,1,False,Zora Scott,other,2021,10
+943,Chicago Med,US,7,1478924,Angela Wong Carbone,1,False,Jessa Rinaldi,other,2021,10
+944,Chicago Med,US,7,1174795,Marc Grapey,2,False,Peter Kalmick,other,2021,10
+945,Chicago Med,US,7,155574,Enid Graham,1,False,Ashley Bardsley,other,2021,10
+946,Chicago Med,US,7,1901822,Kameron Kierce,2,False,Roland Baxter,other,2021,10
+947,Chicago Med,US,7,6623,Vik Sahay,2,False,Vishal Kumar,other,2021,10
+948,Chicago Med,US,7,2090871,Anji White,1,False,Pam Baxter,other,2021,10
+949,Chicago Med,US,7,3271216,Anthony Moseley,2,False,Dr. Marvin Simms,doctor,2021,10
+950,Chicago Med,US,7,3271217,Chris Jowett,2,False,Pete Channing,other,2021,10
+951,Chicago Med,US,7,3271337,Michael Emmett Carey,2,False,Dr. Lyle Bickman,doctor,2021,10
+952,Chicago Med,US,7,3271338,Jon Kasunic,2,False,Officer Lucas Stinson,other,2021,10
+953,Chicago Med,US,7,3271339,Calvin Thomas,2,False,Officer James Griggs,other,2021,10
+954,Chicago Med,US,7,3271345,Wendi Weber,1,False,Dr. Eliza Young,doctor,2021,10
+955,Chicago Med,US,7,3068552,Patrick Byrnes,2,False,Psych Tech Jim,other,2021,10
+956,Chicago Med,US,7,2452835,Michael Vaughn Shaw,2,False,X-Ray Tech Mike,other,2021,10
+957,Chicago Med,US,7,1214576,Rebecca Field,1,False,Susan Miller,other,2021,10
+958,Chicago Med,US,7,225629,Daniel Stewart Sherman,2,False,Todd Miller,other,2021,10
+959,Chicago Med,US,7,3284899,Patrick Scott McDermott,2,False,Alex Miller,other,2021,10
+960,Chicago Med,US,7,3284901,Gabriel Solis,2,False,Ryan Miller,other,2021,10
+961,Chicago Med,US,7,3285031,Melvin Rae Davis,2,False,Security Guard CJ Walker,other,2021,10
+962,Chicago Med,US,7,2546592,Destiny Hernandez,1,False,Barista Carly,other,2021,10
+963,Chicago Med,US,7,3909,Gary Houston,2,False,Ron Holt,other,2021,10
+964,Chicago Med,US,7,1467217,Meg Thalken,1,False,Eleanor Holt,other,2021,10
+965,Chicago Med,US,7,1860871,Amanda Marcheschi,1,False,Nurse Dina,nurse,2021,10
+966,Chicago Med,US,7,2254,Curtiss Cook,2,False,Lt. Reginald Scott,other,2021,10
+967,Chicago Med,US,7,154856,Sarah Rafferty,1,False,Dr. Pamela Blake,doctor,2021,10
+968,Chicago Med,US,7,95038,Johanna Braddy,1,False,Avery Quinn,other,2021,10
+969,Chicago Med,US,7,3297140,Audrey D. Allen,1,False,Marielle Ayers,other,2021,10
+970,Chicago Med,US,7,1197334,Marika Engelhardt,1,False,Kate Murphy,other,2021,10
+971,Chicago Med,US,7,1691946,Keith D. Gallagher,2,False,Brandon Murphy,other,2021,10
+972,Chicago Med,US,7,1570260,Jodi Kingsley,1,False,Madeline Gastern,other,2021,10
+973,Chicago Med,US,7,3297199,Margot Beresh,1,False,Siobhan Murphy,other,2021,10
+974,Chicago Med,US,7,2964872,Martin Davis,2,False,Gordon Ayers,other,2021,10
+975,Chicago Med,US,7,3297202,Olivia Hyzy,1,False,Barista Olivia,other,2021,10
+976,Chicago Med,US,7,3297208,Gage Wallace,2,False,Marc Sussman,other,2021,10
+977,Chicago Med,US,7,95216,Tim Kazurinsky,2,False,Sheldon West,other,2021,10
+978,Chicago Med,US,7,3297200,Leah Casey,1,False,Paramedic Lacey,medic,2021,10
+979,Chicago Med,US,7,116278,Brian Tee,2,False,Dr. Ethan Choi,doctor,2021,11
+980,Chicago Med,US,7,1810651,Maxwell Jenkins,2,False,EJ Daniels,other,2021,11
+981,Chicago Med,US,7,2896314,Lily Harris,1,False,Astrid Meadows,other,2021,11
+982,Chicago Med,US,7,1847297,Katherine Keberlein,1,False,Becky Meadows,other,2021,11
+983,Chicago Med,US,7,2966049,Peter Moore,2,False,Tom Meadows,other,2021,11
+984,Chicago Med,US,7,1624928,Jeff Shannon,2,False,Nathan Daniels,other,2021,11
+985,Chicago Med,US,7,2551736,Torrey Hanson,2,False,Roger Flanagan,other,2021,11
+986,Chicago Med,US,7,1889753,Carlos Rogelio Diaz,2,False,Nurse Hank,nurse,2021,11
+987,Chicago Med,US,7,3099691,Rachel Kang,1,False,Dr. Kathleen Jamison,doctor,2021,11
+988,Chicago Med,US,7,1679833,Amy J. Carle,1,False,Dr. Olga Patchefsky,doctor,2021,11
+989,Chicago Med,US,7,1218149,Brennan Brown,2,False,Dr. Sam Abrams,doctor,2021,11
+990,Chicago Med,US,7,1741327,Billy Malone,2,False,Joe,other,2021,11
+991,Chicago Med,US,7,3326336,Patrick Dunham,2,False,Patron,other,2021,11
+992,Chicago Med,US,7,1262131,Brandon Galatz,2,False,Man,other,2021,11
+993,Chicago Med,US,7,2290865,Charles Andrew Gardner,2,False,Marcus Clemons,other,2021,11
+994,Chicago Med,US,7,3326338,Lakecia Harris,1,False,Bartender,other,2021,11
+995,Chicago Med,US,7,3326339,Morgan Lavenstein,1,False,Janet,other,2021,11
+996,Chicago Med,US,7,3326340,Cate Rio,1,False,May,other,2021,11
+997,Chicago Med,US,7,1056349,Darcy Wood,1,False,Janey Coper,other,2021,11
+998,Chicago Med,US,7,2452524,Elena Marisa Flores,1,False,Officer Rosado,other,2021,11
+999,Chicago Med,US,7,1277794,Hannah Barefoot,1,False,Eve Bennett,other,2021,12
+1000,Chicago Med,US,7,143171,Bertila Damas,1,False,Isabel Carmona,other,2021,12
+1001,Chicago Med,US,7,1737254,Stephen Friedrich,2,False,Kyle Liddell,other,2021,12
+1002,Chicago Med,US,7,1894327,Connor McNamara,2,False,Rick Bennett,other,2021,12
+1003,Chicago Med,US,7,3355393,Madeline Bunke,1,False,FBI Special Agent Foster,other,2021,12
+1004,Chicago Med,US,7,2452488,Curlie Curry,2,False,Nurse,nurse,2021,12
+1005,Chicago Med,US,7,1937744,Alfonso DiLuca,2,False,Reuben Carmona,other,2021,12
+1006,Chicago Med,US,7,3355394,Josefina Estrada,1,False,Beatriz Carmona,other,2021,12
+1007,Chicago Med,US,7,3355395,Ashlyn Lozano,1,False,Elena Carmona,other,2021,12
+1008,Chicago Med,US,7,3355396,Dallas Placzek,1,False,Carly,other,2021,12
+1009,Chicago Med,US,7,2877155,Aqeel Ash-Shakoor,2,False,FBI Agent Russo,other,2021,12
+1010,Chicago Med,US,7,3355398,Philip Michael Toca,2,False,FBI Agent Sam Pearson,other,2021,12
+1011,Chicago Med,US,7,3355399,Tiffany Whalen,1,False,Choral Director,other,2021,12
+1012,Chicago Med,US,7,3355355,Freddie Lee Fleming Jr.,2,False,Seth Hodges,other,2021,12
+1013,Chicago Med,US,7,2005718,Aime Donna Kelly,1,False,Molly Hodges,other,2021,12
+1014,Chicago Med,US,7,1718872,June Schreiner,1,False,Nurse June,nurse,2021,12
+1015,Chicago Med,US,7,163888,Pascale Armand,1,False,Fabienne,other,2022,1
+1016,Chicago Med,US,7,2104685,Ethan Herisse,2,False,Emmanuel Sanon,other,2022,1
+1017,Chicago Med,US,7,3379025,Natalie Sallee,1,False,Sarah Rey,other,2022,1
+1018,Chicago Med,US,7,3379026,Nik Sharp,2,False,Luke Givens,other,2022,1
+1019,Chicago Med,US,7,134179,Brady Smith,2,False,Lawrence Givens,other,2022,1
+1020,Chicago Med,US,7,3379083,Bria,1,False,Lauren Jones,other,2022,1
+1021,Chicago Med,US,7,3379085,Willam Brown,2,False,Frank Varig,other,2022,1
+1022,Chicago Med,US,7,3379086,Kathleen Czajkowski,1,False,X-Ray Technician Kathleen,other,2022,1
+1023,Chicago Med,US,7,1753722,Sherrice Eaglin,1,False,Brenda,other,2022,1
+1024,Chicago Med,US,7,106023,Ron Harris,2,False,Keith Varig,other,2022,1
+1025,Chicago Med,US,7,2025638,Phuong Kubacki,1,False,Reporter Vera Marshall,other,2022,1
+1026,Chicago Med,US,7,3111496,Marlee Learner,1,False,Kelly Varig,other,2022,1
+1027,Chicago Med,US,7,1868564,Gracie Ray Loveland,1,False,Claudia Rey,other,2022,1
+1028,Chicago Med,US,7,1841528,Pat Parks,2,False,Judy Varig,other,2022,1
+1029,Chicago Med,US,7,2997027,Michelle Roberts,1,False,HR Rep Gina Cole,other,2022,1
+1030,Chicago Med,US,7,3364862,Josh Zagoren,2,False,Reporter Jim Myers,other,2022,1
+1031,Chicago Med,US,7,1452000,Johnny M. Wu,2,False,Dr. Randall Shentu,doctor,2022,1
+1032,Chicago Med,US,7,86563,Yasen Peyankov,2,False,Gregor,other,2022,1
+1033,Chicago Med,US,7,150781,Brian Guest,2,False,Wes Tucker,other,2022,1
+1034,Chicago Med,US,7,3401700,Gena Heylock,1,False,Nadia,other,2022,1
+1035,Chicago Med,US,7,2452831,Kathryn Acosta,1,False,EMT Lauryn,medic,2022,1
+1036,Chicago Med,US,7,3099927,James Gordon,2,False,Kent Taylor,other,2022,1
+1037,Chicago Med,US,7,3099926,Jeanne Sparrow,1,False,Bea Taylor,other,2022,1
+1038,Chicago Med,US,7,3050923,Emma Terrazas,1,False,Courier,other,2022,1
+1039,Chicago Med,US,7,1438278,Jerod Haynes,2,False,Terrell Walker,other,2022,1
+1040,Chicago Med,US,7,70776,Kellee Stewart,1,False,Carmen Walker,other,2022,1
+1041,Chicago Med,US,7,3401898,Anthony B. Jenkins,2,False,Darius Walker,other,2022,1
+1042,Chicago Med,US,7,2296580,Kristina Valada-Viars,1,False,Nurse Maya,nurse,2022,1
+1043,Chicago Med,US,7,60851,François Chau,2,False,Patrick Choi,other,2022,1
+1044,Chicago Med,US,7,1256126,Randy Flagler,2,False,Capp,other,2022,1
+1045,Chicago Med,US,7,2455509,Julie Proudfoot,1,False,Dr. Amy Watkins,doctor,2022,1
+1046,Chicago Med,US,7,3144159,Chris Rickett,2,False,Jonah Backman,other,2022,1
+1047,Chicago Med,US,7,2059929,Angela Sprinkle,1,False,Lisa Backman,other,2022,1
+1048,Chicago Med,US,7,1100549,Marina Squerciati,1,False,Kim Burgess,other,2022,1
+1049,Chicago Med,US,7,1335030,Rom Barkhordar,0,False,Dr. Leo Jahan,doctor,2022,1
+1050,Chicago Med,US,7,2504875,Andrew Eakle,2,False,Chad McCoy,other,2022,1
+1051,Chicago Med,US,7,3401939,Caprice Jones,1,False,Nurse Caprice,nurse,2022,1
+1052,Chicago Med,US,7,2456524,Timothy T. Harris,2,False,Officer Bedard,other,2022,1
+1053,Chicago Med,US,7,1411951,Matthew Isler,2,False,Paramedic Matt,medic,2022,1
+1054,Chicago Med,US,7,3401941,Jane McCreedy,1,False,Dorothy McCoy,other,2022,1
+1055,Chicago Med,US,7,3350889,Kev Morris Sr.,2,False,Security Guard,other,2022,1
+1056,Chicago Med,US,7,3401943,Rasika Ranganathan,0,False,Dr. Asha Mallick,doctor,2022,1
+1057,Chicago Med,US,7,179987,Michael Saad,2,False,Henry Abbott,other,2022,1
+1058,Chicago Med,US,7,1860776,Anthony Ferraris,2,False,Tony,other,2022,1
+1059,Chicago Med,US,7,2967265,Anna Zhang,1,False,Felicia,other,2022,1
+1060,Chicago Med,US,7,188347,Jorge Diaz,2,False,Mr. Torres,other,2022,2
+1061,Chicago Med,US,7,2218449,Ira Amyx,1,False,Pete,other,2022,2
+1062,Chicago Med,US,7,1233594,Lauren Frost,1,False,Emily Torres,other,2022,2
+1063,Chicago Med,US,7,1866571,Joy Nash,1,False,Cindy,other,2022,2
+1064,Chicago Med,US,7,174600,Dale Raoul,1,False,Lorraine Hendrix,doctor,2022,2
+1065,Chicago Med,US,7,1246223,Randy Bernales,2,False,Detective Victor Canosa,other,2022,2
+1066,Chicago Med,US,7,3465085,Steven Bernstein,2,False,Frank Conover,other,2022,2
+1067,Chicago Med,US,7,4496,Nora Dunn,1,False,Dr. Lonnie Richardson,doctor,2022,2
+1068,Chicago Med,US,7,116579,Max Gail,2,False,Ellis Turner,other,2022,3
+1069,Chicago Med,US,7,21124,Paula Garcés,1,False,Gia Lindahl,other,2022,3
+1070,Chicago Med,US,7,3465293,Elliot Sagay,2,False,Lenny,other,2022,3
+1071,Chicago Med,US,7,3109393,Deanna Myers,1,False,Dr. Betty Dunn,doctor,2022,3
+1072,Chicago Med,US,7,3465294,Ryan Bernales,2,False,Concierge,other,2022,3
+1073,Chicago Med,US,7,1490050,Lee Jones,1,False,Dr. Justin Morris,doctor,2022,3
+1074,Chicago Med,US,7,1844380,Clare Cooney,1,False,Gretchen Cameron,other,2022,3
+1075,Chicago Med,US,7,122676,Ann Hagemann,1,False,Janice Cunningham,other,2022,3
+1076,Chicago Med,US,7,3465591,Ryan Hall,2,False,Hospital Cop Eddie Breldin,other,2022,3
+1077,Chicago Med,US,7,3465595,Adam Joel,2,False,Adam Cunningham,other,2022,3
+1078,Chicago Med,US,7,1984459,Rebecca Jordan,1,False,Tanya Stuart,other,2022,3
+1079,Chicago Med,US,7,1514000,Adam Poss,2,False,Dr. Dylan Driskell,doctor,2022,3
+1080,Chicago Med,US,7,1757413,Ryan Satterfeal,2,False,Andre Stuart,doctor,2022,3
+1081,Chicago Med,US,7,2714815,Princess Elmore,1,False,Lt. Regina Jeffords,other,2022,3
+1082,Chicago Med,US,7,1058848,Riley Voelkel,1,False,Milena Jovanovic,other,2022,3
+1083,Chicago Med,US,7,3465590,Mehmet Can Aksoy,2,False,Goran,other,2022,3
+1084,Chicago Med,US,7,1528718,Devika Bhise,1,False,Varsha Patel,other,2022,3
+1085,Chicago Med,US,7,1431482,Anthony Lee Medina,2,False,Rudy Hernandez,other,2022,3
+1086,Chicago Med,US,7,1799461,Nandini Minocha,1,False,Kiran Patel,other,2022,3
+1087,Chicago Med,US,7,3468710,Jeremiah Alsop,2,False,Kendrick Miller,doctor,2022,3
+1088,Chicago Med,US,7,1375787,Anand Bhatt,2,False,Arjun,other,2022,3
+1089,Chicago Med,US,7,1577617,Jason Bradley,2,False,Dr. Gareth Cook,doctor,2022,3
+1090,Chicago Med,US,7,2068773,Connie Foster,1,False,Alice Price,other,2022,3
+1091,Chicago Med,US,7,1682540,Miriam Lee,1,False,Paramedic Miriam,medic,2022,3
+1092,Chicago Med,US,7,3468716,Steve McDonagh,2,False,David Price,other,2022,3
+1093,Chicago Med,US,7,3468717,Lila Midkiff,1,False,Lucy Miller,other,2022,3
+1094,Chicago Med,US,7,1903284,Loren Ashley Jones,1,False,Rose,other,2022,3
+1095,Chicago Med,US,7,1898796,LaShawn Hazelwood,1,False,Nurse La'Shawn,nurse,2022,3
+1096,Chicago Med,US,7,26974,Jessy Schram,1,False,Dr. Hannah Asher,doctor,2022,3
+1097,Chicago Med,US,7,3421283,Landon Tyler Smith,2,False,Stefan Batrovic,other,2022,3
+1098,Chicago Med,US,7,131783,Kayla Carlson,1,False,Ivy Clark,other,2022,4
+1099,Chicago Med,US,7,70304,Sarah Jane Morris,1,False,Mona Clark,other,2022,4
+1100,Chicago Med,US,7,3348482,Jessica Ridenour,1,False,Beth Stone,other,2022,4
+1101,Chicago Med,US,7,3500961,Jacob Bond,2,False,Ben,other,2022,4
+1102,Chicago Med,US,7,3500963,Ali Skamangas,1,False,Claire Stone,other,2022,4
+1103,Chicago Med,US,7,1371261,Andy McDermott,2,False,Security Chief Kenneth Madsen,other,2022,4
+1104,Chicago Med,US,7,3501189,Christopher E. Miller,2,False,Cop,other,2022,4
+1105,Chicago Med,US,7,3501190,Shawn Pfautsch,2,False,Dave Clark,other,2022,4
+1106,Chicago Med,US,7,3501192,Francisco Posada,2,False,Hector Nuñez,other,2022,4
+1107,Chicago Med,US,7,2817251,Julia Rowley,1,False,Nurse Marisa Cantrell,nurse,2022,4
+1108,Chicago Med,US,7,3267965,C.J. Salvador,2,False,Paco Ramirez,other,2022,4
+1109,Chicago Med,US,7,3501201,Joe Zarrow,2,False,Officer Hargrove,other,2022,4
+1110,Chicago Med,US,7,1193228,Kate Eastman,1,False,Petra Katsner / 'Lia',other,2022,4
+1111,Chicago Med,US,7,3518714,Zoe Mann,1,False,Krystal Hall,other,2022,4
+1112,Chicago Med,US,7,126488,Lauren Sweetser,1,False,Darlene Wells,other,2022,4
+1113,Chicago Med,US,7,2594876,Colton Adams,2,False,Gavin Wells,other,2022,4
+1114,Chicago Med,US,7,1326888,Nicolette Robinson,1,False,Tara Goodwin,other,2022,4
+1115,Chicago Med,US,7,1570286,Brenda Barrie,1,False,Meg Harris,other,2022,4
+1116,Chicago Med,US,7,2035539,Darius De La Cruz,2,False,Luis Peña,other,2022,4
+1117,Chicago Med,US,7,1372161,Elizabeth Laidlaw,1,False,Caitlin Walsh,other,2022,4
+1118,Chicago Med,US,7,3275878,Camille Perry,1,False,Zoe Walsh,other,2022,4
+1119,Chicago Med,US,7,1754629,Gillian Saker,1,False,Ingrid Sorenson,other,2022,4
+1120,Chicago Med,US,7,3518815,Jordan Coughtry,2,False,Jonathan Harris,other,2022,4
+1121,Chicago Med,US,7,3518816,Malia Hu,1,False,Mindy Zheng,other,2022,4
+1122,Chicago Med,US,7,360173,Gregory Linington,2,False,Theo Walsh,other,2022,4
+1123,Chicago Med,US,7,171601,Leon Addison Brown,2,False,Gerald Simmons,other,2022,4
+1124,Chicago Med,US,7,67017,Shawn Christian,2,False,Miles Henderson,other,2022,5
+1125,Chicago Med,US,7,80507,Stefan Kapičić,2,False,Nikola Corluka,other,2022,5
+1126,Chicago Med,US,7,34407,Rusty Schwimmer,1,False,Celeste Belkin,other,2022,5
+1127,Chicago Med,US,7,120889,Dayo Ade,2,False,Dorian Harwell,other,2022,5
+1128,Chicago Med,US,7,3597792,Erin Croom,1,False,Morgan Riley,other,2022,5
+1129,Chicago Med,US,7,1521370,Ty Fanning,2,False,Jesse Riley,other,2022,5
+1130,Chicago Med,US,7,1075097,Jelena Nik,1,False,Lina Corluka,other,2022,5
+1131,Chicago Med,US,7,3597879,Scarlett Kennedy,1,False,Ivy Corluka,other,2022,5
+1132,Chicago Med,US,7,3597880,Alexandria Neyhart,1,False,Anya Henderson,other,2022,5
+1133,Chicago Med,US,7,2663008,Judah Abner Paul,2,False,Zeke Belkin,other,2022,5
+1134,Chicago Med,US,7,134082,Amy Pietz,1,False,Deborah Miller,other,2022,5
+1135,Chicago Med,US,7,156342,Romy Rosemont,1,False,Lydia Reed,other,2022,5
+1136,Chicago Med,US,7,53572,Charles Malik Whitfield,2,False,Ben Campbell,other,2022,5
+1137,Chicago Med,US,7,2493268,Miguel Cohen,2,False,Officer Harris,other,2022,5
+1138,Chicago Med,US,7,1342463,Grace Victoria Cox,1,False,Kat Miller,other,2022,5
+1139,Chicago Med,US,7,3444959,Jane Lui,1,False,Alice Devers,other,2022,5
+1140,Chicago Med,US,7,3597911,Joe Chapleau,2,False,Sam Devers,other,2022,5
+1141,Chicago Med,US,7,3597912,Kenzie Luce,1,False,Dr. Marilyn Williams,doctor,2022,5
+1142,Chicago Med,US,7,3597913,Jeffery A. Wilds,2,False,Security Guard Frank,other,2022,5
+1143,Chicago Med,US,7,1480643,Hannah Riley,1,False,Anna Charles,other,2022,5
+1144,Chicago Med,US,7,1393311,Jake Brennan,2,False,Zach Dayle-Kalmick,other,2022,5
+1145,Chicago Med,US,7,2211961,Wayne T. Carr,2,False,Grant Young,other,2022,5
+1146,Chicago Med,US,7,1774934,Angela Morris,1,False,Julia Lambert,other,2022,5
+1147,Chicago Med,US,7,1887132,Lawrence Grimm,2,False,Lawrence Dayle,other,2022,5
+1148,Chicago Med,US,7,177255,Kate Mulligan,1,False,Donna Woods,other,2022,5
+1149,Chicago Med,US,7,14889,Connor Price,2,False,Owen West,other,2022,5
+1150,Chicago Med,US,7,1832074,Anja Akstin,1,False,Officer In Charge,other,2022,5
+1151,Chicago Med,US,7,3101601,Don Baker Jr.,2,False,Chaplain,other,2022,5
+1152,Chicago Med,US,7,3597936,Lauren Blakeman,1,False,Erin Porter,other,2022,5
+1153,Chicago Med,US,7,2759437,Michael Hargrove,2,False,Joe,other,2022,5
+1154,Chicago Med,US,7,3597937,Charlie Newton,2,False,Head Waiter,other,2022,5
+1155,Chicago Med,US,7,3597938,Joseph Tadeo,2,False,Rifle Team Leader,other,2022,5
+1156,Chicago Med,US,8,979639,Nick Gehlfuss,2,True,Dr. Will Halstead,doctor,2022,9
+1157,Chicago Med,US,8,116278,Brian Tee,2,True,Dr. Ethan Choi,doctor,2022,9
+1158,Chicago Med,US,8,146411,Dominic Rains,2,True,Dr. Crockett Marcel,doctor,2022,9
+1159,Chicago Med,US,8,1232555,Marlyne Barrett,1,True,Maggie Lockwood,doctor (probably),2022,9
+1160,Chicago Med,US,8,2389314,Guy Lockard,2,True,Dr. Dylan Scott,doctor,2022,9
+1161,Chicago Med,US,8,3978,S. Epatha Merkerson,1,True,Sharon Goodwin,doctor (probably),2022,9
+1162,Chicago Med,US,8,17485,Oliver Platt,2,True,Dr. Daniel Charles,doctor,2022,9

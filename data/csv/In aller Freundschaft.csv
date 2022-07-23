@@ -1,0 +1,605 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,In aller Freundschaft,DE,1,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,1998,10
+1,In aller Freundschaft,DE,1,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),1998,10
+2,In aller Freundschaft,DE,1,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),1998,10
+3,In aller Freundschaft,DE,1,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,1998,10
+4,In aller Freundschaft,DE,1,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),1998,10
+5,In aller Freundschaft,DE,1,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),1998,10
+6,In aller Freundschaft,DE,1,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,1998,10
+7,In aller Freundschaft,DE,1,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,1998,10
+8,In aller Freundschaft,DE,1,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),1998,10
+9,In aller Freundschaft,DE,1,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,1998,10
+10,In aller Freundschaft,DE,1,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,1998,10
+11,In aller Freundschaft,DE,1,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),1998,10
+12,In aller Freundschaft,DE,1,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),1998,10
+13,In aller Freundschaft,DE,1,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),1998,10
+14,In aller Freundschaft,DE,1,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),1998,10
+15,In aller Freundschaft,DE,1,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),1998,10
+16,In aller Freundschaft,DE,1,22594,Fred Delmare,2,True,Opa Friedrich,doctor,1998,10
+17,In aller Freundschaft,DE,1,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),1998,10
+18,In aller Freundschaft,DE,1,1210878,Martin Halm,2,False,Nicolas Claasen,other,1998,10
+19,In aller Freundschaft,DE,1,1510119,Ina Rudolph,1,False,Maia Dietz,other,1998,10
+20,In aller Freundschaft,DE,1,39863,Joachim Kretzer,2,False,Dr. Achim Kreutzer,doctor,1998,10
+21,In aller Freundschaft,DE,1,1327321,Igor Jeftic,2,False,Christoph Stark,other,1998,10
+22,In aller Freundschaft,DE,1,36730,Matthias Koeberlin,2,False,,other,1998,10
+23,In aller Freundschaft,DE,1,1568525,Tao Li Ma,1,False,Tina Wallbert,other,1998,10
+24,In aller Freundschaft,DE,1,115884,Axel Wandtke,2,False,Dr. Emanuel Barrach,doctor,1998,10
+25,In aller Freundschaft,DE,1,1180685,Cornelia Gröschel,1,False,Franzi Moers,other,1998,11
+26,In aller Freundschaft,DE,1,1245169,Karsten Kühn,2,False,Jakob Heilmann,other,1998,11
+27,In aller Freundschaft,DE,1,1806439,Barbara Geiger,1,False,Elke Lohnhardt,other,1998,11
+28,In aller Freundschaft,DE,1,50180,Hendrik Duryn,2,False,Bernhard Frisch,other,1998,11
+29,In aller Freundschaft,DE,1,38745,Kaspar Eichel,2,False,Kollege,other,1998,11
+30,In aller Freundschaft,DE,1,50373,Detlef Heintze,2,False,VfB Leipzig Manager,other,1998,11
+31,In aller Freundschaft,DE,1,1860727,Andreas Rehschuh,2,False,Konzertveranstalter,other,1998,11
+32,In aller Freundschaft,DE,1,233747,Theresa Scholze,1,False,Petra,other,1998,11
+33,In aller Freundschaft,DE,1,70462,Johannes Gabriel,2,False,Immobilienmakler,other,1998,11
+34,In aller Freundschaft,DE,1,23011,Frank-Otto Schenk,2,False,Starks Vater,other,1998,11
+35,In aller Freundschaft,DE,1,36712,Werner Dissel,2,False,Herr Kagel,other,1998,11
+36,In aller Freundschaft,DE,1,1397931,Barbara Frey,1,False,Bordellchefin,other,1998,11
+37,In aller Freundschaft,DE,1,2232300,Aimée Gneist,1,False,Prostituierte,other,1998,11
+38,In aller Freundschaft,DE,1,1821385,Jana Kozewa,1,False,Pamela Lutz,other,1998,11
+39,In aller Freundschaft,DE,1,36755,Peter Prager,2,False,Wirt,other,1998,11
+40,In aller Freundschaft,DE,1,1081094,Irma Münch,1,False,Mutter Lomatzsch,other,1998,11
+41,In aller Freundschaft,DE,1,39296,Simon Licht,2,False,Daniel Wander,other,1998,12
+42,In aller Freundschaft,DE,1,1307364,Angela Hobrig,1,False,Susanne Wander,other,1998,12
+43,In aller Freundschaft,DE,1,1359535,Joachim Kaps,2,False,Wirt,other,1998,12
+44,In aller Freundschaft,DE,1,1859544,Dorothea Garlin,1,False,Jugendamtsmitarbeiterin,other,1998,12
+45,In aller Freundschaft,DE,1,67493,Janette Rauch,1,False,Alexandra Maier,doctor,1998,12
+46,In aller Freundschaft,DE,1,36442,Ingeborg Westphal,1,False,Gynäkologin,other,1998,12
+47,In aller Freundschaft,DE,1,118433,Karin Düwel,1,False,Hannah Wöllner,other,1998,12
+48,In aller Freundschaft,DE,1,1791517,Bärbel Strecker,1,False,Marita Kremer,other,1999,1
+49,In aller Freundschaft,DE,1,41601,Bodo Frank,2,False,Steffen Reinke,other,1999,1
+50,In aller Freundschaft,DE,1,48428,Moritz Hegewald,2,False,,other,1999,1
+51,In aller Freundschaft,DE,1,1847575,Ron Holzschuh,2,False,Notarzt,other,1999,1
+52,In aller Freundschaft,DE,1,48905,Silke Matthias,1,False,Isolde Reinke,other,1999,1
+53,In aller Freundschaft,DE,1,1222984,Dietmar Huhn,2,False,Jochen Freytag,other,1999,1
+54,In aller Freundschaft,DE,1,23112,Günter Junghans,2,False,Arno Rischke,other,1999,1
+55,In aller Freundschaft,DE,1,59376,Heike Jonca,1,False,Gerda Freytag,other,1999,1
+56,In aller Freundschaft,DE,1,38622,Torsten Michaelis,2,False,Peter Neuner,other,1999,1
+57,In aller Freundschaft,DE,1,1486406,Angela Sandritter,1,False,Simonis Sekretärin,other,1999,1
+58,In aller Freundschaft,DE,1,1256854,Nicola Tiggeler,1,False,Asta Bond,other,1999,1
+59,In aller Freundschaft,DE,1,1156452,Andreas Arnstedt,2,False,Jonas Funke,other,1999,2
+60,In aller Freundschaft,DE,1,1645196,Esther Seibt,1,False,Jenny Geibel,other,1999,2
+61,In aller Freundschaft,DE,1,1741416,Matthias Hummitzsch,2,False,Dr. Fred Taler,doctor,1999,2
+62,In aller Freundschaft,DE,1,48828,Hilmar Eichhorn,2,False,Dr. jur. Nils Kanter,doctor,1999,3
+63,In aller Freundschaft,DE,1,52642,Elisabeth Niederer,1,False,Helen Kanter,other,1999,3
+64,In aller Freundschaft,DE,1,1897928,Miguel Abrantes Ostrowski,2,False,Dr. jur. Klaus Anders,doctor,1999,3
+65,In aller Freundschaft,DE,1,23644,Günther Grabbert,2,False,Otto Fischer,other,1999,3
+66,In aller Freundschaft,DE,1,39383,Cornelia Corba,1,False,Helena Ried,other,1999,3
+67,In aller Freundschaft,DE,1,22822,Ursula Am-Ende,1,False,Frau Fischer,other,1999,3
+68,In aller Freundschaft,DE,1,46170,Anouschka Renzi,1,False,Kathrin Arnhold,other,1999,3
+69,In aller Freundschaft,DE,1,1119022,Harald Effenberg,2,False,Dirk Arnhold,other,1999,3
+70,In aller Freundschaft,DE,1,1249799,Matthias Paul,2,False,Felix Schuster,other,1999,3
+71,In aller Freundschaft,DE,1,22856,Jaecki Schwarz,2,False,Hauptkommissar,other,1999,3
+72,In aller Freundschaft,DE,1,8205,Marie Gruber,1,False,Renate Grosser,other,1999,3
+73,In aller Freundschaft,DE,1,2116193,Siegfried Pappelbaum,2,False,Taxifahrer,other,1999,3
+74,In aller Freundschaft,DE,1,583911,Alexandra Finder,1,False,Model,other,1999,3
+75,In aller Freundschaft,DE,1,1515740,Marc Hetterle,2,False,Dieb #1,other,1999,4
+76,In aller Freundschaft,DE,1,1447187,Dagmar Sitte,1,False,Doris Stegert,other,1999,4
+77,In aller Freundschaft,DE,1,1096775,Zsolt Bács,2,False,Wolfgang Wiechert,other,1999,4
+78,In aller Freundschaft,DE,1,935729,Eva Blum,1,False,Eva Wiechert,other,1999,4
+79,In aller Freundschaft,DE,1,38738,Markus Hering,2,False,Richard Domitz,other,1999,4
+80,In aller Freundschaft,DE,1,1121269,Stephan Meyer-Kohlhoff,2,False,Thomas Lauban,other,1999,5
+81,In aller Freundschaft,DE,1,1477407,Katja Frenzel-Röhl,1,False,Annika Wendler,other,1999,5
+82,In aller Freundschaft,DE,1,37537,Dorit Gäbler,1,False,Uschi,other,1999,5
+83,In aller Freundschaft,DE,1,1920482,Thomas Gohlke,2,False,Peter Wendler,other,1999,5
+84,In aller Freundschaft,DE,1,66826,Ralf Bauer,2,False,Rüdiger Wüst,other,1999,6
+85,In aller Freundschaft,DE,1,1501990,Nadja Engel,1,False,Anita Wüst,other,1999,6
+86,In aller Freundschaft,DE,1,22379,Dieter Mann,2,False,Konrad Gerbert,other,1999,6
+87,In aller Freundschaft,DE,1,1822460,Heike Ronniger,1,False,,other,1999,6
+88,In aller Freundschaft,DE,1,1588403,Isabel Schosnig,1,False,Juliane 'Jule' Henninger,other,1999,6
+89,In aller Freundschaft,DE,1,1171444,Luciano Silvestrini,2,False,Kevin Wüst,other,1999,6
+90,In aller Freundschaft,DE,1,1178877,Gunter Schoß,2,False,Dr. Thomas Straub,doctor,1999,6
+91,In aller Freundschaft,DE,1,1515696,Wolfgang Hosfeld,2,False,Pfarrer Engelbrecht,other,1999,6
+92,In aller Freundschaft,DE,1,50374,Daniela Hoffmann,1,False,Frau Engelbrecht,other,1999,6
+93,In aller Freundschaft,DE,1,48613,Renate Krößner,1,False,Klara Heilmann,other,1999,7
+94,In aller Freundschaft,DE,1,23070,Günter Naumann,2,False,Otto Heilmann,other,1999,7
+95,In aller Freundschaft,DE,1,1856074,Gadji Alibo,2,False,Sammy Benour,other,1999,7
+96,In aller Freundschaft,DE,1,1815579,Marcus Michael Mies,2,False,Schläger,other,1999,7
+97,In aller Freundschaft,DE,1,1824180,Peer-Uwe Teska,2,False,Taxifahrer,other,1999,7
+98,In aller Freundschaft,DE,1,588136,Andrea Lüdke,1,False,Sandra Esser,doctor,1999,7
+99,In aller Freundschaft,DE,1,71434,Klaus-Peter Grap,2,False,Frau Essers Chef,other,1999,7
+100,In aller Freundschaft,DE,1,1449965,Torsten Ranft,2,False,Robert Esser,other,1999,7
+101,In aller Freundschaft,DE,2,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,1999,8
+102,In aller Freundschaft,DE,2,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),1999,8
+103,In aller Freundschaft,DE,2,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),1999,8
+104,In aller Freundschaft,DE,2,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,1999,8
+105,In aller Freundschaft,DE,2,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),1999,8
+106,In aller Freundschaft,DE,2,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),1999,8
+107,In aller Freundschaft,DE,2,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,1999,8
+108,In aller Freundschaft,DE,2,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,1999,8
+109,In aller Freundschaft,DE,2,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),1999,8
+110,In aller Freundschaft,DE,2,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,1999,8
+111,In aller Freundschaft,DE,2,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,1999,8
+112,In aller Freundschaft,DE,2,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),1999,8
+113,In aller Freundschaft,DE,2,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),1999,8
+114,In aller Freundschaft,DE,2,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),1999,8
+115,In aller Freundschaft,DE,2,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),1999,8
+116,In aller Freundschaft,DE,2,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),1999,8
+117,In aller Freundschaft,DE,2,22594,Fred Delmare,2,True,Opa Friedrich,doctor,1999,8
+118,In aller Freundschaft,DE,2,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),1999,8
+119,In aller Freundschaft,DE,2,10243,Carmen-Maja Antoni,1,False,Else Bittner,other,1999,8
+120,In aller Freundschaft,DE,2,3075672,Roman Weltzien,2,False,Frank,other,1999,8
+121,In aller Freundschaft,DE,2,52010,Lisa Maria Potthoff,1,False,Nadja,other,1999,9
+122,In aller Freundschaft,DE,2,1050916,Holger Handtke,2,False,Dieter Paulsen,other,1999,9
+123,In aller Freundschaft,DE,2,22944,Jenny Gröllmann,1,False,Marion Wagner,other,1999,10
+124,In aller Freundschaft,DE,2,582456,Wolfgang Winkler,2,False,Kommissar,other,1999,10
+125,In aller Freundschaft,DE,2,54840,Jörg Bundschuh,2,False,Jochen,other,1999,10
+126,In aller Freundschaft,DE,2,226588,Maximilian Grill,2,False,Hendrik Stoll,doctor,1999,11
+127,In aller Freundschaft,DE,2,688,Hermann Beyer,2,False,Schlossbesitzer,other,1999,11
+128,In aller Freundschaft,DE,2,6267,Anja Franke,1,False,Bianca,other,2000,2
+129,In aller Freundschaft,DE,2,3742,Heinrich Schafmeister,2,False,Matthias Reimers,other,2000,2
+130,In aller Freundschaft,DE,2,22849,Barbara Dittus,1,False,Anna Follie,other,2000,3
+131,In aller Freundschaft,DE,2,13539,Erika Skrotzki,1,False,Lena Follie,other,2000,3
+132,In aller Freundschaft,DE,2,31667,Lutz Blochberger,2,False,Herr Oberländer,other,2000,3
+133,In aller Freundschaft,DE,2,39908,Ulrike Krumbiegel,1,False,Frau Oberländer,other,2000,3
+134,In aller Freundschaft,DE,3,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2000,8
+135,In aller Freundschaft,DE,3,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2000,8
+136,In aller Freundschaft,DE,3,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2000,8
+137,In aller Freundschaft,DE,3,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2000,8
+138,In aller Freundschaft,DE,3,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2000,8
+139,In aller Freundschaft,DE,3,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2000,8
+140,In aller Freundschaft,DE,3,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2000,8
+141,In aller Freundschaft,DE,3,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2000,8
+142,In aller Freundschaft,DE,3,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2000,8
+143,In aller Freundschaft,DE,3,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2000,8
+144,In aller Freundschaft,DE,3,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2000,8
+145,In aller Freundschaft,DE,3,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2000,8
+146,In aller Freundschaft,DE,3,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2000,8
+147,In aller Freundschaft,DE,3,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2000,8
+148,In aller Freundschaft,DE,3,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2000,8
+149,In aller Freundschaft,DE,3,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2000,8
+150,In aller Freundschaft,DE,3,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2000,8
+151,In aller Freundschaft,DE,3,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2000,8
+152,In aller Freundschaft,DE,3,51441,Ursula Heyer,1,False,Madame Wenders,other,2000,10
+153,In aller Freundschaft,DE,3,6269,Elena Uhlig,1,False,Polizistin,other,2001,1
+154,In aller Freundschaft,DE,3,17565,Wilfried Dziallas,2,False,Herr Kramer,other,2001,1
+155,In aller Freundschaft,DE,3,22930,Herbert Köfer,2,False,Anton,other,2001,2
+156,In aller Freundschaft,DE,3,16244,Ilse Zielstorff,1,False,Frau Leistenschneider,other,2001,3
+157,In aller Freundschaft,DE,3,26233,Hans Peter Hallwachs,2,False,Professor Reutter,other,2001,4
+158,In aller Freundschaft,DE,3,1324234,Lara-Joy Körner,1,False,Alexandra Kriegel,doctor,2001,4
+159,In aller Freundschaft,DE,3,48240,Rebecca Immanuel,1,False,Anne,other,2001,5
+160,In aller Freundschaft,DE,3,10240,Robert Lohr,2,False,Thomas Martens,other,2001,6
+161,In aller Freundschaft,DE,3,43453,Stephan Luca,2,False,Adrian Lindbergh,doctor,2001,6
+162,In aller Freundschaft,DE,4,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2001,9
+163,In aller Freundschaft,DE,4,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2001,9
+164,In aller Freundschaft,DE,4,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2001,9
+165,In aller Freundschaft,DE,4,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2001,9
+166,In aller Freundschaft,DE,4,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2001,9
+167,In aller Freundschaft,DE,4,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2001,9
+168,In aller Freundschaft,DE,4,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2001,9
+169,In aller Freundschaft,DE,4,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2001,9
+170,In aller Freundschaft,DE,4,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2001,9
+171,In aller Freundschaft,DE,4,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2001,9
+172,In aller Freundschaft,DE,4,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2001,9
+173,In aller Freundschaft,DE,4,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2001,9
+174,In aller Freundschaft,DE,4,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2001,9
+175,In aller Freundschaft,DE,4,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2001,9
+176,In aller Freundschaft,DE,4,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2001,9
+177,In aller Freundschaft,DE,4,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2001,9
+178,In aller Freundschaft,DE,4,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2001,9
+179,In aller Freundschaft,DE,4,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2001,9
+180,In aller Freundschaft,DE,4,22949,Karin Gregorek,1,False,Gräfin von Löschwitz,other,2001,9
+181,In aller Freundschaft,DE,4,234040,Dana Golombek,1,False,Angelika Krauss,other,2001,9
+182,In aller Freundschaft,DE,4,22588,Gojko Mitić,2,False,Lupanitsch,other,2001,10
+183,In aller Freundschaft,DE,4,48513,Gerit Kling,1,False,Claudia Kaufmann,other,2001,12
+184,In aller Freundschaft,DE,4,1191622,Patrick Lindner,2,False,Heinz Masberg,other,2002,3
+185,In aller Freundschaft,DE,4,48400,Marion Kracht,1,False,Sabine Schneider,other,2002,4
+186,In aller Freundschaft,DE,4,20020,Sven Martinek,2,False,Christian Lentz,other,2002,5
+187,In aller Freundschaft,DE,4,1255214,Luca Zamperoni,2,False,David Beck,other,2002,5
+188,In aller Freundschaft,DE,4,36412,Karsten Speck,2,False,Jürgen Schuster,other,2002,6
+189,In aller Freundschaft,DE,4,1194755,Maike Bollow,1,False,Eva Schuster,other,2002,6
+190,In aller Freundschaft,DE,4,71390,Manuel Cortez,2,False,Christian Brehm,other,2002,7
+191,In aller Freundschaft,DE,4,19895,Vinzenz Kiefer,2,False,Sven Kerner,other,2002,7
+192,In aller Freundschaft,DE,5,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2002,8
+193,In aller Freundschaft,DE,5,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2002,8
+194,In aller Freundschaft,DE,5,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2002,8
+195,In aller Freundschaft,DE,5,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2002,8
+196,In aller Freundschaft,DE,5,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2002,8
+197,In aller Freundschaft,DE,5,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2002,8
+198,In aller Freundschaft,DE,5,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2002,8
+199,In aller Freundschaft,DE,5,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2002,8
+200,In aller Freundschaft,DE,5,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2002,8
+201,In aller Freundschaft,DE,5,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2002,8
+202,In aller Freundschaft,DE,5,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2002,8
+203,In aller Freundschaft,DE,5,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2002,8
+204,In aller Freundschaft,DE,5,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2002,8
+205,In aller Freundschaft,DE,5,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2002,8
+206,In aller Freundschaft,DE,5,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2002,8
+207,In aller Freundschaft,DE,5,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2002,8
+208,In aller Freundschaft,DE,5,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2002,8
+209,In aller Freundschaft,DE,5,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2002,8
+210,In aller Freundschaft,DE,5,48613,Renate Krößner,1,False,Monika Lindner,other,2002,9
+211,In aller Freundschaft,DE,5,16720,Bernd Stegemann,2,False,Klaus Lindner,other,2002,9
+212,In aller Freundschaft,DE,5,1320430,Michèle Marian,1,False,Christine Stein,other,2002,10
+213,In aller Freundschaft,DE,5,36025,Volker Lechtenbrink,2,False,Dr. Christoph Hartmann,doctor,2002,10
+214,In aller Freundschaft,DE,5,23279,Otto Mellies,2,False,Lorenz Grigoleit,other,2002,11
+215,In aller Freundschaft,DE,5,50180,Hendrik Duryn,2,False,Johannes Wagner,other,2002,12
+216,In aller Freundschaft,DE,5,6087,Claudia Geisler,1,False,Laura Hoffmann,other,2002,12
+217,In aller Freundschaft,DE,5,147450,Jessica Richter,1,False,Sandy McIntire,other,2002,12
+218,In aller Freundschaft,DE,5,18507,Günter Pfitzmann,2,False,Theo Köckritz,other,2002,12
+219,In aller Freundschaft,DE,5,100095,Horst Janson,2,False,Dr. Ingo Petersen,doctor,2003,1
+220,In aller Freundschaft,DE,5,5232,Martin May,2,False,Artur Bär,other,2003,1
+221,In aller Freundschaft,DE,5,48673,Roswitha Schreiner,1,False,Anita Bär,other,2003,1
+222,In aller Freundschaft,DE,5,36027,Fritz Wepper,2,False,Matthias Hofer,other,2003,4
+223,In aller Freundschaft,DE,5,1054831,Sophie Wepper,1,False,Nadine Hofer,other,2003,4
+224,In aller Freundschaft,DE,5,22190,Dieter Thomas Heck,2,False,Daniel Esser,other,2003,4
+225,In aller Freundschaft,DE,5,38773,Max Riemelt,2,False,Mirco Venske,other,2003,4
+226,In aller Freundschaft,DE,5,1307361,Astrid M. Fünderich,1,False,Iris Naumann,other,2003,5
+227,In aller Freundschaft,DE,5,51651,Joachim Paul Assböck,2,False,Andreas Sandlass,doctor,2003,5
+228,In aller Freundschaft,DE,5,1096775,Zsolt Bács,2,False,Carsten Sandlass,other,2003,5
+229,In aller Freundschaft,DE,5,44641,Timothy Peach,2,False,Piet Spengler,other,2003,6
+230,In aller Freundschaft,DE,5,49766,Kirsten Block,1,False,Dr. Ines Becker,doctor,2003,6
+231,In aller Freundschaft,DE,5,70116,Bernd Herzsprung,2,False,Richard Becker,other,2003,6
+232,In aller Freundschaft,DE,6,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2003,8
+233,In aller Freundschaft,DE,6,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2003,8
+234,In aller Freundschaft,DE,6,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2003,8
+235,In aller Freundschaft,DE,6,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2003,8
+236,In aller Freundschaft,DE,6,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2003,8
+237,In aller Freundschaft,DE,6,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2003,8
+238,In aller Freundschaft,DE,6,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2003,8
+239,In aller Freundschaft,DE,6,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2003,8
+240,In aller Freundschaft,DE,6,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2003,8
+241,In aller Freundschaft,DE,6,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2003,8
+242,In aller Freundschaft,DE,6,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2003,8
+243,In aller Freundschaft,DE,6,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2003,8
+244,In aller Freundschaft,DE,6,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2003,8
+245,In aller Freundschaft,DE,6,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2003,8
+246,In aller Freundschaft,DE,6,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2003,8
+247,In aller Freundschaft,DE,6,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2003,8
+248,In aller Freundschaft,DE,6,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2003,8
+249,In aller Freundschaft,DE,6,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2003,8
+250,In aller Freundschaft,DE,6,234091,Michael Lesch,2,False,Dr. Christian Meyerhoff,doctor,2003,8
+251,In aller Freundschaft,DE,6,234099,Marina Krogull,1,False,Christiane Zimmermann,other,2003,8
+252,In aller Freundschaft,DE,6,1411793,Moritz Führmann,2,False,Marius Zimmermann,other,2003,8
+253,In aller Freundschaft,DE,6,23643,Horst Drinda,2,False,Bernhard Schirmer,other,2003,9
+254,In aller Freundschaft,DE,6,22663,Annekathrin Bürger,1,False,Else Schirmer,other,2003,9
+255,In aller Freundschaft,DE,6,1801359,Mirco Wallraf,2,False,Ricardo Gutierrez,other,2003,9
+256,In aller Freundschaft,DE,6,1296749,Anne Kanis,1,False,Tina Maas-Gutierrez,other,2003,9
+257,In aller Freundschaft,DE,6,25496,Wolfgang Spier,2,False,Walter König,other,2003,11
+258,In aller Freundschaft,DE,6,47352,Johannes Heesters,2,False,Prof. Dr. Junghans,doctor,2003,11
+259,In aller Freundschaft,DE,6,1162691,Simone Rethel,1,False,Paula Junghans,other,2003,11
+260,In aller Freundschaft,DE,7,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2004,9
+261,In aller Freundschaft,DE,7,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2004,9
+262,In aller Freundschaft,DE,7,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2004,9
+263,In aller Freundschaft,DE,7,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2004,9
+264,In aller Freundschaft,DE,7,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2004,9
+265,In aller Freundschaft,DE,7,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2004,9
+266,In aller Freundschaft,DE,7,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2004,9
+267,In aller Freundschaft,DE,7,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2004,9
+268,In aller Freundschaft,DE,7,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2004,9
+269,In aller Freundschaft,DE,7,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2004,9
+270,In aller Freundschaft,DE,7,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2004,9
+271,In aller Freundschaft,DE,7,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2004,9
+272,In aller Freundschaft,DE,7,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2004,9
+273,In aller Freundschaft,DE,7,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2004,9
+274,In aller Freundschaft,DE,7,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2004,9
+275,In aller Freundschaft,DE,7,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2004,9
+276,In aller Freundschaft,DE,7,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2004,9
+277,In aller Freundschaft,DE,7,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2004,9
+278,In aller Freundschaft,DE,7,56820,Stephanie Charlotta Koetz,1,False,Nathalie Meinhardt,other,2004,11
+279,In aller Freundschaft,DE,8,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2005,10
+280,In aller Freundschaft,DE,8,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2005,10
+281,In aller Freundschaft,DE,8,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2005,10
+282,In aller Freundschaft,DE,8,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2005,10
+283,In aller Freundschaft,DE,8,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2005,10
+284,In aller Freundschaft,DE,8,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2005,10
+285,In aller Freundschaft,DE,8,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2005,10
+286,In aller Freundschaft,DE,8,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2005,10
+287,In aller Freundschaft,DE,8,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2005,10
+288,In aller Freundschaft,DE,8,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2005,10
+289,In aller Freundschaft,DE,8,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2005,10
+290,In aller Freundschaft,DE,8,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2005,10
+291,In aller Freundschaft,DE,8,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2005,10
+292,In aller Freundschaft,DE,8,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2005,10
+293,In aller Freundschaft,DE,8,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2005,10
+294,In aller Freundschaft,DE,8,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2005,10
+295,In aller Freundschaft,DE,8,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2005,10
+296,In aller Freundschaft,DE,8,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2005,10
+297,In aller Freundschaft,DE,8,688,Hermann Beyer,2,False,Karl Diesterweg,other,2005,11
+298,In aller Freundschaft,DE,8,50844,Peggy Lukac,1,False,Gisela Tschirner,other,2005,11
+299,In aller Freundschaft,DE,8,40213,Feo Aladag,1,False,Anne Schmidt,other,2005,12
+300,In aller Freundschaft,DE,9,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2006,7
+301,In aller Freundschaft,DE,9,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2006,7
+302,In aller Freundschaft,DE,9,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2006,7
+303,In aller Freundschaft,DE,9,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2006,7
+304,In aller Freundschaft,DE,9,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2006,7
+305,In aller Freundschaft,DE,9,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2006,7
+306,In aller Freundschaft,DE,9,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2006,7
+307,In aller Freundschaft,DE,9,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2006,7
+308,In aller Freundschaft,DE,9,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2006,7
+309,In aller Freundschaft,DE,9,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2006,7
+310,In aller Freundschaft,DE,9,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2006,7
+311,In aller Freundschaft,DE,9,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2006,7
+312,In aller Freundschaft,DE,9,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2006,7
+313,In aller Freundschaft,DE,9,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2006,7
+314,In aller Freundschaft,DE,9,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2006,7
+315,In aller Freundschaft,DE,9,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2006,7
+316,In aller Freundschaft,DE,9,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2006,7
+317,In aller Freundschaft,DE,9,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2006,7
+318,In aller Freundschaft,DE,9,1385566,Miriam Martín,1,False,Angelina Lahm,other,2007,7
+319,In aller Freundschaft,DE,10,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2007,9
+320,In aller Freundschaft,DE,10,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2007,9
+321,In aller Freundschaft,DE,10,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2007,9
+322,In aller Freundschaft,DE,10,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2007,9
+323,In aller Freundschaft,DE,10,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2007,9
+324,In aller Freundschaft,DE,10,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2007,9
+325,In aller Freundschaft,DE,10,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2007,9
+326,In aller Freundschaft,DE,10,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2007,9
+327,In aller Freundschaft,DE,10,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2007,9
+328,In aller Freundschaft,DE,10,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2007,9
+329,In aller Freundschaft,DE,10,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2007,9
+330,In aller Freundschaft,DE,10,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2007,9
+331,In aller Freundschaft,DE,10,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2007,9
+332,In aller Freundschaft,DE,10,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2007,9
+333,In aller Freundschaft,DE,10,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2007,9
+334,In aller Freundschaft,DE,10,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2007,9
+335,In aller Freundschaft,DE,10,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2007,9
+336,In aller Freundschaft,DE,10,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2007,9
+337,In aller Freundschaft,DE,11,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2008,9
+338,In aller Freundschaft,DE,11,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2008,9
+339,In aller Freundschaft,DE,11,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2008,9
+340,In aller Freundschaft,DE,11,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2008,9
+341,In aller Freundschaft,DE,11,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2008,9
+342,In aller Freundschaft,DE,11,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2008,9
+343,In aller Freundschaft,DE,11,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2008,9
+344,In aller Freundschaft,DE,11,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2008,9
+345,In aller Freundschaft,DE,11,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2008,9
+346,In aller Freundschaft,DE,11,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2008,9
+347,In aller Freundschaft,DE,11,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2008,9
+348,In aller Freundschaft,DE,11,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2008,9
+349,In aller Freundschaft,DE,11,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2008,9
+350,In aller Freundschaft,DE,11,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2008,9
+351,In aller Freundschaft,DE,11,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2008,9
+352,In aller Freundschaft,DE,11,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2008,9
+353,In aller Freundschaft,DE,11,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2008,9
+354,In aller Freundschaft,DE,11,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2008,9
+355,In aller Freundschaft,DE,12,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2009,8
+356,In aller Freundschaft,DE,12,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2009,8
+357,In aller Freundschaft,DE,12,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2009,8
+358,In aller Freundschaft,DE,12,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2009,8
+359,In aller Freundschaft,DE,12,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2009,8
+360,In aller Freundschaft,DE,12,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2009,8
+361,In aller Freundschaft,DE,12,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2009,8
+362,In aller Freundschaft,DE,12,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2009,8
+363,In aller Freundschaft,DE,12,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2009,8
+364,In aller Freundschaft,DE,12,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2009,8
+365,In aller Freundschaft,DE,12,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2009,8
+366,In aller Freundschaft,DE,12,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2009,8
+367,In aller Freundschaft,DE,12,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2009,8
+368,In aller Freundschaft,DE,12,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2009,8
+369,In aller Freundschaft,DE,12,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2009,8
+370,In aller Freundschaft,DE,12,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2009,8
+371,In aller Freundschaft,DE,12,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2009,8
+372,In aller Freundschaft,DE,12,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2009,8
+373,In aller Freundschaft,DE,12,49200,Denise Zich,1,False,Dr. Isabel Dahl,doctor,2010,4
+374,In aller Freundschaft,DE,13,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2010,7
+375,In aller Freundschaft,DE,13,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2010,7
+376,In aller Freundschaft,DE,13,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2010,7
+377,In aller Freundschaft,DE,13,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2010,7
+378,In aller Freundschaft,DE,13,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2010,7
+379,In aller Freundschaft,DE,13,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2010,7
+380,In aller Freundschaft,DE,13,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2010,7
+381,In aller Freundschaft,DE,13,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2010,7
+382,In aller Freundschaft,DE,13,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2010,7
+383,In aller Freundschaft,DE,13,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2010,7
+384,In aller Freundschaft,DE,13,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2010,7
+385,In aller Freundschaft,DE,13,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2010,7
+386,In aller Freundschaft,DE,13,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2010,7
+387,In aller Freundschaft,DE,13,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2010,7
+388,In aller Freundschaft,DE,13,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2010,7
+389,In aller Freundschaft,DE,13,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2010,7
+390,In aller Freundschaft,DE,13,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2010,7
+391,In aller Freundschaft,DE,13,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2010,7
+392,In aller Freundschaft,DE,13,48683,Anna Böttcher,1,False,Michaela Fritsche,other,2011,4
+393,In aller Freundschaft,DE,14,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2011,9
+394,In aller Freundschaft,DE,14,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2011,9
+395,In aller Freundschaft,DE,14,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2011,9
+396,In aller Freundschaft,DE,14,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2011,9
+397,In aller Freundschaft,DE,14,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2011,9
+398,In aller Freundschaft,DE,14,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2011,9
+399,In aller Freundschaft,DE,14,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2011,9
+400,In aller Freundschaft,DE,14,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2011,9
+401,In aller Freundschaft,DE,14,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2011,9
+402,In aller Freundschaft,DE,14,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2011,9
+403,In aller Freundschaft,DE,14,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2011,9
+404,In aller Freundschaft,DE,14,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2011,9
+405,In aller Freundschaft,DE,14,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2011,9
+406,In aller Freundschaft,DE,14,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2011,9
+407,In aller Freundschaft,DE,14,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2011,9
+408,In aller Freundschaft,DE,14,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2011,9
+409,In aller Freundschaft,DE,14,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2011,9
+410,In aller Freundschaft,DE,14,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2011,9
+411,In aller Freundschaft,DE,14,234090,Elisabeth Lanz,1,False,Dr. Susanne Mertens,doctor,2011,12
+412,In aller Freundschaft,DE,14,48240,Rebecca Immanuel,1,False,Sandra Weller,doctor,2011,12
+413,In aller Freundschaft,DE,15,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2012,9
+414,In aller Freundschaft,DE,15,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2012,9
+415,In aller Freundschaft,DE,15,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2012,9
+416,In aller Freundschaft,DE,15,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2012,9
+417,In aller Freundschaft,DE,15,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2012,9
+418,In aller Freundschaft,DE,15,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2012,9
+419,In aller Freundschaft,DE,15,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2012,9
+420,In aller Freundschaft,DE,15,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2012,9
+421,In aller Freundschaft,DE,15,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2012,9
+422,In aller Freundschaft,DE,15,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2012,9
+423,In aller Freundschaft,DE,15,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2012,9
+424,In aller Freundschaft,DE,15,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2012,9
+425,In aller Freundschaft,DE,15,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2012,9
+426,In aller Freundschaft,DE,15,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2012,9
+427,In aller Freundschaft,DE,15,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2012,9
+428,In aller Freundschaft,DE,15,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2012,9
+429,In aller Freundschaft,DE,15,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2012,9
+430,In aller Freundschaft,DE,15,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2012,9
+431,In aller Freundschaft,DE,16,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2013,1
+432,In aller Freundschaft,DE,16,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2013,1
+433,In aller Freundschaft,DE,16,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2013,1
+434,In aller Freundschaft,DE,16,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2013,1
+435,In aller Freundschaft,DE,16,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2013,1
+436,In aller Freundschaft,DE,16,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2013,1
+437,In aller Freundschaft,DE,16,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2013,1
+438,In aller Freundschaft,DE,16,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2013,1
+439,In aller Freundschaft,DE,16,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2013,1
+440,In aller Freundschaft,DE,16,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2013,1
+441,In aller Freundschaft,DE,16,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2013,1
+442,In aller Freundschaft,DE,16,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2013,1
+443,In aller Freundschaft,DE,16,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2013,1
+444,In aller Freundschaft,DE,16,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2013,1
+445,In aller Freundschaft,DE,16,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2013,1
+446,In aller Freundschaft,DE,16,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2013,1
+447,In aller Freundschaft,DE,16,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2013,1
+448,In aller Freundschaft,DE,16,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2013,1
+449,In aller Freundschaft,DE,16,1823713,Katja Preuß,1,False,Anni Klein,other,2013,10
+450,In aller Freundschaft,DE,16,10236,Jörg Schüttauf,2,False,Ulrich Seibel,other,2013,12
+451,In aller Freundschaft,DE,16,22856,Jaecki Schwarz,2,False,Jürgen Strauber,other,2013,12
+452,In aller Freundschaft,DE,17,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2014,7
+453,In aller Freundschaft,DE,17,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2014,7
+454,In aller Freundschaft,DE,17,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2014,7
+455,In aller Freundschaft,DE,17,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2014,7
+456,In aller Freundschaft,DE,17,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2014,7
+457,In aller Freundschaft,DE,17,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2014,7
+458,In aller Freundschaft,DE,17,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2014,7
+459,In aller Freundschaft,DE,17,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2014,7
+460,In aller Freundschaft,DE,17,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2014,7
+461,In aller Freundschaft,DE,17,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2014,7
+462,In aller Freundschaft,DE,17,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2014,7
+463,In aller Freundschaft,DE,17,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2014,7
+464,In aller Freundschaft,DE,17,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2014,7
+465,In aller Freundschaft,DE,17,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2014,7
+466,In aller Freundschaft,DE,17,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2014,7
+467,In aller Freundschaft,DE,17,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2014,7
+468,In aller Freundschaft,DE,17,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2014,7
+469,In aller Freundschaft,DE,17,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2014,7
+470,In aller Freundschaft,DE,17,1587613,Kristina Dörfer,1,False,Anna Schöning,other,2014,7
+471,In aller Freundschaft,DE,17,1608974,Daan Lennard Liebrenz,2,False,Markus Lehmann,other,2014,9
+472,In aller Freundschaft,DE,18,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2015,8
+473,In aller Freundschaft,DE,18,1245160,Hendrikje Fitz,1,True,Pia Heilmann,doctor (probably),2015,8
+474,In aller Freundschaft,DE,18,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2015,8
+475,In aller Freundschaft,DE,18,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2015,8
+476,In aller Freundschaft,DE,18,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2015,8
+477,In aller Freundschaft,DE,18,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2015,8
+478,In aller Freundschaft,DE,18,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2015,8
+479,In aller Freundschaft,DE,18,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2015,8
+480,In aller Freundschaft,DE,18,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2015,8
+481,In aller Freundschaft,DE,18,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2015,8
+482,In aller Freundschaft,DE,18,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2015,8
+483,In aller Freundschaft,DE,18,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2015,8
+484,In aller Freundschaft,DE,18,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2015,8
+485,In aller Freundschaft,DE,18,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2015,8
+486,In aller Freundschaft,DE,18,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2015,8
+487,In aller Freundschaft,DE,18,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2015,8
+488,In aller Freundschaft,DE,18,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2015,8
+489,In aller Freundschaft,DE,18,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2015,8
+490,In aller Freundschaft,DE,18,52105,Heio von Stetten,2,False,Alexander Weber,other,2015,10
+491,In aller Freundschaft,DE,19,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2016,1
+492,In aller Freundschaft,DE,19,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2016,1
+493,In aller Freundschaft,DE,19,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2016,1
+494,In aller Freundschaft,DE,19,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2016,1
+495,In aller Freundschaft,DE,19,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2016,1
+496,In aller Freundschaft,DE,19,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2016,1
+497,In aller Freundschaft,DE,19,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2016,1
+498,In aller Freundschaft,DE,19,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2016,1
+499,In aller Freundschaft,DE,19,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2016,1
+500,In aller Freundschaft,DE,19,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2016,1
+501,In aller Freundschaft,DE,19,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2016,1
+502,In aller Freundschaft,DE,19,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2016,1
+503,In aller Freundschaft,DE,19,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2016,1
+504,In aller Freundschaft,DE,19,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2016,1
+505,In aller Freundschaft,DE,19,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2016,1
+506,In aller Freundschaft,DE,19,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2016,1
+507,In aller Freundschaft,DE,19,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2016,1
+508,In aller Freundschaft,DE,19,94251,Markus Böker,2,True,Prof. Dario Brosi,doctor (probably),2016,1
+509,In aller Freundschaft,DE,19,1454055,Gisa Zach,1,False,Sabine Himmelweiss,other,2016,2
+510,In aller Freundschaft,DE,19,1149170,Anja Nejarri,1,False,Dr. Lea Peters,doctor,2016,3
+511,In aller Freundschaft,DE,19,49703,Isabel Bongard,1,False,Jessika Wendel,other,2016,3
+512,In aller Freundschaft,DE,19,11609,Floriane Daniel,1,False,Silke Bluhm,other,2016,3
+513,In aller Freundschaft,DE,19,44569,Bülent Sharif,2,False,Enes Ceylan,other,2016,3
+514,In aller Freundschaft,DE,19,585718,Tom Mikulla,2,False,Simon Haas,other,2016,3
+515,In aller Freundschaft,DE,19,48273,Arnfried Lerche,2,False,Götz Neumeier,other,2016,11
+516,In aller Freundschaft,DE,19,8802,Michael Mendl,2,False,Joseph Bernau,other,2016,11
+517,In aller Freundschaft,DE,20,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2017,1
+518,In aller Freundschaft,DE,20,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2017,1
+519,In aller Freundschaft,DE,20,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2017,1
+520,In aller Freundschaft,DE,20,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2017,1
+521,In aller Freundschaft,DE,20,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2017,1
+522,In aller Freundschaft,DE,20,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2017,1
+523,In aller Freundschaft,DE,20,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2017,1
+524,In aller Freundschaft,DE,20,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2017,1
+525,In aller Freundschaft,DE,20,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2017,1
+526,In aller Freundschaft,DE,20,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2017,1
+527,In aller Freundschaft,DE,20,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2017,1
+528,In aller Freundschaft,DE,20,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2017,1
+529,In aller Freundschaft,DE,20,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2017,1
+530,In aller Freundschaft,DE,20,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2017,1
+531,In aller Freundschaft,DE,20,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2017,1
+532,In aller Freundschaft,DE,20,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2017,1
+533,In aller Freundschaft,DE,20,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2017,1
+534,In aller Freundschaft,DE,20,94251,Markus Böker,2,True,Prof. Dario Brosi,doctor (probably),2017,1
+535,In aller Freundschaft,DE,21,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2018,1
+536,In aller Freundschaft,DE,21,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2018,1
+537,In aller Freundschaft,DE,21,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2018,1
+538,In aller Freundschaft,DE,21,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2018,1
+539,In aller Freundschaft,DE,21,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2018,1
+540,In aller Freundschaft,DE,21,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2018,1
+541,In aller Freundschaft,DE,21,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2018,1
+542,In aller Freundschaft,DE,21,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2018,1
+543,In aller Freundschaft,DE,21,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2018,1
+544,In aller Freundschaft,DE,21,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2018,1
+545,In aller Freundschaft,DE,21,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2018,1
+546,In aller Freundschaft,DE,21,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2018,1
+547,In aller Freundschaft,DE,21,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2018,1
+548,In aller Freundschaft,DE,21,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2018,1
+549,In aller Freundschaft,DE,21,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2018,1
+550,In aller Freundschaft,DE,21,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2018,1
+551,In aller Freundschaft,DE,21,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2018,1
+552,In aller Freundschaft,DE,21,1961946,Cai Cohrs,2,False,Mattis Pauli,other,2018,7
+553,In aller Freundschaft,DE,22,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2019,1
+554,In aller Freundschaft,DE,22,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2019,1
+555,In aller Freundschaft,DE,22,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2019,1
+556,In aller Freundschaft,DE,22,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2019,1
+557,In aller Freundschaft,DE,22,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2019,1
+558,In aller Freundschaft,DE,22,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2019,1
+559,In aller Freundschaft,DE,22,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2019,1
+560,In aller Freundschaft,DE,22,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2019,1
+561,In aller Freundschaft,DE,22,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2019,1
+562,In aller Freundschaft,DE,22,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2019,1
+563,In aller Freundschaft,DE,22,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2019,1
+564,In aller Freundschaft,DE,22,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2019,1
+565,In aller Freundschaft,DE,22,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2019,1
+566,In aller Freundschaft,DE,22,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2019,1
+567,In aller Freundschaft,DE,22,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2019,1
+568,In aller Freundschaft,DE,22,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2019,1
+569,In aller Freundschaft,DE,22,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2019,1
+570,In aller Freundschaft,DE,23,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2020,1
+571,In aller Freundschaft,DE,23,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2020,1
+572,In aller Freundschaft,DE,23,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2020,1
+573,In aller Freundschaft,DE,23,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2020,1
+574,In aller Freundschaft,DE,23,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2020,1
+575,In aller Freundschaft,DE,23,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2020,1
+576,In aller Freundschaft,DE,23,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2020,1
+577,In aller Freundschaft,DE,23,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2020,1
+578,In aller Freundschaft,DE,23,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2020,1
+579,In aller Freundschaft,DE,23,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2020,1
+580,In aller Freundschaft,DE,23,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2020,1
+581,In aller Freundschaft,DE,23,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2020,1
+582,In aller Freundschaft,DE,23,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2020,1
+583,In aller Freundschaft,DE,23,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2020,1
+584,In aller Freundschaft,DE,23,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2020,1
+585,In aller Freundschaft,DE,23,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2020,1
+586,In aller Freundschaft,DE,23,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2020,1
+587,In aller Freundschaft,DE,24,1245159,Thomas Rühmann,2,True,Dr. Roland Heilmann,doctor,2021,3
+588,In aller Freundschaft,DE,24,43163,Ursula Karusseit,1,True,Charlotte Gauss,doctor (probably),2021,3
+589,In aller Freundschaft,DE,24,1245163,Andrea-Kathrin Loewig,1,True,Dr. Kathrin Globisch,doctor,2021,3
+590,In aller Freundschaft,DE,24,5210,Alexa Maria Surholt,1,True,Sarah Marquardt,doctor (probably),2021,3
+591,In aller Freundschaft,DE,24,1245164,Uta Schorn,1,True,Barbara Grigoleit,doctor (probably),2021,3
+592,In aller Freundschaft,DE,24,1245165,Thomas Koch,2,True,Dr. Philipp Brentano,doctor,2021,3
+593,In aller Freundschaft,DE,24,1245167,Cheryl Shepard,1,True,Dr. Elena Eichhorn,doctor,2021,3
+594,In aller Freundschaft,DE,24,16243,Rolf Becker,2,True,Otto Stein,doctor (probably),2021,3
+595,In aller Freundschaft,DE,24,36468,Bernhard Bettermann,2,True,Dr. Martin Stein,doctor,2021,3
+596,In aller Freundschaft,DE,24,31643,Udo Schenk,2,True,Dr. Rolf Kaminski,doctor,2021,3
+597,In aller Freundschaft,DE,24,1245170,Stephen Dürr,2,True,Vladi Nemetz,doctor (probably),2021,3
+598,In aller Freundschaft,DE,24,1245171,Steve Windolf,2,True,Sebastian Maier,doctor (probably),2021,3
+599,In aller Freundschaft,DE,24,1245174,Alissa Jung,1,True,Alina Heilmann,doctor (probably),2021,3
+600,In aller Freundschaft,DE,24,1245162,Dieter Bellmann,2,True,Prof. Gernot Simoni,doctor (probably),2021,3
+601,In aller Freundschaft,DE,24,1245158,Maren Gilzer,1,True,Yvonne Habermann,doctor (probably),2021,3
+602,In aller Freundschaft,DE,24,22594,Fred Delmare,2,True,Opa Friedrich,doctor,2021,3
+603,In aller Freundschaft,DE,24,1245161,Jutta Kammann,1,True,Ingrid Rischke,doctor (probably),2021,3

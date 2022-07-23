@@ -1,0 +1,503 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Für alle Fälle Stefanie,DE,1,1331847,Kathrin Waligura,1,True,Stefanie Engel,doctor (probably),1995,5
+1,Für alle Fälle Stefanie,DE,1,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),1995,5
+2,Für alle Fälle Stefanie,DE,1,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),1995,5
+3,Für alle Fälle Stefanie,DE,1,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),1995,5
+4,Für alle Fälle Stefanie,DE,1,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),1995,5
+5,Für alle Fälle Stefanie,DE,1,1509128,Andrea Solter,1,True,Claudia Willecke,doctor (probably),1995,5
+6,Für alle Fälle Stefanie,DE,1,1210878,Martin Halm,2,True,Timo Lennart,doctor (probably),1995,5
+7,Für alle Fälle Stefanie,DE,1,1827806,Jürgen F.  Schmid,2,True,Mark Tenschert,doctor (probably),1995,5
+8,Für alle Fälle Stefanie,DE,1,31847,Carolina Vera,1,True,Sevinc Bilin,doctor (probably),1995,5
+9,Für alle Fälle Stefanie,DE,1,1208188,Alexander Heidenreich,2,True,Tom,doctor (probably),1995,5
+10,Für alle Fälle Stefanie,DE,1,38682,Martin Umbach,2,False,Peter Engel,other,1995,5
+11,Für alle Fälle Stefanie,DE,1,36709,Götz Schubert,2,False,Marcel Grandtke,other,1995,5
+12,Für alle Fälle Stefanie,DE,1,1018456,Franz Viehmann,2,False,Horst Mehring,other,1995,5
+13,Für alle Fälle Stefanie,DE,1,1640847,Sebastian Hartmann,2,False,Michael Mehring,other,1995,5
+14,Für alle Fälle Stefanie,DE,1,1597698,Petra Dobbertin,1,False,Evi Grandke,other,1995,5
+15,Für alle Fälle Stefanie,DE,1,1428160,Matthias Zahlbaum,2,False,Torsten Liebau,other,1995,5
+16,Für alle Fälle Stefanie,DE,1,1574553,Manfred Richter,2,False,Kowalski,other,1995,5
+17,Für alle Fälle Stefanie,DE,1,1339052,Hildegard Alex,1,False,Mrs. Engel,other,1995,5
+18,Für alle Fälle Stefanie,DE,1,22962,Helga Göring,1,False,Ms. Hahnemann,other,1995,5
+19,Für alle Fälle Stefanie,DE,1,553500,Nicolás Artajo,2,False,Alexander Engel,other,1995,5
+20,Für alle Fälle Stefanie,DE,1,22849,Barbara Dittus,1,False,Ms. Simon,other,1995,5
+21,Für alle Fälle Stefanie,DE,1,22719,Marga Legal,1,False,Minna Gießmann,other,1995,5
+22,Für alle Fälle Stefanie,DE,1,19524,Tilly Lauenstein,1,False,Ms. Stein,other,1995,5
+23,Für alle Fälle Stefanie,DE,1,2726,Brigitte Mira,1,False,Hiltrud Steinmetz,other,1995,5
+24,Für alle Fälle Stefanie,DE,1,1102181,Saskia Valencia,1,False,Corinna Küppers,other,1995,5
+25,Für alle Fälle Stefanie,DE,1,49052,Rainer Strecker,2,False,Jochen Janssen,other,1995,5
+26,Für alle Fälle Stefanie,DE,1,36928,Horst Krause,2,False,Geppert,other,1995,5
+27,Für alle Fälle Stefanie,DE,1,987550,Mathias Herrmann,2,False,Mr. Sutter,other,1995,5
+28,Für alle Fälle Stefanie,DE,1,26419,Gunnar Möller,2,False,Mr. Eichendorf,other,1995,5
+29,Für alle Fälle Stefanie,DE,1,1245164,Uta Schorn,1,False,Ms. Maiwald,other,1995,6
+30,Für alle Fälle Stefanie,DE,1,1316924,Claudia Wedekind,1,False,Ms. Kos,other,1995,6
+31,Für alle Fälle Stefanie,DE,1,26617,Manfred Lehmann,2,False,Guido Kollner,other,1995,6
+32,Für alle Fälle Stefanie,DE,1,27071,Günter Schubert,2,False,Wolfgang Minden,other,1995,6
+33,Für alle Fälle Stefanie,DE,1,26900,Walter Buschhoff,2,False,Lothar Behr,other,1995,6
+34,Für alle Fälle Stefanie,DE,1,18540,Mady Rahl,1,False,Frau Müller,other,1995,6
+35,Für alle Fälle Stefanie,DE,1,1310540,Gerda Gmelin,1,False,Frau Bongardt,other,1995,6
+36,Für alle Fälle Stefanie,DE,1,1311647,Friedhelm Ptok,2,False,Friedhelm Sökeland,other,1995,7
+37,Für alle Fälle Stefanie,DE,1,20020,Sven Martinek,2,False,Holger Henning,other,1995,7
+38,Für alle Fälle Stefanie,DE,1,1330945,Regina Lemnitz,1,False,Frau Müller,other,1995,7
+39,Für alle Fälle Stefanie,DE,1,1052246,Özay Fecht,1,False,Frau Bilin,other,1995,7
+40,Für alle Fälle Stefanie,DE,1,1326798,Ilknur Boyraz,1,False,Aylin Ingöz,other,1995,7
+41,Für alle Fälle Stefanie,DE,1,233406,Klaus Wildbolz,2,False,Mr. Kunert,other,1995,7
+42,Für alle Fälle Stefanie,DE,1,22983,Monika Woytowicz,1,False,Mrs. Kunert,other,1995,7
+43,Für alle Fälle Stefanie,DE,1,41692,Dagmar Biener,1,False,Boris' Mother,other,1995,7
+44,Für alle Fälle Stefanie,DE,1,1320430,Michèle Marian,1,False,Lydia Schönborn,other,1995,7
+45,Für alle Fälle Stefanie,DE,1,11952,Gudrun Okras,1,False,Frau Rößrath,other,1995,7
+46,Für alle Fälle Stefanie,DE,1,1828398,Heidrun Perdelwitz,1,False,Dagmar Mens,other,1995,7
+47,Für alle Fälle Stefanie,DE,1,26568,Inge Wolffberg,1,False,Helga Altmann,other,1995,8
+48,Für alle Fälle Stefanie,DE,1,67193,Hansi Jochmann,1,False,Frau Müller,other,1995,8
+49,Für alle Fälle Stefanie,DE,1,1307363,Walter Plathe,2,False,Elmar Ott,other,1995,8
+50,Für alle Fälle Stefanie,DE,1,33121,Max Volkert Martens,2,False,Hans Berg,other,1995,8
+51,Für alle Fälle Stefanie,DE,1,19884,Daniela Ziegler,1,False,Sylvia Berg,other,1995,8
+52,Für alle Fälle Stefanie,DE,1,36501,Karin Thaler,1,False,Nina Bernstein,other,1995,8
+53,Für alle Fälle Stefanie,DE,1,1160356,Jeannine Burch,1,False,Jessica,other,1995,8
+54,Für alle Fälle Stefanie,DE,1,48549,Susanna Capurso,1,False,Frau Tommasi,other,1995,8
+55,Für alle Fälle Stefanie,DE,1,39306,Karl-Heinz Vosgerau,2,False,Prof. Ulrich Gebauer,other,1995,8
+56,Für alle Fälle Stefanie,DE,1,582456,Wolfgang Winkler,2,False,Briefträger Birkel,other,1995,8
+57,Für alle Fälle Stefanie,DE,1,1176500,Claus Ringer,2,False,Kilian Basedow,other,1995,9
+58,Für alle Fälle Stefanie,DE,1,38906,Katja Rupé,1,False,Rita,other,1995,9
+59,Für alle Fälle Stefanie,DE,1,143480,Charles Brauer,2,False,Hans-Gerd Schäfer,other,1995,9
+60,Für alle Fälle Stefanie,DE,1,1293,Franziska Troegner,1,False,Jutta Vogler,other,1995,9
+61,Für alle Fälle Stefanie,DE,1,4924,Martin Semmelrogge,2,False,Matthias Stelzer,other,1995,9
+62,Für alle Fälle Stefanie,DE,1,41776,Veit Stübner,2,False,Uwe Baumann,other,1995,9
+63,Für alle Fälle Stefanie,DE,1,1324601,Karina Thayenthal,1,False,Rita Böhme,other,1995,9
+64,Für alle Fälle Stefanie,DE,1,553499,Hans-Jürgen Schatz,2,False,Hubertus Böhme,other,1995,9
+65,Für alle Fälle Stefanie,DE,1,27611,Christiane Krüger,1,False,Tatjana Hilf,other,1995,9
+66,Für alle Fälle Stefanie,DE,1,39908,Ulrike Krumbiegel,1,False,Frau Daub,other,1995,10
+67,Für alle Fälle Stefanie,DE,1,71460,Angelika Milster,1,False,Irene Luther,other,1995,10
+68,Für alle Fälle Stefanie,DE,1,44499,Hartmut Reck,2,False,Hans Luther,other,1995,10
+69,Für alle Fälle Stefanie,DE,1,220663,Uwe Steimle,2,False,Johannes 'Jossl' Binger,other,1995,10
+70,Für alle Fälle Stefanie,DE,1,4215,Manfred Möck,2,False,Freddy Dykehoff,other,1995,10
+71,Für alle Fälle Stefanie,DE,1,39585,Katharina Brauren,1,False,Oma Schmalz,other,1995,10
+72,Für alle Fälle Stefanie,DE,1,23112,Günter Junghans,2,False,Klaus Bacher,other,1995,11
+73,Für alle Fälle Stefanie,DE,1,48423,Wolf-Dietrich Berg,2,False,Rolf Oppitz,other,1995,11
+74,Für alle Fälle Stefanie,DE,1,141658,Anne Kasprik,1,False,Lisa Hellmann,other,1995,11
+75,Für alle Fälle Stefanie,DE,1,1284172,Karen Friesicke,1,False,Karin Frinks,other,1995,11
+76,Für alle Fälle Stefanie,DE,1,48185,Ferdinand Dux,2,False,Ferdinand Mohnwald,other,1995,11
+77,Für alle Fälle Stefanie,DE,1,22633,Ingrid van Bergen,1,False,Annemarie Wecker,other,1995,11
+78,Für alle Fälle Stefanie,DE,1,1305928,Eva Brumby,1,False,Frau Mohnwald,other,1995,11
+79,Für alle Fälle Stefanie,DE,1,100095,Horst Janson,2,False,Vater Söderbrunn,other,1995,11
+80,Für alle Fälle Stefanie,DE,2,1331847,Kathrin Waligura,1,True,Stefanie Engel,doctor (probably),1996,4
+81,Für alle Fälle Stefanie,DE,2,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),1996,4
+82,Für alle Fälle Stefanie,DE,2,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),1996,4
+83,Für alle Fälle Stefanie,DE,2,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),1996,4
+84,Für alle Fälle Stefanie,DE,2,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),1996,4
+85,Für alle Fälle Stefanie,DE,2,1624111,Martin Kluge,2,True,Carl Freiherr Eber von Ambusch,doctor (probably),1996,4
+86,Für alle Fälle Stefanie,DE,2,1509128,Andrea Solter,1,True,Claudia Willecke,doctor (probably),1996,4
+87,Für alle Fälle Stefanie,DE,2,3472635,Tania Hron,1,True,Maxi Zartmann,doctor (probably),1996,4
+88,Für alle Fälle Stefanie,DE,2,1483763,Isabelle von Siebenthal,1,True,Heidrun Simrath,doctor,1996,4
+89,Für alle Fälle Stefanie,DE,2,1137285,Klaus Lehmann,2,True,Eugen Stamm,doctor (probably),1996,4
+90,Für alle Fälle Stefanie,DE,2,936098,Thomas Dannemann,2,False,Maik Lupus,other,1996,4
+91,Für alle Fälle Stefanie,DE,2,577775,Friedrich Karl Praetorius,2,False,Psychopath Stock,other,1996,4
+92,Für alle Fälle Stefanie,DE,2,49017,Siegfried W. Kernen,2,False,Kommissar Schiller,other,1996,4
+93,Für alle Fälle Stefanie,DE,2,6087,Claudia Geisler,1,False,Thea Löpelt,other,1996,4
+94,Für alle Fälle Stefanie,DE,2,5523,Veit Schubert,2,False,René Löpelt,other,1996,4
+95,Für alle Fälle Stefanie,DE,2,23360,Rosemarie Fendel,1,False,Ms. Bingemaier,other,1996,4
+96,Für alle Fälle Stefanie,DE,2,118429,Heinz Rennhack,2,False,Friedrich Korda,doctor,1996,5
+97,Für alle Fälle Stefanie,DE,2,43156,Deborah Kaufmann,1,False,Barbara Schwarz,other,1996,5
+98,Für alle Fälle Stefanie,DE,2,234099,Marina Krogull,1,False,Frau Heller,other,1996,5
+99,Für alle Fälle Stefanie,DE,2,1291312,Jürgen Thormann,2,False,Herr Schwarz,other,1996,5
+100,Für alle Fälle Stefanie,DE,2,1318430,Jochen Schroeder,2,False,Tobias Baumann,other,1996,5
+101,Für alle Fälle Stefanie,DE,2,4922,Ralf Richter,2,False,Blacky Berg,other,1996,5
+102,Für alle Fälle Stefanie,DE,2,6267,Anja Franke,1,False,WG-Bewohnerin,other,1996,5
+103,Für alle Fälle Stefanie,DE,2,234098,Claudine Wilde,1,False,Brigitte Grundler,other,1996,5
+104,Für alle Fälle Stefanie,DE,2,36500,Udo Thomer,2,False,Kommissar,other,1996,5
+105,Für alle Fälle Stefanie,DE,2,1073541,Thomas Bestvater,2,False,Uwe Leitz,other,1996,5
+106,Für alle Fälle Stefanie,DE,2,19524,Tilly Lauenstein,1,False,Ms. Stein,other,1996,5
+107,Für alle Fälle Stefanie,DE,2,19235,Gerhard Olschewski,2,False,Metzger Holzheuer,other,1996,5
+108,Für alle Fälle Stefanie,DE,2,22663,Annekathrin Bürger,1,False,Mina Fels,other,1996,5
+109,Für alle Fälle Stefanie,DE,2,233401,Markus Majowski,2,False,Simon Koslowski,other,1996,6
+110,Für alle Fälle Stefanie,DE,2,64020,Beatrice Kessler,1,False,Vera Mundt,other,1996,6
+111,Für alle Fälle Stefanie,DE,2,1244889,Mona Seefried,1,False,Ellen Gropius,other,1996,7
+112,Für alle Fälle Stefanie,DE,2,48391,Lambert Hamel,2,False,Bernd Gropius,other,1996,7
+113,Für alle Fälle Stefanie,DE,2,43738,Michael Kind,2,False,Thomas Schreiber,other,1996,7
+114,Für alle Fälle Stefanie,DE,2,46241,Viktoria Brams,1,False,Nora Wiese,other,1996,7
+115,Für alle Fälle Stefanie,DE,2,36987,Trude Breitschopf,1,False,Johanna Schmittbauer,other,1996,7
+116,Für alle Fälle Stefanie,DE,2,35438,Jochen Kolenda,2,False,Johann Schmittbauer,other,1996,7
+117,Für alle Fälle Stefanie,DE,2,1243552,Rhea Harder,1,False,Jana Stein,other,1996,7
+118,Für alle Fälle Stefanie,DE,2,50221,Claudia Rieschel,1,False,Cornelia Worms,other,1996,7
+119,Für alle Fälle Stefanie,DE,2,44474,Klausjürgen Wussow,2,False,Maurice Chardeaux,other,1996,7
+120,Für alle Fälle Stefanie,DE,2,1467366,Dorothea Schenck,1,False,Marion Osterwalder,other,1996,8
+121,Für alle Fälle Stefanie,DE,2,1258564,Tobias Langhoff,2,False,Klaus Osterwalder,other,1996,8
+122,Für alle Fälle Stefanie,DE,2,21998,Rolf Zacher,2,False,Alfred Dürr,other,1996,8
+123,Für alle Fälle Stefanie,DE,2,26900,Walter Buschhoff,2,False,Lothar Behr,other,1996,8
+124,Für alle Fälle Stefanie,DE,2,21750,Petra Kelling,1,False,Hanni Rüsch,other,1996,8
+125,Für alle Fälle Stefanie,DE,2,1222984,Dietmar Huhn,2,False,Bodo Rüsch,other,1996,8
+126,Für alle Fälle Stefanie,DE,2,118433,Karin Düwel,1,False,Frau Schreiter,other,1996,9
+127,Für alle Fälle Stefanie,DE,2,47360,Edith Hancke,1,False,Frau Bender,other,1996,9
+128,Für alle Fälle Stefanie,DE,2,19525,Gisela Trowe,1,False,Henriette Deters,other,1996,9
+129,Für alle Fälle Stefanie,DE,2,582456,Wolfgang Winkler,2,False,Briefträger Birkel,other,1996,9
+130,Für alle Fälle Stefanie,DE,2,22379,Dieter Mann,2,False,Hans Peter Wiegand,other,1996,9
+131,Für alle Fälle Stefanie,DE,2,32131,Loni von Friedl,1,False,Lydia Günther,other,1996,9
+132,Für alle Fälle Stefanie,DE,2,228902,Janina Hartwig,1,False,Andrea Wilde,doctor,1996,9
+133,Für alle Fälle Stefanie,DE,2,5515,Christel Peters,1,False,Maria Rocke,other,1996,10
+134,Für alle Fälle Stefanie,DE,2,33511,Oliver Broumis,2,False,Tobias Wendland,other,1996,10
+135,Für alle Fälle Stefanie,DE,2,43163,Ursula Karusseit,1,False,Frau Wendland,other,1996,10
+136,Für alle Fälle Stefanie,DE,3,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),1997,1
+137,Für alle Fälle Stefanie,DE,3,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),1997,1
+138,Für alle Fälle Stefanie,DE,3,543973,Herbert Trattnigg,2,True,Jonas Nerlinger,doctor (probably),1997,1
+139,Für alle Fälle Stefanie,DE,3,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),1997,1
+140,Für alle Fälle Stefanie,DE,3,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),1997,1
+141,Für alle Fälle Stefanie,DE,3,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),1997,1
+142,Für alle Fälle Stefanie,DE,3,1509128,Andrea Solter,1,True,Claudia Willecke,doctor (probably),1997,1
+143,Für alle Fälle Stefanie,DE,3,1243552,Rhea Harder,1,False,Jana Stein,other,1997,1
+144,Für alle Fälle Stefanie,DE,3,22856,Jaecki Schwarz,2,False,Wolfgang Pfeiffer,other,1997,1
+145,Für alle Fälle Stefanie,DE,3,554451,Dieter Okras,2,False,Harald Gundermann,other,1997,1
+146,Für alle Fälle Stefanie,DE,3,1310533,Sabina Trooger,1,False,Birgit Gundermann,other,1997,1
+147,Für alle Fälle Stefanie,DE,3,34645,Christoph Eichhorn,2,False,Dr. Ratzinger,doctor,1997,1
+148,Für alle Fälle Stefanie,DE,3,1308295,Sharon Brauner,1,False,Tehmina Schwarz,other,1997,1
+149,Für alle Fälle Stefanie,DE,3,1183603,Volker Brandt,2,False,Dieter Gärtner,other,1997,1
+150,Für alle Fälle Stefanie,DE,3,1482405,Angelika Perdelwitz,1,False,Sabine Sieber,other,1997,1
+151,Für alle Fälle Stefanie,DE,3,49017,Siegfried W. Kernen,2,False,Kommissar Schiller,other,1997,1
+152,Für alle Fälle Stefanie,DE,3,27370,Karin Ugowski,1,False,Berta Krämer,other,1997,1
+153,Für alle Fälle Stefanie,DE,3,1245159,Thomas Rühmann,2,False,Bastian Kellerbauer,other,1997,1
+154,Für alle Fälle Stefanie,DE,3,1187349,Hartmut Schreier,2,False,Klaus Schöne,other,1997,1
+155,Für alle Fälle Stefanie,DE,3,26555,Rainer Basedow,2,False,Bruder Bertram,other,1997,1
+156,Für alle Fälle Stefanie,DE,3,71460,Angelika Milster,1,False,Irene Luther,other,1997,2
+157,Für alle Fälle Stefanie,DE,3,44499,Hartmut Reck,2,False,Hans Luther,other,1997,2
+158,Für alle Fälle Stefanie,DE,3,1167136,Mariella Ahrens,1,False,Hanka Hajzok,other,1997,3
+159,Für alle Fälle Stefanie,DE,3,1801211,Erol Ünsalan,2,False,Jens Uwe Mutrich,other,1997,3
+160,Für alle Fälle Stefanie,DE,3,233746,Renate Schroeter,1,False,Evelyn Mutrich,other,1997,3
+161,Für alle Fälle Stefanie,DE,3,1350536,Volker Bogdan,2,False,Hartmut Freitag,other,1997,3
+162,Für alle Fälle Stefanie,DE,3,49016,Guntbert Warns,2,False,Herr Assmann,other,1997,3
+163,Für alle Fälle Stefanie,DE,3,233747,Theresa Scholze,1,False,Ariane Färber,other,1997,3
+164,Für alle Fälle Stefanie,DE,3,22974,Renate Blume,1,False,Ellen Färber,other,1997,3
+165,Für alle Fälle Stefanie,DE,3,37388,Wookie Mayer,1,False,Sybille Laubach,other,1997,3
+166,Für alle Fälle Stefanie,DE,3,49766,Kirsten Block,1,False,Agnes Zerrgiebel,other,1997,4
+167,Für alle Fälle Stefanie,DE,3,1335328,Uta Hallant,1,False,Nelly Zerrgiebel,other,1997,4
+168,Für alle Fälle Stefanie,DE,3,67193,Hansi Jochmann,1,False,Else Ecker,other,1997,4
+169,Für alle Fälle Stefanie,DE,3,1312412,Udo Vioff,2,False,Uhrensammler Beck,other,1997,4
+170,Für alle Fälle Stefanie,DE,3,23643,Horst Drinda,2,False,Uhrensammler Seeland,other,1997,4
+171,Für alle Fälle Stefanie,DE,3,1044555,Christian Goebel,2,False,Martin Taucher,other,1997,4
+172,Für alle Fälle Stefanie,DE,3,51209,René Steinke,2,False,Konrad Hübler,other,1997,4
+173,Für alle Fälle Stefanie,DE,3,1326597,Iris Junik,1,False,Jenny Hübler,other,1997,4
+174,Für alle Fälle Stefanie,DE,3,59020,Sonja Kerskes,1,False,Simone Merk,other,1997,5
+175,Für alle Fälle Stefanie,DE,3,588317,Teresa Harder,1,False,Manuela Wildenbruch,other,1997,5
+176,Für alle Fälle Stefanie,DE,3,37382,Jörg Gudzuhn,2,False,Clown Picco,other,1997,5
+177,Für alle Fälle Stefanie,DE,3,36709,Götz Schubert,2,False,Marcel Grandtke,other,1997,6
+178,Für alle Fälle Stefanie,DE,3,1881,Christof Wackernagel,2,False,Simon Bosko,other,1997,6
+179,Für alle Fälle Stefanie,DE,3,45734,Christina Große,1,False,Karin Neumann,other,1997,6
+180,Für alle Fälle Stefanie,DE,3,40501,Mark Waschke,2,False,Franz Langner,other,1997,6
+181,Für alle Fälle Stefanie,DE,3,49331,Alexander May,2,False,Hieronymus Cleemann,other,1997,7
+182,Für alle Fälle Stefanie,DE,3,38850,Jockel Tschiersch,2,False,Marc Brehm,other,1997,7
+183,Für alle Fälle Stefanie,DE,3,571170,Renate Geißler,1,False,Anne Schmitt,other,1997,7
+184,Für alle Fälle Stefanie,DE,3,1801221,Max Riedel,2,False,Thomas Brehm,other,1997,7
+185,Für alle Fälle Stefanie,DE,3,1336076,Jörg Panknin,2,False,Heinz Schmitt,other,1997,7
+186,Für alle Fälle Stefanie,DE,3,1255206,Gerd Baltus,2,False,Dr. Schaaf,doctor,1997,7
+187,Für alle Fälle Stefanie,DE,3,32955,Stefan Reck,2,False,Siegmar Thomsen,other,1997,7
+188,Für alle Fälle Stefanie,DE,3,48513,Gerit Kling,1,False,Christin Lietz,other,1997,7
+189,Für alle Fälle Stefanie,DE,3,572437,Lars Pape,2,False,Oliver Schade,other,1997,8
+190,Für alle Fälle Stefanie,DE,3,23366,Radost Bokel,1,False,Astrid Pohl,other,1997,8
+191,Für alle Fälle Stefanie,DE,3,16720,Bernd Stegemann,2,False,Eduard Müller,other,1997,8
+192,Für alle Fälle Stefanie,DE,3,48087,Erwin Steinhauer,2,False,Alois Höfler,other,1997,8
+193,Für alle Fälle Stefanie,DE,3,48613,Renate Krößner,1,False,Helen Beyer,other,1997,8
+194,Für alle Fälle Stefanie,DE,3,23644,Günther Grabbert,2,False,Herr Beyer,other,1997,8
+195,Für alle Fälle Stefanie,DE,3,1026027,Friedrich W. Bauschulte,2,False,Arthur Schulze,other,1997,9
+196,Für alle Fälle Stefanie,DE,3,1306595,Claudia Wenzel,1,False,Frau Keller,other,1997,9
+197,Für alle Fälle Stefanie,DE,3,22719,Marga Legal,1,False,Minna Gießmann,other,1997,9
+198,Für alle Fälle Stefanie,DE,3,50185,David C. Bunners,2,False,Markus Meier-Liszt,other,1997,9
+199,Für alle Fälle Stefanie,DE,3,53028,Eva Kryll,1,False,Cleo,other,1997,9
+200,Für alle Fälle Stefanie,DE,3,8205,Marie Gruber,1,False,Lissy Kunz,other,1997,9
+201,Für alle Fälle Stefanie,DE,3,26617,Manfred Lehmann,2,False,Berthold Kunz,other,1997,9
+202,Für alle Fälle Stefanie,DE,3,49200,Denise Zich,1,False,Friederike Braun,other,1997,9
+203,Für alle Fälle Stefanie,DE,3,36749,Hans-Peter Korff,2,False,Horst Küster,other,1997,10
+204,Für alle Fälle Stefanie,DE,3,22703,Diana Körner,1,False,Frau Küster,other,1997,10
+205,Für alle Fälle Stefanie,DE,3,47251,Stephan Schwartz,2,False,Rudi Schotter,other,1997,10
+206,Für alle Fälle Stefanie,DE,3,48673,Roswitha Schreiner,1,False,Nele,other,1997,10
+207,Für alle Fälle Stefanie,DE,3,38752,Werner Asam,2,False,Oskar Steffens,other,1997,10
+208,Für alle Fälle Stefanie,DE,3,25487,Edgar Hoppe,2,False,Bauer Kuhnert,other,1997,11
+209,Für alle Fälle Stefanie,DE,3,50687,Axel Pape,2,False,Ronald Hertz,other,1997,11
+210,Für alle Fälle Stefanie,DE,3,48240,Rebecca Immanuel,1,False,Angela Glas,other,1997,12
+211,Für alle Fälle Stefanie,DE,3,19235,Gerhard Olschewski,2,False,Burkhardt Wendeleit,other,1997,12
+212,Für alle Fälle Stefanie,DE,3,37321,Angelika Bender,1,False,Irmgard Zachert,other,1997,12
+213,Für alle Fälle Stefanie,DE,3,5523,Veit Schubert,2,False,Julius Sturm,other,1997,12
+214,Für alle Fälle Stefanie,DE,3,1329236,Brigitte Jaufenthaler,1,False,Elena Sommer,other,1997,12
+215,Für alle Fälle Stefanie,DE,3,567802,Michael Schiller,2,False,Kuno Saupe,other,1997,12
+216,Für alle Fälle Stefanie,DE,3,36601,Armin Dillenberger,2,False,Hubert Schaller,other,1997,12
+217,Für alle Fälle Stefanie,DE,3,932671,Cornelius Obonya,2,False,Hubert Gretsch,other,1998,1
+218,Für alle Fälle Stefanie,DE,3,1069240,Karin Eickelbaum,1,False,Tita von Sendlitz,other,1998,1
+219,Für alle Fälle Stefanie,DE,3,38719,Ottfried Fischer,2,False,Theo Eckermann,other,1998,1
+220,Für alle Fälle Stefanie,DE,3,22612,Lisa Kreuzer,1,False,Leonore Claus,other,1998,1
+221,Für alle Fälle Stefanie,DE,3,1447187,Dagmar Sitte,1,False,Carola Claus,other,1998,1
+222,Für alle Fälle Stefanie,DE,3,1315210,Klaus Herm,2,False,Waldemar Storbeck,other,1998,1
+223,Für alle Fälle Stefanie,DE,3,23942,Dietrich Adam,2,False,Friedrich Storbeck,doctor,1998,1
+224,Für alle Fälle Stefanie,DE,3,1032959,Beate Finckh,1,False,Dörthe Storbeck,other,1998,1
+225,Für alle Fälle Stefanie,DE,3,22594,Fred Delmare,2,False,Theo Kümmerling,other,1998,1
+226,Für alle Fälle Stefanie,DE,3,47268,Ilja Richter,2,False,Robert Schramm,other,1998,1
+227,Für alle Fälle Stefanie,DE,3,1180748,Andrea Bürgin,1,False,Marianne,other,1998,1
+228,Für alle Fälle Stefanie,DE,3,1378960,Uwe Poppe,2,False,Notarzt,other,1998,1
+229,Für alle Fälle Stefanie,DE,3,4215,Manfred Möck,2,False,Alois Kanoffke,other,1998,1
+230,Für alle Fälle Stefanie,DE,3,2377,Michael Habeck,2,False,Friseur Böck,other,1998,2
+231,Für alle Fälle Stefanie,DE,3,1314012,Melanie Rühmann,1,False,Meike Müller,other,1998,2
+232,Für alle Fälle Stefanie,DE,3,33121,Max Volkert Martens,2,False,Sylvester Limmer,other,1998,2
+233,Für alle Fälle Stefanie,DE,3,34298,Susanne Hoss,1,False,Milena Limmer,other,1998,2
+234,Für alle Fälle Stefanie,DE,3,22944,Jenny Gröllmann,1,False,Josephine Schneidtleder,other,1998,3
+235,Für alle Fälle Stefanie,DE,3,118429,Heinz Rennhack,2,False,Helmut Witte,other,1998,3
+236,Für alle Fälle Stefanie,DE,3,1293,Franziska Troegner,1,False,Marianne Witte,other,1998,3
+237,Für alle Fälle Stefanie,DE,3,233401,Markus Majowski,2,False,Harry Bender,other,1998,3
+238,Für alle Fälle Stefanie,DE,3,1067178,Edda Leesch,1,False,Gaby Bender,other,1998,3
+239,Für alle Fälle Stefanie,DE,3,50151,Daniel Morgenroth,2,False,Frederik May,other,1998,3
+240,Für alle Fälle Stefanie,DE,3,1801359,Mirco Wallraf,2,False,Jens Matalla,other,1998,3
+241,Für alle Fälle Stefanie,DE,3,1133619,Siegfried Terpoorten,2,False,Manne Bender,other,1998,3
+242,Für alle Fälle Stefanie,DE,3,1820887,Jo Kern,1,False,Uta Matalla,other,1998,3
+243,Für alle Fälle Stefanie,DE,3,1801361,Mirjam Köfer,1,False,Frau Wesemann,other,1998,3
+244,Für alle Fälle Stefanie,DE,3,11952,Gudrun Okras,1,False,Selma Holunder,other,1998,3
+245,Für alle Fälle Stefanie,DE,3,23794,Horst Kummeth,2,False,Janosz Säume,other,1998,3
+246,Für alle Fälle Stefanie,DE,3,26602,Traugott Buhre,2,False,Rechtsanwalt Säume,other,1998,3
+247,Für alle Fälle Stefanie,DE,3,46208,Gerhart Lippert,2,False,Henry Colmar,other,1998,4
+248,Für alle Fälle Stefanie,DE,3,27071,Günter Schubert,2,False,Hein Töppke,other,1998,4
+249,Für alle Fälle Stefanie,DE,3,1317485,Rainer Goernemann,2,False,Horst Bucher,other,1998,4
+250,Für alle Fälle Stefanie,DE,3,36324,Martin Glade,2,False,Justus Magnus Roger,other,1998,4
+251,Für alle Fälle Stefanie,DE,3,1310540,Gerda Gmelin,1,False,Trudi Wanderer,other,1998,4
+252,Für alle Fälle Stefanie,DE,3,1801369,Andreas Erfurth,2,False,Dr. Winter,doctor,1998,4
+253,Für alle Fälle Stefanie,DE,3,48244,Thomas Rudnick,2,False,Hausdetektiv Schaller,other,1998,4
+254,Für alle Fälle Stefanie,DE,3,64568,Martin Goeres,2,False,Moritz Gieler,other,1998,4
+255,Für alle Fälle Stefanie,DE,3,1076585,Siemen Rühaak,2,False,Volker Gieler,other,1998,4
+256,Für alle Fälle Stefanie,DE,3,43163,Ursula Karusseit,1,False,Magda Leuschner,other,1998,4
+257,Für alle Fälle Stefanie,DE,3,234099,Marina Krogull,1,False,Ortrud Nissen,other,1998,4
+258,Für alle Fälle Stefanie,DE,3,1420239,Axel Buchholz,2,False,Ottokar 'Hotte' Funke,other,1998,4
+259,Für alle Fälle Stefanie,DE,3,26396,Wolf Roth,2,False,Cornelius Tuchmann,other,1998,4
+260,Für alle Fälle Stefanie,DE,3,1256854,Nicola Tiggeler,1,False,Veronika Tuchmann,other,1998,4
+261,Für alle Fälle Stefanie,DE,3,36468,Bernhard Bettermann,2,False,Bernd Adolph,other,1998,4
+262,Für alle Fälle Stefanie,DE,3,44641,Timothy Peach,2,False,Rupert Bohls,other,1998,4
+263,Für alle Fälle Stefanie,DE,4,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),1998,8
+264,Für alle Fälle Stefanie,DE,4,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),1998,8
+265,Für alle Fälle Stefanie,DE,4,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),1998,8
+266,Für alle Fälle Stefanie,DE,4,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),1998,8
+267,Für alle Fälle Stefanie,DE,4,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),1998,8
+268,Für alle Fälle Stefanie,DE,4,48547,Jacqueline Svilarov,1,True,Franziska Martens,doctor (probably),1998,8
+269,Für alle Fälle Stefanie,DE,4,1518369,Constanze Roeder,1,True,Dagmar Berger,doctor (probably),1998,8
+270,Für alle Fälle Stefanie,DE,4,50185,David C. Bunners,2,True,Markus Meier-Liszt,doctor (probably),1998,8
+271,Für alle Fälle Stefanie,DE,4,22856,Jaecki Schwarz,2,True,Justus Friedländer,doctor (probably),1998,8
+272,Für alle Fälle Stefanie,DE,4,1168217,Martin Gruber,2,False,Jakob Krüger,other,1998,8
+273,Für alle Fälle Stefanie,DE,4,1324234,Lara-Joy Körner,1,False,Isabell Gattmann,other,1998,8
+274,Für alle Fälle Stefanie,DE,4,22703,Diana Körner,1,False,Mutter Gattmann,other,1998,8
+275,Für alle Fälle Stefanie,DE,4,1313854,Johanna Liebeneiner,1,False,Sybille Loos,other,1998,8
+276,Für alle Fälle Stefanie,DE,4,49200,Denise Zich,1,False,Elda Loos,other,1998,8
+277,Für alle Fälle Stefanie,DE,4,36928,Horst Krause,2,False,Erwin Strunzke,other,1998,8
+278,Für alle Fälle Stefanie,DE,4,38144,Michaela May,1,False,Susanne Gellert,other,1998,9
+279,Für alle Fälle Stefanie,DE,4,34300,Dieter Montag,2,False,Hajo Gellert,other,1998,9
+280,Für alle Fälle Stefanie,DE,4,548160,Hendrik Martz,2,False,Christoph Krassnitzer,other,1998,9
+281,Für alle Fälle Stefanie,DE,4,553499,Hans-Jürgen Schatz,2,False,Dr. Nils Fischer,doctor,1998,9
+282,Für alle Fälle Stefanie,DE,4,1323230,Oana Solomon,1,False,Dr. Charlotte Morin,doctor,1998,9
+283,Für alle Fälle Stefanie,DE,4,1221617,Nina Franoszek,1,False,Diana Fischer,other,1998,9
+284,Für alle Fälle Stefanie,DE,4,48392,Udo Kroschwald,2,False,Hermann Lage,other,1998,9
+285,Für alle Fälle Stefanie,DE,4,48148,Christina Plate,1,False,Charlene Kerner,other,1998,10
+286,Für alle Fälle Stefanie,DE,4,28113,Horst-Günter Marx,2,False,Marius Kerner,other,1998,10
+287,Für alle Fälle Stefanie,DE,4,1320430,Michèle Marian,1,False,Clarissa Neidhardt,other,1998,10
+288,Für alle Fälle Stefanie,DE,4,19884,Daniela Ziegler,1,False,Hildrun Schulz,doctor,1998,10
+289,Für alle Fälle Stefanie,DE,4,1112534,Michael Lerchenberg,2,False,Wieland Klamerski,other,1998,10
+290,Für alle Fälle Stefanie,DE,4,4794,Maria Simon,1,False,Helena Klamerski,other,1998,10
+291,Für alle Fälle Stefanie,DE,4,1311647,Friedhelm Ptok,2,False,Dr. Ludwig 'Nieren-Meier' Meier,doctor,1998,11
+292,Für alle Fälle Stefanie,DE,4,21998,Rolf Zacher,2,False,Alfred Opposchinski,other,1998,11
+293,Für alle Fälle Stefanie,DE,4,1253940,Julia Biedermann,1,False,Sally Wolter,other,1998,12
+294,Für alle Fälle Stefanie,DE,4,23340,Rosel Zech,1,False,Schwester Barbara,other,1998,12
+295,Für alle Fälle Stefanie,DE,4,38312,Wolfram Koch,2,False,Fotograf Jack,other,1998,12
+296,Für alle Fälle Stefanie,DE,4,3762,Christine Kaufmann,1,False,Frau von Drossel,doctor,1998,12
+297,Für alle Fälle Stefanie,DE,4,48778,Bjarne Mädel,2,False,Ekke Hoppe,other,1999,1
+298,Für alle Fälle Stefanie,DE,4,50844,Peggy Lukac,1,False,Ellen Hoppe,other,1999,1
+299,Für alle Fälle Stefanie,DE,4,39861,Marcus Mittermeier,2,False,Christopher Mahler,other,1999,1
+300,Für alle Fälle Stefanie,DE,4,37477,Marita Marschall,1,False,Sylvia Sandhoff,other,1999,1
+301,Für alle Fälle Stefanie,DE,4,1557544,Nana Spier,1,False,Daniela Bach,other,1999,1
+302,Für alle Fälle Stefanie,DE,4,1307363,Walter Plathe,2,False,Heribert Koll,other,1999,2
+303,Für alle Fälle Stefanie,DE,4,20862,Susi Nicoletti,1,False,Elise Steinschütter,other,1999,2
+304,Für alle Fälle Stefanie,DE,4,5232,Martin May,2,False,Leonhard Pietsch,other,1999,3
+305,Für alle Fälle Stefanie,DE,4,1461551,Bettina Lohmeyer,1,False,Manuela Pietsch,other,1999,3
+306,Für alle Fälle Stefanie,DE,4,48273,Arnfried Lerche,2,False,Fred Steiger,other,1999,3
+307,Für alle Fälle Stefanie,DE,4,36836,Nadja Tiller,1,False,Mechthild Meier,other,1999,3
+308,Für alle Fälle Stefanie,DE,4,32585,Walter Giller,2,False,Harry Hinrichs,other,1999,3
+309,Für alle Fälle Stefanie,DE,4,1467598,Karina Kraushaar,1,False,Elisabeth Schatz,other,1999,3
+310,Für alle Fälle Stefanie,DE,4,3936,Petra Zieser,1,False,Bettina Kladen,other,1999,4
+311,Für alle Fälle Stefanie,DE,4,221414,Jochen Senf,2,False,Wolf-Rüdiger Kuss,other,1999,4
+312,Für alle Fälle Stefanie,DE,4,31643,Udo Schenk,2,False,Konrad von Grünningen,other,1999,4
+313,Für alle Fälle Stefanie,DE,4,1152367,Sissy Höfferer,1,False,Babette von Grünningen,other,1999,4
+314,Für alle Fälle Stefanie,DE,4,1324643,Björn Casapietra,2,False,Carsten Reichert,other,1999,4
+315,Für alle Fälle Stefanie,DE,4,234090,Elisabeth Lanz,1,False,Daniela Reichert,other,1999,4
+316,Für alle Fälle Stefanie,DE,4,1320445,Jens Scheiblich,2,False,Willi Konrad,other,1999,5
+317,Für alle Fälle Stefanie,DE,4,1478084,Maximilian Held,2,False,Bastian,other,1999,5
+318,Für alle Fälle Stefanie,DE,4,588136,Andrea Lüdke,1,False,Dorit Bendix,other,1999,6
+319,Für alle Fälle Stefanie,DE,4,588088,Özgür Özata,2,False,Ahmed Aktil,other,1999,6
+320,Für alle Fälle Stefanie,DE,4,6267,Anja Franke,1,False,Gitta Huber,other,1999,6
+321,Für alle Fälle Stefanie,DE,5,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),1999,9
+322,Für alle Fälle Stefanie,DE,5,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),1999,9
+323,Für alle Fälle Stefanie,DE,5,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),1999,9
+324,Für alle Fälle Stefanie,DE,5,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),1999,9
+325,Für alle Fälle Stefanie,DE,5,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),1999,9
+326,Für alle Fälle Stefanie,DE,5,48547,Jacqueline Svilarov,1,True,Franziska Martens,doctor (probably),1999,9
+327,Für alle Fälle Stefanie,DE,5,1518369,Constanze Roeder,1,True,Dagmar Berger,doctor (probably),1999,9
+328,Für alle Fälle Stefanie,DE,5,50185,David C. Bunners,2,True,Markus Meier-Liszt,doctor (probably),1999,9
+329,Für alle Fälle Stefanie,DE,5,22856,Jaecki Schwarz,2,True,Justus Friedländer,doctor (probably),1999,9
+330,Für alle Fälle Stefanie,DE,5,38015,Harald Dietl,2,False,Dieter Volkert,other,1999,10
+331,Für alle Fälle Stefanie,DE,5,1329236,Brigitte Jaufenthaler,1,False,Lilly Volkert,other,1999,10
+332,Für alle Fälle Stefanie,DE,5,23112,Günter Junghans,2,False,Nachbar Schäfer,other,1999,10
+333,Für alle Fälle Stefanie,DE,5,30726,Daniel Krauss,2,False,Teddy,other,1999,10
+334,Für alle Fälle Stefanie,DE,5,1180748,Andrea Bürgin,1,False,Sarah Landes,other,1999,11
+335,Für alle Fälle Stefanie,DE,5,1183601,Eva Maria Bauer,1,False,Agnes Ruß,other,1999,11
+336,Für alle Fälle Stefanie,DE,5,37382,Jörg Gudzuhn,2,False,Wilhelm Eisenach,other,1999,11
+337,Für alle Fälle Stefanie,DE,5,34296,Anja Knauer,1,False,Luciana Corelli,other,1999,11
+338,Für alle Fälle Stefanie,DE,5,1255206,Gerd Baltus,2,False,Matthias Falcke,other,1999,12
+339,Für alle Fälle Stefanie,DE,5,23794,Horst Kummeth,2,False,Leander Weiß,other,1999,12
+340,Für alle Fälle Stefanie,DE,5,1296228,Susanne Czepl,1,False,Monika Weiß,other,1999,12
+341,Für alle Fälle Stefanie,DE,5,57101,Andreas Elsholz,2,False,Jeremias Langer,other,1999,12
+342,Für alle Fälle Stefanie,DE,5,41692,Dagmar Biener,1,False,Senta Kowalke,other,1999,12
+343,Für alle Fälle Stefanie,DE,5,1069240,Karin Eickelbaum,1,False,Ella Schulz,other,2000,2
+344,Für alle Fälle Stefanie,DE,5,22612,Lisa Kreuzer,1,False,Irene Kestner,other,2000,2
+345,Für alle Fälle Stefanie,DE,5,49174,Daniela Preuß,1,False,Julia Messmer,other,2000,3
+346,Für alle Fälle Stefanie,DE,5,45905,Matthias Schloo,2,False,Julian Messmer,other,2000,3
+347,Für alle Fälle Stefanie,DE,5,11952,Gudrun Okras,1,False,Annette Siebenstein,other,2000,3
+348,Für alle Fälle Stefanie,DE,5,1542134,Giulia Siegel,1,False,Rebecca Kuhn,other,2000,3
+349,Für alle Fälle Stefanie,DE,5,62892,Anatole Taubman,2,False,Hans Troll,other,2000,3
+350,Für alle Fälle Stefanie,DE,5,4792,Katrin Sass,1,False,Renate Gebhard,other,2000,3
+351,Für alle Fälle Stefanie,DE,5,26499,Gernot Endemann,2,False,Pharmavertreter Hönig,other,2000,3
+352,Für alle Fälle Stefanie,DE,5,33121,Max Volkert Martens,2,False,Wolfgang Frischmuth,other,2000,3
+353,Für alle Fälle Stefanie,DE,5,50293,Henriette Confurius,1,False,Lisa Bollmann,other,2000,3
+354,Für alle Fälle Stefanie,DE,5,49269,Christine Neubauer,1,False,Verena Mantz,other,2000,4
+355,Für alle Fälle Stefanie,DE,5,24904,Peter Sattmann,2,False,Volker Mantz,other,2000,4
+356,Für alle Fälle Stefanie,DE,5,57362,Felicitas Woll,1,False,Saskia Herg,other,2000,4
+357,Für alle Fälle Stefanie,DE,5,50221,Claudia Rieschel,1,False,Vera Broder,other,2000,4
+358,Für alle Fälle Stefanie,DE,5,1330945,Regina Lemnitz,1,False,Rita Köhler,other,2000,4
+359,Für alle Fälle Stefanie,DE,5,18154,Katharina Wackernagel,1,False,Kati,other,2000,5
+360,Für alle Fälle Stefanie,DE,5,1244903,Andreas Schmidt-Schaller,2,False,Kommissar,other,2000,5
+361,Für alle Fälle Stefanie,DE,5,22944,Jenny Gröllmann,1,False,Isabell Rettich,other,2000,5
+362,Für alle Fälle Stefanie,DE,5,36755,Peter Prager,2,False,Gustav Fröhlich,other,2000,5
+363,Für alle Fälle Stefanie,DE,5,1114391,Mareike Fell,1,False,Tinka Grammatin,other,2000,5
+364,Für alle Fälle Stefanie,DE,6,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),2000,9
+365,Für alle Fälle Stefanie,DE,6,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),2000,9
+366,Für alle Fälle Stefanie,DE,6,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),2000,9
+367,Für alle Fälle Stefanie,DE,6,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),2000,9
+368,Für alle Fälle Stefanie,DE,6,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),2000,9
+369,Für alle Fälle Stefanie,DE,6,48547,Jacqueline Svilarov,1,True,Franziska Martens,doctor (probably),2000,9
+370,Für alle Fälle Stefanie,DE,6,1518369,Constanze Roeder,1,True,Dagmar Berger,doctor (probably),2000,9
+371,Für alle Fälle Stefanie,DE,6,43454,Christian Kahrmann,2,False,Tobias Steiner,other,2000,9
+372,Für alle Fälle Stefanie,DE,6,22856,Jaecki Schwarz,2,False,Justus Friedländer,other,2000,9
+373,Für alle Fälle Stefanie,DE,6,1310540,Gerda Gmelin,1,False,Lina Powileit,other,2000,9
+374,Für alle Fälle Stefanie,DE,6,6086,Devid Striesow,2,False,Ulf Powileit,other,2000,9
+375,Für alle Fälle Stefanie,DE,6,48513,Gerit Kling,1,False,Bea Graf,other,2000,9
+376,Für alle Fälle Stefanie,DE,6,32861,Cay Helmich,1,False,Lara,other,2000,9
+377,Für alle Fälle Stefanie,DE,6,48240,Rebecca Immanuel,1,False,Angelika Lamm,other,2000,9
+378,Für alle Fälle Stefanie,DE,6,22792,Lissy Tempelhof,1,False,Hulda Wilde,other,2000,9
+379,Für alle Fälle Stefanie,DE,6,55646,Stephanie Stumph,1,False,Kathleen Limbach,other,2000,9
+380,Für alle Fälle Stefanie,DE,6,1262045,Carl Achleitner,2,False,Andreas Wachniak,doctor,2000,9
+381,Für alle Fälle Stefanie,DE,6,10240,Robert Lohr,2,False,Werner Lorenz,other,2000,10
+382,Für alle Fälle Stefanie,DE,6,47026,Adele Neuhauser,1,False,Gunilla Bachmeier,other,2000,10
+383,Für alle Fälle Stefanie,DE,6,48737,Philipp Sonntag,2,False,Rufus Aberwitz,other,2000,10
+384,Für alle Fälle Stefanie,DE,6,39861,Marcus Mittermeier,2,False,Heiko Ritter,other,2000,10
+385,Für alle Fälle Stefanie,DE,6,1420239,Axel Buchholz,2,False,Manfred Kolbe,other,2000,10
+386,Für alle Fälle Stefanie,DE,6,1864,Jenny Elvers,1,False,Doro Marx,other,2000,10
+387,Für alle Fälle Stefanie,DE,6,573981,Sarah Alles,1,False,Miriam Dauchauer,other,2000,10
+388,Für alle Fälle Stefanie,DE,6,46771,Martin Lüttge,2,False,Prof. Jacob Berner,other,2000,10
+389,Für alle Fälle Stefanie,DE,6,67493,Janette Rauch,1,False,Sonja Hoffmann,other,2000,10
+390,Für alle Fälle Stefanie,DE,6,43163,Ursula Karusseit,1,False,Suse Harmholz,other,2000,10
+391,Für alle Fälle Stefanie,DE,6,48673,Roswitha Schreiner,1,False,Bella Schmidt,other,2000,10
+392,Für alle Fälle Stefanie,DE,6,21750,Petra Kelling,1,False,Nina Tolski,other,2000,10
+393,Für alle Fälle Stefanie,DE,6,1460955,Maximilian Pfaff,2,False,Hagen Blauchstetter,other,2000,11
+394,Für alle Fälle Stefanie,DE,6,2349,Bernd Tauber,2,False,Gunther Bloch,other,2000,11
+395,Für alle Fälle Stefanie,DE,6,16783,Hannah Herzsprung,1,False,Dunja Liesing,other,2000,11
+396,Für alle Fälle Stefanie,DE,6,28656,René Hofschneider,2,False,Mario Liesing,other,2000,11
+397,Für alle Fälle Stefanie,DE,6,47268,Ilja Richter,2,False,Rudolf Bittermann,other,2000,11
+398,Für alle Fälle Stefanie,DE,6,143481,Katharina Schubert,1,False,Doreen Just,other,2000,11
+399,Für alle Fälle Stefanie,DE,6,4924,Martin Semmelrogge,2,False,Mischa Süß,other,2000,11
+400,Für alle Fälle Stefanie,DE,6,1680042,Vasiliki Kanakis-Roussi,1,False,Juliette Dornier,other,2000,11
+401,Für alle Fälle Stefanie,DE,6,48423,Wolf-Dietrich Berg,2,False,Klaus Wehrenalp,other,2000,11
+402,Für alle Fälle Stefanie,DE,6,49766,Kirsten Block,1,False,Natalia Ebner,other,2000,11
+403,Für alle Fälle Stefanie,DE,6,1377811,Bobby Brederlow,2,False,Nobbie Ebner,other,2000,11
+404,Für alle Fälle Stefanie,DE,6,1327020,Olaf Rauschenbach,2,False,Charly Benedikt,other,2000,11
+405,Für alle Fälle Stefanie,DE,6,1485517,Jürgen Huth,2,False,Ponyhofbesitzer Müller,other,2000,11
+406,Für alle Fälle Stefanie,DE,6,1311933,Oliver Hasenfratz,2,False,Mücke,other,2000,12
+407,Für alle Fälle Stefanie,DE,6,32932,Edgar M. Böhlke,2,False,Richard Hempel,other,2000,12
+408,Für alle Fälle Stefanie,DE,6,73379,Oliver Boysen,2,False,Jörn Osbath,other,2000,12
+409,Für alle Fälle Stefanie,DE,6,1461551,Bettina Lohmeyer,1,False,Mena Osbath,other,2000,12
+410,Für alle Fälle Stefanie,DE,6,22983,Monika Woytowicz,1,False,Dr. Vera Friedländer,doctor,2001,1
+411,Für alle Fälle Stefanie,DE,6,26419,Gunnar Möller,2,False,Viktor Böhr,other,2001,1
+412,Für alle Fälle Stefanie,DE,6,50185,David C. Bunners,2,False,Markus Meier-Liszt,other,2001,1
+413,Für alle Fälle Stefanie,DE,6,38144,Michaela May,1,False,Gisela Schneider,other,2001,1
+414,Für alle Fälle Stefanie,DE,6,1102181,Saskia Valencia,1,False,Beate Lengenfeld,other,2001,2
+415,Für alle Fälle Stefanie,DE,6,582456,Wolfgang Winkler,2,False,Heinz Renner,other,2001,2
+416,Für alle Fälle Stefanie,DE,6,1050916,Holger Handtke,2,False,Hannes Bredow,other,2001,3
+417,Für alle Fälle Stefanie,DE,6,233979,Lutz Mackensy,2,False,Willy Korsar,other,2001,3
+418,Für alle Fälle Stefanie,DE,6,1187349,Hartmut Schreier,2,False,Bernd Mahnke,other,2001,3
+419,Für alle Fälle Stefanie,DE,6,65675,Ilse Werner,1,False,Elise Dentis,other,2001,4
+420,Für alle Fälle Stefanie,DE,6,47353,Waltraut Haas,1,False,Hella Krogmann,other,2001,4
+421,Für alle Fälle Stefanie,DE,6,36490,Monika Baumgartner,1,False,Liane Eberle,other,2001,5
+422,Für alle Fälle Stefanie,DE,6,34039,Ellen Schwiers,1,False,Alma Dehler,other,2001,5
+423,Für alle Fälle Stefanie,DE,6,38206,Gilbert von Sohlern,2,False,Roland Eckert,other,2001,6
+424,Für alle Fälle Stefanie,DE,6,38584,Olivia Pascal,1,False,Juliane Wagner,other,2001,6
+425,Für alle Fälle Stefanie,DE,6,16943,Joost Siedhoff,2,False,Karl-Heinz Wittig,other,2001,6
+426,Für alle Fälle Stefanie,DE,7,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),2001,10
+427,Für alle Fälle Stefanie,DE,7,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),2001,10
+428,Für alle Fälle Stefanie,DE,7,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),2001,10
+429,Für alle Fälle Stefanie,DE,7,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),2001,10
+430,Für alle Fälle Stefanie,DE,7,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),2001,10
+431,Für alle Fälle Stefanie,DE,7,48547,Jacqueline Svilarov,1,True,Franziska Martens,doctor (probably),2001,10
+432,Für alle Fälle Stefanie,DE,7,1518369,Constanze Roeder,1,True,Dagmar Berger,doctor (probably),2001,10
+433,Für alle Fälle Stefanie,DE,7,50185,David C. Bunners,2,True,Markus Meier-Liszt,doctor (probably),2001,10
+434,Für alle Fälle Stefanie,DE,7,231018,Dietrich Mattausch,2,False,Niklas Lorentz,other,2001,10
+435,Für alle Fälle Stefanie,DE,7,46167,Christiane Brammer,1,False,Iris Melba-Eckelt,other,2001,10
+436,Für alle Fälle Stefanie,DE,7,1801643,Lisa Willschütz,1,False,Sophie Wilde,other,2001,10
+437,Für alle Fälle Stefanie,DE,7,42400,Gila von Weitershausen,1,False,Heidrun Benhoff,doctor,2002,11
+438,Für alle Fälle Stefanie,DE,7,1287180,Katharina Zapatka,1,False,Ulrike Bleibtreu,other,2001,11
+439,Für alle Fälle Stefanie,DE,7,46571,Ralf Schermuly,2,False,Kurt Bleibtreu,other,2001,11
+440,Für alle Fälle Stefanie,DE,7,1076585,Siemen Rühaak,2,False,Christoph Emmrich,other,2001,12
+441,Für alle Fälle Stefanie,DE,7,49052,Rainer Strecker,2,False,Sebastian Keitel,other,2001,12
+442,Für alle Fälle Stefanie,DE,7,44474,Klausjürgen Wussow,2,False,Ralf Habersatt,other,2001,12
+443,Für alle Fälle Stefanie,DE,7,1085856,Dietz Werner Steck,2,False,Arnold Wartmann,other,2002,1
+444,Für alle Fälle Stefanie,DE,7,39487,Nikolaus Paryla,2,False,Werner Beese,other,2002,1
+445,Für alle Fälle Stefanie,DE,7,28343,Karl Kranzkowski,2,False,Hardy Proske,other,2002,3
+446,Für alle Fälle Stefanie,DE,7,56603,Ivonne Schönherr,1,False,Sabrina Proske,other,2002,3
+447,Für alle Fälle Stefanie,DE,7,987550,Mathias Herrmann,2,False,Gerd Weiß,other,2002,3
+448,Für alle Fälle Stefanie,DE,7,32585,Walter Giller,2,False,Franz Pustelader,other,2002,4
+449,Für alle Fälle Stefanie,DE,7,36836,Nadja Tiller,1,False,Agnes Neurath,other,2002,4
+450,Für alle Fälle Stefanie,DE,8,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),2002,9
+451,Für alle Fälle Stefanie,DE,8,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),2002,9
+452,Für alle Fälle Stefanie,DE,8,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),2002,9
+453,Für alle Fälle Stefanie,DE,8,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),2002,9
+454,Für alle Fälle Stefanie,DE,8,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),2002,9
+455,Für alle Fälle Stefanie,DE,8,48547,Jacqueline Svilarov,1,True,Franziska Martens,doctor (probably),2002,9
+456,Für alle Fälle Stefanie,DE,8,1518369,Constanze Roeder,1,True,Dagmar Berger,doctor (probably),2002,9
+457,Für alle Fälle Stefanie,DE,8,50185,David C. Bunners,2,True,Markus Meier-Liszt,doctor (probably),2002,9
+458,Für alle Fälle Stefanie,DE,8,39327,Michael Fitz,2,False,Hans Baumann,other,2002,9
+459,Für alle Fälle Stefanie,DE,8,4929,Sabine Kaack,1,False,Jutta Baumann,other,2002,9
+460,Für alle Fälle Stefanie,DE,8,46718,Christine Wodetzky,1,False,Lore Jennings,other,2002,9
+461,Für alle Fälle Stefanie,DE,8,1221640,Angela Roy,1,False,Carola Seitz,other,2002,9
+462,Für alle Fälle Stefanie,DE,8,17059,Falk Rockstroh,2,False,Konrad,other,2002,9
+463,Für alle Fälle Stefanie,DE,8,73379,Oliver Boysen,2,False,Florian Beckner,other,2002,10
+464,Für alle Fälle Stefanie,DE,8,233777,Anita Kupsch,1,False,Alice Salmbach,other,2002,10
+465,Für alle Fälle Stefanie,DE,8,79449,Margarita Broich,1,False,Christel Merz,other,2002,10
+466,Für alle Fälle Stefanie,DE,8,1069240,Karin Eickelbaum,1,False,Frau von Schilling,other,2002,10
+467,Für alle Fälle Stefanie,DE,8,588317,Teresa Harder,1,False,,other,2002,11
+468,Für alle Fälle Stefanie,DE,8,6674,Julia Dietze,1,False,,other,2002,11
+469,Für alle Fälle Stefanie,DE,8,48273,Arnfried Lerche,2,False,,other,2002,11
+470,Für alle Fälle Stefanie,DE,8,67529,Fritzi Eichhorn,1,False,Christina Ziegenwiese,other,2002,11
+471,Für alle Fälle Stefanie,DE,8,1166752,Felix von Manteuffel,2,False,Dr. Robert Bühler,doctor,2002,11
+472,Für alle Fälle Stefanie,DE,8,39862,Wanda Perdelwitz,1,False,Meike Häfner,other,2002,11
+473,Für alle Fälle Stefanie,DE,8,50314,Boris Aljinovic,2,False,Mike Dombrowski,other,2003,2
+474,Für alle Fälle Stefanie,DE,8,234098,Claudine Wilde,1,False,Elisabeth 'Liz' Bode,other,2003,3
+475,Für alle Fälle Stefanie,DE,8,49016,Guntbert Warns,2,False,Norbert Bode,other,2003,3
+476,Für alle Fälle Stefanie,DE,8,8801,Rolf Kanies,2,False,Klaus Bergmann,other,2003,4
+477,Für alle Fälle Stefanie,DE,8,1447187,Dagmar Sitte,1,False,Lydia Bergmann,other,2003,4
+478,Für alle Fälle Stefanie,DE,8,213586,Helmut Zierl,2,False,Tim Wertheimer,other,2003,5
+479,Für alle Fälle Stefanie,DE,8,143481,Katharina Schubert,1,False,Bettina Wertheimer,other,2003,5
+480,Für alle Fälle Stefanie,DE,8,5510,Inka Friedrich,1,False,Heike Mahr,other,2003,6
+481,Für alle Fälle Stefanie,DE,9,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),2003,10
+482,Für alle Fälle Stefanie,DE,9,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),2003,10
+483,Für alle Fälle Stefanie,DE,9,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),2003,10
+484,Für alle Fälle Stefanie,DE,9,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),2003,10
+485,Für alle Fälle Stefanie,DE,9,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),2003,10
+486,Für alle Fälle Stefanie,DE,9,48547,Jacqueline Svilarov,1,True,Franziska Martens,doctor (probably),2003,10
+487,Für alle Fälle Stefanie,DE,9,1518369,Constanze Roeder,1,True,Dagmar Berger,doctor (probably),2003,10
+488,Für alle Fälle Stefanie,DE,9,50185,David C. Bunners,2,True,Markus Meier-Liszt,doctor (probably),2003,10
+489,Für alle Fälle Stefanie,DE,9,57361,Diana Amft,1,False,Marlous Breuer,other,2003,10
+490,Für alle Fälle Stefanie,DE,9,39589,Dietmar Mössmer,2,False,Peter Sandner,other,2003,10
+491,Für alle Fälle Stefanie,DE,9,114594,Proschat Madani,1,False,Kira Leman,other,2003,10
+492,Für alle Fälle Stefanie,DE,9,38539,Thomas Schücke,2,False,Wolfgang Antonie,other,2003,10
+493,Für alle Fälle Stefanie,DE,9,3841,Samuel Finzi,2,False,Manfred Bergmann,other,2003,10
+494,Für alle Fälle Stefanie,DE,10,68429,Claudia Schmutzler,1,True,Stephanie Wilde,doctor (probably),2004,3
+495,Für alle Fälle Stefanie,DE,10,1073988,Ulrike Mai,1,True,Elke Richards,doctor (probably),2004,3
+496,Für alle Fälle Stefanie,DE,10,44304,Walfriede Schmitt,1,True,Klara Mehring,doctor (probably),2004,3
+497,Für alle Fälle Stefanie,DE,10,233409,Klaus Mikoleit,2,True,Friedhelm Günther,doctor (probably),2004,3
+498,Für alle Fälle Stefanie,DE,10,68015,Christoph Schobesberger,2,True,Johannes Stein,doctor (probably),2004,3
+499,Für alle Fälle Stefanie,DE,10,48547,Jacqueline Svilarov,1,True,Franziska Martens,doctor (probably),2004,3
+500,Für alle Fälle Stefanie,DE,10,1518369,Constanze Roeder,1,True,Dagmar Berger,doctor (probably),2004,3
+501,Für alle Fälle Stefanie,DE,10,50185,David C. Bunners,2,True,Markus Meier-Liszt,doctor (probably),2004,3

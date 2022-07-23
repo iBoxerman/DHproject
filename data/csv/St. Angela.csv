@@ -1,0 +1,113 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,St. Angela,DE,1,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),1997,4
+1,St. Angela,DE,1,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),1997,4
+2,St. Angela,DE,1,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),1997,4
+3,St. Angela,DE,1,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),1997,4
+4,St. Angela,DE,1,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,1997,4
+5,St. Angela,DE,1,1249797,Kim-Sarah Brandts,0,True,Jule Peterson,doctor (probably),1997,4
+6,St. Angela,DE,1,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,1997,4
+7,St. Angela,DE,1,1316971,Hans Heinz Moser,2,True,Professor Waizmann,doctor (probably),1997,4
+8,St. Angela,DE,1,1149170,Anja Nejarri,1,False,Daniela,other,1997,4
+9,St. Angela,DE,1,1133627,Sylvia Leifheit,1,False,Susanne,other,1997,4
+10,St. Angela,DE,1,1324643,Björn Casapietra,2,False,Felix,other,1997,4
+11,St. Angela,DE,1,39296,Simon Licht,2,False,Dr. Mauch,doctor,1997,4
+12,St. Angela,DE,1,1858889,Julian Fröhlich,2,False,Stephan,other,1997,4
+13,St. Angela,DE,1,46217,Dietmar König,2,False,Dr.Gröbe,doctor,1997,4
+14,St. Angela,DE,1,16719,Josef Ostendorf,2,False,Sir Henry,other,1997,4
+15,St. Angela,DE,1,49705,Wolfgang Pregler,2,False,Dr. Eisenschmidt,doctor,1997,4
+16,St. Angela,DE,1,1344084,Davia Dannenberg,1,False,Jo Santos,other,1997,4
+17,St. Angela,DE,1,1323480,Heiko Obermöller,2,False,Peter Roganski,other,1997,4
+18,St. Angela,DE,1,1638393,Kaya Marie Möller,1,False,,other,1997,4
+19,St. Angela,DE,2,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),1998,4
+20,St. Angela,DE,2,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),1998,4
+21,St. Angela,DE,2,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),1998,4
+22,St. Angela,DE,2,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),1998,4
+23,St. Angela,DE,2,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,1998,4
+24,St. Angela,DE,2,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,1998,4
+25,St. Angela,DE,2,26499,Gernot Endemann,2,False,Manfred Nickel,other,1998,4
+26,St. Angela,DE,2,39296,Simon Licht,2,False,Dr.Mauch,doctor,1998,4
+27,St. Angela,DE,2,3707,Utz Krause,2,False,Herr Severin,other,1998,4
+28,St. Angela,DE,2,175269,Tatjana Alexander,1,False,Neele,other,1998,5
+29,St. Angela,DE,2,1139995,Mariam Diop,1,False,Fatou Sanoh,other,1998,5
+30,St. Angela,DE,2,1568525,Tao Li Ma,1,False,Li,other,1998,5
+31,St. Angela,DE,2,48270,Justine del Corte,1,False,Lydia Vermont,other,1998,5
+32,St. Angela,DE,2,1195049,Frank Vockroth,2,False,Michael Westphal,other,1998,9
+33,St. Angela,DE,3,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),1998,9
+34,St. Angela,DE,3,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),1998,9
+35,St. Angela,DE,3,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),1998,9
+36,St. Angela,DE,3,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),1998,9
+37,St. Angela,DE,3,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,1998,9
+38,St. Angela,DE,3,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,1998,9
+39,St. Angela,DE,3,1031123,Yasmina Filali,1,False,Lea,other,1998,9
+40,St. Angela,DE,3,39296,Simon Licht,2,False,Dr.Mauch,doctor,1998,10
+41,St. Angela,DE,3,1089487,Nina Azizi,1,False,Michaela Sanders,other,1998,10
+42,St. Angela,DE,3,47240,Heinrich Eyerund,2,False,Erik Hansen,other,1998,10
+43,St. Angela,DE,3,1052798,Giovanni Arvaneh,2,False,Dr. Stefan Falkenberg,doctor,1998,10
+44,St. Angela,DE,3,564810,Marcus Off,2,False,Rolf Grunert,other,1998,11
+45,St. Angela,DE,3,19927,Michael Kessler,2,False,Bernd Schaefer,other,1998,11
+46,St. Angela,DE,3,1283562,Alexander Haugg,2,False,Mechaniker,other,1998,11
+47,St. Angela,DE,4,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),1998,12
+48,St. Angela,DE,4,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),1998,12
+49,St. Angela,DE,4,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),1998,12
+50,St. Angela,DE,4,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),1998,12
+51,St. Angela,DE,4,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,1998,12
+52,St. Angela,DE,4,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,1998,12
+53,St. Angela,DE,4,1789152,Kay Böger,2,False,Jörn Lohmann,other,1998,12
+54,St. Angela,DE,4,23643,Horst Drinda,2,False,Prof. Bernhard Falkenberg,other,1998,12
+55,St. Angela,DE,4,1285290,Julia Heinemann,1,False,Ariane Wegener,other,1998,12
+56,St. Angela,DE,4,1858978,Jana Ibing,1,False,Floriane,other,1998,12
+57,St. Angela,DE,4,46217,Dietmar König,2,False,Dr. Gröbe,doctor,1998,12
+58,St. Angela,DE,5,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2000,6
+59,St. Angela,DE,5,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2000,6
+60,St. Angela,DE,5,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2000,6
+61,St. Angela,DE,5,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2000,6
+62,St. Angela,DE,5,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2000,6
+63,St. Angela,DE,5,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2000,6
+64,St. Angela,DE,6,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2000,11
+65,St. Angela,DE,6,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2000,11
+66,St. Angela,DE,6,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2000,11
+67,St. Angela,DE,6,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2000,11
+68,St. Angela,DE,6,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2000,11
+69,St. Angela,DE,6,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2000,11
+70,St. Angela,DE,7,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2002,1
+71,St. Angela,DE,7,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2002,1
+72,St. Angela,DE,7,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2002,1
+73,St. Angela,DE,7,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2002,1
+74,St. Angela,DE,7,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2002,1
+75,St. Angela,DE,7,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2002,1
+76,St. Angela,DE,8,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2002,11
+77,St. Angela,DE,8,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2002,11
+78,St. Angela,DE,8,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2002,11
+79,St. Angela,DE,8,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2002,11
+80,St. Angela,DE,8,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2002,11
+81,St. Angela,DE,8,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2002,11
+82,St. Angela,DE,9,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2003,1
+83,St. Angela,DE,9,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2003,1
+84,St. Angela,DE,9,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2003,1
+85,St. Angela,DE,9,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2003,1
+86,St. Angela,DE,9,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2003,1
+87,St. Angela,DE,9,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2003,1
+88,St. Angela,DE,10,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2003,9
+89,St. Angela,DE,10,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2003,9
+90,St. Angela,DE,10,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2003,9
+91,St. Angela,DE,10,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2003,9
+92,St. Angela,DE,10,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2003,9
+93,St. Angela,DE,10,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2003,9
+94,St. Angela,DE,11,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2004,1
+95,St. Angela,DE,11,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2004,1
+96,St. Angela,DE,11,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2004,1
+97,St. Angela,DE,11,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2004,1
+98,St. Angela,DE,11,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2004,1
+99,St. Angela,DE,11,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2004,1
+100,St. Angela,DE,12,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2004,9
+101,St. Angela,DE,12,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2004,9
+102,St. Angela,DE,12,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2004,9
+103,St. Angela,DE,12,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2004,9
+104,St. Angela,DE,12,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2004,9
+105,St. Angela,DE,12,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2004,9
+106,St. Angela,DE,13,1479563,Friedel Schümann,2,True,Oberschwester Irene,doctor (probably),2005,1
+107,St. Angela,DE,13,1479567,Fiona Molloy,1,True,Kathrin Berger,doctor (probably),2005,1
+108,St. Angela,DE,13,1858878,Christopher Biel,2,True,Anton Stein,doctor (probably),2005,1
+109,St. Angela,DE,13,1858880,Sabine Marcus,1,True,Sonja Tietze,doctor (probably),2005,1
+110,St. Angela,DE,13,36501,Karin Thaler,1,True,Dr. Ulrike Kühn,doctor,2005,1
+111,St. Angela,DE,13,36755,Peter Prager,2,True,Chefarzt Prof. Dr. Gerlach,doctor,2005,1

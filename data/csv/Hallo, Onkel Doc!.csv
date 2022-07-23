@@ -1,0 +1,184 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,"Hallo, Onkel Doc!",DE,1,26520,Ulrich Matschoss,2,True,Prof. Hermann Lüders,doctor (probably),1994,7
+1,"Hallo, Onkel Doc!",DE,1,234111,Ulrich Reinthaller,2,True,Dr. Markus Kampmann,doctor,1994,7
+2,"Hallo, Onkel Doc!",DE,1,59376,Heike Jonca,1,True,Hilde Thomaschewski,doctor (probably),1994,7
+3,"Hallo, Onkel Doc!",DE,1,1330946,Ralf Lindermann,2,True,Dr. Gregor Lüders,doctor,1994,7
+4,"Hallo, Onkel Doc!",DE,1,1157283,Walter Schultheiß,2,True,Albert Kampmann,doctor (probably),1994,7
+5,"Hallo, Onkel Doc!",DE,1,46390,Heike Schroetter,1,True,Mareike Ritter,doctor (probably),1994,7
+6,"Hallo, Onkel Doc!",DE,1,16943,Joost Siedhoff,2,True,Schorsch Zehringer,doctor (probably),1994,7
+7,"Hallo, Onkel Doc!",DE,1,1183601,Eva Maria Bauer,1,True,Oberschwester Hilde Horn,doctor (probably),1994,7
+8,"Hallo, Onkel Doc!",DE,1,1307361,Astrid M. Fünderich,1,True,Schwester Ina,doctor (probably),1994,7
+9,"Hallo, Onkel Doc!",DE,1,44328,Maria Furtwängler,1,True,Dr. Charlotte Weiß,doctor,1994,7
+10,"Hallo, Onkel Doc!",DE,1,1265134,Ramin Yazdani,2,False,Dr. Fazal Bahrami,doctor,1994,7
+11,"Hallo, Onkel Doc!",DE,1,1350884,Edith Behleit,1,False,Lotte Zehringer,other,1994,7
+12,"Hallo, Onkel Doc!",DE,1,50374,Daniela Hoffmann,1,False,,other,1994,7
+13,"Hallo, Onkel Doc!",DE,1,234112,Svenja Pages,1,False,Dr. Corinna Halver,doctor,1994,7
+14,"Hallo, Onkel Doc!",DE,1,45947,Ann-Kathrin Kramer,1,False,Anna Seidelberg,other,1994,7
+15,"Hallo, Onkel Doc!",DE,1,1766777,Thomas Naumann,2,False,Dr. Brock,doctor,1994,7
+16,"Hallo, Onkel Doc!",DE,1,1258581,Katharina Lehmann,1,False,Christa,other,1994,7
+17,"Hallo, Onkel Doc!",DE,1,1318430,Jochen Schroeder,2,False,Herr Schütz,other,1994,7
+18,"Hallo, Onkel Doc!",DE,1,1464558,Daniela Strietzel,1,False,Frau Schütz,other,1994,7
+19,"Hallo, Onkel Doc!",DE,1,1221617,Nina Franoszek,1,False,Vera Brahm,other,1994,7
+20,"Hallo, Onkel Doc!",DE,1,26617,Manfred Lehmann,2,False,Herr Wetzenstein,other,1994,7
+21,"Hallo, Onkel Doc!",DE,1,144467,Herbert Meurer,2,False,,other,1994,7
+22,"Hallo, Onkel Doc!",DE,1,1119023,Gundula Petrovska,1,False,Frau Glocke,other,1994,7
+23,"Hallo, Onkel Doc!",DE,1,46202,Mariele Millowitsch,1,False,Frau Westermann,other,1994,8
+24,"Hallo, Onkel Doc!",DE,1,47765,Ulli Philipp,1,False,Dr. Merling,doctor,1994,8
+25,"Hallo, Onkel Doc!",DE,1,2278180,Ulrich Schmissat,2,False,Horst Westermann,other,1994,8
+26,"Hallo, Onkel Doc!",DE,1,38442,Thure Riefenstein,2,False,Stefan Köhler,other,1994,8
+27,"Hallo, Onkel Doc!",DE,1,71122,Michael Kausch,2,False,Vater Jederle,other,1994,8
+28,"Hallo, Onkel Doc!",DE,1,2728,Barbara Valentin,1,False,Frau von Schulzendorf,other,1994,8
+29,"Hallo, Onkel Doc!",DE,1,1291682,Matthias Reim,2,False,Alex Reinhard,other,1994,8
+30,"Hallo, Onkel Doc!",DE,1,1245164,Uta Schorn,1,False,Wanda Dorfmüller,other,1994,8
+31,"Hallo, Onkel Doc!",DE,1,1665854,Ben Hecker,2,False,Uwe Dorfmüller,other,1994,8
+32,"Hallo, Onkel Doc!",DE,1,37386,Hans Georg Panczak,2,False,Herr Felder,other,1994,8
+33,"Hallo, Onkel Doc!",DE,1,1183603,Volker Brandt,2,False,Herr Dorn,other,1994,8
+34,"Hallo, Onkel Doc!",DE,1,26569,Peter Schiff,2,False,Herr Kienle,other,1994,8
+35,"Hallo, Onkel Doc!",DE,1,1073988,Ulrike Mai,1,False,Frau Dorn,other,1994,8
+36,"Hallo, Onkel Doc!",DE,1,1320445,Jens Scheiblich,2,False,,other,1994,8
+37,"Hallo, Onkel Doc!",DE,1,11265,Nina Vorbrodt,1,False,,other,1994,8
+38,"Hallo, Onkel Doc!",DE,1,1882,Martin Armknecht,2,False,Erik Pape,other,1994,9
+39,"Hallo, Onkel Doc!",DE,1,939596,Franz Rudnick,2,False,Wilfried Steiner,other,1994,9
+40,"Hallo, Onkel Doc!",DE,1,224159,Dorothea Parton,1,False,Frau Steiner,other,1994,9
+41,"Hallo, Onkel Doc!",DE,1,233791,Christian Tasche,2,False,Kalle Jonat,other,1994,9
+42,"Hallo, Onkel Doc!",DE,1,1343668,Evamaria Bath,1,False,Klara Brahm,other,1994,9
+43,"Hallo, Onkel Doc!",DE,2,26520,Ulrich Matschoss,2,True,Prof. Hermann Lüders,doctor (probably),1995,10
+44,"Hallo, Onkel Doc!",DE,2,234111,Ulrich Reinthaller,2,True,Dr. Markus Kampmann,doctor,1995,10
+45,"Hallo, Onkel Doc!",DE,2,59376,Heike Jonca,1,True,Hilde Thomaschewski,doctor (probably),1995,10
+46,"Hallo, Onkel Doc!",DE,2,1330946,Ralf Lindermann,2,True,Dr. Gregor Lüders,doctor,1995,10
+47,"Hallo, Onkel Doc!",DE,2,1157283,Walter Schultheiß,2,True,Albert Kampmann,doctor (probably),1995,10
+48,"Hallo, Onkel Doc!",DE,2,46390,Heike Schroetter,1,True,Mareike Ritter,doctor (probably),1995,10
+49,"Hallo, Onkel Doc!",DE,2,16943,Joost Siedhoff,2,True,Schorsch Zehringer,doctor (probably),1995,10
+50,"Hallo, Onkel Doc!",DE,2,1183601,Eva Maria Bauer,1,True,Oberschwester Hilde Horn,doctor (probably),1995,10
+51,"Hallo, Onkel Doc!",DE,2,1307361,Astrid M. Fünderich,1,True,Schwester Ina,doctor (probably),1995,10
+52,"Hallo, Onkel Doc!",DE,2,44328,Maria Furtwängler,1,True,Dr. Charlotte Weiß,doctor,1995,10
+53,"Hallo, Onkel Doc!",DE,2,1522894,Sven Riemann,2,False,Felix Sprosse,other,1995,10
+54,"Hallo, Onkel Doc!",DE,2,123556,Christoph Moosbrugger,2,False,Herr Kostal,other,1995,10
+55,"Hallo, Onkel Doc!",DE,2,38144,Michaela May,1,False,Renate Hausmann,other,1995,11
+56,"Hallo, Onkel Doc!",DE,2,1151734,Stefan Hunstein,2,False,Patrick Boulanger,other,1995,11
+57,"Hallo, Onkel Doc!",DE,2,1237276,Dirk Galuba,2,False,Alfred Kammayr,other,1995,11
+58,"Hallo, Onkel Doc!",DE,2,13539,Erika Skrotzki,1,False,Lore Kammayr,other,1995,11
+59,"Hallo, Onkel Doc!",DE,2,17718,Marie Zielcke,1,False,Michaela Kammayr,other,1995,11
+60,"Hallo, Onkel Doc!",DE,2,59020,Sonja Kerskes,1,False,Karin,other,1995,11
+61,"Hallo, Onkel Doc!",DE,2,1247451,Christoph Quest,2,False,Kommissar Peters,other,1995,11
+62,"Hallo, Onkel Doc!",DE,2,1318652,Rüdiger Joswig,2,False,Herr Hellmann,other,1995,12
+63,"Hallo, Onkel Doc!",DE,2,36028,Michael Hinz,2,False,Horst Halver,other,1995,12
+64,"Hallo, Onkel Doc!",DE,2,5012,Sky du Mont,2,False,Dr. Lanson,doctor,1995,12
+65,"Hallo, Onkel Doc!",DE,2,1837159,Lissy von Lambsdorff,1,False,Frau Lanson,other,1995,12
+66,"Hallo, Onkel Doc!",DE,2,22612,Lisa Kreuzer,1,False,Angelika Meisenberg,other,1996,1
+67,"Hallo, Onkel Doc!",DE,2,1177453,Dolly Dollar,1,False,Frau Siebert,other,1996,1
+68,"Hallo, Onkel Doc!",DE,2,36303,Alexander Kerst,2,False,,other,1996,1
+69,"Hallo, Onkel Doc!",DE,2,1336076,Jörg Panknin,2,False,Herr Siebert,other,1996,1
+70,"Hallo, Onkel Doc!",DE,2,1315989,Arianne Borbach,1,False,Gabi Kramer,other,1996,1
+71,"Hallo, Onkel Doc!",DE,2,1458279,Frank Muth,2,False,Thomas Weiß,other,1996,1
+72,"Hallo, Onkel Doc!",DE,2,23986,Winfried Glatzeder,2,False,Herr Schäfer,other,1996,1
+73,"Hallo, Onkel Doc!",DE,2,48613,Renate Krößner,1,False,Daniela Lohmann,other,1996,1
+74,"Hallo, Onkel Doc!",DE,2,67400,Ulrich Anschütz,2,False,,other,1996,2
+75,"Hallo, Onkel Doc!",DE,3,26520,Ulrich Matschoss,2,True,Prof. Hermann Lüders,doctor (probably),1996,9
+76,"Hallo, Onkel Doc!",DE,3,234111,Ulrich Reinthaller,2,True,Dr. Markus Kampmann,doctor,1996,9
+77,"Hallo, Onkel Doc!",DE,3,59376,Heike Jonca,1,True,Hilde Thomaschewski,doctor (probably),1996,9
+78,"Hallo, Onkel Doc!",DE,3,1330946,Ralf Lindermann,2,True,Dr. Gregor Lüders,doctor,1996,9
+79,"Hallo, Onkel Doc!",DE,3,1157283,Walter Schultheiß,2,True,Albert Kampmann,doctor (probably),1996,9
+80,"Hallo, Onkel Doc!",DE,3,46390,Heike Schroetter,1,True,Mareike Ritter,doctor (probably),1996,9
+81,"Hallo, Onkel Doc!",DE,3,16943,Joost Siedhoff,2,True,Schorsch Zehringer,doctor (probably),1996,9
+82,"Hallo, Onkel Doc!",DE,3,1183601,Eva Maria Bauer,1,True,Oberschwester Hilde Horn,doctor (probably),1996,9
+83,"Hallo, Onkel Doc!",DE,3,1307361,Astrid M. Fünderich,1,True,Schwester Ina,doctor (probably),1996,9
+84,"Hallo, Onkel Doc!",DE,3,44328,Maria Furtwängler,1,True,Dr. Charlotte Weiß,doctor,1996,9
+85,"Hallo, Onkel Doc!",DE,3,848,Hans-Werner Meyer,2,False,Wolfram Metz,other,1996,9
+86,"Hallo, Onkel Doc!",DE,3,23722,Dietmar Mues,2,False,Franz Berlinghoff,other,1996,9
+87,"Hallo, Onkel Doc!",DE,3,44364,Jona Mues,2,False,Bastian Berlinghoff,other,1996,9
+88,"Hallo, Onkel Doc!",DE,3,100095,Horst Janson,2,False,Herr Steffens,other,1996,10
+89,"Hallo, Onkel Doc!",DE,3,684,Tom Schilling,2,False,Mark,other,1996,10
+90,"Hallo, Onkel Doc!",DE,3,38157,Konstanze Breitebner,1,False,Eva Burgmeister,other,1996,10
+91,"Hallo, Onkel Doc!",DE,3,1333476,Ralph Schicha,2,False,Helmut Burgmeister,other,1996,10
+92,"Hallo, Onkel Doc!",DE,3,1076585,Siemen Rühaak,2,False,Bernd Meinhold,other,1996,10
+93,"Hallo, Onkel Doc!",DE,3,1826989,Monika Schwarz,1,False,Elisabeth,other,1996,10
+94,"Hallo, Onkel Doc!",DE,3,1221649,Brigitte Karner,1,False,Marianne Leutzmann,other,1996,10
+95,"Hallo, Onkel Doc!",DE,3,5201,Robert Stadlober,2,False,Micky Möller,other,1996,11
+96,"Hallo, Onkel Doc!",DE,3,118433,Karin Düwel,1,False,Rita Möller,other,1996,11
+97,"Hallo, Onkel Doc!",DE,3,1117161,Ulrich Faulhaber,2,False,Herbert Möller,other,1996,11
+98,"Hallo, Onkel Doc!",DE,3,1482405,Angelika Perdelwitz,1,False,Frau Schumann,other,1996,11
+99,"Hallo, Onkel Doc!",DE,3,588317,Teresa Harder,1,False,Sylke Feldmann,other,1996,11
+100,"Hallo, Onkel Doc!",DE,3,25005,Christoph Hofrichter,2,False,Tom Feldmann,other,1996,11
+101,"Hallo, Onkel Doc!",DE,3,1722121,Romy Kühnert,1,False,Raphaela Harbeck,other,1996,11
+102,"Hallo, Onkel Doc!",DE,3,25927,Silvan-Pierre Leirich,2,False,Günter Harbeck,other,1996,11
+103,"Hallo, Onkel Doc!",DE,3,39908,Ulrike Krumbiegel,1,False,Hanna Brender,other,1996,11
+104,"Hallo, Onkel Doc!",DE,3,1177070,Holger Daemgen,2,False,Daniel Köhler,other,1996,11
+105,"Hallo, Onkel Doc!",DE,3,1284699,Friederike Wagner,1,False,Susanne Köhler,other,1996,11
+106,"Hallo, Onkel Doc!",DE,3,32862,Julius Jellinek,2,False,Max Ahrens,other,1996,11
+107,"Hallo, Onkel Doc!",DE,3,1552902,Tim Haberland,2,False,Friedo,other,1996,12
+108,"Hallo, Onkel Doc!",DE,3,27892,Barbara Morawiecz,1,False,Fatma Osmanovic,other,1996,12
+109,"Hallo, Onkel Doc!",DE,4,26520,Ulrich Matschoss,2,True,Prof. Hermann Lüders,doctor (probably),1998,1
+110,"Hallo, Onkel Doc!",DE,4,234111,Ulrich Reinthaller,2,True,Dr. Markus Kampmann,doctor,1998,1
+111,"Hallo, Onkel Doc!",DE,4,59376,Heike Jonca,1,True,Hilde Thomaschewski,doctor (probably),1998,1
+112,"Hallo, Onkel Doc!",DE,4,1330946,Ralf Lindermann,2,True,Dr. Gregor Lüders,doctor,1998,1
+113,"Hallo, Onkel Doc!",DE,4,1157283,Walter Schultheiß,2,True,Albert Kampmann,doctor (probably),1998,1
+114,"Hallo, Onkel Doc!",DE,4,46390,Heike Schroetter,1,True,Mareike Ritter,doctor (probably),1998,1
+115,"Hallo, Onkel Doc!",DE,4,16943,Joost Siedhoff,2,True,Schorsch Zehringer,doctor (probably),1998,1
+116,"Hallo, Onkel Doc!",DE,4,1183601,Eva Maria Bauer,1,True,Oberschwester Hilde Horn,doctor (probably),1998,1
+117,"Hallo, Onkel Doc!",DE,4,1307361,Astrid M. Fünderich,1,True,Schwester Ina,doctor (probably),1998,1
+118,"Hallo, Onkel Doc!",DE,4,44328,Maria Furtwängler,1,True,Dr. Charlotte Weiß,doctor,1998,1
+119,"Hallo, Onkel Doc!",DE,4,40365,Hartmut Becker,2,False,Klaus Berger,other,1998,1
+120,"Hallo, Onkel Doc!",DE,4,1838809,Astrid Meyer-Gossler,1,False,Clarissa Kühn,other,1998,1
+121,"Hallo, Onkel Doc!",DE,4,4925,Heinrich Giskes,2,False,Prof. Walther,other,1998,1
+122,"Hallo, Onkel Doc!",DE,4,71984,Julia Richter,1,False,Christiane Feinberg,other,1998,2
+123,"Hallo, Onkel Doc!",DE,4,1293,Franziska Troegner,1,False,Marlene,other,1998,2
+124,"Hallo, Onkel Doc!",DE,4,38144,Michaela May,1,False,Renate Hausmann,other,1998,2
+125,"Hallo, Onkel Doc!",DE,4,29542,Pinkas Braun,2,False,Prof. Dr. Werner Jacoby,doctor,1998,2
+126,"Hallo, Onkel Doc!",DE,4,48371,Buddy Elias,2,False,Max,other,1998,2
+127,"Hallo, Onkel Doc!",DE,4,8207,Thomas Arnold,2,False,Tim,other,1998,2
+128,"Hallo, Onkel Doc!",DE,4,1152367,Sissy Höfferer,1,False,Dr. Schramm,doctor,1988,2
+129,"Hallo, Onkel Doc!",DE,4,2349,Bernd Tauber,2,False,Herr Grünert,other,1988,2
+130,"Hallo, Onkel Doc!",DE,4,1147019,Heidrun Gärtner,1,False,Dr. Jasmin Erbach,doctor,1988,2
+131,"Hallo, Onkel Doc!",DE,4,1067178,Edda Leesch,1,False,Frau Grünert,other,1988,2
+132,"Hallo, Onkel Doc!",DE,4,1318652,Rüdiger Joswig,2,False,Herr Hoffmann,other,1998,3
+133,"Hallo, Onkel Doc!",DE,4,49017,Siegfried W. Kernen,2,False,Schweizer,other,1998,3
+134,"Hallo, Onkel Doc!",DE,4,1133627,Sylvia Leifheit,1,False,Melanie Kloster,other,1998,3
+135,"Hallo, Onkel Doc!",DE,4,37388,Wookie Mayer,1,False,Sybille Wagner,other,1998,3
+136,"Hallo, Onkel Doc!",DE,4,6082,Sebastian Urzendowsky,2,False,Ollie Sebald,other,1998,3
+137,"Hallo, Onkel Doc!",DE,4,1317455,Peter Buchholz,2,False,Wolfgang Karbacher,other,1998,3
+138,"Hallo, Onkel Doc!",DE,4,1305413,Frank-Leo Schröder,2,False,Raimund Goetz,other,1998,3
+139,"Hallo, Onkel Doc!",DE,4,1483763,Isabelle von Siebenthal,1,False,Ute Karbacher,other,1998,3
+140,"Hallo, Onkel Doc!",DE,4,64568,Martin Goeres,2,False,Frederic Riedel,other,1998,3
+141,"Hallo, Onkel Doc!",DE,4,1881,Christof Wackernagel,2,False,Alfons Riedel,other,1998,3
+142,"Hallo, Onkel Doc!",DE,4,4792,Katrin Sass,1,False,Kathrin Heise,other,1998,4
+143,"Hallo, Onkel Doc!",DE,4,1326597,Iris Junik,1,False,Mona Heise,other,1998,4
+144,"Hallo, Onkel Doc!",DE,4,5266,Rüdiger Vogler,2,False,Pfarrer Johannes Berling,other,1998,4
+145,"Hallo, Onkel Doc!",DE,5,26520,Ulrich Matschoss,2,True,Prof. Hermann Lüders,doctor (probably),1998,7
+146,"Hallo, Onkel Doc!",DE,5,234111,Ulrich Reinthaller,2,True,Dr. Markus Kampmann,doctor,1998,7
+147,"Hallo, Onkel Doc!",DE,5,59376,Heike Jonca,1,True,Hilde Thomaschewski,doctor (probably),1998,7
+148,"Hallo, Onkel Doc!",DE,5,1330946,Ralf Lindermann,2,True,Dr. Gregor Lüders,doctor,1998,7
+149,"Hallo, Onkel Doc!",DE,5,1157283,Walter Schultheiß,2,True,Albert Kampmann,doctor (probably),1998,7
+150,"Hallo, Onkel Doc!",DE,5,46390,Heike Schroetter,1,True,Mareike Ritter,doctor (probably),1998,7
+151,"Hallo, Onkel Doc!",DE,5,16943,Joost Siedhoff,2,True,Schorsch Zehringer,doctor (probably),1998,7
+152,"Hallo, Onkel Doc!",DE,5,1183601,Eva Maria Bauer,1,True,Oberschwester Hilde Horn,doctor (probably),1998,7
+153,"Hallo, Onkel Doc!",DE,5,1307361,Astrid M. Fünderich,1,True,Schwester Ina,doctor (probably),1998,7
+154,"Hallo, Onkel Doc!",DE,5,44328,Maria Furtwängler,1,True,Dr. Charlotte Weiß,doctor,1998,7
+155,"Hallo, Onkel Doc!",DE,5,1455672,Marlene Marlow,1,False,Sonja,other,1998,7
+156,"Hallo, Onkel Doc!",DE,5,39988,Paula Schramm,1,False,Alina Mauch,other,1998,7
+157,"Hallo, Onkel Doc!",DE,5,1831414,Juana-Maria von Jascheroff,1,False,Bettina Mauch,other,1998,7
+158,"Hallo, Onkel Doc!",DE,5,1117279,Moritz Lindbergh,2,False,Herr Biele,other,1998,8
+159,"Hallo, Onkel Doc!",DE,5,32866,Constantin von Jascheroff,2,False,GOL / Paul Kerner,other,1998,8
+160,"Hallo, Onkel Doc!",DE,5,1315976,Detlef Bierstedt,2,False,Schuldirektor,other,1998,9
+161,"Hallo, Onkel Doc!",DE,5,33510,Antonio Wannek,2,False,Jan,other,1998,9
+162,"Hallo, Onkel Doc!",DE,5,1459462,Günter Bothur,2,False,Dr. Stoltenberg,doctor,1998,10
+163,"Hallo, Onkel Doc!",DE,5,23937,Katja Studt,1,False,Schwester Patrizia,other,1998,10
+164,"Hallo, Onkel Doc!",DE,6,26520,Ulrich Matschoss,2,True,Prof. Hermann Lüders,doctor (probably),1999,10
+165,"Hallo, Onkel Doc!",DE,6,234111,Ulrich Reinthaller,2,True,Dr. Markus Kampmann,doctor,1999,10
+166,"Hallo, Onkel Doc!",DE,6,59376,Heike Jonca,1,True,Hilde Thomaschewski,doctor (probably),1999,10
+167,"Hallo, Onkel Doc!",DE,6,1330946,Ralf Lindermann,2,True,Dr. Gregor Lüders,doctor,1999,10
+168,"Hallo, Onkel Doc!",DE,6,1157283,Walter Schultheiß,2,True,Albert Kampmann,doctor (probably),1999,10
+169,"Hallo, Onkel Doc!",DE,6,46390,Heike Schroetter,1,True,Mareike Ritter,doctor (probably),1999,10
+170,"Hallo, Onkel Doc!",DE,6,16943,Joost Siedhoff,2,True,Schorsch Zehringer,doctor (probably),1999,10
+171,"Hallo, Onkel Doc!",DE,6,1183601,Eva Maria Bauer,1,True,Oberschwester Hilde Horn,doctor (probably),1999,10
+172,"Hallo, Onkel Doc!",DE,6,1307361,Astrid M. Fünderich,1,True,Schwester Ina,doctor (probably),1999,10
+173,"Hallo, Onkel Doc!",DE,6,44328,Maria Furtwängler,1,True,Dr. Charlotte Weiß,doctor,1999,10
+174,"Hallo, Onkel Doc!",DE,6,1461539,Andreas Maria Schwaiger,2,False,Dr. Christian Ritter,doctor,1999,10
+175,"Hallo, Onkel Doc!",DE,6,1187103,Iris Böhm,1,False,Dr. Johanna Kaminski,doctor,1999,10
+176,"Hallo, Onkel Doc!",DE,6,1286047,Karsten Dörr,2,False,Dr. Max Geldorf,doctor,1999,10
+177,"Hallo, Onkel Doc!",DE,6,43494,Elisabeth Wiedemann,1,False,Marlene Geldorf,other,1999,10
+178,"Hallo, Onkel Doc!",DE,6,1074603,Nina Bagusat,1,False,Schwester Anna,other,1999,11
+179,"Hallo, Onkel Doc!",DE,6,36441,Kristina van Eyck,1,False,Susanne Starmann,other,1999,11
+180,"Hallo, Onkel Doc!",DE,6,38206,Gilbert von Sohlern,2,False,,other,1999,12
+181,"Hallo, Onkel Doc!",DE,6,1180748,Andrea Bürgin,1,False,Frau Seiler,other,2000,1
+182,"Hallo, Onkel Doc!",DE,6,1372163,Beate Maes,1,False,,other,2000,2

@@ -1,0 +1,16 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Sestričky,SK,1,1108521,Kristína Svarinská,1,True,Ema Farkašová,doctor (probably),2018,9
+1,Sestričky,SK,1,1182313,Anna Šišková,1,True,,doctor (probably),2018,9
+2,Sestričky,SK,1,1261323,Juraj Loj,2,True,Tomáš,doctor (probably),2018,9
+3,Sestričky,SK,1,1380910,Dana Košická,1,True,Helena Javorská,doctor (probably),2018,9
+4,Sestričky,SK,1,2152877,Kristína Madárová,1,True,Jana Sýkorová,doctor (probably),2018,9
+5,Sestričky,SK,1,2152878,Matúš Kvietik,2,True,Dano,doctor (probably),2018,9
+6,Sestričky,SK,1,2286896,Braňo Mosný,0,True,Ivan Chromík,doctor (probably),2018,9
+7,Sestričky,SK,1,1470732,Anikó Vargová,1,True,Táňa Šoltýsová,doctor (probably),2018,9
+8,Sestričky,SK,1,1752407,Miloslav Kráľ,2,True,Filip Vágner,doctor (probably),2018,9
+9,Sestričky,SK,1,1581615,Martin Mňahončák,2,True,Peter,doctor (probably),2018,9
+10,Sestričky,SK,2,1108521,Kristína Svarinská,1,True,Ema Farkašová,doctor (probably),2019,9
+11,Sestričky,SK,2,1470733,Elena Podzámska,1,True,,doctor (probably),2019,9
+12,Sestričky,SK,3,1108521,Kristína Svarinská,1,True,Ema Farkašová,doctor (probably),2020,9
+13,Sestričky,SK,3,2736374,Petra Vajdová,1,False,,other,2020,11
+14,Sestričky,SK,4,1108521,Kristína Svarinská,1,True,Ema Farkašová,doctor (probably),2021,9

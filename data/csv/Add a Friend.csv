@@ -1,0 +1,34 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Add a Friend,DE,1,44651,Ken Duken,2,True,Felix Wagner,doctor (probably),2012,9
+1,Add a Friend,DE,1,113999,Friedrich Mücke,2,True,Tom Schrader,doctor (probably),2012,9
+2,Add a Friend,DE,1,39746,Gisela Schneeberger,1,True,Gisela Wagner,doctor (probably),2012,9
+3,Add a Friend,DE,1,38608,Dietrich Hollinderbäumer,2,True,Gerd Wagner,doctor (probably),2012,9
+4,Add a Friend,DE,1,70839,Emilia Schüle,1,True,Vanessa Jo,doctor (probably),2012,9
+5,Add a Friend,DE,1,28273,Friederike Kempter,1,True,Julia Winter,doctor (probably),2012,9
+6,Add a Friend,DE,1,4936,Jochen Nickel,2,True,Eddie Scharf,doctor (probably),2012,9
+7,Add a Friend,DE,1,44393,Martin Brambach,2,True,Dr. Metzler,doctor,2012,9
+8,Add a Friend,DE,1,1856,Ralph Herforth,2,False,Marc Münchberger,other,2012,9
+9,Add a Friend,DE,1,1183603,Volker Brandt,2,False,Johanson,other,2012,10
+10,Add a Friend,DE,1,1109604,Gisa Flake,1,False,Schwester Susanne,other,2012,11
+11,Add a Friend,DE,2,44651,Ken Duken,2,True,Felix Wagner,doctor (probably),2013,5
+12,Add a Friend,DE,2,113999,Friedrich Mücke,2,True,Tom Schrader,doctor (probably),2013,5
+13,Add a Friend,DE,2,39746,Gisela Schneeberger,1,True,Gisela Wagner,doctor (probably),2013,5
+14,Add a Friend,DE,2,38608,Dietrich Hollinderbäumer,2,True,Gerd Wagner,doctor (probably),2013,5
+15,Add a Friend,DE,2,70839,Emilia Schüle,1,True,Vanessa Jo,doctor (probably),2013,5
+16,Add a Friend,DE,2,28273,Friederike Kempter,1,True,Julia Winter,doctor (probably),2013,5
+17,Add a Friend,DE,2,4936,Jochen Nickel,2,True,Eddie Scharf,doctor (probably),2013,5
+18,Add a Friend,DE,2,44393,Martin Brambach,2,True,Dr. Metzler,doctor,2013,5
+19,Add a Friend,DE,2,22185,Nadeshda Brennicke,1,False,Theresa Langer,other,2013,5
+20,Add a Friend,DE,2,1860,Hannes Jaenicke,2,False,Ronnie 'Devil' Fischer,other,2013,5
+21,Add a Friend,DE,2,39043,Gerlinde Locker,1,False,Florence Laoupont,other,2013,6
+22,Add a Friend,DE,3,44651,Ken Duken,2,True,Felix Wagner,doctor (probably),2014,10
+23,Add a Friend,DE,3,113999,Friedrich Mücke,2,True,Tom Schrader,doctor (probably),2014,10
+24,Add a Friend,DE,3,39746,Gisela Schneeberger,1,True,Gisela Wagner,doctor (probably),2014,10
+25,Add a Friend,DE,3,38608,Dietrich Hollinderbäumer,2,True,Gerd Wagner,doctor (probably),2014,10
+26,Add a Friend,DE,3,70839,Emilia Schüle,1,True,Vanessa Jo,doctor (probably),2014,10
+27,Add a Friend,DE,3,28273,Friederike Kempter,1,True,Julia Winter,doctor (probably),2014,10
+28,Add a Friend,DE,3,4936,Jochen Nickel,2,True,Eddie Scharf,doctor (probably),2014,10
+29,Add a Friend,DE,3,44393,Martin Brambach,2,True,Dr. Metzler,doctor,2014,10
+30,Add a Friend,DE,3,6086,Devid Striesow,2,False,Malte,other,2014,10
+31,Add a Friend,DE,3,6698,Friedrich von Thun,2,False,Klaus Mappenberg,other,2014,11
+32,Add a Friend,DE,3,7830,Heiner Lauterbach,2,False,Guru Dutt,other,2014,11

@@ -1,0 +1,236 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Nurses,CA,1,1812409,Jordan Johnson-Hinds,2,True,Keon Colby,doctor (probably),2020,1
+1,Nurses,CA,1,1450264,Sandy Sidhu,1,True,Nazneen Khan,doctor (probably),2020,1
+2,Nurses,CA,1,892734,Tiera Skovbye,1,True,Grace Knight,doctor (probably),2020,1
+3,Nurses,CA,1,94482,Natasha Calis,1,True,Ashley Collins,doctor (probably),2020,1
+4,Nurses,CA,1,2450166,Donald MacLean Jr.,2,True,Wolf Burke,doctor (probably),2020,1
+5,Nurses,CA,1,1784488,Cathy White,1,False,Sinead O'Rourke,other,2020,1
+6,Nurses,CA,1,1228347,Raymond Ablack,2,False,Kabir Pavan,other,2020,1
+7,Nurses,CA,1,1437574,Ryan-James Hatanaka,2,False,Dr. Evan Wallace,doctor,2020,1
+8,Nurses,CA,1,2803092,Isabel Kanaan,1,False,L&D Charge Nurse,nurse,2020,1
+9,Nurses,CA,1,168788,J. Adam Brown,2,False,Jason Day,other,2020,1
+10,Nurses,CA,1,90459,Landon Norris,2,False,John Doe,other,2020,1
+11,Nurses,CA,1,1354722,Izaak Smith,2,False,Nathan Richie,other,2020,1
+12,Nurses,CA,1,201074,Richard Clarkin,2,False,Detective Walker,other,2020,1
+13,Nurses,CA,1,108894,Yanna McIntosh,1,False,Mrs. Richie,other,2020,1
+14,Nurses,CA,1,1216463,Aurora Browne,1,False,Lydia Moon,other,2020,1
+15,Nurses,CA,1,1484899,Molly Atkinson,1,False,Nurse Molly Street,nurse,2020,1
+16,Nurses,CA,1,190897,Raven Dauda,1,False,O.R. Nurse Nadine,nurse,2020,1
+17,Nurses,CA,1,1233146,Paulino Nunes,2,False,Dr. Eric Reyes,doctor,2020,1
+18,Nurses,CA,1,1015568,Tristan D. Lalla,2,False,Damien Sanders,other,2020,1
+19,Nurses,CA,1,1695507,Alexandra Ordolis,1,False,Caro,other,2020,1
+20,Nurses,CA,1,1182525,Nicola Correia Damude,1,False,Dr. Vanessa Banks,doctor,2020,1
+21,Nurses,CA,1,2098744,Trish Fagan,1,False,Dr. Rori Niven,doctor,2020,1
+22,Nurses,CA,1,2863701,Nadine Bhabha,1,False,Sonia Cedarson,other,2020,1
+23,Nurses,CA,1,1342478,Laura Miyata,1,False,Maki Yamato,other,2020,1
+24,Nurses,CA,1,64513,Sean Baek,2,False,Tomo Yamato,other,2020,1
+25,Nurses,CA,1,1239590,Nicole Underhay,1,False,Hilaria Gonzalez,other,2020,1
+26,Nurses,CA,1,84730,Diego Fuentes,2,False,Jorge Gonzalez,other,2020,1
+27,Nurses,CA,1,2058459,Caitlyn Sponheimer,1,False,Becky,other,2020,1
+28,Nurses,CA,1,3098901,Joey Coleman,2,False,Chris Woods,other,2020,1
+29,Nurses,CA,1,1742088,Cassius Crieghtney,2,False,Trent,other,2020,1
+30,Nurses,CA,1,1521917,Gugun Deep Singh,2,False,Dr. Jay Ramjet,doctor,2020,1
+31,Nurses,CA,1,3335151,Carter Nisbett,2,False,Hal Yamato,other,2020,1
+32,Nurses,CA,1,2590143,Roger Clown,2,False,Keith,other,2020,1
+33,Nurses,CA,1,1918870,Anwen O'Driscoll,1,False,Gabi Gonzalez,other,2020,1
+34,Nurses,CA,1,1731491,Clare McConnell,1,False,Dr. Camilia Rossi,doctor,2020,1
+35,Nurses,CA,1,55587,Peter Stebbings,2,False,Dr. Thomas Hamilton,doctor,2020,1
+36,Nurses,CA,1,209151,Ryan Blakely,2,False,Red,other,2020,1
+37,Nurses,CA,1,2482338,Vlad Alexis,2,False,Marco Polo / Devon,other,2020,1
+38,Nurses,CA,1,2317501,Christina Tannous,1,False,Zorana,other,2020,1
+39,Nurses,CA,1,1461422,Anusree Roy,0,False,Dr. Shoma Jhankar,doctor,2020,1
+40,Nurses,CA,1,29384,Sheila McCarthy,1,False,Phillis Bruner,other,2020,1
+41,Nurses,CA,1,17645,Jonathan Whittaker,2,False,Leo,other,2020,1
+42,Nurses,CA,1,1149995,Cienna Prendergast,0,False,Jaida,other,2020,1
+43,Nurses,CA,1,2391938,Natalie Liconti,1,False,Bex,other,2020,1
+44,Nurses,CA,1,62674,Billy Parrott,2,False,Cardiac Sonographer,other,2020,1
+45,Nurses,CA,1,3335155,Darnell Bartholomew,2,False,Guy,other,2020,1
+46,Nurses,CA,1,169511,Kirsten Alter,1,False,Eliza,other,2020,1
+47,Nurses,CA,1,374295,Ellora Patnaik,1,False,Aalia Khan,other,2020,1
+48,Nurses,CA,1,5918,Zachary Bennett,2,False,Dr. Kaplan,doctor,2020,1
+49,Nurses,CA,1,64888,Von Flores,2,False,Tenzin,other,2020,1
+50,Nurses,CA,1,35343,Joseph Ziegler,2,False,Gerry,other,2020,1
+51,Nurses,CA,1,101798,Victoria Snow,1,False,Barb Gelson,other,2020,1
+52,Nurses,CA,1,55614,Dylan Taylor,2,False,Michael Gelson,other,2020,1
+53,Nurses,CA,1,472349,Michael Dyson,2,False,Incoherent Man,other,2020,1
+54,Nurses,CA,1,1901384,Madi Langdon,2,False,Ella,other,2020,1
+55,Nurses,CA,1,1581642,Michael Park Ingram,2,False,Khenpo,other,2020,1
+56,Nurses,CA,1,184712,David Fisher,2,False,Man on Stretcher,other,2020,1
+57,Nurses,CA,1,3335167,Veronica Choi,1,False,Woman in Labour,other,2020,1
+58,Nurses,CA,1,3335168,Lorena Mackenzie,1,False,Wife of Man on Stretcher,other,2020,1
+59,Nurses,CA,1,1858352,Natasha Bromfield,1,False,Sandy,other,2020,2
+60,Nurses,CA,1,5941,Neil Crone,2,False,Sal,other,2020,2
+61,Nurses,CA,1,3335169,Adrian Walters,2,False,Cassius Ewing,other,2020,2
+62,Nurses,CA,1,76528,Tony Nappo,2,False,Jasper,other,2020,2
+63,Nurses,CA,1,3335171,Markeda McKay,0,False,Shamika Cole,other,2020,2
+64,Nurses,CA,1,1767622,Karen Racicot,1,False,O.R. Nurse Yana,nurse,2020,2
+65,Nurses,CA,1,1545865,Adam Kenneth Wilson,2,False,Markie,other,2020,2
+66,Nurses,CA,1,2200125,Kayla Hutton,1,False,Vivian Adem,other,2020,2
+67,Nurses,CA,1,3720,Rick Roberts,2,False,Edward Miller,other,2020,2
+68,Nurses,CA,1,1667160,Ty Kostyk,2,False,Delivery Guy,other,2020,2
+69,Nurses,CA,1,1881538,Jordana Blake,1,False,Ruby Adem,other,2020,2
+70,Nurses,CA,1,204964,Paula Boudreau,1,False,Linda,other,2020,2
+71,Nurses,CA,1,1796797,Michael Brown,2,False,John Adem,other,2020,2
+72,Nurses,CA,1,1497754,Andy McQueen,2,False,Veer Sikka,other,2020,2
+73,Nurses,CA,1,1741000,Varun Saranga,2,False,Dev Sikka,other,2020,2
+74,Nurses,CA,1,3335251,Dale Boyer,2,False,Security Officer Wanda,other,2020,2
+75,Nurses,CA,1,1786437,Chris Anton,2,False,Paramedic Lee,medic,2020,2
+76,Nurses,CA,1,1183993,Katie Douglas,1,False,Sasha,other,2020,2
+77,Nurses,CA,1,196736,Tammy Isbell,1,False,Maude,other,2020,2
+78,Nurses,CA,1,1128320,Carson Durven,2,False,Bert,other,2020,2
+79,Nurses,CA,1,1482443,JoAnn Nordstrom,1,False,Laurie,other,2020,2
+80,Nurses,CA,1,3336438,Cristian Perri,2,False,Sheldon,other,2020,2
+81,Nurses,CA,1,1807941,Sabrina Persaud,1,False,Indira Sikka,other,2020,2
+82,Nurses,CA,1,1239549,Aviva Armour-Ostroff,1,False,Dr. Arielle Tamir,doctor,2020,2
+83,Nurses,CA,1,136960,Christian Bako,2,False,Dean,other,2020,2
+84,Nurses,CA,1,3336440,Ash Banga,0,False,Raj Sikka,other,2020,2
+85,Nurses,CA,1,2040805,Amrit Kaur,1,False,Dawn,other,2020,2
+86,Nurses,CA,1,1513364,Shomari Downer,2,False,Bartender,other,2020,2
+87,Nurses,CA,1,1689143,Alanna Bale,1,False,Maya,other,2020,2
+88,Nurses,CA,1,119808,Allison Hossack,1,False,Mrs. Collins,other,2020,2
+89,Nurses,CA,1,1499543,Kendra Leigh Timmins,1,False,Lexi,other,2020,2
+90,Nurses,CA,1,1197101,Devery Jacobs,1,False,Bella,other,2020,2
+91,Nurses,CA,1,190944,Alexandra Castillo,1,False,Mrs. Grant,other,2020,2
+92,Nurses,CA,1,1208227,Sam Kantor,2,False,Ezriel Schiff,other,2020,2
+93,Nurses,CA,1,1887800,Brandon McKnight,2,False,Owen,other,2020,2
+94,Nurses,CA,1,186502,Alex Poch-Goldin,2,False,Toviyah,other,2020,2
+95,Nurses,CA,1,1480961,Dwight Ireland,2,False,Greyson McGowan,other,2020,2
+96,Nurses,CA,1,1331573,Michèle Lonsdale Smith,1,False,Gloria Dansen,other,2020,3
+97,Nurses,CA,1,478070,Sarena Parmar,1,False,Maddy,other,2020,3
+98,Nurses,CA,1,2391937,Nicolette Pearse,1,False,Quinn,other,2020,3
+99,Nurses,CA,1,1879410,Yvanna-Rose Leblanc,0,False,Cece,other,2020,3
+100,Nurses,CA,1,3336566,Meagan Tuck,1,False,Kelly,other,2020,3
+101,Nurses,CA,1,3336568,Karie Richards,1,False,Justin's Mom,other,2020,3
+102,Nurses,CA,1,2210739,Michael Delaney,2,False,Unconscious Man,other,2020,3
+103,Nurses,CA,1,1624394,Michelle Adams,1,False,Noelle Patrick,other,2020,3
+104,Nurses,CA,1,3336572,Douglas E. Hughes,2,False,Floyd,other,2020,3
+105,Nurses,CA,1,1325518,Delphine Roussel,1,False,Uniformed Officer,other,2020,3
+106,Nurses,CA,1,80018,Rachel Skarsten,1,False,Lily Dawson,other,2020,3
+107,Nurses,CA,1,1215283,Paul Soles,2,False,Roy,other,2020,3
+108,Nurses,CA,1,133333,Travis Milne,2,False,Cal Rivers,other,2020,3
+109,Nurses,CA,1,2440216,Dylan Colton,2,False,Remo Chambers,other,2020,3
+110,Nurses,CA,1,43257,Krista Bridges,1,False,Astrid,other,2020,3
+111,Nurses,CA,1,1228013,Jill Frappier,1,False,Solana,other,2020,3
+112,Nurses,CA,1,1622549,Sasha Barry,1,False,Local Reporter,other,2020,3
+113,Nurses,CA,1,126245,Kerry Griffin,1,False,Crony #1,other,2020,3
+114,Nurses,CA,1,52512,Laurie Murdoch,2,False,Dr. Schofield,doctor,2020,3
+115,Nurses,CA,1,1844067,Krista Jang,1,False,Nurse #1,nurse,2020,3
+116,Nurses,CA,1,2137403,Tara Koehler,1,False,Female Lawyer,other,2020,3
+117,Nurses,CA,1,2291101,Chala Hunter,1,False,Dr. Kirwan,doctor,2020,3
+118,Nurses,CA,2,892734,Tiera Skovbye,1,True,Grace Knight,doctor (probably),2021,6
+119,Nurses,CA,2,94482,Natasha Calis,1,True,Ashley Collins,doctor (probably),2021,6
+120,Nurses,CA,2,1812409,Jordan Johnson-Hinds,2,True,Keon Colby,doctor (probably),2021,6
+121,Nurses,CA,2,1450264,Sandy Sidhu,1,True,Nazneen Khan,doctor (probably),2021,6
+122,Nurses,CA,2,2450166,Donald MacLean Jr.,2,True,Wolf Burke,doctor (probably),2021,6
+123,Nurses,CA,2,563045,Rachael Ancheril,1,True,Kate Faulkner,doctor (probably),2021,6
+124,Nurses,CA,2,2439217,Jordan Connor,2,True,Matteo Rey,doctor (probably),2021,6
+125,Nurses,CA,2,88929,Jean Yoon,1,False,,other,2021,6
+126,Nurses,CA,2,3336705,Daniel Kash,2,False,,other,2021,6
+127,Nurses,CA,2,171726,Darrin Baker,2,False,David Heinrich,other,2021,6
+128,Nurses,CA,2,1813451,Margaret Lamarre,1,False,Paula Lincoln,other,2021,6
+129,Nurses,CA,2,124352,Sadie LeBlanc,1,False,Marie Welling,other,2021,6
+130,Nurses,CA,2,2224480,Kathy Maloney,1,False,Dr. Filch,doctor,2021,6
+131,Nurses,CA,2,2183029,Bree Wasylenko,1,False,Suzanne Rayne,other,2021,6
+132,Nurses,CA,2,87020,Rachel Wilson,1,False,Shelby,other,2021,6
+133,Nurses,CA,2,3336707,Dalien World,0,False,Shipping Clerk,other,2021,6
+134,Nurses,CA,2,209151,Ryan Blakely,2,False,Red,other,2021,6
+135,Nurses,CA,2,1015568,Tristan D. Lalla,2,False,Damien Sanders,other,2021,6
+136,Nurses,CA,2,1264638,Katie Uhlmann,1,False,Candy Kemper,other,2021,6
+137,Nurses,CA,2,1847915,Humberly Gonzalez,1,False,Dr. Ivy Turcotte,doctor,2021,6
+138,Nurses,CA,2,1477961,Percy Hynes White,2,False,Jesse,other,2021,6
+139,Nurses,CA,2,1355149,Rebecca Dalton,1,False,,other,2021,6
+140,Nurses,CA,2,2541526,Chandler Loryn,1,False,Delphine,other,2021,6
+141,Nurses,CA,2,2280695,Veronika Slowikowska,1,False,Kirsten Whitt,other,2021,6
+142,Nurses,CA,2,2264224,Marcus Tarnoy,2,False,Stripper Doctor,doctor,2021,6
+143,Nurses,CA,2,2091811,Anders Yates,2,False,Dr. Nils Gunnar,doctor,2021,6
+144,Nurses,CA,2,43244,Dylan Everett,2,False,,other,2021,6
+145,Nurses,CA,2,2157601,Jeremy Walmsley,2,False,Dr. Eric Ranfield,doctor,2021,6
+146,Nurses,CA,2,1695507,Alexandra Ordolis,1,False,Caro,other,2021,6
+147,Nurses,CA,2,43258,Matt Gordon,2,False,Dr. Mike Goldwyn,doctor,2021,6
+148,Nurses,CA,2,2051986,Sean Patrick Dolan,2,False,Gerald Tuppins,other,2021,7
+149,Nurses,CA,2,3336737,Virgilia Griffith,1,False,Angel Najarro,other,2021,7
+150,Nurses,CA,2,52703,Alan C. Peterson,2,False,Abram Ivanov,other,2021,7
+151,Nurses,CA,2,2773218,Julia Dyan-Porter,1,False,EMT,medic,2021,7
+152,Nurses,CA,2,2080178,Gage Graham-Arbuthnot,2,False,Misha Ivanov,other,2021,7
+153,Nurses,CA,2,1545865,Adam Kenneth Wilson,2,False,Markie,other,2021,7
+154,Nurses,CA,2,1971383,Yasmin Lau,1,False,Woman at bar,other,2021,7
+155,Nurses,CA,2,1480981,Paloma Nuñez,1,False,Daisy Ruiz,other,2021,7
+156,Nurses,CA,2,2098744,Trish Fagan,1,False,Dr. Rori Niven,doctor,2021,7
+157,Nurses,CA,2,1739118,Saara Chaudry,1,False,,other,2021,7
+158,Nurses,CA,2,1723913,Sonia Dhillon Tully,1,False,Padma Das,other,2021,7
+159,Nurses,CA,2,78412,Peter Keleghan,2,False,Dr. Shore,doctor,2021,7
+160,Nurses,CA,2,1830118,Samantha Cole,1,False,Latesha Colby,other,2021,7
+161,Nurses,CA,2,3336750,Andriah Daley,0,False,Moderator,other,2021,7
+162,Nurses,CA,2,1929455,Aniya Hodge,1,False,Jenny,other,2021,7
+163,Nurses,CA,2,1233146,Paulino Nunes,2,False,Dr. Eric Reyes,doctor,2021,7
+164,Nurses,CA,2,103284,Randal Edwards,2,False,Doug Ready,other,2021,7
+165,Nurses,CA,2,119251,Gage Munroe,2,False,Maddox,other,2021,7
+166,Nurses,CA,2,1545243,Sara Farb,1,False,Jonie,other,2021,7
+167,Nurses,CA,2,1228342,Alicia Josipovic,1,False,Dale,other,2021,7
+168,Nurses,CA,2,17638,Cliff Saunders,2,False,Jurgen Faber,other,2021,7
+169,Nurses,CA,2,1612663,Darryl Hinds,2,False,Joel,other,2021,7
+170,Nurses,CA,2,2967974,Feaven Abera,0,False,Brooklyn Barnett,other,2021,7
+171,Nurses,CA,2,1836147,Mckenzie Small,1,False,Tia,other,2021,7
+172,Nurses,CA,2,1787057,Kevin Bundy,2,False,Gib,other,2021,7
+173,Nurses,CA,2,3336754,Danielle Ayow,1,False,Dr. Dahlia Lim,doctor,2021,7
+174,Nurses,CA,2,1094117,Siam Yu,2,False,Kai Donaldson,other,2021,7
+175,Nurses,CA,2,3336755,Asha Vijayasingham,1,False,Dr. Sandy Sharif,doctor,2021,7
+176,Nurses,CA,2,1650346,Brielle Robillard,1,False,Stella Hartford,other,2021,7
+177,Nurses,CA,2,1018325,Michael Therriault,2,False,,other,2021,8
+178,Nurses,CA,2,1658287,Brock Morgan,2,False,Drew Reddick,doctor,2021,8
+179,Nurses,CA,2,1648898,Sarah Swire,1,False,Jess Knight,other,2021,8
+180,Nurses,CA,2,1279082,Rodrigo Fernandez-Stoll,2,False,Antonio,other,2021,8
+181,Nurses,CA,2,2407972,Helen Taylor,1,False,Helen,other,2021,8
+182,Nurses,CA,2,1860421,Aldrin Bundoc,2,False,Luke,other,2021,8
+183,Nurses,CA,2,2780098,Blessing Adedijo,1,False,Shona,other,2021,8
+184,Nurses,CA,2,2109774,Antoine Yared,2,False,Tobias Lowe,other,2021,8
+185,Nurses,CA,2,1228290,Romina D'Ugo,1,False,,other,2021,8
+186,Nurses,CA,2,2710308,Leonidas Castrounis,2,False,Charlie Morris,other,2021,8
+187,Nurses,CA,2,1545244,Maev Beaty,1,False,,other,2021,8
+188,Nurses,CA,2,2069638,Letitia Brookes,1,False,Dr. Toni Levinson,doctor,2021,8
+189,Nurses,CA,2,2707692,Christine L. Nguyen,1,False,Val Pham,other,2021,8
+190,Nurses,CA,2,201049,Roy Lewis,2,False,Peter Lewis,other,2021,8
+191,Nurses,CA,2,1704870,Clem McIntosh,2,False,Ethan Olsen,other,2021,8
+192,Nurses,CA,2,1868402,Gita Miller,1,False,Mo Hanley,other,2021,8
+193,Nurses,CA,2,61661,Patrice Goodman,1,False,Susan Ashe,other,2021,8
+194,Nurses,CA,2,2668903,Indy Saluja,0,False,Radiologist,other,2021,8
+195,Nurses,CA,2,2302890,Michael Dara,2,False,Arthur,other,2021,8
+196,Nurses,CA,2,1182525,Nicola Correia Damude,1,False,Dr. Vanessa Banks,doctor,2021,8
+197,Nurses,CA,2,3336416,Emeka Agada,0,False,Dillion James,other,2021,8
+198,Nurses,CA,2,2320797,Ryan Rosery,2,False,Freddy James,other,2021,8
+199,Nurses,CA,2,2187114,Brendan Rush,2,False,,other,2021,8
+200,Nurses,CA,2,3336417,Diana Donnelly,1,False,,other,2021,8
+201,Nurses,CA,2,3336799,Logan Nicholson,2,False,Avi Khanna,other,2021,8
+202,Nurses,CA,2,1491584,Ali Momen,2,False,Raja Khanna,other,2021,8
+203,Nurses,CA,2,1239236,Krystal Meadows,1,False,Mrs. Harper,other,2021,8
+204,Nurses,CA,2,2922224,Dana Solomon,1,False,Claire,other,2021,8
+205,Nurses,CA,2,3336804,Leishe Meyboom,0,False,Rachel,other,2021,8
+206,Nurses,CA,2,1814132,Kim Nelson,1,False,Dr. Leah Carver,doctor,2021,8
+207,Nurses,CA,2,87778,Salvatore Antonio,2,False,Diego Greenwood,other,2021,8
+208,Nurses,CA,2,5921,Martin Roach,2,False,,other,2021,8
+209,Nurses,CA,2,79403,Karen Glave,1,False,,other,2021,8
+210,Nurses,CA,2,2412013,Hannah Levinson,1,False,Theresa,other,2021,8
+211,Nurses,CA,2,2291101,Chala Hunter,1,False,Dr. Kirwan,doctor,2021,8
+212,Nurses,CA,2,3336807,Patty Jamieson,1,False,Janet Ish,other,2021,8
+213,Nurses,CA,2,1929643,Michelle Monteith,1,False,Anne Charleston,other,2021,8
+214,Nurses,CA,2,1918874,Isaak Bailey,2,False,Harry Charleston,other,2021,8
+215,Nurses,CA,2,1786437,Chris Anton,2,False,Paramedic Lee,medic,2021,8
+216,Nurses,CA,2,3336808,Laura Condlln,1,False,Corinne Prowse,other,2021,8
+217,Nurses,CA,2,2302885,Khadijah Roberts-Abdullah,1,False,Melinda Parsons,other,2021,8
+218,Nurses,CA,2,5925,Joshua Peace,2,False,Dr. Wayne Dixon,doctor,2021,8
+219,Nurses,CA,2,999339,David Tompa,2,False,Andrew McLennan,doctor,2021,8
+220,Nurses,CA,2,2806355,Tyson Coady,2,False,Diego's Boyfriend,other,2021,8
+221,Nurses,CA,2,2142284,Robert Reid,2,False,Theresa's Dad,other,2021,8
+222,Nurses,CA,2,2432334,Linda V Carter,1,False,Theresa's Mom,other,2021,8
+223,Nurses,CA,2,2861797,Jinny Wong,1,False,Praying Woman,other,2021,8
+224,Nurses,CA,2,3336811,Tiana Leonty,1,False,Seizing Woman,other,2021,8
+225,Nurses,CA,2,3162454,Vince Carlin,2,False,Bed Pan Male Patient,other,2021,8
+226,Nurses,CA,2,1267118,Rachel Cairns,1,False,,other,2021,8
+227,Nurses,CA,2,132556,Kimberly Huie,1,False,,other,2021,8
+228,Nurses,CA,2,1590228,Mouna Traoré,1,False,,other,2021,8
+229,Nurses,CA,2,1997242,Anton Gillis-Adelman,2,False,,other,2021,8
+230,Nurses,CA,2,3336813,Sahara Sterling,0,False,Girl,other,2021,8
+231,Nurses,CA,2,3486954,Caeden Lawrence,2,False,Girl's Dad,other,2021,8
+232,Nurses,CA,2,7010,Tara Nicodemo,1,False,Rhonda Blume,other,2021,8
+233,Nurses,CA,2,2563029,Matthew Finlan,2,False,Young Resident,other,2021,8
+234,Nurses,CA,2,3336815,Farah Nesser,1,False,News Anchor,other,2021,8

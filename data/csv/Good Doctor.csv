@@ -1,0 +1,56 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Good Doctor,JP,1,1177942,Kento Yamazaki,2,True,Minato Shindo,doctor (probably),2018,7
+1,Good Doctor,JP,1,115647,Juri Ueno,1,True,Natsumi Seto,doctor (probably),2018,7
+2,Good Doctor,JP,1,125943,Naohito Fujiki,2,True,Seiji Takayama,doctor (probably),2018,7
+3,Good Doctor,JP,1,1251804,Shigeyuki Totsugi,2,True,Keisuke Mamiya,doctor (probably),2018,7
+4,Good Doctor,JP,1,122157,Yuri Nakamura,1,True,Michi Togo,doctor (probably),2018,7
+5,Good Doctor,JP,1,1041474,Kenta Hamano,2,True,Taro Hashiguchi,doctor (probably),2018,7
+6,Good Doctor,JP,1,142672,Shoko Ikezu,1,True,Nakatani Yuuko,doctor (probably),2018,7
+7,Good Doctor,JP,1,1557139,Ryousuke Ikeoka,2,True,Yuu Nonomura,doctor (probably),2018,7
+8,Good Doctor,JP,1,2157992,Matsui Daigo,0,True,Marui,doctor (probably),2018,7
+9,Good Doctor,JP,1,2157993,Kawashima Yua,0,True,Aisawa Nao,doctor (probably),2018,7
+10,Good Doctor,JP,1,2157994,Taiyo Saito,2,True,Takechi Rintaro,doctor (probably),2018,7
+11,Good Doctor,JP,1,2157996,Kojima Reju,0,True,Tomioka Keita,doctor (probably),2018,7
+12,Good Doctor,JP,1,1576051,Sonoko Inoue,1,True,Matsuda Yoshiko,doctor (probably),2018,7
+13,Good Doctor,JP,1,52809,Itsuji Itao,2,True,Ryunosuke Inoguchi,doctor (probably),2018,7
+14,Good Doctor,JP,1,13283,Akira Emoto,2,True,Akira Shiga,doctor (probably),2018,7
+15,Good Doctor,JP,1,2157998,Risaki Matsukaze,1,True,Morishita Iyo,doctor (probably),2018,7
+16,Good Doctor,JP,1,2157999,Tanaka Kanau,0,True,Shindo Sota,doctor (probably),2018,7
+17,Good Doctor,JP,1,2158000,Ito Shunta,1,True,young Minato,doctor (probably),2018,7
+18,Good Doctor,JP,1,1488361,Airi Matsui,1,True,Morishita Shiori,doctor (probably),2018,7
+19,Good Doctor,JP,1,1014998,Masaki Miura,2,True,,doctor (probably),2018,7
+20,Good Doctor,JP,1,2158002,Oyama Rento,0,False,Kudo Kota,other,2018,7
+21,Good Doctor,JP,1,2158003,Saito Kento,1,False,Kudo Haruto,other,2018,7
+22,Good Doctor,JP,1,1246499,Aki Nishihara,1,False,Kota's mother,other,2018,7
+23,Good Doctor,JP,1,150717,Yasuyuki Maekawa,2,False,Fujisaki Ryuichi,other,2018,7
+24,Good Doctor,JP,1,2158005,Minegishi Kiara,2,False,Kashiwagi Masaki,other,2018,7
+25,Good Doctor,JP,1,2158006,Ogata Saya,0,False,Kashiwagi Arisa,other,2018,7
+26,Good Doctor,JP,1,2158007,Ando Sei,2,False,Kashiwagi Shoko,other,2018,7
+27,Good Doctor,JP,1,1732473,Anna Yamada,1,False,Sugawara Yuina,other,2018,7
+28,Good Doctor,JP,1,1716368,Asuka Kurosawa,1,False,Sugawara Maki,other,2018,7
+29,Good Doctor,JP,1,2158009,Takahashi Yo,0,False,Ichikawa Hideo,other,2018,7
+30,Good Doctor,JP,1,31079,Aki Maeda,1,False,Ichikawa Shiori,other,2018,7
+31,Good Doctor,JP,1,2158010,Takenoya Saki,0,False,Ichikawa Miyu,other,2018,7
+32,Good Doctor,JP,1,2158011,Nakajima Kotone,0,False,Ishiyama Mai,other,2018,7
+33,Good Doctor,JP,1,9671,Jun Murakami,2,False,Oishi,other,2018,8
+34,Good Doctor,JP,1,2158014,Takamatsu Saki,0,False,Oishi Akari,other,2018,8
+35,Good Doctor,JP,1,1953867,Elen,1,False,Oishi Kaoru,other,2018,8
+36,Good Doctor,JP,1,2158015,Jyou Kairi,0,False,Hayama Hibiki,other,2018,8
+37,Good Doctor,JP,1,83205,Tatsuo Endō,2,False,Seiji's father,other,2018,8
+38,Good Doctor,JP,1,2158016,Kanazawa Kikuko,0,False,Seiji's mother,other,2018,8
+39,Good Doctor,JP,1,1433818,Keiko Horiuchi,1,False,Tsuruta Satsuki,other,2018,8
+40,Good Doctor,JP,1,1407396,Yukiko Shinohara,1,False,Mizuno Rika,other,2018,8
+41,Good Doctor,JP,1,85938,Mayuko Fukuda,1,False,Kurata Nanako,other,2018,8
+42,Good Doctor,JP,1,1509668,Kisetsu Fujiwara,2,False,Mabuchi Kentaro,other,2018,8
+43,Good Doctor,JP,1,555256,Yorie Yamashita,1,False,Kurata Yoshie,other,2018,8
+44,Good Doctor,JP,1,1668193,Riku Hagiwara,2,False,Takigawa Ryohei,other,2018,8
+45,Good Doctor,JP,1,2158017,Torigoe Soma,0,False,Hayami Haruto,other,2018,8
+46,Good Doctor,JP,1,129707,Wakana Sakai,1,False,Hayami Kaori,other,2018,8
+47,Good Doctor,JP,1,2158018,Yūto Ikeda,2,False,Hayami Shota,other,2018,8
+48,Good Doctor,JP,1,1057923,Nao Okabe,2,False,Hayami Takashi,other,2018,8
+49,Good Doctor,JP,1,2158019,Ota Shizuku,2,False,young Iyo,other,2018,9
+50,Good Doctor,JP,1,1564417,Toshihide Tonesaku,2,False,Morioka Yutaka,other,2018,9
+51,Good Doctor,JP,1,553807,Sanae Miyata,1,False,Takigawa Reika,other,2018,9
+52,Good Doctor,JP,1,2095320,Rin Furukawa,1,False,Yoshimoto Misaki,other,2018,9
+53,Good Doctor,JP,1,107106,Koen Kondo,2,False,Yoshimoto Koichiro,other,2018,9
+54,Good Doctor,JP,1,1133651,Eri Murakawa,1,False,Yoshimoto Keiko,other,2018,9

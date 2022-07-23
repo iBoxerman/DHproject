@@ -1,0 +1,50 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Critical Role,US,1,89966,Liam O'Brien,2,True,Vax'ildan,doctor,2015,3
+1,Critical Role,US,1,34486,Ashley Johnson,1,True,Pike Trickfoot,doctor (probably),2015,3
+2,Critical Role,US,1,37713,Taliesin Jaffe,2,True,Percival Fredrickstein von Musel Klossowski de Rolo III,doctor,2015,3
+3,Critical Role,US,1,75037,Laura Bailey,1,True,Vex'ahlia,doctor (probably),2015,3
+4,Critical Role,US,1,1485055,Marisha Ray,1,True,Keyleth,doctor,2015,3
+5,Critical Role,US,1,96116,Sam Riegel,2,True,Scanlan Shorthalt / Taryon Darrington,doctor (probably),2015,3
+6,Critical Role,US,1,1221888,Travis Willingham,2,True,Grog Strongjaw,doctor (probably),2015,3
+7,Critical Role,US,1,556275,Matthew Mercer,2,True,Dungeon Master,doctor (probably),2015,3
+8,Critical Role,US,1,1485053,Orion Acaba,2,False,Tiberius Stormwind,other,2015,3
+9,Critical Role,US,1,1447258,Dan Casey,2,False,Salty Pete,other,2015,5
+10,Critical Role,US,1,1741252,Zac Eubank,0,False,Snugglelord,other,2015,5
+11,Critical Role,US,1,1680787,Ify Nwadiwe,0,False,Ulfgar Fireforge,other,2015,5
+12,Critical Role,US,1,76527,Felicia Day,1,False,Lyra,other,2015,7
+13,Critical Role,US,1,31161,Mary Elizabeth McGlynn,1,False,Zahra Hydris,doctor,2015,7
+14,Critical Role,US,1,3033,Wil Wheaton,2,False,Thorbir Falbek,other,2015,8
+15,Critical Role,US,1,76621,Will Friedle,2,False,Kashaw Vesh,other,2015,8
+16,Critical Role,US,1,1994726,Kit Buss,2,False,Lillith Anioska Daturai,other,2015,9
+17,Critical Role,US,1,1994724,Jason Charles Miller,2,False,Garthok,other,2016,2
+18,Critical Role,US,1,27738,Chris Hardwick,2,False,Gern Blanston,other,2016,3
+19,Critical Role,US,1,1992947,Chris Perkins,2,False,Shale,other,2016,6
+20,Critical Role,US,1,1992948,Patrick Rothfuss,2,False,Kerrek,other,2016,6
+21,Critical Role,US,1,53926,Jon Heder,2,False,Lionel Gayheart,other,2017,6
+22,Critical Role,US,1,1352628,Darin De Paul,2,False,Sprigg,other,2017,7
+23,Critical Role,US,1,20580,Joe Manganiello,2,False,Arkhan the Cruel,other,2017,9
+24,Critical Role,US,2,75037,Laura Bailey,1,True,Jester Lavorre,doctor (probably),2018,1
+25,Critical Role,US,2,1221888,Travis Willingham,2,True,Fjord,doctor (probably),2018,1
+26,Critical Role,US,2,1485055,Marisha Ray,1,True,Beauregard Lionett,doctor (probably),2018,1
+27,Critical Role,US,2,556275,Matthew Mercer,2,True,Dungeon Master,doctor (probably),2018,1
+28,Critical Role,US,2,37713,Taliesin Jaffe,2,True,Mollymauk Tealeaf / Caduceus Clay,doctor (probably),2018,1
+29,Critical Role,US,2,89966,Liam O'Brien,2,True,Caleb Widogast,doctor (probably),2018,1
+30,Critical Role,US,2,34486,Ashley Johnson,1,True,Yasha Nydoorin,doctor (probably),2018,1
+31,Critical Role,US,2,96116,Sam Riegel,2,True,Nott the Brave / Veth Brenatto,doctor (probably),2018,1
+32,Critical Role,US,2,65640,Khary Payton,2,False,Shakäste,other,2018,2
+33,Critical Role,US,2,2115450,Mark Hulmes,2,False,Calianna,other,2018,5
+34,Critical Role,US,2,1156183,Ashly Burch,1,False,Keg,other,2018,7
+35,Critical Role,US,2,66655,Sumalee Montano,1,False,Nila,other,2018,7
+36,Critical Role,US,2,212154,Deborah Ann Woll,1,False,Twiggy,other,2018,12
+37,Critical Role,US,2,1992947,Chris Perkins,2,False,Spurt,other,2019,1
+38,Critical Role,US,2,1723587,Mica Burton,1,False,Reani,other,2019,8
+39,Critical Role,US,3,556275,Matthew Mercer,2,True,Dungeon Master,doctor (probably),2021,10
+40,Critical Role,US,3,75037,Laura Bailey,1,True,Imogen Temult,doctor (probably),2021,10
+41,Critical Role,US,3,1485055,Marisha Ray,1,True,Laudna,doctor (probably),2021,10
+42,Critical Role,US,3,37713,Taliesin Jaffe,2,True,Ashton Greymoore,doctor (probably),2021,10
+43,Critical Role,US,3,96116,Sam Riegel,2,True,Fresh Cut Grass (F.C.G),doctor (probably),2021,10
+44,Critical Role,US,3,34486,Ashley Johnson,1,True,Fearne Calloway,doctor (probably),2021,10
+45,Critical Role,US,3,89966,Liam O'Brien,2,True,Orym,doctor (probably),2021,10
+46,Critical Role,US,3,1221888,Travis Willingham,2,True,Chetney Pock O'pea,doctor (probably),2021,10
+47,Critical Role,US,3,229434,Robbie Daymond,2,False,Dorian Storm,other,2021,10
+48,Critical Role,US,3,2128085,Erika Ishii,3,False,Dusk,other,2022,5

@@ -1,0 +1,689 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,M*A*S*H,US,1,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1972,9
+1,M*A*S*H,US,1,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1972,9
+2,M*A*S*H,US,1,55423,Wayne Rogers,2,True,Trapper John,doctor (probably),1972,9
+3,M*A*S*H,US,1,9810,Gary Burghoff,2,True,Radar O'Reilly,doctor (probably),1972,9
+4,M*A*S*H,US,1,55431,Larry Linville,2,True,Frank Burns,doctor (probably),1972,9
+5,M*A*S*H,US,1,151298,McLean Stevenson,2,True,Henry Blake,doctor (probably),1972,9
+6,M*A*S*H,US,1,9257,Bruno Kirby,2,False,Boone,other,1972,9
+7,M*A*S*H,US,1,1221172,Odessa Cleveland,1,False,Ginger Bayliss,other,1972,9
+8,M*A*S*H,US,1,4977,G. Wood,2,False,General Hammond,other,1972,9
+9,M*A*S*H,US,1,30612,Timothy Brown,2,False,Spearchucker,other,1972,9
+10,M*A*S*H,US,1,1221174,Karen Philipp,1,False,Lt. Dish,other,1972,9
+11,M*A*S*H,US,1,1213156,John Orchard,2,False,Ugly John,other,1972,9
+12,M*A*S*H,US,1,80575,Patrick Adiarte,2,False,Ho-Jon,other,1972,9
+13,M*A*S*H,US,1,30049,George Morgan,2,False,Father Mulcahy,other,1972,9
+14,M*A*S*H,US,1,1217786,Gene Wood,2,False,,other,1972,9
+15,M*A*S*H,US,1,122154,Robert Ito,2,False,The North Koreans,other,1972,9
+16,M*A*S*H,US,1,87067,Jack Soo,2,False,Quoc,other,1972,9
+17,M*A*S*H,US,1,157321,William Christopher,2,False,Father Mulcahey,other,1972,10
+18,M*A*S*H,US,1,40191,Sorrell Booke,2,False,General Barker,other,1972,10
+19,M*A*S*H,US,1,57418,Marcia Strassman,1,False,Margie Cutler,other,1972,10
+20,M*A*S*H,US,1,62590,Jack Riley,2,False,Capt. Kaplan,other,1972,10
+21,M*A*S*H,US,1,55432,Jamie Farr,2,False,Klinger,other,1972,10
+22,M*A*S*H,US,1,157252,Linda Meiklejohn,1,False,Leslie,other,1972,10
+23,M*A*S*H,US,1,158868,Paul Jenkins,2,False,Sergeant Baker,other,1972,10
+24,M*A*S*H,US,1,3156032,Virginia Ann Lee,1,False,Young Hi,other,1972,10
+25,M*A*S*H,US,1,157583,Barbara Brownell,1,False,Lt. Jones,other,1972,10
+26,M*A*S*H,US,1,70746,Ed Flanders,2,False,Lt. Bricker,other,1972,10
+27,M*A*S*H,US,1,152339,Bert Kramer,2,False,Sgt. Martin,other,1972,10
+28,M*A*S*H,US,1,85836,Herb Voland,2,False,Brigadier General Crandell Clayton,other,1972,10
+29,M*A*S*H,US,1,41406,Stuart Margolin,2,False,Major Stanley Robbins,other,1972,11
+30,M*A*S*H,US,1,35090,Billy Green Bush,2,False,Cowboy,other,1972,11
+31,M*A*S*H,US,1,78774,Joseph Corey,2,False,Goldstein,other,1972,11
+32,M*A*S*H,US,1,1481465,Mike Robelo,2,False,Cook,other,1972,11
+33,M*A*S*H,US,1,1192417,Byron Chung,2,False,P.O.W.,other,1972,12
+34,M*A*S*H,US,1,1213236,Buck Young,2,False,Dan,other,1972,12
+35,M*A*S*H,US,1,45415,William Katt,2,False,P.F.C.,other,1972,12
+36,M*A*S*H,US,1,22494,Arlene Golonka,1,False,Edwina,other,1972,12
+37,M*A*S*H,US,1,1221180,Indira Stefanianna,1,False,Lt. O'Brien,other,1973,1
+38,M*A*S*H,US,1,157227,Kelly Jean Peters,1,False,Lt. Louise Anderson,other,1973,1
+39,M*A*S*H,US,1,65568,James B. Sikking,2,False,Finance Officer,other,1973,1
+40,M*A*S*H,US,1,27742,Dennis Fimple,2,False,Sergeant Pryor,other,1973,1
+41,M*A*S*H,US,1,105068,Mary-Robin Redd,1,False,Sister Theresa,other,1973,1
+42,M*A*S*H,US,1,3156044,Captain Tuttle,0,False,Himself,other,1973,1
+43,M*A*S*H,US,1,7633,Leslie Nielsen,2,False,Buzz Brighton,other,1973,1
+44,M*A*S*H,US,1,47759,James T. Callahan,2,False,Tommy Gillis,other,1973,1
+45,M*A*S*H,US,1,1220732,Lynette Mettey,1,False,Nurse Able,nurse,1973,1
+46,M*A*S*H,US,1,114272,Alex Henteloff,2,False,Captain Casey,other,1973,2
+47,M*A*S*H,US,1,1214019,Joseph V. Perry,2,False,The Cook,other,1973,2
+48,M*A*S*H,US,1,105992,Harvey J. Goldenberg,2,False,Kaplan,other,1973,3
+49,M*A*S*H,US,1,57110,Bruce Kimmel,2,False,Private Gilbert,other,1973,3
+50,M*A*S*H,US,1,94848,Joey Forman,2,False,Jackie Flash,other,1973,3
+51,M*A*S*H,US,2,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1973,9
+52,M*A*S*H,US,2,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1973,9
+53,M*A*S*H,US,2,55423,Wayne Rogers,2,True,Trapper John,doctor (probably),1973,9
+54,M*A*S*H,US,2,9810,Gary Burghoff,2,True,Radar O'Reilly,doctor (probably),1973,9
+55,M*A*S*H,US,2,55431,Larry Linville,2,True,Frank Burns,doctor (probably),1973,9
+56,M*A*S*H,US,2,151298,McLean Stevenson,2,True,Henry Blake,doctor (probably),1973,9
+57,M*A*S*H,US,2,157321,William Christopher,2,False,Father Mulcahey,other,1973,9
+58,M*A*S*H,US,2,1221172,Odessa Cleveland,1,False,Ginger Bayliss,other,1973,9
+59,M*A*S*H,US,2,55432,Jamie Farr,2,False,Klinger,other,1973,9
+60,M*A*S*H,US,2,85836,Herb Voland,2,False,Brigadier General Crandell Clayton,other,1973,9
+61,M*A*S*H,US,2,119778,Anthony Holland,2,False,Captain Hildebrand,other,1973,9
+62,M*A*S*H,US,2,157252,Linda Meiklejohn,1,False,Leslie,other,1973,9
+63,M*A*S*H,US,2,2494176,Bobbie Mitchell,1,False,Nurse Marshall,nurse,1973,9
+64,M*A*S*H,US,2,34686,Corey Fischer,2,False,Captain Phil Cardozo,other,1973,9
+65,M*A*S*H,US,2,1506179,Sarah Fankboner,1,False,Nurse Klein,nurse,1973,9
+66,M*A*S*H,US,2,101947,Joan Van Ark,1,False,Erika,other,1973,9
+67,M*A*S*H,US,2,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1973,9
+68,M*A*S*H,US,2,123380,Frank Aletter,2,False,Major Stoner,other,1973,10
+69,M*A*S*H,US,2,2364205,Gwen Farrell,1,False,Nurse Butler,nurse,1973,10
+70,M*A*S*H,US,2,1213236,Buck Young,2,False,Dan,other,1973,10
+71,M*A*S*H,US,2,6007,Maggie Roswell,1,False,Sister Theresa,other,1973,10
+72,M*A*S*H,US,2,4521,Burt Young,2,False,Lt. Willis,other,1973,10
+73,M*A*S*H,US,2,1632140,Corinne Camacho,1,False,Regina,other,1973,10
+74,M*A*S*H,US,2,85838,Hope Summers,1,False,Nurse Meg Cratty,nurse,1973,11
+75,M*A*S*H,US,2,1221188,Roy Goldman,2,False,M.P.,other,1973,11
+76,M*A*S*H,US,2,2222747,Jack Aaron,2,False,Major Murphy,other,1973,11
+77,M*A*S*H,US,2,106506,Robert F. Simon,2,False,General Mitchell,other,1973,11
+78,M*A*S*H,US,2,114956,Kathleen Hughes,1,False,Lorraine Blake,other,1973,11
+79,M*A*S*H,US,2,140345,Mills Watson,2,False,Condon,other,1973,11
+80,M*A*S*H,US,2,1980846,Arthur Abelson,2,False,Milt Jaffe,other,1973,11
+81,M*A*S*H,US,2,158897,Sivi Aberg,0,False,Anna Lindstrom,other,1973,11
+82,M*A*S*H,US,2,8437,Teri Garr,1,False,Suzanne,other,1973,11
+83,M*A*S*H,US,2,1414446,Dennis Troy,2,False,Ambulance Driver,doctor,1973,11
+84,M*A*S*H,US,2,1220732,Lynette Mettey,1,False,Nurse Able,nurse,1973,11
+85,M*A*S*H,US,2,1213054,Eldon Quick,2,False,Captain Pratt,other,1973,12
+86,M*A*S*H,US,2,113704,John Alvin,2,False,Bowman,other,1973,12
+87,M*A*S*H,US,2,16031,Logan Ramsey,2,False,Colonel Lambert,other,1973,12
+88,M*A*S*H,US,2,151521,Ted Gehring,2,False,Major Morris,other,1973,12
+89,M*A*S*H,US,2,91258,Helen Funai,1,False,Betty Lou,other,1973,12
+90,M*A*S*H,US,2,27772,John Ritter,2,False,Private Carter,other,1973,12
+91,M*A*S*H,US,2,157661,Edward Winter,2,False,Halloran,other,1973,12
+92,M*A*S*H,US,2,164712,Jerry Fujikawa,2,False,Hwang,other,1973,12
+93,M*A*S*H,US,2,1146142,Tom Dever,2,False,Lt. Rogers,other,1973,12
+94,M*A*S*H,US,2,23915,Pat Morita,2,False,Captain Pak,other,1973,12
+95,M*A*S*H,US,2,2364379,Sheila Lauritsen,1,False,Nurse Watson,nurse,1973,12
+96,M*A*S*H,US,2,158804,Kellye Nakahara,1,False,Nurse Yamato,nurse,1973,12
+97,M*A*S*H,US,2,1247167,Robert Weaver,2,False,Gary Mitchell,other,1973,12
+98,M*A*S*H,US,2,2364381,Ralph Grosh,2,False,Capt.'s Aide,other,1973,12
+99,M*A*S*H,US,2,2249,Clyde Kusatsu,2,False,Kwang Duk,other,1973,12
+100,M*A*S*H,US,2,101431,Kathrine Baumann,1,False,Nancy Sue Parker,other,1974,1
+101,M*A*S*H,US,2,151695,Johnny Haymer,2,False,Sergeant Zale,other,1974,1
+102,M*A*S*H,US,2,116589,Patricia Stevens,1,False,Nurse Able,nurse,1974,1
+103,M*A*S*H,US,2,99888,Susanne Zenor,1,False,Nurse Murphy,nurse,1974,1
+104,M*A*S*H,US,2,4250,Michael Lerner,2,False,Captain Futterman,other,1974,1
+105,M*A*S*H,US,2,41406,Stuart Margolin,2,False,Major Stanley Robbins,other,1974,1
+106,M*A*S*H,US,2,148635,Todd Susman,2,False,Private Danny Baker,other,1974,1
+107,M*A*S*H,US,2,1190650,Louie Elias,2,False,MP Sergeant,other,1974,1
+108,M*A*S*H,US,2,158905,Dennis Robertson,2,False,Lt. Michael Harper,other,1974,1
+109,M*A*S*H,US,2,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1974,2
+110,M*A*S*H,US,2,1193566,Richard Ely,2,False,George,other,1974,2
+111,M*A*S*H,US,2,2474007,George Simmons,2,False,Simmons,other,1974,2
+112,M*A*S*H,US,2,152654,Bill Fletcher,2,False,Pratt,other,1974,3
+113,M*A*S*H,US,3,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1974,9
+114,M*A*S*H,US,3,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1974,9
+115,M*A*S*H,US,3,55423,Wayne Rogers,2,True,Trapper John,doctor (probably),1974,9
+116,M*A*S*H,US,3,9810,Gary Burghoff,2,True,Radar O'Reilly,doctor (probably),1974,9
+117,M*A*S*H,US,3,55431,Larry Linville,2,True,Frank Burns,doctor (probably),1974,9
+118,M*A*S*H,US,3,151298,McLean Stevenson,2,True,Henry Blake,doctor (probably),1974,9
+119,M*A*S*H,US,3,157321,William Christopher,2,False,Father Mulcahey,other,1974,9
+120,M*A*S*H,US,3,4073,Harry Morgan,2,False,General Steele,other,1974,9
+121,M*A*S*H,US,3,55432,Jamie Farr,2,False,Klinger,other,1974,9
+122,M*A*S*H,US,3,1220732,Lynette Mettey,1,False,Nurse Baker,nurse,1974,9
+123,M*A*S*H,US,3,157351,Brad Trumbull,2,False,Colonel Atkins,other,1974,9
+124,M*A*S*H,US,3,58649,Teddy Wilson,2,False,Marty Williams,other,1974,9
+125,M*A*S*H,US,3,10134,Mako,2,False,Major Choi,other,1974,9
+126,M*A*S*H,US,3,84848,Loudon Wainwright III,2,False,Capt. Calvin Spalding,other,1974,9
+127,M*A*S*H,US,3,157661,Edward Winter,2,False,Colonel Flagg,other,1974,9
+128,M*A*S*H,US,3,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1974,9
+129,M*A*S*H,US,3,70947,Tad Horino,2,False,1st Korean,other,1974,9
+130,M*A*S*H,US,3,164712,Jerry Fujikawa,2,False,Sang Yu,other,1974,9
+131,M*A*S*H,US,3,61709,Richard Lee-Sung,2,False,2nd Korean,other,1974,9
+132,M*A*S*H,US,3,1414446,Dennis Troy,2,False,Carter,other,1974,9
+133,M*A*S*H,US,3,13027,Keene Curtis,2,False,Colonel Wortman,other,1974,10
+134,M*A*S*H,US,3,14732,James Gregory,2,False,General Kelly,other,1974,10
+135,M*A*S*H,US,3,1192417,Byron Chung,2,False,Mr. Kwok,other,1974,10
+136,M*A*S*H,US,3,2494176,Bobbie Mitchell,1,False,Nurse Able,nurse,1974,10
+137,M*A*S*H,US,3,1221172,Odessa Cleveland,1,False,Ginger Bayliss,other,1974,10
+138,M*A*S*H,US,3,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1974,10
+139,M*A*S*H,US,3,1942309,Orlando Dole,2,False,Ethiopian Soldier,other,1974,10
+140,M*A*S*H,US,3,73234,Alex Karras,2,False,Lance Cpl. Lyle Wesson,other,1974,10
+141,M*A*S*H,US,3,116589,Patricia Stevens,1,False,Nurse Able,nurse,1974,10
+142,M*A*S*H,US,3,5960,Mary Kay Place,1,False,Lt. Louise Simmons,other,1974,10
+143,M*A*S*H,US,3,2754610,Greg Mabrey,2,False,Pasco,other,1974,10
+144,M*A*S*H,US,3,1221188,Roy Goldman,2,False,Corpsman,other,1974,10
+145,M*A*S*H,US,3,1593630,Leland Sun,2,False,Mr. Kwang,other,1974,11
+146,M*A*S*H,US,3,91369,Basil Hoffman,2,False,Major Pfiefer,other,1974,11
+147,M*A*S*H,US,3,74506,Curt Lowens,2,False,Colonel Blanche,other,1974,12
+148,M*A*S*H,US,3,1339141,William Watson,2,False,Lt. Smith,other,1974,12
+149,M*A*S*H,US,3,2149133,Michael Keller,2,False,Lt. LeClerq,other,1974,12
+150,M*A*S*H,US,3,158804,Kellye Nakahara,1,False,Nurse Able,nurse,1974,12
+151,M*A*S*H,US,3,2378911,Sirri Murad,2,False,The Turkish Soldier,other,1974,12
+152,M*A*S*H,US,3,38085,Michael O'Keefe,2,False,Corporal Travis,other,1974,12
+153,M*A*S*H,US,3,32596,Shizuko Hoshi,1,False,Rosie,other,1974,12
+154,M*A*S*H,US,3,1216598,Ted Eccles,2,False,Chapman,other,1974,12
+155,M*A*S*H,US,3,140177,Titos Vandis,2,False,Col. Andropolis,doctor,1974,12
+156,M*A*S*H,US,3,100560,Louisa Moritz,1,False,Nurse Sanchez,nurse,1975,1
+157,M*A*S*H,US,3,158920,Edward Marshall,2,False,Delboss,other,1975,1
+158,M*A*S*H,US,3,151695,Johnny Haymer,2,False,Sergeant Zale,other,1975,1
+159,M*A*S*H,US,3,95732,Robert Alda,2,False,Dr. Anthony B. Borelli,doctor,1975,1
+160,M*A*S*H,US,3,20626,Joseph Maher,2,False,Major Taylor,other,1975,1
+161,M*A*S*H,US,3,20624,Mary Wickes,1,False,Colonel Reese,other,1975,2
+162,M*A*S*H,US,3,10345,Soon-Tek Oh,2,False,Syn Paik,other,1975,2
+163,M*A*S*H,US,3,17494,Dennis Dugan,2,False,Bob Wilson,other,1975,2
+164,M*A*S*H,US,3,2447448,Pat Li,1,False,Soong Hi,other,1975,2
+165,M*A*S*H,US,3,2222033,Jeanne Joe,1,False,Mrs. Kwang,other,1975,2
+166,M*A*S*H,US,3,36927,Graham Jarvis,2,False,Col. Whiteman,other,1975,2
+167,M*A*S*H,US,3,1213054,Eldon Quick,2,False,Captain Pratt,other,1975,3
+168,M*A*S*H,US,3,87067,Jack Soo,2,False,Quoc,other,1975,3
+169,M*A*S*H,US,3,27734,Stafford Repp,2,False,Sgt. Clay,other,1975,3
+170,M*A*S*H,US,3,1213887,Hilly Hicks,2,False,Perkins,other,1975,3
+171,M*A*S*H,US,3,1936257,Danil Torppe,2,False,Morris,other,1975,3
+172,M*A*S*H,US,4,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1975,9
+173,M*A*S*H,US,4,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1975,9
+174,M*A*S*H,US,4,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1975,9
+175,M*A*S*H,US,4,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1975,9
+176,M*A*S*H,US,4,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1975,9
+177,M*A*S*H,US,4,9810,Gary Burghoff,2,True,Radar O'Reilly,doctor (probably),1975,9
+178,M*A*S*H,US,4,55431,Larry Linville,2,True,Frank Burns,doctor (probably),1975,9
+179,M*A*S*H,US,4,157321,William Christopher,2,False,Father Mulcahey,other,1975,9
+180,M*A*S*H,US,4,82837,Robert Karnes,2,False,Colonel,other,1975,9
+181,M*A*S*H,US,4,1146142,Tom Dever,2,False,M.P. Lieutenant,other,1975,9
+182,M*A*S*H,US,4,158927,Ted Zeigler,2,False,Sergeant Dale,other,1975,9
+183,M*A*S*H,US,4,136236,Reid Cruickshanks,2,False,Staff Sergeant,other,1975,9
+184,M*A*S*H,US,4,158926,Nat Jones,2,False,G.I.,other,1975,9
+185,M*A*S*H,US,4,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1975,9
+186,M*A*S*H,US,4,157169,Christopher Allport,2,False,Abbott,other,1975,9
+187,M*A*S*H,US,4,1573783,Darren O'Connor,2,False,Jenkins,other,1975,9
+188,M*A*S*H,US,4,15416,Richard Masur,2,False,Digger,other,1975,10
+189,M*A*S*H,US,4,1213054,Eldon Quick,2,False,Captain Pratt,other,1975,10
+190,M*A*S*H,US,4,158804,Kellye Nakahara,1,False,Nurse Baker,nurse,1975,10
+191,M*A*S*H,US,4,3166976,Sherry Steffens,1,False,Nurse Able,nurse,1975,10
+192,M*A*S*H,US,4,1219270,Frank Marth,2,False,Colonel Griswald,other,1975,10
+193,M*A*S*H,US,4,3042,Bruce Kirby,2,False,Sergeant Kimble,other,1975,10
+194,M*A*S*H,US,4,1721837,Ted Hamilton,2,False,Lieutenant Chivers,other,1975,10
+195,M*A*S*H,US,4,10345,Soon-Tek Oh,2,False,Syn Paik,other,1975,10
+196,M*A*S*H,US,4,1213236,Buck Young,2,False,Dan,other,1975,10
+197,M*A*S*H,US,4,116589,Patricia Stevens,1,False,Nurse Able,nurse,1975,10
+198,M*A*S*H,US,4,61709,Richard Lee-Sung,2,False,Cho,other,1975,10
+199,M*A*S*H,US,4,3166983,Barbara Christopher,1,False,Nurse O'Connor,nurse,1975,10
+200,M*A*S*H,US,4,2772,Ann Doran,1,False,Meg Cratty,other,1975,10
+201,M*A*S*H,US,4,157661,Edward Winter,2,False,Colonel Flagg,other,1975,11
+202,M*A*S*H,US,4,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1975,11
+203,M*A*S*H,US,4,124131,Alan Fudge,2,False,Captain Chandler,other,1975,11
+204,M*A*S*H,US,4,13726,Ned Beatty,2,False,Colonel Hollister,other,1975,11
+205,M*A*S*H,US,4,3166991,William Christopher,2,False,Father Mulcahy,other,1975,11
+206,M*A*S*H,US,4,151695,Johnny Haymer,2,False,Sergeant Zale,other,1975,11
+207,M*A*S*H,US,4,158936,Tim O'Connor,2,False,Colonel Spiker,other,1975,11
+208,M*A*S*H,US,4,12310,Warren Stevens,2,False,Colonel Chaffey,other,1975,12
+209,M*A*S*H,US,4,10133,John Fujioka,2,False,Colonel Kim,other,1975,12
+210,M*A*S*H,US,4,158940,Rollin Moriyama,2,False,General Park,other,1975,12
+211,M*A*S*H,US,4,1192417,Byron Chung,2,False,Korean Soldier,other,1975,12
+212,M*A*S*H,US,4,1232417,Lynne Marie Stewart,1,False,Nurse Fox,nurse,1975,12
+213,M*A*S*H,US,4,2364205,Gwen Farrell,1,False,Nurse Able,nurse,1975,12
+214,M*A*S*H,US,4,158939,Redmond Gleeson,2,False,Sergeant Callan,other,1975,12
+215,M*A*S*H,US,4,3977,Joe Morton,2,False,Captain Saunders,other,1976,1
+216,M*A*S*H,US,4,95014,Philip Ahn,2,False,The Father,other,1976,1
+217,M*A*S*H,US,4,32596,Shizuko Hoshi,1,False,The Mother,other,1976,1
+218,M*A*S*H,US,4,3162200,June Kim,1,False,The Pregnant Woman,other,1976,1
+219,M*A*S*H,US,4,3182536,Susan Sakimoto,1,False,The Oldest Child,other,1976,1
+220,M*A*S*H,US,4,3182537,Jeff Osaka,2,False,The Younger Children,doctor,1976,1
+221,M*A*S*H,US,4,3182538,Jayleen Sun,0,False,The Younger Children,doctor,1976,1
+222,M*A*S*H,US,4,1220732,Lynette Mettey,1,False,Nurse Able,nurse,1976,1
+223,M*A*S*H,US,4,153469,Kevin Hagen,2,False,Colonel Coner,other,1976,1
+224,M*A*S*H,US,4,152289,George O'Hanlon Jr.,2,False,Private Gerald Phelan,other,1976,1
+225,M*A*S*H,US,4,158944,Ned Wilson,2,False,Colonel Carmichael,other,1976,1
+226,M*A*S*H,US,4,152648,Robert Hogan,2,False,Smilin' Jack,other,1976,2
+227,M*A*S*H,US,4,158945,Dennis Kort,2,False,Howard Owens,other,1976,2
+228,M*A*S*H,US,4,80634,Mary Jo Catlett,1,False,Nurse Walsh,nurse,1976,2
+229,M*A*S*H,US,4,10401,Blythe Danner,1,False,Carlye,other,1976,2
+230,M*A*S*H,US,4,8354,Albert Hall,2,False,Corporal,other,1976,2
+231,M*A*S*H,US,4,7040,Kario Salem,2,False,The Youngster,other,1976,2
+232,M*A*S*H,US,4,3182540,Anthony Palmer,2,False,The Sergeant,other,1976,2
+233,M*A*S*H,US,4,1233188,Lois Foraker,1,False,Nurse Able,nurse,1976,2
+234,M*A*S*H,US,4,158947,Tom Ruben,2,False,PFC,other,1976,2
+235,M*A*S*H,US,4,1220733,Clete Roberts,2,False,The Interviewer,other,1976,2
+236,M*A*S*H,US,5,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1976,9
+237,M*A*S*H,US,5,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1976,9
+238,M*A*S*H,US,5,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1976,9
+239,M*A*S*H,US,5,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1976,9
+240,M*A*S*H,US,5,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1976,9
+241,M*A*S*H,US,5,9810,Gary Burghoff,2,True,Radar O'Reilly,doctor (probably),1976,9
+242,M*A*S*H,US,5,55431,Larry Linville,2,True,Frank Burns,doctor (probably),1976,9
+243,M*A*S*H,US,5,157321,William Christopher,2,True,Father Mulcahy,doctor (probably),1976,9
+244,M*A*S*H,US,5,61709,Richard Lee-Sung,2,False,Cho Man Chin,other,1976,9
+245,M*A*S*H,US,5,1186930,Frances Fong,1,False,Rosie,other,1976,9
+246,M*A*S*H,US,5,98517,Don Eitner,2,False,Captain,other,1976,9
+247,M*A*S*H,US,5,132711,Barry Cahill,2,False,Helicopter Pilot,other,1976,9
+248,M*A*S*H,US,5,158949,Eileen Saki,1,False,Korean Woman,other,1976,9
+249,M*A*S*H,US,5,3189402,James Lough,2,False,Enlisted Man,other,1976,9
+250,M*A*S*H,US,5,1221498,Tom Sullivan,2,False,Tom Straw,other,1976,10
+251,M*A*S*H,US,5,1213935,Judy Farrell,1,False,Nurse Able,nurse,1976,10
+252,M*A*S*H,US,5,1505203,Enid Kent,1,False,Nurse Bigelow,nurse,1976,10
+253,M*A*S*H,US,5,2494176,Bobbie Mitchell,1,False,Lieutenant Cage,other,1976,10
+254,M*A*S*H,US,5,1937192,Dudley Knight,2,False,Major Overman,other,1976,10
+255,M*A*S*H,US,5,158804,Kellye Nakahara,1,False,Nurse Kellye,nurse,1976,10
+256,M*A*S*H,US,5,151695,Johnny Haymer,2,False,Sergeant Zale,other,1976,10
+257,M*A*S*H,US,5,157257,Sandy Kenyon,2,False,Woodruff,doctor,1976,10
+258,M*A*S*H,US,5,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1976,10
+259,M*A*S*H,US,5,3189414,Raymond Chao,2,False,Korean Boy,other,1976,10
+260,M*A*S*H,US,5,1232417,Lynne Marie Stewart,1,False,Nurse Baker,nurse,1976,10
+261,M*A*S*H,US,5,80634,Mary Jo Catlett,1,False,Nurse Walsh,nurse,1976,10
+262,M*A*S*H,US,5,80241,Linda Kelsey,1,False,Nurse Baker,nurse,1976,10
+263,M*A*S*H,US,5,29370,Gregory Harrison,2,False,Lt. Tony Baker,other,1976,10
+264,M*A*S*H,US,5,3189417,Carol Lawson Locatell,1,False,Nurse Gaynor,nurse,1976,10
+265,M*A*S*H,US,5,1534761,Patricia Sturges,1,False,Nurse Preston,nurse,1976,10
+266,M*A*S*H,US,5,157661,Edward Winter,2,False,Colonel Flagg,other,1976,10
+267,M*A*S*H,US,5,53556,Susan Bredhoff,1,False,Nurse Able,nurse,1976,10
+268,M*A*S*H,US,5,3162200,June Kim,1,False,Korean Woman,other,1976,10
+269,M*A*S*H,US,5,3189422,Le Quynh,1,False,Korean Husband,other,1976,10
+270,M*A*S*H,US,5,3182536,Susan Sakimoto,1,False,Korean Girl,other,1976,10
+271,M*A*S*H,US,5,3189424,Jon Yune,2,False,Korean Translater,other,1976,10
+272,M*A*S*H,US,5,2035243,Jay Fenichel,2,False,Patient,other,1976,10
+273,M*A*S*H,US,5,111487,Bart Braverman,2,False,Private Habib,other,1976,11
+274,M*A*S*H,US,5,19136,Sal Viscuso,2,False,Patient John,other,1976,11
+275,M*A*S*H,US,5,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1976,11
+276,M*A*S*H,US,5,1213001,Charles Frank,2,False,Captain Hathaway,other,1976,11
+277,M*A*S*H,US,5,3189430,J. Andrew Kenny,2,False,Patient,other,1976,11
+278,M*A*S*H,US,5,3161089,Jennifer Davis Westmore,1,False,Nurse,nurse,1976,11
+279,M*A*S*H,US,5,157121,Ric Mancini,2,False,Sergeant Hodkey,other,1976,11
+280,M*A*S*H,US,5,2954711,Brian Byers,2,False,Private Danny Fitzsimons,other,1976,11
+281,M*A*S*H,US,5,47771,Richard Foronjy,2,False,Sergeant,other,1976,11
+282,M*A*S*H,US,5,122154,Robert Ito,2,False,The North Koreans,other,1976,11
+283,M*A*S*H,US,5,10345,Soon-Tek Oh,2,False,Syn Paik,other,1976,11
+284,M*A*S*H,US,5,89544,Larry Hama,2,False,The North Koreans,other,1976,11
+285,M*A*S*H,US,5,10134,Mako,2,False,Major Choi,other,1976,11
+286,M*A*S*H,US,5,29443,Richard Doyle,2,False,M.P.,other,1976,11
+287,M*A*S*H,US,5,3189435,Thomas Botosan,2,False,Sergeant,other,1976,11
+288,M*A*S*H,US,5,2971157,Carmine Scelza,2,False,G.I.,other,1976,11
+289,M*A*S*H,US,5,1375917,Phyllis Katz,1,False,Nurse Able,nurse,1976,11
+290,M*A*S*H,US,5,1721498,Jae Woo Lee,2,False,Korean Guard,other,1976,11
+291,M*A*S*H,US,5,95014,Philip Ahn,2,False,,other,1976,12
+292,M*A*S*H,US,5,116589,Patricia Stevens,1,False,Nurse Able,nurse,1976,12
+293,M*A*S*H,US,5,14835,Dick O'Neill,2,False,The Admiral,other,1977,1
+294,M*A*S*H,US,5,84915,Oliver Clark,2,False,Lt. Brooks,other,1977,1
+295,M*A*S*H,US,5,2754610,Greg Mabrey,2,False,Wounded Soldier,other,1977,1
+296,M*A*S*H,US,5,3467,Leonard Stone,2,False,Colonel Bidwell,other,1977,2
+297,M*A*S*H,US,5,158972,Larry Wilcox,2,False,Corporal Mulligan,other,1977,2
+298,M*A*S*H,US,5,2651,Edward Binns,2,False,General Korshak,other,1977,2
+299,M*A*S*H,US,5,1186926,Susie Elene,1,False,Mai Ping (as Suesie Eléne),other,1977,2
+300,M*A*S*H,US,5,1200128,Jill Schulz,1,False,Hooker (uncredited),other,1977,2
+301,M*A*S*H,US,5,8609,Jeffrey Kramer,2,False,Sgt. Morgove / Driver,doctor,1977,2
+302,M*A*S*H,US,5,1221172,Odessa Cleveland,1,False,Ginger Bayliss,other,1977,2
+303,M*A*S*H,US,5,19546,Michael Bell,2,False,Willie Stratton,other,1977,3
+304,M*A*S*H,US,5,6197,Brian Dennehy,2,False,M.P. Ernie Connors,other,1977,3
+305,M*A*S*H,US,5,2590971,Scott Mulhern,2,False,Andy Cooper,other,1977,3
+306,M*A*S*H,US,5,156015,June Kyoto Lu,1,False,Korean Woman (as June Kim),other,1977,3
+307,M*A*S*H,US,5,2971259,Crandal Jue,2,False,Korean Boy,other,1977,3
+308,M*A*S*H,US,5,2971262,Alvin Kim,2,False,Korean Boy,other,1977,3
+309,M*A*S*H,US,5,1213887,Hilly Hicks,2,False,Corporal Moody,other,1977,3
+310,M*A*S*H,US,5,32289,Andy Romano,2,False,Sergeant Justiss,other,1977,3
+311,M*A*S*H,US,5,80283,Alan McRae,2,False,Corporal Nessen,other,1977,3
+312,M*A*S*H,US,5,102236,Richard Beauchamp,2,False,Cpl. Robelo,other,1977,3
+313,M*A*S*H,US,5,14552,Gary Springer,2,False,Private Garvin,other,1977,3
+314,M*A*S*H,US,5,157436,Andrew Bloch,2,False,Private Cordon,other,1977,3
+315,M*A*S*H,US,5,106422,Jack Baker,2,False,Private Whitney,other,1977,3
+316,M*A*S*H,US,5,2841868,Daniel Zippi,2,False,Private Corey,other,1977,3
+317,M*A*S*H,US,5,59352,Zitto Kazann,2,False,Sergeant Attias,other,1977,3
+318,M*A*S*H,US,5,158977,Beeson Carroll,2,False,Lt. Col. Donald Penobscott,other,1977,3
+319,M*A*S*H,US,5,1221188,Roy Goldman,2,False,Corpsman (uncredited),other,1977,3
+320,M*A*S*H,US,6,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1977,9
+321,M*A*S*H,US,6,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1977,9
+322,M*A*S*H,US,6,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1977,9
+323,M*A*S*H,US,6,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1977,9
+324,M*A*S*H,US,6,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1977,9
+325,M*A*S*H,US,6,28010,David Ogden Stiers,2,True,Charles Winchester,doctor (probably),1977,9
+326,M*A*S*H,US,6,9810,Gary Burghoff,2,True,Radar O'Reilly,doctor (probably),1977,9
+327,M*A*S*H,US,6,157321,William Christopher,2,True,Father Mulcahy,doctor (probably),1977,9
+328,M*A*S*H,US,6,1215961,Rick Hurst,2,False,,other,1977,9
+329,M*A*S*H,US,6,66194,Raymond Singer,2,False,,other,1977,9
+330,M*A*S*H,US,6,119716,Robert Symonds,2,False,,other,1977,9
+331,M*A*S*H,US,6,109530,Tom Stovall,2,False,The Sergeant,other,1977,9
+332,M*A*S*H,US,6,16557,Michael Talbott,2,False,,other,1977,9
+333,M*A*S*H,US,6,38711,Robin Riker,1,False,,other,1977,9
+334,M*A*S*H,US,6,116589,Patricia Stevens,1,False,Nurse Able,nurse,1977,9
+335,M*A*S*H,US,6,2505,James Cromwell,2,False,,other,1977,10
+336,M*A*S*H,US,6,82837,Robert Karnes,2,False,Colonel,other,1977,10
+337,M*A*S*H,US,6,778,John Ashton,2,False,,other,1977,10
+338,M*A*S*H,US,6,38085,Michael O'Keefe,2,False,Corporal Travis,other,1977,10
+339,M*A*S*H,US,6,151695,Johnny Haymer,2,False,Sergeant Zale,other,1977,10
+340,M*A*S*H,US,6,20899,Peter Riegert,2,False,,other,1977,10
+341,M*A*S*H,US,6,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1977,10
+342,M*A*S*H,US,6,4492,Philip Baker Hall,2,False,,other,1977,10
+343,M*A*S*H,US,6,156617,Susan Krebs,1,False,,other,1977,11
+344,M*A*S*H,US,6,95014,Philip Ahn,2,False,,other,1977,11
+345,M*A*S*H,US,6,1217404,Noel Toy,1,False,,other,1977,11
+346,M*A*S*H,US,6,158986,Susan Blanchard,1,False,,other,1977,11
+347,M*A*S*H,US,6,77254,Larry Block,2,False,,other,1977,11
+348,M*A*S*H,US,6,1221200,Rebecca Taylor,1,False,,other,1977,11
+349,M*A*S*H,US,6,1213935,Judy Farrell,1,False,Nurse Able,nurse,1977,11
+350,M*A*S*H,US,6,40595,Mike Henry,2,False,,other,1977,11
+351,M*A*S*H,US,6,61150,Charles Aidman,2,False,,other,1977,11
+352,M*A*S*H,US,6,1221201,Jerry Hauser,2,False,,other,1977,11
+353,M*A*S*H,US,6,77155,James Saito,2,False,Park,other,1977,12
+354,M*A*S*H,US,6,1217532,Jordan Clarke,2,False,,other,1978,1
+355,M*A*S*H,US,6,16103,Keye Luke,2,False,,other,1978,1
+356,M*A*S*H,US,6,8545,Bernard Fox,2,False,,other,1978,1
+357,M*A*S*H,US,6,19136,Sal Viscuso,2,False,Patient John,other,1978,1
+358,M*A*S*H,US,6,15824,Chris Mulkey,2,False,,other,1978,1
+359,M*A*S*H,US,6,1216151,Ken Michelman,2,False,,other,1978,1
+360,M*A*S*H,US,6,14641,Ronny Graham,2,False,,other,1978,1
+361,M*A*S*H,US,6,1213001,Charles Frank,2,False,Captain Hathaway,other,1978,1
+362,M*A*S*H,US,6,84915,Oliver Clark,2,False,,other,1978,2
+363,M*A*S*H,US,6,97782,Marcia Rodd,1,False,,other,1978,2
+364,M*A*S*H,US,6,141693,George Lindsey,2,False,,other,1978,2
+365,M*A*S*H,US,6,14669,George Wyner,2,False,,other,1978,2
+366,M*A*S*H,US,6,123722,Peter Hobbs,2,False,Col. Drake,doctor,1978,2
+367,M*A*S*H,US,6,4256,Christopher Murney,2,False,,other,1978,2
+368,M*A*S*H,US,6,107308,Paul Linke,2,False,,other,1978,3
+369,M*A*S*H,US,6,101606,Hamilton Camp,2,False,Frankenheimer,other,1978,3
+370,M*A*S*H,US,6,1221202,John Kirby,2,False,,other,1978,3
+371,M*A*S*H,US,7,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1978,9
+372,M*A*S*H,US,7,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1978,9
+373,M*A*S*H,US,7,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1978,9
+374,M*A*S*H,US,7,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1978,9
+375,M*A*S*H,US,7,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1978,9
+376,M*A*S*H,US,7,28010,David Ogden Stiers,2,True,Charles Winchester,doctor (probably),1978,9
+377,M*A*S*H,US,7,9810,Gary Burghoff,2,True,Radar O'Reilly,doctor (probably),1978,9
+378,M*A*S*H,US,7,157321,William Christopher,2,True,Father Mulcahy,doctor (probably),1978,9
+379,M*A*S*H,US,7,73349,Hugh Gillin,2,False,,other,1978,9
+380,M*A*S*H,US,7,153469,Kevin Hagen,2,False,Colonel Coner,other,1978,9
+381,M*A*S*H,US,7,132357,Carmen Mathews,1,False,Colonel Lillian Bull,other,1978,10
+382,M*A*S*H,US,7,1220733,Clete Roberts,2,False,The Interviewer,other,1978,10
+383,M*A*S*H,US,7,55423,Wayne Rogers,2,False,Trapper John,other,1978,10
+384,M*A*S*H,US,7,55431,Larry Linville,2,False,Frank Burns,other,1978,10
+385,M*A*S*H,US,7,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1978,10
+386,M*A*S*H,US,7,151695,Johnny Haymer,2,False,Sergeant Zale,other,1978,10
+387,M*A*S*H,US,7,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1978,10
+388,M*A*S*H,US,7,159004,Randy Stumpf,2,False,Greek Soldier,other,1978,10
+389,M*A*S*H,US,7,1211977,Greg Mullavey,2,False,Capt. Tom Greenleigh,other,1978,11
+390,M*A*S*H,US,7,116589,Patricia Stevens,1,False,Nurse Able,nurse,1978,11
+391,M*A*S*H,US,7,104973,David Dean,2,False,,other,1978,11
+392,M*A*S*H,US,7,1212458,Terry Wills,2,False,,other,1978,11
+393,M*A*S*H,US,7,1221195,David Hunt Stafford,2,False,,other,1978,11
+394,M*A*S*H,US,7,77155,James Saito,2,False,Park,other,1978,11
+395,M*A*S*H,US,7,85500,Sab Shimono,2,False,,other,1978,11
+396,M*A*S*H,US,7,77254,Larry Block,2,False,,other,1978,11
+397,M*A*S*H,US,7,98611,Peter Palmer,2,False,,other,1978,12
+398,M*A*S*H,US,7,1221196,John Palmer,2,False,,other,1978,12
+399,M*A*S*H,US,7,1221197,Patricia Driscoll,1,False,,other,1978,12
+400,M*A*S*H,US,7,995587,Chao Li Chi,2,False,Korean Husband,other,1979,1
+401,M*A*S*H,US,7,14835,Dick O'Neill,2,False,Col. Pitts,other,1979,1
+402,M*A*S*H,US,7,32596,Shizuko Hoshi,1,False,Rosie,other,1979,1
+403,M*A*S*H,US,7,1213773,Stephen Keep Mills,2,False,,other,1979,1
+404,M*A*S*H,US,7,16131,Mariette Hartley,1,False,Inga,other,1979,1
+405,M*A*S*H,US,7,87520,Yuki Shimoda,2,False,,other,1979,1
+406,M*A*S*H,US,7,94402,Walter Brooke,2,False,,other,1979,1
+407,M*A*S*H,US,7,78003,Mark L. Taylor,2,False,,other,1979,2
+408,M*A*S*H,US,7,157661,Edward Winter,2,False,Colonel Flagg,other,1979,2
+409,M*A*S*H,US,7,1221198,Bob Okazaki,2,False,,other,1979,2
+410,M*A*S*H,US,7,16103,Keye Luke,2,False,,other,1979,2
+411,M*A*S*H,US,7,158719,Kit McDonough,1,False,,other,1979,3
+412,M*A*S*H,US,7,2559591,Michael W. Schwartz,2,False,Patient (as Michael Williams),other,1979,3
+413,M*A*S*H,US,7,1213935,Judy Farrell,1,False,Nurse Able,nurse,1979,3
+414,M*A*S*H,US,7,1221170,Burt Metcalfe,2,False,,other,1979,3
+415,M*A*S*H,US,8,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1979,9
+416,M*A*S*H,US,8,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1979,9
+417,M*A*S*H,US,8,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1979,9
+418,M*A*S*H,US,8,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1979,9
+419,M*A*S*H,US,8,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1979,9
+420,M*A*S*H,US,8,28010,David Ogden Stiers,2,True,Charles Winchester,doctor (probably),1979,9
+421,M*A*S*H,US,8,157321,William Christopher,2,True,Father Mulcahy,doctor (probably),1979,9
+422,M*A*S*H,US,8,18649,John Randolph,2,False,,other,1979,9
+423,M*A*S*H,US,8,42157,Ed Begley Jr.,2,False,,other,1979,9
+424,M*A*S*H,US,8,6564,Lawrence Pressman,2,False,,other,1979,9
+425,M*A*S*H,US,8,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1979,9
+426,M*A*S*H,US,8,10134,Mako,2,False,Major Choi,other,1979,10
+427,M*A*S*H,US,8,16580,George Cheung,2,False,Peddler #1,other,1979,10
+428,M*A*S*H,US,8,151695,Johnny Haymer,2,False,Sergeant Zale,other,1979,10
+429,M*A*S*H,US,8,56183,Art Evans,2,False,,other,1979,11
+430,M*A*S*H,US,8,32596,Shizuko Hoshi,1,False,Rosie,other,1979,11
+431,M*A*S*H,US,8,27237,G.W. Bailey,2,False,Sgt. Rizzo,other,1979,11
+432,M*A*S*H,US,8,1221198,Bob Okazaki,2,False,,other,1979,11
+433,M*A*S*H,US,8,10345,Soon-Tek Oh,2,False,Syn Paik,other,1979,11
+434,M*A*S*H,US,8,100618,Kevin Brophy,2,False,,other,1979,11
+435,M*A*S*H,US,8,8898,Kelly Ward,1,False,,other,1979,12
+436,M*A*S*H,US,8,3205,Richard Lineback,2,False,Pvt. Scala,other,1979,12
+437,M*A*S*H,US,8,1213156,John Orchard,2,False,Ugly John,other,1979,12
+438,M*A*S*H,US,8,14543,William Bogert,2,False,,other,1979,12
+439,M*A*S*H,US,8,159041,Howard Platt,2,False,,other,1979,12
+440,M*A*S*H,US,8,87520,Yuki Shimoda,2,False,,other,1979,12
+441,M*A*S*H,US,8,56881,Shelley Long,1,False,,other,1980,1
+442,M*A*S*H,US,8,52995,Edward Herrmann,2,False,,other,1980,1
+443,M*A*S*H,US,8,157359,Jane Connell,1,False,,other,1980,1
+444,M*A*S*H,US,8,21376,James Stephens,2,False,,other,1980,1
+445,M*A*S*H,US,8,159047,Antony Alda,2,False,Cpl. Jarvis,other,1980,2
+446,M*A*S*H,US,8,95732,Robert Alda,2,False,Dr. Anthony B. Borelli,doctor,1980,2
+447,M*A*S*H,US,8,2249,Clyde Kusatsu,2,False,Captain Paul Yamato,other,1980,2
+448,M*A*S*H,US,8,31117,Philip Bruns,2,False,,other,1980,2
+449,M*A*S*H,US,8,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1980,2
+450,M*A*S*H,US,8,83812,Ford Rainey,2,False,,other,1980,2
+451,M*A*S*H,US,8,77589,Calvin Levels,2,False,,other,1980,3
+452,M*A*S*H,US,8,83974,Susan Saint James,1,False,,other,1980,3
+453,M*A*S*H,US,8,85500,Sab Shimono,2,False,,other,1980,3
+454,M*A*S*H,US,8,13732,Richard Herd,2,False,,other,1980,3
+455,M*A*S*H,US,8,3798,Pat Hingle,2,False,,other,1980,3
+456,M*A*S*H,US,9,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1980,11
+457,M*A*S*H,US,9,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1980,11
+458,M*A*S*H,US,9,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1980,11
+459,M*A*S*H,US,9,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1980,11
+460,M*A*S*H,US,9,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1980,11
+461,M*A*S*H,US,9,28010,David Ogden Stiers,2,True,Charles Winchester,doctor (probably),1980,11
+462,M*A*S*H,US,9,157321,William Christopher,2,True,Father Mulcahy,doctor (probably),1980,11
+463,M*A*S*H,US,9,10134,Mako,2,False,Major Choi,other,1980,11
+464,M*A*S*H,US,9,66200,Michael Currie,2,False,,other,1980,11
+465,M*A*S*H,US,9,94304,Larry Cedar,2,False,,other,1980,11
+466,M*A*S*H,US,9,25306,Mel Harris,1,False,,other,1980,12
+467,M*A*S*H,US,9,72421,Joel Brooks,2,False,,other,1980,12
+468,M*A*S*H,US,9,8609,Jeffrey Kramer,2,False,Sgt. Morgove / Driver,doctor,1980,12
+469,M*A*S*H,US,9,44792,Art LaFleur,2,False,The M.P.,other,1980,12
+470,M*A*S*H,US,9,86368,Andrew Duggan,2,False,Col. Alvin 'Howitzer' Houlihan,other,1980,12
+471,M*A*S*H,US,9,159057,Roy Evans,2,False,Orderly (uncredited),other,1980,12
+472,M*A*S*H,US,9,16103,Keye Luke,2,False,,other,1980,12
+473,M*A*S*H,US,9,27237,G.W. Bailey,2,False,Sgt. Rizzo,other,1980,12
+474,M*A*S*H,US,9,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1980,12
+475,M*A*S*H,US,9,12852,Barry Corbin,2,False,,other,1981,1
+476,M*A*S*H,US,9,70425,Denny Miller,2,False,,other,1981,1
+477,M*A*S*H,US,9,15414,Charles Hallahan,2,False,,other,1981,1
+478,M*A*S*H,US,9,1213935,Judy Farrell,1,False,Nurse Able,nurse,1981,1
+479,M*A*S*H,US,9,158936,Tim O'Connor,2,False,,other,1981,1
+480,M*A*S*H,US,9,14543,William Bogert,2,False,,other,1981,2
+481,M*A*S*H,US,9,159068,Rodney Saulsberry,2,False,,other,1981,2
+482,M*A*S*H,US,9,119716,Robert Symonds,2,False,,other,1981,2
+483,M*A*S*H,US,9,87520,Yuki Shimoda,2,False,,other,1981,2
+484,M*A*S*H,US,9,42003,Gail Strickland,1,False,,other,1981,3
+485,M*A*S*H,US,9,1227269,Jimmy Baron,2,False,Patient,other,1981,3
+486,M*A*S*H,US,9,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1981,3
+487,M*A*S*H,US,9,723,Patrick Swayze,2,False,Gary Sturgis,other,1981,4
+488,M*A*S*H,US,9,980027,Ray Middleton,2,False,Cardinal Reardon,other,1981,4
+489,M*A*S*H,US,9,22437,Philip Sterling,2,False,,other,1981,4
+490,M*A*S*H,US,9,101784,Meshach Taylor,2,False,,other,1981,5
+491,M*A*S*H,US,9,88838,Andrew Parks,2,False,,other,1981,5
+492,M*A*S*H,US,9,107068,Val Bisoglio,2,False,Sal,other,1981,5
+493,M*A*S*H,US,10,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1981,10
+494,M*A*S*H,US,10,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1981,10
+495,M*A*S*H,US,10,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1981,10
+496,M*A*S*H,US,10,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1981,10
+497,M*A*S*H,US,10,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1981,10
+498,M*A*S*H,US,10,28010,David Ogden Stiers,2,True,Charles Winchester,doctor (probably),1981,10
+499,M*A*S*H,US,10,157321,William Christopher,2,True,Father Mulcahy,doctor (probably),1981,10
+500,M*A*S*H,US,10,54122,Gwen Verdon,1,False,Brandy Doyle,other,1981,10
+501,M*A*S*H,US,10,1218875,Amanda McBroom,1,False,Ellie Carlyle,other,1981,10
+502,M*A*S*H,US,10,7141,Danny Dayton,2,False,Fast Freddie,other,1981,10
+503,M*A*S*H,US,10,4790,Martin Ferrero,2,False,,other,1981,10
+504,M*A*S*H,US,10,2954711,Brian Byers,2,False,Patient,other,1981,10
+505,M*A*S*H,US,10,104417,Gail Edwards,1,False,Marina Ryan,other,1981,10
+506,M*A*S*H,US,10,159085,Karen Landry,1,False,Sarah Miller,other,1981,10
+507,M*A*S*H,US,10,123016,Dirk Blocker,2,False,James Mathes,other,1981,11
+508,M*A*S*H,US,10,532,Joe Pantoliano,2,False,Gerald Mullen,other,1981,11
+509,M*A*S*H,US,10,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1981,11
+510,M*A*S*H,US,10,159087,Squire Fridell,2,False,Alvin Rice,other,1981,11
+511,M*A*S*H,US,10,13028,Nicholas Pryor,2,False,Major Burnham,other,1981,11
+512,M*A*S*H,US,10,52463,Stefan Gierasch,2,False,Colonel Ditka,other,1981,11
+513,M*A*S*H,US,10,3982,Xander Berkeley,2,False,Marine,other,1981,11
+514,M*A*S*H,US,10,1217166,John Lavachielli,2,False,Young Turk,other,1981,11
+515,M*A*S*H,US,10,66303,Ed Vasgersian,2,False,Captain Broz,other,1981,11
+516,M*A*S*H,US,10,158804,Kellye Nakahara,1,False,Kellye,other,1981,11
+517,M*A*S*H,US,10,27237,G.W. Bailey,2,False,Sgt. Rizzo,other,1981,11
+518,M*A*S*H,US,10,1214011,Anthony Charnota,2,False,Verbanic,other,1981,11
+519,M*A*S*H,US,10,159091,Tony Becker,2,False,Private Brown,other,1981,11
+520,M*A*S*H,US,10,2617398,Chris Petersen,2,False,Second Recruit,other,1981,11
+521,M*A*S*H,US,10,77155,James Saito,2,False,Park,other,1981,11
+522,M*A*S*H,US,10,1192417,Byron Chung,2,False,Lt. Yook,other,1981,11
+523,M*A*S*H,US,10,12876,Peter Jurasik,2,False,Triplett,other,1981,12
+524,M*A*S*H,US,10,16580,George Cheung,2,False,Peddler #1,other,1981,12
+525,M*A*S*H,US,10,100230,Mickey Jones,2,False,M.P. #2,other,1981,12
+526,M*A*S*H,US,10,158949,Eileen Saki,1,False,Rosie,other,1981,12
+527,M*A*S*H,US,10,102336,Jack Blessing,2,False,Lt. Rollins,other,1981,12
+528,M*A*S*H,US,10,123722,Peter Hobbs,2,False,Col. Drake,doctor,1981,12
+529,M*A*S*H,US,10,1380680,Jim Boeke,2,False,M.P.,other,1981,12
+530,M*A*S*H,US,10,44616,Monty Bane,2,False,Crooked M.P.,other,1981,12
+531,M*A*S*H,US,10,1080265,Michael Ensign,2,False,Major Cass,other,1981,12
+532,M*A*S*H,US,10,107068,Val Bisoglio,2,False,Sal,other,1981,12
+533,M*A*S*H,US,10,1633842,Leo Lewis,2,False,Sgt. Barnstable,other,1981,12
+534,M*A*S*H,US,10,1221188,Roy Goldman,2,False,Enlisted Man,other,1981,12
+535,M*A*S*H,US,10,7040,Kario Salem,2,False,Private Weston,other,1982,1
+536,M*A*S*H,US,10,113888,Randal Patrick,2,False,Hicks,other,1982,1
+537,M*A*S*H,US,10,2192578,Jeff Tyler,2,False,Soldier,other,1982,1
+538,M*A*S*H,US,10,1861042,Perren Page,0,False,Driver,doctor,1982,1
+539,M*A*S*H,US,10,164712,Jerry Fujikawa,2,False,Farmer,other,1982,1
+540,M*A*S*H,US,10,12931,Rita Wilson,1,False,Nurse Lacey,nurse,1982,1
+541,M*A*S*H,US,10,16841,Brett Cullen,2,False,McKegney,other,1982,1
+542,M*A*S*H,US,10,89582,Gene Evans,2,False,Clayton Kibbee,other,1982,1
+543,M*A*S*H,US,10,57353,David Graf,2,False,Lt. Spears,other,1982,2
+544,M*A*S*H,US,10,64224,Cyril O'Reilly,2,False,Nick Gillis,other,1982,2
+545,M*A*S*H,US,10,1414446,Dennis Troy,2,False,G.I.,other,1982,2
+546,M*A*S*H,US,10,1593630,Leland Sun,2,False,G.I.,other,1982,2
+547,M*A*S*H,US,10,10133,John Fujioka,2,False,Colonel Kim,other,1982,2
+548,M*A*S*H,US,10,18192,Jason Bernard,2,False,Major Rockingham,other,1982,2
+549,M*A*S*H,US,10,2975,Laurence Fishburne,2,False,Corporal Dorsey,other,1982,2
+550,M*A*S*H,US,10,11784,Tom Atkins,2,False,Major Weems,other,1982,2
+551,M*A*S*H,US,10,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1982,2
+552,M*A*S*H,US,10,1938831,John O'Connell,2,False,Capt. Schnelker,other,1982,2
+553,M*A*S*H,US,10,159103,Gene Pietragallo,2,False,Corp. Fisher,other,1982,2
+554,M*A*S*H,US,10,125557,William Rogers,2,False,Corp. Logan,other,1982,2
+555,M*A*S*H,US,10,2141,Ned Bellamy,2,False,G.I.,other,1982,2
+556,M*A*S*H,US,10,159108,Larry Ward,2,False,General Rothaker,other,1982,2
+557,M*A*S*H,US,10,1468468,Jim Borrelli,2,False,The G.I.,other,1982,2
+558,M*A*S*H,US,10,138660,James Emery,2,False,The Corpsman,other,1982,2
+559,M*A*S*H,US,10,40630,Brian Fuld,2,False,G.I.,other,1982,2
+560,M*A*S*H,US,10,1447263,Corkey Ford,0,False,G.I.,other,1982,2
+561,M*A*S*H,US,10,43484,Dennis Howard,2,False,Capt. Rackley,other,1982,2
+562,M*A*S*H,US,10,100600,Deborah Harmon,1,False,Nurse Webster,nurse,1982,3
+563,M*A*S*H,US,10,106696,Cameron Dye,2,False,Soldier,other,1982,3
+564,M*A*S*H,US,10,159109,Richard Fullerton,2,False,Soldier,other,1982,3
+565,M*A*S*H,US,10,64120,John Matuszak,2,False,Hitalski,other,1982,3
+566,M*A*S*H,US,10,2716,Earl Boen,2,False,Major Hatch,other,1982,3
+567,M*A*S*H,US,10,97717,Britt Leach,2,False,Dan Blevik,other,1982,3
+568,M*A*S*H,US,10,98555,Matthew Faison,2,False,Bill Stitzel,other,1982,3
+569,M*A*S*H,US,10,1174793,Pat McNamara,3,False,Cavanaugh,other,1982,3
+570,M*A*S*H,US,10,152927,Gerald Castillo,2,False,Reporter,other,1982,3
+571,M*A*S*H,US,10,1659419,Jay Gerber,2,False,Reporter,other,1982,3
+572,M*A*S*H,US,10,141401,Al Rossi,2,False,Reporter,other,1982,3
+573,M*A*S*H,US,10,1880473,Hennen Chambers,0,False,Patient,other,1982,3
+574,M*A*S*H,US,10,1985463,Eddie Frescas,2,False,Patient,other,1982,3
+575,M*A*S*H,US,10,1180958,David Orr,2,False,Patient,other,1982,3
+576,M*A*S*H,US,10,1504005,Richard Cummings,2,False,Soldier,other,1982,3
+577,M*A*S*H,US,10,14835,Dick O'Neill,2,False,Col. Pitts,other,1982,3
+578,M*A*S*H,US,10,131725,William Lucking,2,False,Urbancic,other,1982,3
+579,M*A*S*H,US,10,103814,Roger Hampton,2,False,The Second Marine,other,1982,3
+580,M*A*S*H,US,10,15213,John P. Ryan,2,False,Major Van Zandt,other,1982,4
+581,M*A*S*H,US,10,61709,Richard Lee-Sung,2,False,The Farmer,other,1982,4
+582,M*A*S*H,US,10,1379404,Tom Kindle,2,False,The G.I.,other,1982,4
+583,M*A*S*H,US,11,21278,Alan Alda,2,True,Hawkeye Pierce,doctor (probably),1982,10
+584,M*A*S*H,US,11,64811,Mike Farrell,2,True,B. J. Hunnicutt,doctor (probably),1982,10
+585,M*A*S*H,US,11,55428,Loretta Swit,1,True,Margaret Houlihan,doctor (probably),1982,10
+586,M*A*S*H,US,11,55432,Jamie Farr,2,True,Maxwell Klinger,doctor (probably),1982,10
+587,M*A*S*H,US,11,4073,Harry Morgan,2,True,Sherman Potter,doctor (probably),1982,10
+588,M*A*S*H,US,11,28010,David Ogden Stiers,2,True,Charles Winchester,doctor (probably),1982,10
+589,M*A*S*H,US,11,157321,William Christopher,2,True,Father Mulcahy,doctor (probably),1982,10
+590,M*A*S*H,US,11,100600,Deborah Harmon,1,False,Nurse Webster,nurse,1982,10
+591,M*A*S*H,US,11,12931,Rita Wilson,1,False,Nurse Lacey,nurse,1982,10
+592,M*A*S*H,US,11,68180,Gary Grubbs,2,False,Lt. Geyer,other,1982,10
+593,M*A*S*H,US,11,1217501,Jeff Maxwell,2,False,Pvt. Igor Straminsky,other,1982,10
+594,M*A*S*H,US,11,159113,Peggy Feury,1,False,Col. Bucholtz,other,1982,10
+595,M*A*S*H,US,11,158804,Kellye Nakahara,1,False,Kellye,other,1982,10
+596,M*A*S*H,US,11,57906,Andrew Dice Clay,2,False,Corp. Hrabosky,other,1982,11
+597,M*A*S*H,US,11,3205,Richard Lineback,2,False,Pvt. Scala,other,1982,11
+598,M*A*S*H,US,11,66606,George Wendt,2,False,Pvt. La Roche,other,1982,11
+599,M*A*S*H,US,11,1212054,Arnold F. Turner,2,False,Graves Registration Assistant,medic,1982,11
+600,M*A*S*H,US,11,1217466,Herman Poppe,2,False,M.P.,other,1982,11
+601,M*A*S*H,US,11,114633,R.J. Miller,0,False,Graves Registration Driver,doctor,1982,11
+602,M*A*S*H,US,11,1379453,Arlee Reed,2,False,Soldier,other,1982,11
+603,M*A*S*H,US,11,102576,John Otrin,2,False,Ambulance Attendant,other,1982,11
+604,M*A*S*H,US,11,159118,Melinda Mullins,1,False,Martine,other,1982,11
+605,M*A*S*H,US,11,10345,Soon-Tek Oh,2,False,Syn Paik,other,1982,11
+606,M*A*S*H,US,11,4175,Jeffrey Tambor,2,False,Reddish,other,1982,11
+607,M*A*S*H,US,11,1192417,Byron Chung,2,False,Chong-Wha,other,1982,11
+608,M*A*S*H,US,11,2594580,Buddy Farmer,2,False,M.P.,other,1982,11
+609,M*A*S*H,US,11,1710958,Joanne	Thompson,0,False,Nurse,nurse,1982,11
+610,M*A*S*H,US,11,1414446,Dennis Troy,2,False,Corpsman,other,1982,11
+611,M*A*S*H,US,11,2249,Clyde Kusatsu,2,False,Captain Paul Yamato,other,1982,11
+612,M*A*S*H,US,11,1505203,Enid Kent,1,False,Bigelow,other,1982,11
+613,M*A*S*H,US,11,119485,Gerald S. O'Loughlin,2,False,General Schwerin,other,1982,11
+614,M*A*S*H,US,11,96442,Michael Carmine,2,False,Patient,other,1982,11
+615,M*A*S*H,US,11,68750,Robert Townsend,2,False,Patient,other,1982,11
+616,M*A*S*H,US,11,152942,Allen Williams,2,False,Lt. Priore,other,1982,11
+617,M*A*S*H,US,11,159124,Michael Bond,2,False,Captain Hobart,other,1982,11
+618,M*A*S*H,US,11,159013,Paul Tuerpe,2,False,I-Corps Courier,other,1982,11
+619,M*A*S*H,US,11,3161078,Natasha Bauman,1,False,Nurse,nurse,1982,11
+620,M*A*S*H,US,11,53088,Jeff East,2,False,Lt. Pavelich,other,1982,12
+621,M*A*S*H,US,11,19752,Guy Boyd,2,False,Sgt. Lally,other,1982,12
+622,M*A*S*H,US,11,3161087,Michael Lamont,2,False,Corporal,other,1982,12
+623,M*A*S*H,US,11,2545397,Jack McCulloch,2,False,Soldier,other,1982,12
+624,M*A*S*H,US,11,3161089,Jennifer Davis Westmore,1,False,Nurse,nurse,1982,12
+625,M*A*S*H,US,11,101653,Sandy Helberg,2,False,Bannister,other,1982,12
+626,M*A*S*H,US,11,101606,Hamilton Camp,2,False,Frankenheimer,other,1982,12
+627,M*A*S*H,US,11,159108,Larry Ward,2,False,General Rothaker,other,1982,12
+628,M*A*S*H,US,11,1729813,Jan Jorden,2,False,Nurse Baker,nurse,1982,12
+629,M*A*S*H,US,11,31002,Robert Alan Browne,2,False,Col. Crocker,other,1982,12
+630,M*A*S*H,US,11,31391,Barbara Tarbuck,1,False,Maj. Parker,other,1982,12
+631,M*A*S*H,US,11,159129,Phil Brock,2,False,Pvt. Palmer,other,1982,12
+632,M*A*S*H,US,11,1547821,Thomas Callaway,2,False,Cpt. Sweeney,other,1982,12
+633,M*A*S*H,US,11,2366267,William Schilling,2,False,Sgt. McFarland,other,1982,12
+634,M*A*S*H,US,11,3161129,Michael Conn,2,False,G.I.,other,1982,12
+635,M*A*S*H,US,11,159131,Ken Wright,2,False,G.I.,other,1982,12
+636,M*A*S*H,US,11,14330,Juney Smith,2,False,G.I.,other,1982,12
+637,M*A*S*H,US,11,2670535,Ron Kapra,2,False,Driver,doctor,1982,12
+638,M*A*S*H,US,11,3264619,Mark Anderson,2,False,Pvt. Earl 'Jackrabbit' LeMasters,other,1982,12
+639,M*A*S*H,US,11,86542,David Packer,2,False,Pvt. Lumley,other,1983,1
+640,M*A*S*H,US,11,111710,Kavi Raz,2,False,Rammurti Lal,other,1983,1
+641,M*A*S*H,US,11,26131,George Innes,2,False,Dr. Randolph Kent,doctor,1983,1
+642,M*A*S*H,US,11,1172,Dennis Holahan,2,False,Per Johannsen,other,1983,1
+643,M*A*S*H,US,11,3161133,Bill Snider,2,False,Bartender,other,1983,1
+644,M*A*S*H,US,11,3161134,Shari Saba,1,False,Shari,other,1983,1
+645,M*A*S*H,US,11,3161135,Brigitte Chandler,1,False,Nurse,nurse,1983,1
+646,M*A*S*H,US,11,17494,Dennis Dugan,2,False,Bob Wilson,other,1983,1
+647,M*A*S*H,US,11,19111,John Anderson,2,False,General Collins,other,1983,1
+648,M*A*S*H,US,11,14852,James Karen,2,False,Dr. Chesler,doctor,1983,1
+649,M*A*S*H,US,11,1175469,Michael Horton,2,False,Lt. Curt Collins,other,1983,1
+650,M*A*S*H,US,11,3161139,Chip Johnson,2,False,Captain Sterne,other,1983,1
+651,M*A*S*H,US,11,3161142,Jeff Chapman,2,False,Maloney,other,1983,1
+652,M*A*S*H,US,11,2768256,Norman Garrett,2,False,Patient,other,1983,1
+653,M*A*S*H,US,11,16558,John McLiam,2,False,Col. Woody Cooke,other,1983,2
+654,M*A*S*H,US,11,2008674,Jim Lefebvre,2,False,Sgt. Zurilli,other,1983,2
+655,M*A*S*H,US,11,1547726,Matthew Price,2,False,Corp. Marsh,other,1983,2
+656,M*A*S*H,US,11,1985452,Jack Yates,2,False,Large Enlisted Man,other,1983,2
+657,M*A*S*H,US,11,3161146,Joann Thompson,1,False,Nurse,nurse,1983,2
+658,M*A*S*H,US,11,1221188,Roy Goldman,2,False,Roy,other,1983,2
+659,M*A*S*H,US,11,27237,G.W. Bailey,2,False,Sgt. Rizzo,other,1983,2
+660,M*A*S*H,US,11,62893,Craig Wasson,2,False,Pvt. Kurland,other,1983,2
+661,M*A*S*H,US,11,1937736,Sagan Lewis,0,False,Nurse Armstrong,nurse,1983,2
+662,M*A*S*H,US,11,3161147,Dereck Wong,2,False,Korean Soldier,other,1983,2
+663,M*A*S*H,US,11,3161148,Alberta Jay,1,False,Nurse,nurse,1983,2
+664,M*A*S*H,US,11,995587,Chao Li Chi,2,False,Korean Husband,other,1983,2
+665,M*A*S*H,US,11,74073,Rosalind Chao,1,False,Soon-Lee,other,1983,2
+666,M*A*S*H,US,11,151318,Michael Swan,2,False,Lt. Brannum,other,1983,2
+667,M*A*S*H,US,11,64222,Mark Herrier,2,False,Corp. Stoddard,other,1983,2
+668,M*A*S*H,US,11,154158,Wesley Thompson,2,False,Corpsman,other,1983,2
+669,M*A*S*H,US,11,3161149,Oksun Kim,1,False,Korean Wife,other,1983,2
+670,M*A*S*H,US,11,3161150,Jo Ann Thompson,2,False,Nurse #1,nurse,1983,2
+671,M*A*S*H,US,11,153619,Allan Arbus,2,False,Dr. Sidney Freedman,doctor,1983,2
+672,M*A*S*H,US,11,21485,Blake Clark,2,False,2nd M.P.,other,1983,2
+673,M*A*S*H,US,11,165827,Jim Lau,2,False,Chinese Musician,other,1983,2
+674,M*A*S*H,US,11,1211995,Mark Casella,2,False,Jeep Driver,doctor,1983,2
+675,M*A*S*H,US,11,92280,Kevin Scannell,2,False,"""MacArthur""",other,1983,2
+676,M*A*S*H,US,11,102423,John Shearin,2,False,The Chopper Pilot,other,1983,2
+677,M*A*S*H,US,11,29754,Jon Van Ness,2,False,"""Truman""",other,1983,2
+678,M*A*S*H,US,11,3162199,Arthur Song,2,False,Korean Man,other,1983,2
+679,M*A*S*H,US,11,3162200,June Kim,1,False,Woman with Shaw1,other,1983,2
+680,M*A*S*H,US,11,106974,Scott Lincoln,2,False,G.I.,other,1983,2
+681,M*A*S*H,US,11,3162201,Herb L. Mitchell,2,False,1st M.P.,other,1983,2
+682,M*A*S*H,US,11,3162202,David Orr,2,False,Soldier,other,1983,2
+683,M*A*S*H,US,11,3162203,Dennis Flood,2,False,Corpsman,other,1983,2
+684,M*A*S*H,US,11,2364205,Gwen Farrell,1,False,Nurse,nurse,1983,2
+685,M*A*S*H,US,11,3162204,Natasha Bauman,1,False,Nurse,nurse,1983,2
+686,M*A*S*H,US,11,1213935,Judy Farrell,1,False,Nurse Able,nurse,1983,2
+687,M*A*S*H,US,11,1613683,Lang Yun,3,False,The Woman on Bus,other,1983,2

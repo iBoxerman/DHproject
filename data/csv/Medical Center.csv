@@ -1,0 +1,387 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Medical Center,US,1,15013,Chad Everett,2,True,Joe Gannon,doctor (probably),1969,9
+1,Medical Center,US,1,13259,James Daly,2,True,Paul Lochner,doctor (probably),1969,9
+2,Medical Center,US,1,19413,Audrey Totter,1,True,Eve Wilcox,doctor (probably),1969,9
+3,Medical Center,US,1,1235311,Ed Hall,2,True,Stan Bricker,doctor (probably),1969,9
+4,Medical Center,US,1,19415,Jayne Meadows,1,True,Nurse Chambers,nurse,1969,9
+5,Medical Center,US,1,1235312,Virginia Hawkins,1,True,Evvie Canford,doctor (probably),1969,9
+6,Medical Center,US,1,68812,Ed Asner,2,False,,other,1969,9
+7,Medical Center,US,1,12951,O.J. Simpson,2,False,,other,1969,9
+8,Medical Center,US,1,37712,Dana Elcar,2,False,,other,1969,9
+9,Medical Center,US,1,160736,Sheila Larken,1,False,Nurse Anne Wittley,nurse,1969,10
+10,Medical Center,US,1,136222,Helen Boll,1,False,Emergency Nurse,nurse,1969,10
+11,Medical Center,US,1,18192,Jason Bernard,2,False,,other,1969,10
+12,Medical Center,US,1,16096,France Nuyen,1,False,,other,1969,10
+13,Medical Center,US,1,130327,JoAnna Cameron,1,False,Lainie Jeffries,other,1969,11
+14,Medical Center,US,1,18737,Mercedes McCambridge,1,False,,other,1970,2
+15,Medical Center,US,2,15013,Chad Everett,2,True,Joe Gannon,doctor (probably),1970,9
+16,Medical Center,US,2,13259,James Daly,2,True,Paul Lochner,doctor (probably),1970,9
+17,Medical Center,US,2,19413,Audrey Totter,1,True,Eve Wilcox,doctor (probably),1970,9
+18,Medical Center,US,2,1235311,Ed Hall,2,True,Stan Bricker,doctor (probably),1970,9
+19,Medical Center,US,2,19415,Jayne Meadows,1,True,Nurse Chambers,nurse,1970,9
+20,Medical Center,US,2,1235312,Virginia Hawkins,1,True,Evvie Canford,doctor (probably),1970,9
+21,Medical Center,US,2,86343,Salome Jens,1,False,,other,1970,9
+22,Medical Center,US,2,38232,Hugh Beaumont,2,False,,other,1970,11
+23,Medical Center,US,2,165603,Joan Delaney,1,False,Janice Wilcox,other,1970,11
+24,Medical Center,US,3,15013,Chad Everett,2,True,Joe Gannon,doctor (probably),1971,9
+25,Medical Center,US,3,13259,James Daly,2,True,Paul Lochner,doctor (probably),1971,9
+26,Medical Center,US,3,19413,Audrey Totter,1,True,Eve Wilcox,doctor (probably),1971,9
+27,Medical Center,US,3,1235311,Ed Hall,2,True,Stan Bricker,doctor (probably),1971,9
+28,Medical Center,US,3,19415,Jayne Meadows,1,True,Nurse Chambers,nurse,1971,9
+29,Medical Center,US,3,1235312,Virginia Hawkins,1,True,Evvie Canford,doctor (probably),1971,9
+30,Medical Center,US,3,160736,Sheila Larken,1,False,Nurse Anne Wittley,nurse,1971,12
+31,Medical Center,US,3,103940,Diana Sands,1,False,,other,1971,12
+32,Medical Center,US,3,116739,Fay Spain,1,False,,other,1971,12
+33,Medical Center,US,3,89040,Ed Nelson,2,False,,other,1971,12
+34,Medical Center,US,3,30051,Willie Aames,2,False,,other,1971,12
+35,Medical Center,US,3,15968,Glenn Corbett,2,False,,other,1971,12
+36,Medical Center,US,4,15013,Chad Everett,2,True,Joe Gannon,doctor (probably),1972,9
+37,Medical Center,US,4,13259,James Daly,2,True,Paul Lochner,doctor (probably),1972,9
+38,Medical Center,US,4,19413,Audrey Totter,1,True,Eve Wilcox,doctor (probably),1972,9
+39,Medical Center,US,4,1235311,Ed Hall,2,True,Stan Bricker,doctor (probably),1972,9
+40,Medical Center,US,4,1235312,Virginia Hawkins,1,True,Evvie Canford,doctor (probably),1972,9
+41,Medical Center,US,4,8499,William Windom,2,False,,other,1972,9
+42,Medical Center,US,4,90520,Susan Oliver,1,False,,other,1972,9
+43,Medical Center,US,4,11140,Lynn Carlin,1,False,,other,1972,9
+44,Medical Center,US,4,153416,James Stacy,2,False,,other,1972,9
+45,Medical Center,US,4,47503,Nancy Walker,1,False,,other,1972,9
+46,Medical Center,US,4,161769,Pamela Payton-Wright,1,False,,other,1972,9
+47,Medical Center,US,4,1217462,Michael Masters,2,False,,other,1972,9
+48,Medical Center,US,4,83442,Lola Albright,1,False,,other,1972,10
+49,Medical Center,US,4,78396,Stephen R. Hudis,2,False,,other,1972,10
+50,Medical Center,US,4,158936,Tim O'Connor,2,False,,other,1972,10
+51,Medical Center,US,4,6461,Estelle Parsons,1,False,,other,1972,10
+52,Medical Center,US,4,115178,Kristoffer Tabori,2,False,,other,1972,10
+53,Medical Center,US,4,14785,Harry Guardino,2,False,,other,1972,10
+54,Medical Center,US,4,153460,Robert H. Harris,2,False,,other,1972,10
+55,Medical Center,US,4,97782,Marcia Rodd,1,False,,other,1972,10
+56,Medical Center,US,4,14108,Joyce Van Patten,1,False,,other,1972,10
+57,Medical Center,US,4,41283,Geraldine Page,1,False,,other,1972,10
+58,Medical Center,US,4,61150,Charles Aidman,2,False,,other,1972,10
+59,Medical Center,US,4,13946,Paul Burke,2,False,,other,1972,11
+60,Medical Center,US,4,189479,Peter Kastner,2,False,,other,1972,11
+61,Medical Center,US,4,16014,Diana Muldaur,1,False,,other,1972,11
+62,Medical Center,US,4,102860,Darleen Carr,1,False,,other,1972,11
+63,Medical Center,US,4,152647,Peter Haskell,2,False,,other,1972,11
+64,Medical Center,US,4,30272,George Tobias,2,False,,other,1972,11
+65,Medical Center,US,4,41246,Lee Purcell,1,False,,other,1972,11
+66,Medical Center,US,4,1213057,Jim Poyner,2,False,,other,1972,11
+67,Medical Center,US,4,29273,Gilbert Roland,2,False,,other,1972,11
+68,Medical Center,US,4,24880,George Chakiris,2,False,,other,1972,11
+69,Medical Center,US,4,152716,Carmen Zapata,1,False,,other,1972,11
+70,Medical Center,US,4,160643,Rosa Turich,1,False,,other,1972,11
+71,Medical Center,US,4,18328,Ken Howard,2,False,,other,1972,11
+72,Medical Center,US,4,127260,Louise Sorel,1,False,,other,1972,11
+73,Medical Center,US,4,89841,Kay Medford,1,False,,other,1972,11
+74,Medical Center,US,4,14063,Simon Oakland,2,False,,other,1972,11
+75,Medical Center,US,4,30844,John Lupton,2,False,,other,1972,11
+76,Medical Center,US,4,178113,Mary McCarty,1,False,Mother Superior,other,1972,11
+77,Medical Center,US,4,160553,Leslie Charleson,1,False,,other,1972,12
+78,Medical Center,US,4,125650,Scott Jacoby,2,False,,other,1972,12
+79,Medical Center,US,4,89043,Lois Nettleton,1,False,,other,1972,12
+80,Medical Center,US,4,70990,Will Geer,2,False,,other,1972,12
+81,Medical Center,US,4,153680,Nico Minardos,2,False,,other,1972,12
+82,Medical Center,US,4,41232,Jessica Walter,1,False,,other,1972,12
+83,Medical Center,US,4,2962,Robert Foxworth,2,False,,other,1972,12
+84,Medical Center,US,4,7139,Norman Alden,2,False,,other,1972,12
+85,Medical Center,US,4,106765,Joanna Miles,1,False,,other,1973,1
+86,Medical Center,US,4,19138,Bill Bixby,2,False,,other,1973,1
+87,Medical Center,US,4,14794,Charlotte Stewart,1,False,,other,1973,1
+88,Medical Center,US,4,1221564,Shelly Novack,1,False,,other,1973,1
+89,Medical Center,US,4,145173,Bettye Ackerman,1,False,,other,1973,1
+90,Medical Center,US,4,153578,Peggy Rea,1,False,,other,1973,1
+91,Medical Center,US,4,41217,Tom Bosley,2,False,,other,1973,1
+92,Medical Center,US,4,22556,Ruth Buzzi,1,False,,other,1973,1
+93,Medical Center,US,4,160736,Sheila Larken,1,False,Holly,other,1973,1
+94,Medical Center,US,4,27772,John Ritter,2,False,,other,1973,1
+95,Medical Center,US,4,154287,Lynne Marta,1,False,,other,1973,1
+96,Medical Center,US,4,86369,Parley Baer,2,False,,other,1973,1
+97,Medical Center,US,4,29313,Dean Jagger,2,False,,other,1973,1
+98,Medical Center,US,4,7520,Jeanette Nolan,1,False,,other,1973,1
+99,Medical Center,US,4,87156,Barbara Feldon,1,False,,other,1973,1
+100,Medical Center,US,4,6840,Larry Hagman,2,False,,other,1973,1
+101,Medical Center,US,4,39770,Adam Roarke,2,False,,other,1973,2
+102,Medical Center,US,4,166048,Brandon Cruz,2,False,,other,1973,2
+103,Medical Center,US,4,153510,Marlyn Mason,1,False,,other,1973,2
+104,Medical Center,US,4,18709,Ron Masak,2,False,,other,1973,2
+105,Medical Center,US,4,44897,Shelley Morrison,1,False,,other,1973,2
+106,Medical Center,US,4,4094,Jack Kruschen,2,False,,other,1973,2
+107,Medical Center,US,4,66712,Wesley Addy,2,False,,other,1973,2
+108,Medical Center,US,4,33060,Ramon Bieri,2,False,,other,1973,2
+109,Medical Center,US,4,12313,Earl Holliman,2,False,,other,1973,2
+110,Medical Center,US,4,74542,Barbara Rush,1,False,,other,1973,2
+111,Medical Center,US,4,98569,Vincent Van Patten,2,False,,other,1973,2
+112,Medical Center,US,4,153374,Orville Sherman,2,False,,other,1973,2
+113,Medical Center,US,4,2536,Michael Parks,2,False,,other,1973,2
+114,Medical Center,US,4,14787,Mae Mercer,1,False,,other,1973,2
+115,Medical Center,US,4,10608,Gary Merrill,2,False,,other,1973,2
+116,Medical Center,US,4,69810,Dana Wynter,1,False,,other,1973,3
+117,Medical Center,US,4,2771,Jim Backus,2,False,,other,1973,3
+118,Medical Center,US,4,1226399,Nancy Priddy,1,False,,other,1973,3
+119,Medical Center,US,5,15013,Chad Everett,2,True,Joe Gannon,doctor (probably),1973,9
+120,Medical Center,US,5,13259,James Daly,2,True,Paul Lochner,doctor (probably),1973,9
+121,Medical Center,US,5,19413,Audrey Totter,1,True,Eve Wilcox,doctor (probably),1973,9
+122,Medical Center,US,5,1235311,Ed Hall,2,True,Stan Bricker,doctor (probably),1973,9
+123,Medical Center,US,5,1235312,Virginia Hawkins,1,True,Evvie Canford,doctor (probably),1973,9
+124,Medical Center,US,5,105296,Belinda Montgomery,1,False,,other,1973,9
+125,Medical Center,US,5,44998,Steve Forrest,2,False,,other,1973,9
+126,Medical Center,US,5,30844,John Lupton,2,False,,other,1973,9
+127,Medical Center,US,5,117627,Lara Parker,1,False,,other,1973,9
+128,Medical Center,US,5,1214922,Stephen Brooks,2,False,,other,1973,9
+129,Medical Center,US,5,2750,Julie Harris,1,False,,other,1973,9
+130,Medical Center,US,5,25635,Pamela Franklin,1,False,,other,1973,9
+131,Medical Center,US,5,2752,Jo Van Fleet,1,False,,other,1973,9
+132,Medical Center,US,5,4307,Claude Akins,2,False,,other,1973,9
+133,Medical Center,US,5,1218875,Amanda McBroom,1,False,,other,1973,9
+134,Medical Center,US,5,8499,William Windom,2,False,,other,1973,9
+135,Medical Center,US,5,41245,Laraine Day,1,False,,other,1973,9
+136,Medical Center,US,5,1217459,David Man,2,False,,other,1973,9
+137,Medical Center,US,5,1733,Nick Nolte,2,False,,other,1973,10
+138,Medical Center,US,5,89043,Lois Nettleton,1,False,,other,1973,10
+139,Medical Center,US,5,21561,Tim Matheson,2,False,,other,1973,10
+140,Medical Center,US,5,6930,Diane Baker,1,False,,other,1973,10
+141,Medical Center,US,5,86368,Andrew Duggan,2,False,,other,1973,10
+142,Medical Center,US,5,8349,Martin Sheen,2,False,,other,1973,10
+143,Medical Center,US,5,170348,Rae Allen,1,False,,other,1973,10
+144,Medical Center,US,5,161255,Barbara Anderson,1,False,,other,1973,10
+145,Medical Center,US,5,121144,Joseph Campanella,2,False,,other,1973,10
+146,Medical Center,US,5,154287,Lynne Marta,1,False,,other,1973,10
+147,Medical Center,US,5,246,Gary Lockwood,2,False,,other,1973,10
+148,Medical Center,US,5,13568,Joan Blondell,1,False,,other,1973,10
+149,Medical Center,US,5,7071,Louise Fletcher,1,False,,other,1973,11
+150,Medical Center,US,5,44691,Lee Montgomery,2,False,,other,1973,11
+151,Medical Center,US,5,4800,Gena Rowlands,1,False,,other,1973,11
+152,Medical Center,US,5,41232,Jessica Walter,1,False,,other,1973,11
+153,Medical Center,US,5,78778,Alex Gerry,2,False,,other,1973,11
+154,Medical Center,US,5,73194,Barry Primus,2,False,,other,1973,11
+155,Medical Center,US,5,120044,Angela Greene,1,False,,other,1973,11
+156,Medical Center,US,5,83913,Joseph Mell,2,False,,other,1973,11
+157,Medical Center,US,5,18647,Bradford Dillman,2,False,,other,1973,11
+158,Medical Center,US,5,15746,Barbara Babcock,1,False,,other,1973,11
+159,Medical Center,US,5,15744,David Opatoshu,2,False,,other,1973,11
+160,Medical Center,US,5,64457,Perry King,2,False,,other,1973,12
+161,Medical Center,US,5,1211977,Greg Mullavey,2,False,,other,1973,12
+162,Medical Center,US,5,153620,Janice Lynde,1,False,,other,1973,12
+163,Medical Center,US,5,3042,Bruce Kirby,2,False,,other,1973,12
+164,Medical Center,US,5,66221,Tyne Daly,1,False,,other,1973,12
+165,Medical Center,US,5,89841,Kay Medford,1,False,,other,1973,12
+166,Medical Center,US,5,131814,Michael Brandon,2,False,,other,1974,1
+167,Medical Center,US,5,41229,Meg Foster,1,False,,other,1974,1
+168,Medical Center,US,5,44042,Felton Perry,2,False,,other,1974,1
+169,Medical Center,US,5,1221574,Peter Coffield,2,False,,other,1974,1
+170,Medical Center,US,5,8492,Rosemary Murphy,1,False,,other,1974,1
+171,Medical Center,US,5,13946,Paul Burke,2,False,,other,1974,1
+172,Medical Center,US,5,20362,Jill Clayburgh,1,False,Beverly Welton,other,1974,1
+173,Medical Center,US,5,74542,Barbara Rush,1,False,,other,1974,1
+174,Medical Center,US,5,15699,William Campbell,2,False,,other,1974,1
+175,Medical Center,US,5,83442,Lola Albright,1,False,,other,1974,1
+176,Medical Center,US,5,44728,Cameron Mitchell,2,False,,other,1974,1
+177,Medical Center,US,5,108289,Barney Phillips,2,False,,other,1974,1
+178,Medical Center,US,5,118483,Eddie Garrett,2,False,,other,1974,1
+179,Medical Center,US,5,106765,Joanna Miles,1,False,,other,1974,2
+180,Medical Center,US,5,10226,David Hedison,2,False,,other,1974,2
+181,Medical Center,US,5,89040,Ed Nelson,2,False,,other,1974,2
+182,Medical Center,US,5,51315,Joanna Pettet,1,False,,other,1974,2
+183,Medical Center,US,5,8608,Murray Hamilton,2,False,,other,1974,2
+184,Medical Center,US,5,112253,Leonard Frey,2,False,,other,1974,2
+185,Medical Center,US,5,8893,Stockard Channing,1,False,,other,1974,2
+186,Medical Center,US,5,40393,Dean Jones,2,False,,other,1974,2
+187,Medical Center,US,5,32394,Anne Meara,1,False,,other,1974,3
+188,Medical Center,US,5,160298,Carol Lawrence,1,False,,other,1974,3
+189,Medical Center,US,5,30051,Willie Aames,2,False,,other,1974,3
+190,Medical Center,US,5,42174,Kay Lenz,1,False,,other,1974,3
+191,Medical Center,US,5,1220731,Barbara Colby,1,False,,other,1974,3
+192,Medical Center,US,5,83987,Beverly Garland,1,False,,other,1974,3
+193,Medical Center,US,5,40233,Anne Seymour,1,False,,other,1974,3
+194,Medical Center,US,5,157596,Karen Morrow,1,False,,other,1974,3
+195,Medical Center,US,5,14064,Norman Fell,2,False,,other,1974,3
+196,Medical Center,US,5,6844,Dom DeLuise,2,False,,other,1974,3
+197,Medical Center,US,5,152647,Peter Haskell,2,False,,other,1974,4
+198,Medical Center,US,5,127260,Louise Sorel,1,False,,other,1974,4
+199,Medical Center,US,5,70990,Will Geer,2,False,,other,1974,4
+200,Medical Center,US,5,160643,Rosa Turich,1,False,,other,1974,4
+201,Medical Center,US,5,9865,Leif Erickson,2,False,,other,1974,4
+202,Medical Center,US,5,94036,Nancy Kelly,1,False,,other,1974,4
+203,Medical Center,US,6,15013,Chad Everett,2,True,Joe Gannon,doctor (probably),1974,9
+204,Medical Center,US,6,13259,James Daly,2,True,Paul Lochner,doctor (probably),1974,9
+205,Medical Center,US,6,19413,Audrey Totter,1,True,Eve Wilcox,doctor (probably),1974,9
+206,Medical Center,US,6,1235311,Ed Hall,2,True,Stan Bricker,doctor (probably),1974,9
+207,Medical Center,US,6,1235312,Virginia Hawkins,1,True,Evvie Canford,doctor (probably),1974,9
+208,Medical Center,US,6,25173,Gale Sondergaard,1,False,,other,1974,9
+209,Medical Center,US,6,73149,Monte Markham,2,False,,other,1974,9
+210,Medical Center,US,6,101947,Joan Van Ark,1,False,,other,1974,9
+211,Medical Center,US,6,13725,Meredith Baxter,1,False,,other,1974,9
+212,Medical Center,US,6,40186,Jacqueline Scott,1,False,,other,1974,9
+213,Medical Center,US,6,3142,John Marley,2,False,,other,1974,9
+214,Medical Center,US,6,88163,Marjoe Gortner,2,False,,other,1974,9
+215,Medical Center,US,6,18859,Andrea Marcovicci,1,False,,other,1974,9
+216,Medical Center,US,6,18649,John Randolph,2,False,,other,1974,9
+217,Medical Center,US,6,13729,Robert Walden,2,False,,other,1974,9
+218,Medical Center,US,6,6930,Diane Baker,1,False,,other,1974,9
+219,Medical Center,US,6,59965,Diana Hyland,1,False,,other,1974,9
+220,Medical Center,US,6,108289,Barney Phillips,2,False,,other,1974,9
+221,Medical Center,US,6,106178,Dennis Cole,2,False,,other,1974,9
+222,Medical Center,US,6,44728,Cameron Mitchell,2,False,,other,1974,10
+223,Medical Center,US,6,14069,Vic Tayback,2,False,,other,1974,10
+224,Medical Center,US,6,158936,Tim O'Connor,2,False,,other,1974,10
+225,Medical Center,US,6,13299,Rita Moreno,1,False,,other,1974,10
+226,Medical Center,US,6,94777,Frank Maxwell,2,False,,other,1974,10
+227,Medical Center,US,6,118483,Eddie Garrett,2,False,,other,1974,10
+228,Medical Center,US,6,25635,Pamela Franklin,1,False,,other,1974,11
+229,Medical Center,US,6,1221574,Peter Coffield,2,False,,other,1974,11
+230,Medical Center,US,6,7303,Vera Miles,1,False,,other,1974,11
+231,Medical Center,US,6,28778,Shirley Knight,1,False,,other,1974,11
+232,Medical Center,US,6,13399,Lloyd Bochner,2,False,,other,1974,11
+233,Medical Center,US,6,1217459,David Man,2,False,,other,1974,11
+234,Medical Center,US,6,15765,John Colicos,2,False,,other,1974,11
+235,Medical Center,US,6,42169,Richard Gilliland,2,False,,other,1974,11
+236,Medical Center,US,6,3347,James Griffith,2,False,,other,1974,11
+237,Medical Center,US,6,381,Katherine Helmond,1,False,,other,1974,11
+238,Medical Center,US,6,78087,Len Lesser,2,False,,other,1974,11
+239,Medical Center,US,6,543132,Richard Hatch,2,False,,other,1974,11
+240,Medical Center,US,6,76382,Allyn Ann McLerie,1,False,,other,1974,11
+241,Medical Center,US,6,95564,John Larch,2,False,,other,1974,12
+242,Medical Center,US,6,152716,Carmen Zapata,1,False,,other,1974,12
+243,Medical Center,US,6,72157,Brooke Bundy,1,False,,other,1974,12
+244,Medical Center,US,6,3798,Pat Hingle,2,False,,other,1974,12
+245,Medical Center,US,6,105296,Belinda Montgomery,1,False,,other,1974,12
+246,Medical Center,US,6,15956,David Soul,2,False,,other,1974,12
+247,Medical Center,US,6,30272,George Tobias,2,False,,other,1974,12
+248,Medical Center,US,6,15628,Paul Carr,2,False,,other,1974,12
+249,Medical Center,US,6,10539,Kim Hunter,1,False,,other,1974,12
+250,Medical Center,US,6,8891,John Travolta,2,False,,other,1974,12
+251,Medical Center,US,6,161650,Michael Tolan,2,False,,other,1974,12
+252,Medical Center,US,6,157439,Paula Kelly,1,False,,other,1974,12
+253,Medical Center,US,6,152647,Peter Haskell,2,False,,other,1974,12
+254,Medical Center,US,6,75354,Rodney Allen Rippy,2,False,,other,1974,12
+255,Medical Center,US,6,89043,Lois Nettleton,1,False,,other,1974,12
+256,Medical Center,US,6,86138,Thalmus Rasulala,2,False,,other,1974,12
+257,Medical Center,US,6,106611,Paul Brinegar,2,False,,other,1975,1
+258,Medical Center,US,6,121144,Joseph Campanella,2,False,,other,1975,1
+259,Medical Center,US,6,1214594,Eddie Fontaine,2,False,,other,1975,1
+260,Medical Center,US,6,98477,Joe Silver,2,False,,other,1975,1
+261,Medical Center,US,6,41226,Cyd Charisse,1,False,,other,1975,1
+262,Medical Center,US,6,1038,Jodie Foster,1,False,,other,1975,1
+263,Medical Center,US,6,725,Jerry Orbach,2,False,,other,1975,1
+264,Medical Center,US,6,97782,Marcia Rodd,1,False,,other,1975,1
+265,Medical Center,US,6,94070,Eduard Franz,2,False,,other,1975,2
+266,Medical Center,US,6,14736,Albert Paulsen,2,False,,other,1975,2
+267,Medical Center,US,6,1985083,Suzy Kendall,1,False,Princess Andrea,doctor,1975,2
+268,Medical Center,US,6,83987,Beverly Garland,1,False,,other,1975,2
+269,Medical Center,US,6,13727,Penny Fuller,1,False,,other,1975,2
+270,Medical Center,US,6,89040,Ed Nelson,2,False,,other,1975,2
+271,Medical Center,US,6,1217457,Catherine Ferrar,1,False,,other,1975,2
+272,Medical Center,US,6,154361,Lew Horn,2,False,,other,1975,2
+273,Medical Center,US,6,20913,David Birney,2,False,,other,1975,2
+274,Medical Center,US,6,2112,Brock Peters,2,False,,other,1975,2
+275,Medical Center,US,6,50234,Donna Mills,1,False,,other,1975,2
+276,Medical Center,US,6,132874,Joan Hotchkis,1,False,,other,1975,2
+277,Medical Center,US,6,159799,Jack Hogan,2,False,,other,1975,2
+278,Medical Center,US,6,33484,Robert Douglas,2,False,,other,1975,3
+279,Medical Center,US,6,10090,Richard Lawson,2,False,,other,1975,3
+280,Medical Center,US,6,102860,Darleen Carr,1,False,,other,1975,3
+281,Medical Center,US,6,21368,Peter Strauss,2,False,,other,1975,3
+282,Medical Center,US,6,1219797,Mimi Maynard,1,False,,other,1975,3
+283,Medical Center,US,6,12850,Dabney Coleman,2,False,,other,1975,3
+284,Medical Center,US,6,127260,Louise Sorel,1,False,,other,1975,3
+285,Medical Center,US,6,30046,Philip Bourneuf,2,False,,other,1975,3
+286,Medical Center,US,6,4094,Jack Kruschen,2,False,,other,1975,3
+287,Medical Center,US,6,15699,William Campbell,2,False,,other,1975,3
+288,Medical Center,US,6,19484,Burr DeBenning,2,False,,other,1975,3
+289,Medical Center,US,6,41251,Sheree North,1,False,,other,1975,3
+290,Medical Center,US,6,2558,Cesare Danova,2,False,,other,1975,3
+291,Medical Center,US,6,35031,Ken Berry,2,False,,other,1975,3
+292,Medical Center,US,6,151318,Michael Swan,2,False,,other,1975,3
+293,Medical Center,US,6,146713,Desi Arnaz Jr.,2,False,,other,1975,3
+294,Medical Center,US,7,15013,Chad Everett,2,True,Joe Gannon,doctor (probably),1975,9
+295,Medical Center,US,7,13259,James Daly,2,True,Paul Lochner,doctor (probably),1975,9
+296,Medical Center,US,7,19413,Audrey Totter,1,True,Eve Wilcox,doctor (probably),1975,9
+297,Medical Center,US,7,1235311,Ed Hall,2,True,Stan Bricker,doctor (probably),1975,9
+298,Medical Center,US,7,1235312,Virginia Hawkins,1,True,Evvie Canford,doctor (probably),1975,9
+299,Medical Center,US,7,86343,Salome Jens,1,False,,other,1975,9
+300,Medical Center,US,7,127260,Louise Sorel,1,False,,other,1975,9
+301,Medical Center,US,7,24320,Alan Oppenheimer,2,False,,other,1975,9
+302,Medical Center,US,7,106178,Dennis Cole,2,False,,other,1975,9
+303,Medical Center,US,7,59964,Robert Reed,2,False,,other,1975,9
+304,Medical Center,US,7,1216940,Gary Frank,2,False,,other,1975,9
+305,Medical Center,US,7,94764,Philip Abbott,2,False,,other,1975,9
+306,Medical Center,US,7,75343,Florence Henderson,1,False,,other,1975,9
+307,Medical Center,US,7,13729,Robert Walden,2,False,,other,1975,9
+308,Medical Center,US,7,30051,Willie Aames,2,False,,other,1975,9
+309,Medical Center,US,7,152647,Peter Haskell,2,False,,other,1975,9
+310,Medical Center,US,7,77157,Robbie Rist,2,False,,other,1975,9
+311,Medical Center,US,7,543204,Susan Sullivan,1,False,,other,1975,9
+312,Medical Center,US,7,109010,Jesse Welles,1,False,Ellen Taggert,other,1975,9
+313,Medical Center,US,7,13725,Meredith Baxter,1,False,,other,1975,10
+314,Medical Center,US,7,30928,Michael Callan,2,False,,other,1975,10
+315,Medical Center,US,7,45001,Steve Allen,2,False,,other,1975,10
+316,Medical Center,US,7,69810,Dana Wynter,1,False,,other,1975,10
+317,Medical Center,US,7,41223,Linda Purl,1,False,,other,1975,10
+318,Medical Center,US,7,9565,Louise Lasser,1,False,,other,1975,10
+319,Medical Center,US,7,14671,Dick Van Patten,2,False,,other,1975,10
+320,Medical Center,US,7,160326,Gail Fisher,1,False,,other,1975,10
+321,Medical Center,US,7,19178,Dick Shawn,2,False,,other,1975,10
+322,Medical Center,US,7,15744,David Opatoshu,2,False,,other,1975,10
+323,Medical Center,US,7,83433,Shelley Fabares,1,False,,other,1975,10
+324,Medical Center,US,7,101947,Joan Van Ark,1,False,,other,1975,11
+325,Medical Center,US,7,76382,Allyn Ann McLerie,1,False,,other,1975,11
+326,Medical Center,US,7,54123,Patrick O'Neal,2,False,,other,1975,11
+327,Medical Center,US,7,4966,Keenan Wynn,2,False,,other,1975,11
+328,Medical Center,US,7,258575,Roberta Peters,1,False,,other,1975,11
+329,Medical Center,US,7,24880,George Chakiris,2,False,,other,1975,11
+330,Medical Center,US,7,1217459,David Man,2,False,,other,1975,11
+331,Medical Center,US,7,159799,Jack Hogan,2,False,,other,1975,11
+332,Medical Center,US,7,105296,Belinda Montgomery,1,False,,other,1975,11
+333,Medical Center,US,7,34365,Arthur Space,2,False,,other,1975,11
+334,Medical Center,US,7,116672,Regis Cordic,2,False,,other,1975,11
+335,Medical Center,US,7,85833,Ruth McDevitt,1,False,,other,1975,11
+336,Medical Center,US,7,30952,Andrea King,1,False,,other,1975,11
+337,Medical Center,US,7,19781,Lurene Tuttle,1,False,,other,1975,11
+338,Medical Center,US,7,1208,Ralph Bellamy,2,False,,other,1975,12
+339,Medical Center,US,7,102860,Darleen Carr,1,False,,other,1975,12
+340,Medical Center,US,7,66221,Tyne Daly,1,False,,other,1975,12
+341,Medical Center,US,7,1221564,Shelly Novack,1,False,,other,1975,12
+342,Medical Center,US,7,14832,Herb Edelman,2,False,,other,1975,12
+343,Medical Center,US,7,1214642,Nora Marlowe,1,False,,other,1975,12
+344,Medical Center,US,7,154287,Lynne Marta,1,False,,other,1975,12
+345,Medical Center,US,7,4355,Cesar Romero,2,False,,other,1975,12
+346,Medical Center,US,7,106448,Ed Fury,2,False,,other,1975,12
+347,Medical Center,US,7,102209,Erik Estrada,2,False,,other,1975,12
+348,Medical Center,US,7,39709,Kate Reid,1,False,,other,1975,12
+349,Medical Center,US,7,83435,Joby Baker,2,False,,other,1975,12
+350,Medical Center,US,7,51348,David Sheiner,2,False,,other,1975,12
+351,Medical Center,US,7,6354,Charles Cioffi,2,False,,other,1975,12
+352,Medical Center,US,7,30272,George Tobias,2,False,,other,1976,1
+353,Medical Center,US,7,151318,Michael Swan,2,False,,other,1976,1
+354,Medical Center,US,7,15765,John Colicos,2,False,,other,1976,1
+355,Medical Center,US,7,8905,Ellen Travolta,1,False,,other,1976,1
+356,Medical Center,US,7,76064,Kathleen Beller,1,False,,other,1976,1
+357,Medical Center,US,7,2,Mark Hamill,2,False,,other,1976,1
+358,Medical Center,US,7,16096,France Nuyen,1,False,,other,1976,2
+359,Medical Center,US,7,58068,Fionnula Flanagan,1,False,,other,1976,2
+360,Medical Center,US,7,28167,Don Galloway,2,False,,other,1976,2
+361,Medical Center,US,7,31169,Julie Adams,1,False,,other,1976,2
+362,Medical Center,US,7,84762,Kathryn Walker,1,False,,other,1976,2
+363,Medical Center,US,7,1230605,Catherine Burns,1,False,,other,1976,2
+364,Medical Center,US,7,20913,David Birney,2,False,,other,1976,2
+365,Medical Center,US,7,14069,Vic Tayback,2,False,,other,1976,2
+366,Medical Center,US,7,30043,Susan Strasberg,1,False,,other,1976,2
+367,Medical Center,US,7,1947,Stanley Adams,2,False,,other,1976,2
+368,Medical Center,US,7,12122,Ron Rifkin,2,False,,other,1976,2
+369,Medical Center,US,7,1224854,Peter Tomarken,2,False,,other,1976,2
+370,Medical Center,US,7,1224637,Totie Fields,2,False,,other,1976,2
+371,Medical Center,US,7,18649,John Randolph,2,False,,other,1976,3
+372,Medical Center,US,7,7304,John Gavin,2,False,,other,1976,3
+373,Medical Center,US,7,89043,Lois Nettleton,1,False,,other,1976,3
+374,Medical Center,US,7,3172,Michael V. Gazzo,2,False,,other,1976,3
+375,Medical Center,US,7,27113,Scott Hylands,2,False,,other,1976,3
+376,Medical Center,US,7,83904,Cara Williams,1,False,,other,1976,3
+377,Medical Center,US,7,172569,Gary Sandy,2,False,,other,1976,3
+378,Medical Center,US,7,22556,Ruth Buzzi,1,False,,other,1976,3
+379,Medical Center,US,7,7167,Don Rickles,2,False,,other,1976,3
+380,Medical Center,US,7,8499,William Windom,2,False,,other,1976,3
+381,Medical Center,US,7,70759,Philip Michael Thomas,2,False,,other,1976,3
+382,Medical Center,US,7,35370,Eugene Roche,2,False,,other,1976,3
+383,Medical Center,US,7,88451,Percy Rodriguez,2,False,,other,1976,3
+384,Medical Center,US,7,53261,Kim Richards,1,False,,other,1976,3
+385,Medical Center,US,7,178113,Mary McCarty,1,False,Charlotte,other,1976,3

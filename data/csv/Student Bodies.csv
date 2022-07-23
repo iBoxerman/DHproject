@@ -1,0 +1,28 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Student Bodies,CA,2,216227,Victoria Sanchez,1,True,Grace Vasquez,doctor (probably),1998,9
+1,Student Bodies,CA,2,95002,Jamie Elman,2,True,,doctor (probably),1998,9
+2,Student Bodies,CA,2,145264,Mark Taylor,2,True,Romeo Carter,doctor (probably),1998,9
+3,Student Bodies,CA,2,1225491,Miklos Perlus,2,True,,doctor (probably),1998,9
+4,Student Bodies,CA,2,101797,Ross Hull,2,True,,doctor (probably),1998,9
+5,Student Bodies,CA,2,1219100,Nicole Lyn,1,True,,doctor (probably),1998,9
+6,Student Bodies,CA,2,26723,Katheryn Winnick,1,True,Holly Benson,doctor (probably),1998,9
+7,Student Bodies,CA,2,1225492,Richard Jutras,2,True,,doctor (probably),1998,9
+8,Student Bodies,CA,2,1764600,Jessica Goldapple,1,True,"Francesca ""Flash"" Albright",doctor (probably),1998,9
+9,Student Bodies,CA,2,1673063,Michelle Sweeney,1,False,,other,1998,9
+10,Student Bodies,CA,2,59863,Sarah Edmondson,1,False,,other,1998,10
+11,Student Bodies,CA,2,29460,Jayne Heitmeyer,1,False,,other,1999,1
+12,Student Bodies,CA,2,216217,Aimée Castle,1,False,,other,1999,2
+13,Student Bodies,CA,2,76095,Jennifer Finnigan,1,False,,other,1999,2
+14,Student Bodies,CA,2,131338,Kent McQuaid,2,False,,other,1999,4
+15,Student Bodies,CA,2,1225488,Mandy Schaffer,1,False,,other,1999,5
+16,Student Bodies,CA,3,216227,Victoria Sanchez,1,True,Grace Vasquez,doctor (probably),0,0
+17,Student Bodies,CA,3,95002,Jamie Elman,2,True,,doctor (probably),0,0
+18,Student Bodies,CA,3,145264,Mark Taylor,2,True,Romeo Carter,doctor (probably),0,0
+19,Student Bodies,CA,3,1225491,Miklos Perlus,2,True,,doctor (probably),0,0
+20,Student Bodies,CA,3,101797,Ross Hull,2,True,,doctor (probably),0,0
+21,Student Bodies,CA,3,1219100,Nicole Lyn,1,True,,doctor (probably),0,0
+22,Student Bodies,CA,3,26723,Katheryn Winnick,1,True,Holly Benson,doctor (probably),0,0
+23,Student Bodies,CA,3,1225492,Richard Jutras,2,True,,doctor (probably),0,0
+24,Student Bodies,CA,3,1764600,Jessica Goldapple,1,True,"Francesca ""Flash"" Albright",doctor (probably),0,0
+25,Student Bodies,CA,3,1225488,Mandy Schaffer,1,False,,other,2000,1
+26,Student Bodies,CA,3,181250,Patricia McKenzie,1,False,,other,2000,2

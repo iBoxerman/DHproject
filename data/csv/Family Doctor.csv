@@ -1,0 +1,82 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Family Doctor,ES,1,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1995,9
+1,Family Doctor,ES,1,1948249,Isabel Aboy,1,True,María,doctor (probably),1995,9
+2,Family Doctor,ES,1,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1995,9
+3,Family Doctor,ES,1,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1995,9
+4,Family Doctor,ES,1,1032507,Luisa Martín,1,True,Juani,doctor (probably),1995,9
+5,Family Doctor,ES,1,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1995,9
+6,Family Doctor,ES,1,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1995,9
+7,Family Doctor,ES,1,78995,Antonio Valero,2,True,Alfonso,doctor (probably),1995,9
+8,Family Doctor,ES,1,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1995,9
+9,Family Doctor,ES,2,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1996,3
+10,Family Doctor,ES,2,1948249,Isabel Aboy,1,True,María,doctor (probably),1996,3
+11,Family Doctor,ES,2,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1996,3
+12,Family Doctor,ES,2,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1996,3
+13,Family Doctor,ES,2,1032507,Luisa Martín,1,True,Juani,doctor (probably),1996,3
+14,Family Doctor,ES,2,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1996,3
+15,Family Doctor,ES,2,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1996,3
+16,Family Doctor,ES,2,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1996,3
+17,Family Doctor,ES,3,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1996,7
+18,Family Doctor,ES,3,1948249,Isabel Aboy,1,True,María,doctor (probably),1996,7
+19,Family Doctor,ES,3,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1996,7
+20,Family Doctor,ES,3,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1996,7
+21,Family Doctor,ES,3,1032507,Luisa Martín,1,True,Juani,doctor (probably),1996,7
+22,Family Doctor,ES,3,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1996,7
+23,Family Doctor,ES,3,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1996,7
+24,Family Doctor,ES,3,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1996,7
+25,Family Doctor,ES,4,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1997,4
+26,Family Doctor,ES,4,1948249,Isabel Aboy,1,True,María,doctor (probably),1997,4
+27,Family Doctor,ES,4,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1997,4
+28,Family Doctor,ES,4,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1997,4
+29,Family Doctor,ES,4,1032507,Luisa Martín,1,True,Juani,doctor (probably),1997,4
+30,Family Doctor,ES,4,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1997,4
+31,Family Doctor,ES,4,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1997,4
+32,Family Doctor,ES,4,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1997,4
+33,Family Doctor,ES,4,1580957,Antonio Lobato,2,False,,other,1997,5
+34,Family Doctor,ES,5,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1997,9
+35,Family Doctor,ES,5,1948249,Isabel Aboy,1,True,María,doctor (probably),1997,9
+36,Family Doctor,ES,5,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1997,9
+37,Family Doctor,ES,5,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1997,9
+38,Family Doctor,ES,5,1032507,Luisa Martín,1,True,Juani,doctor (probably),1997,9
+39,Family Doctor,ES,5,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1997,9
+40,Family Doctor,ES,5,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1997,9
+41,Family Doctor,ES,5,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1997,9
+42,Family Doctor,ES,5,3042426,Germán Marina,2,False,Germán,other,1997,11
+43,Family Doctor,ES,6,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1998,4
+44,Family Doctor,ES,6,1948249,Isabel Aboy,1,True,María,doctor (probably),1998,4
+45,Family Doctor,ES,6,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1998,4
+46,Family Doctor,ES,6,1032507,Luisa Martín,1,True,Juani,doctor (probably),1998,4
+47,Family Doctor,ES,6,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1998,4
+48,Family Doctor,ES,6,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1998,4
+49,Family Doctor,ES,6,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1998,4
+50,Family Doctor,ES,6,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1998,4
+51,Family Doctor,ES,6,3042426,Germán Marina,2,False,Germán,other,1998,5
+52,Family Doctor,ES,6,1206196,Jaime Ordóñez,2,False,,other,1998,6
+53,Family Doctor,ES,7,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1998,9
+54,Family Doctor,ES,7,1948249,Isabel Aboy,1,True,María,doctor (probably),1998,9
+55,Family Doctor,ES,7,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1998,9
+56,Family Doctor,ES,7,1032507,Luisa Martín,1,True,Juani,doctor (probably),1998,9
+57,Family Doctor,ES,7,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1998,9
+58,Family Doctor,ES,7,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1998,9
+59,Family Doctor,ES,7,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1998,9
+60,Family Doctor,ES,7,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1998,9
+61,Family Doctor,ES,7,3042426,Germán Marina,2,False,Germán,other,1998,10
+62,Family Doctor,ES,8,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1999,4
+63,Family Doctor,ES,8,1948249,Isabel Aboy,1,True,María,doctor (probably),1999,4
+64,Family Doctor,ES,8,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1999,4
+65,Family Doctor,ES,8,1032507,Luisa Martín,1,True,Juani,doctor (probably),1999,4
+66,Family Doctor,ES,8,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1999,4
+67,Family Doctor,ES,8,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1999,4
+68,Family Doctor,ES,8,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1999,4
+69,Family Doctor,ES,8,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1999,4
+70,Family Doctor,ES,8,3042426,Germán Marina,2,False,Germán,other,1999,4
+71,Family Doctor,ES,9,1948248,Aaron Guerrero,2,True,Chechu,doctor (probably),1999,9
+72,Family Doctor,ES,9,1948249,Isabel Aboy,1,True,María,doctor (probably),1999,9
+73,Family Doctor,ES,9,1948250,Marieta Bielsa,1,True,Anita,doctor (probably),1999,9
+74,Family Doctor,ES,9,1032507,Luisa Martín,1,True,Juani,doctor (probably),1999,9
+75,Family Doctor,ES,9,946017,Jorge Roelas,2,True,Marcial,doctor (probably),1999,9
+76,Family Doctor,ES,9,236692,Lydia Bosch,1,True,Alicia,doctor (probably),1999,9
+77,Family Doctor,ES,9,263547,Francis Lorenzo,2,True,Julio,doctor (probably),1999,9
+78,Family Doctor,ES,9,1142874,Pedro Peña,2,True,Señor Manolo,doctor (probably),1999,9
+79,Family Doctor,ES,9,1482516,Inma Isla,1,False,,other,1999,9
+80,Family Doctor,ES,9,3042426,Germán Marina,2,False,Germán,other,1999,11

@@ -1,12 +1,14 @@
 from client_wikidata import get_occupations
+from client_gender import get_gender
 
-COLUMNS = ['show_name', 'season_number', 'actor_id', 'actor_name', 'gender',
+COLUMNS = ['show_name', 'origin', 'season_number', 'actor_id', 'actor_name', 'gender',
            'main_cast', 'character_name', 'character_occupation', 'year', 'month']
 
 
 class Record:
-    def __init__(self, credit, show_name, season_number, episode):
+    def __init__(self, credit, show_name, origin, season_number, episode):
         self.show_name = str(show_name)
+        self.origin = str(origin)
         self.season_number = int(season_number)
         self.actor_id = int(credit.id)
         self.actor_name = str(credit.name)
@@ -24,7 +26,8 @@ class Credit:
         self.id = int(actor_id)
         self.name = str(name)
         self.character = str(character)
-        self.gender = int(gender)
+        igender = int(gender)
+        self.gender = get_gender(igender, str(name).split(' ')[0]) if igender == 0 else igender
         self.is_main = bool(is_main)
 
     def find_occupation(self):
@@ -78,7 +81,8 @@ class Season:
 
 
 class Show:
-    def __init__(self, show_id, name, seasons_number):
+    def __init__(self, show_id, name, seasons_number, origin):
         self.id = int(show_id)
         self.name = str(name)
         self.seasons_number = int(seasons_number)
+        self.origin = str(origin)

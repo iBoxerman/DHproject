@@ -1,0 +1,147 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Coroner,CA,1,86268,Serinda Swan,1,True,Dr. Jenny Cooper,doctor,2019,1
+1,Coroner,CA,1,25877,Roger Cross,2,True,Donovan McAvoy,doctor (probably),2019,1
+2,Coroner,CA,1,1522498,Ehren Kassam,2,True,Ross Kalighi,doctor (probably),2019,1
+3,Coroner,CA,1,559582,Éric Bruneau,2,True,Liam Bouchard,doctor (probably),2019,1
+4,Coroner,CA,1,1927708,Lovell Adams-Gray,2,True,Dr. Dwayne Allen,doctor,2019,1
+5,Coroner,CA,1,220615,Tamara Podemski,1,True,Alison Trent,doctor (probably),2019,1
+6,Coroner,CA,1,1016142,Saad Siddiqui,2,True,Dr. Neil Sharma,doctor,2019,1
+7,Coroner,CA,1,2098740,Tavaree Daniel-Simms,2,False,Saddiq 'Sneax' Fenton,other,2019,1
+8,Coroner,CA,1,2001408,Natalie Jane,1,False,Danielle Wills,other,2019,1
+9,Coroner,CA,1,2137841,Jesse Adam Lowell,2,False,Kevin Knuckles,other,2019,1
+10,Coroner,CA,1,937793,Allison Brennan,1,False,Simone Wills,other,2019,1
+11,Coroner,CA,1,1520847,Lauren Piech,1,False,Elaine Morse,other,2019,1
+12,Coroner,CA,1,131546,Thomas Mitchell,2,False,Hawk,other,2019,1
+13,Coroner,CA,1,1017085,Brian Bisson,2,False,Reynolds,other,2019,1
+14,Coroner,CA,1,2210739,Michael Delaney,2,False,Scruffy Dude,other,2019,1
+15,Coroner,CA,1,2210740,Michael Wacholtz,2,False,Mike Knuckles,other,2019,1
+16,Coroner,CA,1,1813355,Monika Schurmann,1,False,Gina Knuckles,other,2019,1
+17,Coroner,CA,1,2210741,Sheila Isaro,1,False,Tall Girl,other,2019,1
+18,Coroner,CA,1,1731491,Clare McConnell,1,False,Erin Martin,other,2019,1
+19,Coroner,CA,1,44208,Nigel Bennett,2,False,Bryan Da Silva,other,2019,1
+20,Coroner,CA,1,1682052,Alli Chung,1,False,Taylor Kim,other,2019,1
+21,Coroner,CA,1,44275,Rosemary Dunsmore,1,False,Mrs. Panych,other,2019,1
+22,Coroner,CA,1,1912290,Michael Healey,2,False,Dr. Ian Peterson,doctor,2019,1
+23,Coroner,CA,1,1962533,Kiley May,1,False,River Baitz,other,2019,1
+24,Coroner,CA,1,80184,Jeananne Goossen,1,False,Sabina,other,2019,1
+25,Coroner,CA,1,1796395,Sebastian Naskrent,2,False,Victor Stenton,other,2019,1
+26,Coroner,CA,1,1648936,Paniz Zade,1,False,Shanti Laghari,other,2019,1
+27,Coroner,CA,1,2219371,Ethan Nekram,2,False,Luke Stenton,other,2019,1
+28,Coroner,CA,1,1545865,Adam Kenneth Wilson,2,False,Gustav 'Gus' Prisciac,other,2019,1
+29,Coroner,CA,1,1689143,Alanna Bale,1,False,Lauren Foster,other,2019,1
+30,Coroner,CA,1,64513,Sean Baek,2,False,Lawrence,other,2019,1
+31,Coroner,CA,1,2219372,Sabine Dukelow,1,False,Gail,other,2019,1
+32,Coroner,CA,1,2219373,Massey Ahmar,2,False,Concierge,other,2019,1
+33,Coroner,CA,1,1860588,Leon Aureus,2,False,Mario,other,2019,1
+34,Coroner,CA,1,2031510,Sherilyn Allen,1,False,Courtney,other,2019,1
+35,Coroner,CA,1,14902,Nicholas Campbell,2,False,Gordon Cooper,other,2019,1
+36,Coroner,CA,1,1497754,Andy McQueen,2,False,Malik Abed,other,2019,1
+37,Coroner,CA,1,2219369,Graeme Jokic,2,False,Matteo,other,2019,1
+38,Coroner,CA,1,168624,Sava Drayton,2,False,Nathan Lamothe,other,2019,1
+39,Coroner,CA,1,142736,Sabrina Grdevich,1,False,Lori Wright,other,2019,1
+40,Coroner,CA,1,2226427,Bryn Kennedy,1,False,Cathy,other,2019,1
+41,Coroner,CA,1,2226428,Connor Lucas-Loan,2,False,Glenn,other,2019,1
+42,Coroner,CA,1,2226429,Christopher Allen,2,False,Niraj,other,2019,1
+43,Coroner,CA,1,142115,Kiana Madeira,1,False,Amanda Reyes,other,2019,1
+44,Coroner,CA,1,2226426,Somkele Iyamah Idhalama,1,False,Daraja Kamau,other,2019,1
+45,Coroner,CA,1,1807967,Calwyn Shurgold,2,False,Randall 'Storm' Jeffries,other,2019,1
+46,Coroner,CA,1,1966175,Vinson Tran,2,False,Dylan Lee,other,2019,1
+47,Coroner,CA,1,2226425,Brenna Coates,1,False,Lucy Lovell,other,2019,1
+48,Coroner,CA,1,1814133,Andrea Davis,1,False,Police Chief,other,2019,1
+49,Coroner,CA,1,2231673,Harmeet Bhatti,1,False,Forensics Officer,other,2019,1
+50,Coroner,CA,1,2231674,Shakura Dickson,1,False,Clerk,other,2019,1
+51,Coroner,CA,1,1752778,Diana Coatsworth,1,False,The Dean,other,2019,1
+52,Coroner,CA,1,1504479,Etan Muskat,2,False,Uniformed Officer,other,2019,1
+53,Coroner,CA,1,2231675,Chadwick Allen,2,False,Hamilton Officer,other,2019,1
+54,Coroner,CA,1,2231676,Melissa Kelly,1,False,Paddler,other,2019,1
+55,Coroner,CA,1,2231677,Kathy Purcell,1,False,Mrs. Jeffries,other,2019,1
+56,Coroner,CA,1,1857468,Chris Gleason,2,False,Randal Jeffries,other,2019,1
+57,Coroner,CA,1,2231678,Vince Kesavamoorthy,2,False,Hydro Truck Driver,doctor,2019,1
+58,Coroner,CA,1,7708,Arsinée Khanjian,1,False,Muna Khalighi,other,2019,2
+59,Coroner,CA,1,84730,Diego Fuentes,2,False,Detective Mills,other,2019,2
+60,Coroner,CA,1,374295,Ellora Patnaik,1,False,Richie Singh,other,2019,2
+61,Coroner,CA,1,1376614,Samora Smallwood,1,False,Lisa Grigson,other,2019,2
+62,Coroner,CA,1,2238943,Robert Calwell,2,False,James Grigson,other,2019,2
+63,Coroner,CA,1,2238944,Coal Campbell,0,False,Young Gordon Cooper,other,2019,2
+64,Coroner,CA,1,5939,Grace Lynn Kung,1,False,Greer Townsend,other,2019,2
+65,Coroner,CA,1,2019626,Taylor Belle Puterman,1,False,Young Jenny Cooper,other,2019,2
+66,Coroner,CA,1,1381415,Joanne Jansen,1,False,,other,2019,2
+67,Coroner,CA,1,2243359,Jully Black,1,False,Imani Abanda,other,2019,2
+68,Coroner,CA,1,2243360,Bola Aiyeola,1,False,Kenia Abanda,other,2019,2
+69,Coroner,CA,1,101791,Jason Cadieux,2,False,Cons. Scott Deveaux,other,2019,2
+70,Coroner,CA,1,208069,Jacob Blair,2,False,Contst. Pete Bell,other,2019,2
+71,Coroner,CA,1,1461441,Ian Lake,2,False,Officer Seth Fuller,other,2019,2
+72,Coroner,CA,1,1226806,Milton Barnes,2,False,Z-ro,other,2019,2
+73,Coroner,CA,1,1140031,Earl McLean Jr.,2,False,Coroner's Constable,other,2019,2
+74,Coroner,CA,1,51528,Kelli Fox,1,False,Leigh Marks,other,2019,2
+75,Coroner,CA,1,122151,Phillip MacKenzie,2,False,Rory Durrham,other,2019,2
+76,Coroner,CA,1,108534,Adam Butcher,2,False,Officer Dowell,other,2019,2
+77,Coroner,CA,1,2243361,Dwight Forde,2,False,Const. Baker,other,2019,2
+78,Coroner,CA,1,1890153,Sarah Mennell,1,False,Officer (Patrol Car),other,2019,2
+79,Coroner,CA,1,2243362,Trisha Blair,1,False,Terrified Woman,other,2019,2
+80,Coroner,CA,1,2243363,Bobby Daniels,2,False,Baseball Coach,other,2019,2
+81,Coroner,CA,1,62522,Christopher Jacot,2,False,Glen King,other,2019,2
+82,Coroner,CA,1,80969,Genelle Williams,1,False,Camilla,other,2019,2
+83,Coroner,CA,1,109861,Jamie Thomas King,2,False,Agent Madden,other,2019,2
+84,Coroner,CA,1,1360969,Juan Carlos Velis,2,False,Spencer Brinks,other,2019,2
+85,Coroner,CA,1,2267675,Barrington Bignall,2,False,Homeless Man,other,2019,2
+86,Coroner,CA,1,3720,Rick Roberts,2,False,Gerald Henry Jones,other,2019,2
+87,Coroner,CA,1,1865105,Keller Viaene,0,False,Young Katie Cooper,other,2019,2
+88,Coroner,CA,1,63813,Rothaford Gray,2,False,Tiny Tiny,other,2019,2
+89,Coroner,CA,1,2267696,Jim Armstrong,2,False,Sully,other,2019,2
+90,Coroner,CA,2,86268,Serinda Swan,1,True,Dr. Jenny Cooper,doctor,2020,1
+91,Coroner,CA,2,25877,Roger Cross,2,True,Donovan McAvoy,doctor (probably),2020,1
+92,Coroner,CA,2,1522498,Ehren Kassam,2,True,Ross Kalighi,doctor (probably),2020,1
+93,Coroner,CA,2,559582,Éric Bruneau,2,True,Liam Bouchard,doctor (probably),2020,1
+94,Coroner,CA,2,220615,Tamara Podemski,1,True,Alison Trent,doctor (probably),2020,1
+95,Coroner,CA,2,1962533,Kiley May,1,True,River Baitz,doctor (probably),2020,1
+96,Coroner,CA,2,1016142,Saad Siddiqui,2,True,Dr. Neil Sharma,doctor,2020,1
+97,Coroner,CA,2,1927708,Lovell Adams-Gray,2,False,Dr. Dwayne Allen,doctor,2020,1
+98,Coroner,CA,2,2502700,Liz Adjei,1,False,Wendy McAvoy,other,2020,1
+99,Coroner,CA,2,2464785,Celestine Caravaggio,1,False,Wendy's Fiancee,other,2020,1
+100,Coroner,CA,2,1469491,Seamus Patterson,2,False,Claude,other,2020,1
+101,Coroner,CA,2,2502704,Melissa Murray-Mutch,1,False,Lady #1,other,2020,1
+102,Coroner,CA,2,2085226,Sandra Battaglini,1,False,Lady #2,other,2020,1
+103,Coroner,CA,2,14902,Nicholas Campbell,2,False,Gordon Cooper,other,2020,1
+104,Coroner,CA,2,1497754,Andy McQueen,2,False,Malik Abed,other,2020,1
+105,Coroner,CA,2,2219369,Graeme Jokic,2,False,Matteo,other,2020,1
+106,Coroner,CA,2,2226425,Brenna Coates,1,False,Lucy Lovell,other,2020,1
+107,Coroner,CA,2,1020687,Alex Mallari Jr.,2,False,Mal,other,2020,1
+108,Coroner,CA,2,1431050,Oluniké Adeliyi,1,False,Noor Armias,other,2020,1
+109,Coroner,CA,2,1182525,Nicola Correia Damude,1,False,Kelly Hart,other,2020,1
+110,Coroner,CA,2,2512528,Andrew Vojdani,2,False,Bartender,other,2020,1
+111,Coroner,CA,2,2512529,Kira Guloien,1,False,Dyanne Tucci,other,2020,1
+112,Coroner,CA,2,64888,Von Flores,2,False,Mario,other,2020,1
+113,Coroner,CA,2,535181,Tony Nardi,2,False,Captain Pierrot,other,2020,1
+114,Coroner,CA,2,2512532,Sehar Bhojani,1,False,Co-Pilot West,other,2020,1
+115,Coroner,CA,2,1587774,Xavier Lopez,2,False,Alerio,other,2020,1
+116,Coroner,CA,2,2512541,Andres Romo Salido,2,False,Roberto,other,2020,1
+117,Coroner,CA,2,1021545,Jesse Bond,2,False,Construction Foreman,other,2020,1
+118,Coroner,CA,2,134366,Sharon Canovas,1,False,Raquel Lloyd,other,2020,1
+119,Coroner,CA,2,2143870,Obssa Ahmed,0,False,Yusef,other,2020,1
+120,Coroner,CA,2,2512546,Doug Van Loan,2,False,Vomiting Youth,other,2020,1
+121,Coroner,CA,2,1457012,Jackson Martin,2,False,Vomiting Kid,other,2020,1
+122,Coroner,CA,2,2512547,Phil Luzi,2,False,Matteo's Father,other,2020,1
+123,Coroner,CA,2,2512549,Daniel Chung,2,False,Canadian Wire 'n Cash Worker,other,2020,1
+124,Coroner,CA,2,2512551,Guifre Bantjes-Rafols,2,False,Black Market Banker,other,2020,1
+125,Coroner,CA,2,2041999,Marito Lopez,0,False,Caracas Airport Worker,other,2020,1
+126,Coroner,CA,2,2512553,Shakira Harpe,1,False,Security Guard,other,2020,1
+127,Coroner,CA,2,2724967,Marienne Castro,0,False,Agent de police,other,2020,1
+128,Coroner,CA,2,2724998,Leesa Levinson,1,False,Madame Morton,other,2020,1
+129,Coroner,CA,2,190941,Jeffrey R. Smith,2,False,Dr. Casey Winter,doctor,2020,1
+130,Coroner,CA,2,80184,Jeananne Goossen,1,False,Sabina,other,2020,2
+131,Coroner,CA,3,86268,Serinda Swan,1,True,Dr. Jenny Cooper,doctor,2021,2
+132,Coroner,CA,3,25877,Roger Cross,2,True,Donovan McAvoy,doctor (probably),2021,2
+133,Coroner,CA,3,1522498,Ehren Kassam,2,True,Ross Kalighi,doctor (probably),2021,2
+134,Coroner,CA,3,559582,Éric Bruneau,2,True,Liam Bouchard,doctor (probably),2021,2
+135,Coroner,CA,3,1962533,Kiley May,1,True,River Baitz,doctor (probably),2021,2
+136,Coroner,CA,3,220615,Tamara Podemski,1,True,Alison Trent,doctor (probably),2021,2
+137,Coroner,CA,3,1016142,Saad Siddiqui,2,True,Dr. Neil Sharma,doctor,2021,2
+138,Coroner,CA,3,1210484,Alyssa Capriotti,1,False,Gloria,other,2021,2
+139,Coroner,CA,3,1251181,Marline Yan,1,False,Bobby Almeda,other,2021,2
+140,Coroner,CA,3,1683842,Meher Pavri,1,False,Celina,other,2021,2
+141,Coroner,CA,4,86268,Serinda Swan,1,True,Dr. Jenny Cooper,doctor,2022,1
+142,Coroner,CA,4,25877,Roger Cross,2,True,Donovan McAvoy,doctor (probably),2022,1
+143,Coroner,CA,4,1522498,Ehren Kassam,2,True,Ross Kalighi,doctor (probably),2022,1
+144,Coroner,CA,4,1962533,Kiley May,1,True,River Baitz,doctor (probably),2022,1
+145,Coroner,CA,4,1016142,Saad Siddiqui,2,True,Dr. Neil Sharma,doctor,2022,1

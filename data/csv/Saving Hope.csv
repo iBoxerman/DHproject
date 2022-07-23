@@ -1,0 +1,69 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Saving Hope,CA,1,46897,Erica Durance,1,True,Dr. Alex Reid,doctor,2012,6
+1,Saving Hope,CA,1,992718,Julia Chan,1,True,Dr. Maggie Lin,doctor,2012,6
+2,Saving Hope,CA,1,26086,Michael Shanks,2,True,Dr. Charlie Harris,doctor,2012,6
+3,Saving Hope,CA,1,19957,Wendy Crewson,1,True,Dr. Dana Kinney,doctor,2012,6
+4,Saving Hope,CA,1,19154,Daniel Gillies,2,True,Dr. Joel Goran,doctor,2012,6
+5,Saving Hope,CA,1,87778,Salvatore Antonio,2,True,Victor Reis,doctor (probably),2012,6
+6,Saving Hope,CA,1,62172,Benjamin Ayres,2,True,Dr. Zachary Miller,doctor,2012,6
+7,Saving Hope,CA,1,1252235,Huse Madhavji,2,True,Dr. Shahir Hamza,doctor,2012,6
+8,Saving Hope,CA,1,303734,Glenda Braganza,1,True,Dr. Melanda Tolliver,doctor,2012,6
+9,Saving Hope,CA,1,91356,Kristopher Turner,2,True,Dr. Gavin Murphy,doctor,2012,6
+10,Saving Hope,CA,1,74278,K.C. Collins,2,True,Dr. Tom Reycraft,doctor,2012,6
+11,Saving Hope,CA,1,2586834,Lauren Vandenbrook,1,False,Charlie's Mother,other,2012,8
+12,Saving Hope,CA,2,46897,Erica Durance,1,True,Dr. Alex Reid,doctor,2013,6
+13,Saving Hope,CA,2,992718,Julia Chan,1,True,Dr. Maggie Lin,doctor,2013,6
+14,Saving Hope,CA,2,26086,Michael Shanks,2,True,Dr. Charles Harris,doctor,2013,6
+15,Saving Hope,CA,2,19154,Daniel Gillies,2,True,Dr. Joel Goran,doctor,2013,6
+16,Saving Hope,CA,2,87778,Salvatore Antonio,2,True,Victor Reis,doctor (probably),2013,6
+17,Saving Hope,CA,2,62172,Benjamin Ayres,2,True,Dr. Zachary Miller,doctor,2013,6
+18,Saving Hope,CA,2,1252235,Huse Madhavji,2,True,Dr. Shahir Hamza,doctor,2013,6
+19,Saving Hope,CA,2,303734,Glenda Braganza,1,True,Dr. Melanda Tolliver,doctor,2013,6
+20,Saving Hope,CA,2,91356,Kristopher Turner,2,True,Dr. Gavin Murphy,doctor,2013,6
+21,Saving Hope,CA,2,95635,Michelle Nolden,1,True,Dr. Dawn Bell,doctor,2013,6
+22,Saving Hope,CA,2,74278,K.C. Collins,2,True,Dr. Tom Reycraft,doctor,2013,6
+23,Saving Hope,CA,2,220989,Brooke Palsson,1,False,Katie,other,2013,6
+24,Saving Hope,CA,2,33337,Eric Johnson,2,False,Dr. Jason Kalfis,doctor,2013,8
+25,Saving Hope,CA,3,46897,Erica Durance,1,True,Dr. Alex Reid,doctor,2014,9
+26,Saving Hope,CA,3,992718,Julia Chan,1,True,Dr. Maggie Lin,doctor,2014,9
+27,Saving Hope,CA,3,26086,Michael Shanks,2,True,Dr. Charlie Harris,doctor,2014,9
+28,Saving Hope,CA,3,19154,Daniel Gillies,2,True,Dr. Joel Goran,doctor,2014,9
+29,Saving Hope,CA,3,62172,Benjamin Ayres,2,True,Dr. Zachary Miller,doctor,2014,9
+30,Saving Hope,CA,3,1252235,Huse Madhavji,2,True,Dr. Shahir Hamza,doctor,2014,9
+31,Saving Hope,CA,3,303734,Glenda Braganza,1,True,Dr. Melanda Tolliver,doctor,2014,9
+32,Saving Hope,CA,3,95635,Michelle Nolden,1,True,Dr. Dawn Bell,doctor,2014,9
+33,Saving Hope,CA,3,197336,Stacey Farber,1,True,Dr. Sydney Katz,doctor,2014,9
+34,Saving Hope,CA,3,1373139,David Guthrie,2,False,man,other,2014,9
+35,Saving Hope,CA,3,1373141,Lauren Jacques,1,False,Young Alex,other,2014,9
+36,Saving Hope,CA,3,1373145,Tricia Braun,1,False,Laura,other,2014,9
+37,Saving Hope,CA,3,76973,Joris Jarsky,2,False,David,other,2014,9
+38,Saving Hope,CA,3,229558,Cristina Rosato,1,False,Anna Danko,other,2014,10
+39,Saving Hope,CA,3,116485,David Storch,2,False,Ian Taft,other,2014,10
+40,Saving Hope,CA,3,62651,Ryan Allen,2,False,Paule Kiyimba,other,2014,10
+41,Saving Hope,CA,3,188634,Steve Cumyn,2,False,Dr. George Baumann,doctor,2014,10
+42,Saving Hope,CA,3,67453,Danso Gordon,2,False,Dr. Rian Larouche,doctor,2014,10
+43,Saving Hope,CA,3,74278,K.C. Collins,2,False,Dr. Tom Reycraft,doctor,2014,10
+44,Saving Hope,CA,4,46897,Erica Durance,1,True,Dr. Alex Reid,doctor,2015,9
+45,Saving Hope,CA,4,992718,Julia Chan,1,True,Dr. Maggie Lin,doctor,2015,9
+46,Saving Hope,CA,4,26086,Michael Shanks,2,True,Dr. Charlie Harris,doctor,2015,9
+47,Saving Hope,CA,4,19957,Wendy Crewson,1,True,Dr. Dana Kinney,doctor,2015,9
+48,Saving Hope,CA,4,62172,Benjamin Ayres,2,True,Dr. Zachary Miller,doctor,2015,9
+49,Saving Hope,CA,4,1252235,Huse Madhavji,2,True,Dr. Shahir Hamza,doctor,2015,9
+50,Saving Hope,CA,4,95635,Michelle Nolden,1,True,Dr. Dawn Bell,doctor,2015,9
+51,Saving Hope,CA,4,1265065,Dejan Loyola,2,True,Dr. Dev Sekara,doctor,2015,9
+52,Saving Hope,CA,4,111685,Kim Shaw,1,True,Dr. Cassie Williams,doctor,2015,9
+53,Saving Hope,CA,4,1838549,Mishka Thébaud,2,False,Officer Daven,other,2015,10
+54,Saving Hope,CA,4,101905,Monika Schnarre,1,False,Caroline,other,2015,11
+55,Saving Hope,CA,4,2371877,Brandon Rollo,2,False,Injured Runner #2,other,2015,11
+56,Saving Hope,CA,4,1094134,Kolton Stewart,2,False,Deshawn Lewis,other,2016,2
+57,Saving Hope,CA,5,46897,Erica Durance,1,True,Dr. Alex Reid,doctor,2017,3
+58,Saving Hope,CA,5,992718,Julia Chan,1,True,Dr. Maggie Lin,doctor,2017,3
+59,Saving Hope,CA,5,26086,Michael Shanks,2,True,Dr. Charlie Harris,doctor,2017,3
+60,Saving Hope,CA,5,19957,Wendy Crewson,1,True,Dr. Dana Kinney,doctor,2017,3
+61,Saving Hope,CA,5,62172,Benjamin Ayres,2,True,Dr. Zachary Miller,doctor,2017,3
+62,Saving Hope,CA,5,1252235,Huse Madhavji,2,True,Dr. Shahir Hamza,doctor,2017,3
+63,Saving Hope,CA,5,95635,Michelle Nolden,1,True,Dr. Dawn Bell,doctor,2017,3
+64,Saving Hope,CA,5,1265065,Dejan Loyola,2,True,Dr. Dev Sekara,doctor,2017,3
+65,Saving Hope,CA,5,939589,Jarod Joseph,2,True,Dr. Emanuel Palmer,doctor,2017,3
+66,Saving Hope,CA,5,111685,Kim Shaw,1,True,Dr. Cassie Williams,doctor,2017,3
+67,Saving Hope,CA,5,1538457,Tara Yelland,1,False,Summer,other,2017,4

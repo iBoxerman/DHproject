@@ -8,12 +8,16 @@ def if_satisfy(element_to_return, *preds):
 
 
 def parse_date(yyyy_mm_dd, goal='y'):
-    if goal == 'y':
-        return re.search(r"(\d{4})", yyyy_mm_dd).group(0)
-    elif goal == 'm':
-        return re.search(r"-(\d{2})-", yyyy_mm_dd).group(1)
-    else:
-        return yyyy_mm_dd.split('-')[-1]
+    try:
+        if goal == 'y':
+            return re.search(r"(\d{4})", yyyy_mm_dd).group(0)
+        elif goal == 'm':
+            return re.search(r"-(\d{2})-", yyyy_mm_dd).group(1)
+        else:
+            return yyyy_mm_dd.split('-')[-1]
+    except:
+        print("Date parser problem")
+        return 0
 
 
 def parse_credit(show_id, credit, is_main):
@@ -55,5 +59,6 @@ def parse_season(season_details):
 def parse_show(show_details):
     return if_satisfy(Show(show_details.id,
                            show_details.name,
-                           show_details.number_of_seasons),
+                           show_details.number_of_seasons,
+                           show_details.origin_country[0]),
                       validate_genre(show_details.genres))

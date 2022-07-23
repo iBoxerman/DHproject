@@ -1,0 +1,358 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Doctors,GB,1,47858,Diane Keen,1,True,,doctor (probably),2000,3
+1,Doctors,GB,1,1096558,Eva Fontaine,1,True,,doctor (probably),2000,3
+2,Doctors,GB,1,184990,Christopher Timothy,2,True,,doctor (probably),2000,3
+3,Doctors,GB,1,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2000,3
+4,Doctors,GB,1,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2000,3
+5,Doctors,GB,1,1213387,Ellie Beaven,1,True,,doctor (probably),2000,3
+6,Doctors,GB,1,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2000,3
+7,Doctors,GB,1,1220122,Jessica Turner,1,True,,doctor (probably),2000,3
+8,Doctors,GB,1,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2000,3
+9,Doctors,GB,1,84267,Dido Miles,1,True,,doctor (probably),2000,3
+10,Doctors,GB,1,1220248,Ian Kelsey,2,True,,doctor (probably),2000,3
+11,Doctors,GB,1,1238453,Ian Midlane,2,True,,doctor (probably),2000,3
+12,Doctors,GB,1,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2000,3
+13,Doctors,GB,1,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2000,3
+14,Doctors,GB,1,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2000,3
+15,Doctors,GB,1,1238454,Charlie Kenyon,2,True,,doctor (probably),2000,3
+16,Doctors,GB,1,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2000,3
+17,Doctors,GB,1,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2000,3
+18,Doctors,GB,1,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2000,3
+19,Doctors,GB,1,1216368,Anita Carey,1,True,,doctor (probably),2000,3
+20,Doctors,GB,1,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2000,3
+21,Doctors,GB,1,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2000,3
+22,Doctors,GB,1,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2000,3
+23,Doctors,GB,1,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2000,3
+24,Doctors,GB,1,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2000,3
+25,Doctors,GB,1,1238459,Andrea Green,1,True,,doctor (probably),2000,3
+26,Doctors,GB,1,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2000,3
+27,Doctors,GB,1,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2000,3
+28,Doctors,GB,1,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2000,3
+29,Doctors,GB,1,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2000,3
+30,Doctors,GB,1,136040,Michael McKell,2,True,Dr. Nick West,doctor,2000,3
+31,Doctors,GB,1,3210375,Yvonne Brewster,1,True,Ruth Harding,doctor (probably),2000,3
+32,Doctors,GB,1,78110,Scott Adkins,2,False,Ross,other,2000,3
+33,Doctors,GB,1,1221128,Brian Cant,2,False,Derek Richmond,other,2000,3
+34,Doctors,GB,1,2023635,Patricia Greene,1,False,Margaret Richmond,other,2000,3
+35,Doctors,GB,1,1586553,Frank Ellis,2,False,Jonathan Hyde,other,2000,4
+36,Doctors,GB,1,68287,Callum Blue,2,False,Denny,other,2000,4
+37,Doctors,GB,1,76916,Ryan Cartwright,2,False,Henry Lincoln,other,2000,4
+38,Doctors,GB,1,1092559,Manjinder Virk,1,False,Karen Slater,other,2000,4
+39,Doctors,GB,1,126534,Toyah Willcox,1,False,Marcy Preston,other,2000,4
+40,Doctors,GB,1,110080,Sheridan Smith,1,False,Claire,other,2000,4
+41,Doctors,GB,1,7063,Nina Sosanya,1,False,Jasmine,other,2000,4
+42,Doctors,GB,1,9907,Honor Blackman,1,False,Rachel Knott,other,2000,5
+43,Doctors,GB,1,11111,Lucy Davis,1,False,Nicky Andrews,doctor,2000,5
+44,Doctors,GB,1,3112055,Waseem Mirza,2,False,Boyfriend,other,2000,5
+45,Doctors,GB,1,1243389,Andrew Falvey,2,False,Billy Newley,other,2000,10
+46,Doctors,GB,1,43626,Dora Bryan,1,False,Lily Anderson,other,2000,10
+47,Doctors,GB,1,96408,Rosemary Leach,1,False,Meg Carpenter,other,2000,11
+48,Doctors,GB,1,39658,Sally Hawkins,1,False,Sarah Carne,other,2000,11
+49,Doctors,GB,1,202120,Les Dennis,2,False,Charles Lee,other,2000,11
+50,Doctors,GB,1,148139,Vicky McClure,1,False,Kirsty Dunns,other,2000,11
+51,Doctors,GB,1,1225426,Letitia Dean,1,False,,other,2000,12
+52,Doctors,GB,2,47858,Diane Keen,1,True,,doctor (probably),2001,3
+53,Doctors,GB,2,1096558,Eva Fontaine,1,True,,doctor (probably),2001,3
+54,Doctors,GB,2,184990,Christopher Timothy,2,True,,doctor (probably),2001,3
+55,Doctors,GB,2,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2001,3
+56,Doctors,GB,2,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2001,3
+57,Doctors,GB,2,1213387,Ellie Beaven,1,True,,doctor (probably),2001,3
+58,Doctors,GB,2,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2001,3
+59,Doctors,GB,2,1220122,Jessica Turner,1,True,,doctor (probably),2001,3
+60,Doctors,GB,2,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2001,3
+61,Doctors,GB,2,84267,Dido Miles,1,True,,doctor (probably),2001,3
+62,Doctors,GB,2,1220248,Ian Kelsey,2,True,,doctor (probably),2001,3
+63,Doctors,GB,2,1238453,Ian Midlane,2,True,,doctor (probably),2001,3
+64,Doctors,GB,2,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2001,3
+65,Doctors,GB,2,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2001,3
+66,Doctors,GB,2,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2001,3
+67,Doctors,GB,2,1238454,Charlie Kenyon,2,True,,doctor (probably),2001,3
+68,Doctors,GB,2,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2001,3
+69,Doctors,GB,2,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2001,3
+70,Doctors,GB,2,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2001,3
+71,Doctors,GB,2,1216368,Anita Carey,1,True,,doctor (probably),2001,3
+72,Doctors,GB,2,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2001,3
+73,Doctors,GB,2,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2001,3
+74,Doctors,GB,2,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2001,3
+75,Doctors,GB,2,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2001,3
+76,Doctors,GB,2,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2001,3
+77,Doctors,GB,2,1238459,Andrea Green,1,True,,doctor (probably),2001,3
+78,Doctors,GB,2,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2001,3
+79,Doctors,GB,2,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2001,3
+80,Doctors,GB,2,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2001,3
+81,Doctors,GB,2,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2001,3
+82,Doctors,GB,2,136040,Michael McKell,2,True,Dr. Nick West,doctor,2001,3
+83,Doctors,GB,2,3210375,Yvonne Brewster,1,True,Ruth Harding,doctor (probably),2001,3
+84,Doctors,GB,2,570296,Joe Dempsie,2,False,Lee Lindsay,other,2001,3
+85,Doctors,GB,2,93524,Tat Whalley,2,False,Nick Lindsay,other,2001,3
+86,Doctors,GB,2,1221047,Pooky Quesnel,1,False,Angela Crowther,other,2001,3
+87,Doctors,GB,2,95047,Graham McTavish,2,False,Paul Brookes,other,2001,3
+88,Doctors,GB,2,1215242,Adam Rickitt,2,False,Jamie Neville,other,2001,4
+89,Doctors,GB,2,82390,Leanne Wilson,1,False,,other,2001,4
+90,Doctors,GB,2,3112055,Waseem Mirza,2,False,Dr Rana Mistry (Lead Double),doctor,2001,6
+91,Doctors,GB,2,1297281,Peter Baldwin,2,False,Tom,other,2001,9
+92,Doctors,GB,2,1759717,Janet Hargreaves,1,False,Mary Morley,other,2001,10
+93,Doctors,GB,3,47858,Diane Keen,1,True,,doctor (probably),2002,3
+94,Doctors,GB,3,1096558,Eva Fontaine,1,True,,doctor (probably),2002,3
+95,Doctors,GB,3,184990,Christopher Timothy,2,True,,doctor (probably),2002,3
+96,Doctors,GB,3,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2002,3
+97,Doctors,GB,3,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2002,3
+98,Doctors,GB,3,1213387,Ellie Beaven,1,True,,doctor (probably),2002,3
+99,Doctors,GB,3,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2002,3
+100,Doctors,GB,3,1220122,Jessica Turner,1,True,,doctor (probably),2002,3
+101,Doctors,GB,3,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2002,3
+102,Doctors,GB,3,84267,Dido Miles,1,True,,doctor (probably),2002,3
+103,Doctors,GB,3,1220248,Ian Kelsey,2,True,,doctor (probably),2002,3
+104,Doctors,GB,3,1238453,Ian Midlane,2,True,,doctor (probably),2002,3
+105,Doctors,GB,3,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2002,3
+106,Doctors,GB,3,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2002,3
+107,Doctors,GB,3,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2002,3
+108,Doctors,GB,3,1238454,Charlie Kenyon,2,True,,doctor (probably),2002,3
+109,Doctors,GB,3,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2002,3
+110,Doctors,GB,3,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2002,3
+111,Doctors,GB,3,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2002,3
+112,Doctors,GB,3,1216368,Anita Carey,1,True,,doctor (probably),2002,3
+113,Doctors,GB,3,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2002,3
+114,Doctors,GB,3,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2002,3
+115,Doctors,GB,3,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2002,3
+116,Doctors,GB,3,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2002,3
+117,Doctors,GB,3,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2002,3
+118,Doctors,GB,3,1238459,Andrea Green,1,True,,doctor (probably),2002,3
+119,Doctors,GB,3,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2002,3
+120,Doctors,GB,3,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2002,3
+121,Doctors,GB,3,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2002,3
+122,Doctors,GB,3,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2002,3
+123,Doctors,GB,3,136040,Michael McKell,2,True,Dr. Nick West,doctor,2002,3
+124,Doctors,GB,4,47858,Diane Keen,1,True,,doctor (probably),2003,1
+125,Doctors,GB,4,1096558,Eva Fontaine,1,True,,doctor (probably),2003,1
+126,Doctors,GB,4,184990,Christopher Timothy,2,True,,doctor (probably),2003,1
+127,Doctors,GB,4,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2003,1
+128,Doctors,GB,4,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2003,1
+129,Doctors,GB,4,1213387,Ellie Beaven,1,True,,doctor (probably),2003,1
+130,Doctors,GB,4,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2003,1
+131,Doctors,GB,4,1220122,Jessica Turner,1,True,,doctor (probably),2003,1
+132,Doctors,GB,4,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2003,1
+133,Doctors,GB,4,84267,Dido Miles,1,True,,doctor (probably),2003,1
+134,Doctors,GB,4,1220248,Ian Kelsey,2,True,,doctor (probably),2003,1
+135,Doctors,GB,4,1238453,Ian Midlane,2,True,,doctor (probably),2003,1
+136,Doctors,GB,4,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2003,1
+137,Doctors,GB,4,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2003,1
+138,Doctors,GB,4,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2003,1
+139,Doctors,GB,4,1238454,Charlie Kenyon,2,True,,doctor (probably),2003,1
+140,Doctors,GB,4,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2003,1
+141,Doctors,GB,4,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2003,1
+142,Doctors,GB,4,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2003,1
+143,Doctors,GB,4,1216368,Anita Carey,1,True,,doctor (probably),2003,1
+144,Doctors,GB,4,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2003,1
+145,Doctors,GB,4,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2003,1
+146,Doctors,GB,4,548619,Stirling Gallacher,1,True,George Woodson,doctor (probably),2003,1
+147,Doctors,GB,4,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2003,1
+148,Doctors,GB,4,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2003,1
+149,Doctors,GB,4,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2003,1
+150,Doctors,GB,4,1238459,Andrea Green,1,True,,doctor (probably),2003,1
+151,Doctors,GB,4,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2003,1
+152,Doctors,GB,4,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2003,1
+153,Doctors,GB,4,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2003,1
+154,Doctors,GB,4,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2003,1
+155,Doctors,GB,4,136040,Michael McKell,2,True,Dr. Nick West,doctor,2003,1
+156,Doctors,GB,4,3199215,Tom Magditch,2,False,David Owen,other,2003,4
+157,Doctors,GB,4,1573846,Jennifer Wilson,1,False,Maureen Vickerstaff,other,2003,5
+158,Doctors,GB,4,19996,Kevin Bishop,2,False,Craig Prentice,other,2003,5
+159,Doctors,GB,4,92024,Brad Gorton,2,False,Nick Merriweather,other,2003,5
+160,Doctors,GB,5,47858,Diane Keen,1,True,,doctor (probably),2003,9
+161,Doctors,GB,5,1096558,Eva Fontaine,1,True,,doctor (probably),2003,9
+162,Doctors,GB,5,184990,Christopher Timothy,2,True,,doctor (probably),2003,9
+163,Doctors,GB,5,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2003,9
+164,Doctors,GB,5,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2003,9
+165,Doctors,GB,5,1213387,Ellie Beaven,1,True,,doctor (probably),2003,9
+166,Doctors,GB,5,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2003,9
+167,Doctors,GB,5,1220122,Jessica Turner,1,True,,doctor (probably),2003,9
+168,Doctors,GB,5,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2003,9
+169,Doctors,GB,5,84267,Dido Miles,1,True,,doctor (probably),2003,9
+170,Doctors,GB,5,1220248,Ian Kelsey,2,True,,doctor (probably),2003,9
+171,Doctors,GB,5,1238453,Ian Midlane,2,True,,doctor (probably),2003,9
+172,Doctors,GB,5,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2003,9
+173,Doctors,GB,5,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2003,9
+174,Doctors,GB,5,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2003,9
+175,Doctors,GB,5,1238454,Charlie Kenyon,2,True,,doctor (probably),2003,9
+176,Doctors,GB,5,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2003,9
+177,Doctors,GB,5,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2003,9
+178,Doctors,GB,5,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2003,9
+179,Doctors,GB,5,1216368,Anita Carey,1,True,,doctor (probably),2003,9
+180,Doctors,GB,5,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2003,9
+181,Doctors,GB,5,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2003,9
+182,Doctors,GB,5,548619,Stirling Gallacher,1,True,George Woodson,doctor (probably),2003,9
+183,Doctors,GB,5,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2003,9
+184,Doctors,GB,5,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2003,9
+185,Doctors,GB,5,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2003,9
+186,Doctors,GB,5,1238459,Andrea Green,1,True,,doctor (probably),2003,9
+187,Doctors,GB,5,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2003,9
+188,Doctors,GB,5,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2003,9
+189,Doctors,GB,5,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2003,9
+190,Doctors,GB,5,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2003,9
+191,Doctors,GB,5,136040,Michael McKell,2,True,Dr. Nick West,doctor,2003,9
+192,Doctors,GB,5,1238435,Charlotte McDonagh,1,False,,other,2003,11
+193,Doctors,GB,5,57628,Wim Snape,2,False,Josh Hammer,other,2003,11
+194,Doctors,GB,5,5483,Philip Whitchurch,2,False,,other,2003,11
+195,Doctors,GB,5,1221017,Zoe Coyle,1,False,,other,2004,2
+196,Doctors,GB,5,68014,Ben Silverstone,2,False,Joe Nyland,other,2004,3
+197,Doctors,GB,5,141539,Travis Oliver,2,False,Jake McQueen,other,2004,3
+198,Doctors,GB,10,47858,Diane Keen,1,True,,doctor (probably),2008,3
+199,Doctors,GB,10,1096558,Eva Fontaine,1,True,,doctor (probably),2008,3
+200,Doctors,GB,10,184990,Christopher Timothy,2,True,,doctor (probably),2008,3
+201,Doctors,GB,10,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2008,3
+202,Doctors,GB,10,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2008,3
+203,Doctors,GB,10,1213387,Ellie Beaven,1,True,,doctor (probably),2008,3
+204,Doctors,GB,10,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2008,3
+205,Doctors,GB,10,1220122,Jessica Turner,1,True,,doctor (probably),2008,3
+206,Doctors,GB,10,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2008,3
+207,Doctors,GB,10,84267,Dido Miles,1,True,,doctor (probably),2008,3
+208,Doctors,GB,10,1220248,Ian Kelsey,2,True,,doctor (probably),2008,3
+209,Doctors,GB,10,1238453,Ian Midlane,2,True,,doctor (probably),2008,3
+210,Doctors,GB,10,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2008,3
+211,Doctors,GB,10,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2008,3
+212,Doctors,GB,10,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2008,3
+213,Doctors,GB,10,1238454,Charlie Kenyon,2,True,,doctor (probably),2008,3
+214,Doctors,GB,10,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2008,3
+215,Doctors,GB,10,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2008,3
+216,Doctors,GB,10,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2008,3
+217,Doctors,GB,10,1216368,Anita Carey,1,True,,doctor (probably),2008,3
+218,Doctors,GB,10,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2008,3
+219,Doctors,GB,10,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2008,3
+220,Doctors,GB,10,548619,Stirling Gallacher,1,True,George Woodson,doctor (probably),2008,3
+221,Doctors,GB,10,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2008,3
+222,Doctors,GB,10,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2008,3
+223,Doctors,GB,10,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2008,3
+224,Doctors,GB,10,1238459,Andrea Green,1,True,,doctor (probably),2008,3
+225,Doctors,GB,10,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2008,3
+226,Doctors,GB,10,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2008,3
+227,Doctors,GB,10,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2008,3
+228,Doctors,GB,10,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2008,3
+229,Doctors,GB,10,136040,Michael McKell,2,True,Dr. Nick West,doctor,2008,3
+230,Doctors,GB,10,2865802,Keith Newby,2,False,Sgt Phil Lowther,other,2008,4
+231,Doctors,GB,10,1794352,Aidan David,2,False,Paul Knotts,other,2008,5
+232,Doctors,GB,10,1229337,Jade Williams,1,False,,other,2008,5
+233,Doctors,GB,10,1238426,Adam Lake,2,False,,other,2008,8
+234,Doctors,GB,10,1156627,Ryan Hawley,2,False,Jeremy Evesham,other,2008,9
+235,Doctors,GB,10,234928,Scarlett Hefner,1,False,,other,2008,9
+236,Doctors,GB,10,1586553,Frank Ellis,2,False,Gregory Parker,other,2008,9
+237,Doctors,GB,10,1864916,Rob Ostlere,2,False,Graham Trist,other,2008,11
+238,Doctors,GB,10,1894243,Gregory Foreman,2,False,Richard Oakland,other,2009,2
+239,Doctors,GB,14,47858,Diane Keen,1,True,,doctor (probably),2012,4
+240,Doctors,GB,14,1096558,Eva Fontaine,1,True,,doctor (probably),2012,4
+241,Doctors,GB,14,184990,Christopher Timothy,2,True,,doctor (probably),2012,4
+242,Doctors,GB,14,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2012,4
+243,Doctors,GB,14,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2012,4
+244,Doctors,GB,14,1213387,Ellie Beaven,1,True,,doctor (probably),2012,4
+245,Doctors,GB,14,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2012,4
+246,Doctors,GB,14,1220122,Jessica Turner,1,True,,doctor (probably),2012,4
+247,Doctors,GB,14,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2012,4
+248,Doctors,GB,14,84267,Dido Miles,1,True,,doctor (probably),2012,4
+249,Doctors,GB,14,1220248,Ian Kelsey,2,True,,doctor (probably),2012,4
+250,Doctors,GB,14,1238453,Ian Midlane,2,True,,doctor (probably),2012,4
+251,Doctors,GB,14,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2012,4
+252,Doctors,GB,14,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2012,4
+253,Doctors,GB,14,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2012,4
+254,Doctors,GB,14,1238454,Charlie Kenyon,2,True,,doctor (probably),2012,4
+255,Doctors,GB,14,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2012,4
+256,Doctors,GB,14,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2012,4
+257,Doctors,GB,14,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2012,4
+258,Doctors,GB,14,1216368,Anita Carey,1,True,,doctor (probably),2012,4
+259,Doctors,GB,14,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2012,4
+260,Doctors,GB,14,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2012,4
+261,Doctors,GB,14,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2012,4
+262,Doctors,GB,14,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2012,4
+263,Doctors,GB,14,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2012,4
+264,Doctors,GB,14,1238459,Andrea Green,1,True,,doctor (probably),2012,4
+265,Doctors,GB,14,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2012,4
+266,Doctors,GB,14,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2012,4
+267,Doctors,GB,14,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2012,4
+268,Doctors,GB,14,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2012,4
+269,Doctors,GB,14,136040,Michael McKell,2,True,Dr. Nick West,doctor,2012,4
+270,Doctors,GB,14,2303247,Catriona Toop,1,False,Aliona McGregor,other,2012,4
+271,Doctors,GB,14,234580,Amy Noble,1,False,Barbara Edwards,other,2012,5
+272,Doctors,GB,14,1476729,Nicola Thorp,1,False,Kirsty Metcalfe,other,2012,6
+273,Doctors,GB,14,203177,Kieran Hardcastle,2,False,Danny McGovern,other,2012,9
+274,Doctors,GB,14,2480805,Asif Khan,2,False,Zarif Khan,other,2012,12
+275,Doctors,GB,15,47858,Diane Keen,1,True,,doctor (probably),2013,4
+276,Doctors,GB,15,1096558,Eva Fontaine,1,True,,doctor (probably),2013,4
+277,Doctors,GB,15,184990,Christopher Timothy,2,True,,doctor (probably),2013,4
+278,Doctors,GB,15,1238451,Adrian Lewis Morgan,2,True,,doctor (probably),2013,4
+279,Doctors,GB,15,1215190,Adam Booth,2,True,Will Coyle,doctor (probably),2013,4
+280,Doctors,GB,15,1213387,Ellie Beaven,1,True,,doctor (probably),2013,4
+281,Doctors,GB,15,1215192,Joseph Aston,2,True,Jamie Sefton,doctor (probably),2013,4
+282,Doctors,GB,15,1220122,Jessica Turner,1,True,,doctor (probably),2013,4
+283,Doctors,GB,15,1238452,Lu Corfield,1,True,Freya Wilson,doctor (probably),2013,4
+284,Doctors,GB,15,84267,Dido Miles,1,True,,doctor (probably),2013,4
+285,Doctors,GB,15,1220248,Ian Kelsey,2,True,,doctor (probably),2013,4
+286,Doctors,GB,15,1238453,Ian Midlane,2,True,,doctor (probably),2013,4
+287,Doctors,GB,15,1220090,Elisabeth Dermot Walsh,1,True,Zara Carmichael,doctor (probably),2013,4
+288,Doctors,GB,15,62499,Matthew Chambers,2,True,Daniel Granger,doctor (probably),2013,4
+289,Doctors,GB,15,1221968,Owen Brenman,2,True,Heston Carter,doctor (probably),2013,4
+290,Doctors,GB,15,1238454,Charlie Kenyon,2,True,,doctor (probably),2013,4
+291,Doctors,GB,15,49347,Jan Pearson,1,True,Karen Hollins,doctor (probably),2013,4
+292,Doctors,GB,15,65889,Chris Walker,2,True,Rob Hollins,doctor (probably),2013,4
+293,Doctors,GB,15,1238455,Sophie Abelson,1,True,Cherry Clay,doctor (probably),2013,4
+294,Doctors,GB,15,1216368,Anita Carey,1,True,,doctor (probably),2013,4
+295,Doctors,GB,15,1228957,Selina Chilton,1,True,Ruth Pearce,doctor (probably),2013,4
+296,Doctors,GB,15,42662,Seán Gleeson,2,True,Ronnie Woodson,doctor (probably),2013,4
+297,Doctors,GB,15,1238457,Martha Howe-Douglas,1,True,,doctor (probably),2013,4
+298,Doctors,GB,15,20522,Robert Cavanah,2,True,Dr. Peter Kendrick,doctor,2013,4
+299,Doctors,GB,15,1214515,Daniel Anthony,2,True,Lex Keavey,doctor (probably),2013,4
+300,Doctors,GB,15,1238459,Andrea Green,1,True,,doctor (probably),2013,4
+301,Doctors,GB,15,1238461,Ariyon Bakare,2,True,Dr. Ben Kwarme ,doctor,2013,4
+302,Doctors,GB,15,138238,Tom Butcher,2,True,Dr. Marc Eliot,doctor,2013,4
+303,Doctors,GB,15,1238462,Emma Fildes,1,True,Debbie McQueen,doctor (probably),2013,4
+304,Doctors,GB,15,105489,Bill Rodgers,2,True,Eddie Slade,doctor (probably),2013,4
+305,Doctors,GB,15,136040,Michael McKell,2,True,Dr. Nick West,doctor,2013,4
+306,Doctors,GB,15,1489013,Sarah Moyle,1,True,Valerie Pitman,doctor (probably),2013,4
+307,Doctors,GB,15,1394804,Will Tudor,2,False,Young Sam,other,2013,4
+308,Doctors,GB,15,2105126,Ryan Watson,2,False,Aaron Shimkus,other,2013,8
+309,Doctors,GB,15,1831965,Matt Connor,2,False,,other,2013,9
+310,Doctors,GB,15,1236127,Jean Fergusson,1,False,Meg Baker,other,2013,9
+311,Doctors,GB,15,2865802,Keith Newby,2,False,Jim Fenson,other,2013,10
+312,Doctors,GB,15,2192069,Rochelle Neil,1,False,Laura Garson,other,2013,11
+313,Doctors,GB,15,2079540,Cassidy Little,2,False,Frank Thorpe,other,2013,12
+314,Doctors,GB,15,1609794,Pearl Mackie,1,False,Anne-Marie Frasier,other,2014,2
+315,Doctors,GB,15,166014,Sian Reeves,1,False,Fiona Dow,other,2014,2
+316,Doctors,GB,16,1489013,Sarah Moyle,1,True,Valerie Pitman,doctor (probably),2014,4
+317,Doctors,GB,16,195354,Sam Callis,2,False,Gavin Hardcastle,other,2014,4
+318,Doctors,GB,16,1148520,Liz Daniels,1,False,Audrey Webster,doctor,2014,5
+319,Doctors,GB,16,1765428,Dinita Gohil,1,False,Penny Glover,other,2014,5
+320,Doctors,GB,16,185830,Ruth Madoc,1,False,Alice Swanson,other,2014,6
+321,Doctors,GB,16,1602723,Sarah Paul,1,False,Lauren Baiden,other,2014,6
+322,Doctors,GB,16,2149026,Sarah Weldon,1,False,Mrs. Madame,other,2014,6
+323,Doctors,GB,16,1356913,Charles Armstrong,2,False,Professor Lewis Harper,other,2014,6
+324,Doctors,GB,16,1381862,Edward Harrison,2,False,Henry Keeling,other,2014,6
+325,Doctors,GB,16,1200855,Rose Reynolds,1,False,Paula Abbot,other,2014,10
+326,Doctors,GB,16,164602,Adam Paul Harvey,2,False,Duncan Medcalf,other,2014,11
+327,Doctors,GB,16,1573846,Jennifer Wilson,1,False,Nancy Milne,other,2014,12
+328,Doctors,GB,16,234074,James Ainsworth,2,False,Charlie Clemence,other,2015,1
+329,Doctors,GB,16,1466891,Christine Cox,1,False,Gwen Ratcliffe,other,2015,3
+330,Doctors,GB,18,2408958,Simona Zivkovska,1,True,Julie Keane,doctor (probably),2016,4
+331,Doctors,GB,18,1489013,Sarah Moyle,1,True,Valerie Pitman,doctor (probably),2016,4
+332,Doctors,GB,18,2547975,Paul Bailey,2,False,Frank,other,2016,5
+333,Doctors,GB,18,2080451,Alexander Morris,2,False,Leyton Haines,other,2016,9
+334,Doctors,GB,18,1231950,Katie Sheridan,1,False,Ellie Richards,other,2016,10
+335,Doctors,GB,18,2332892,Daisy May,1,False,Katie Lambert,other,2016,10
+336,Doctors,GB,18,1721678,Tom Clegg,2,False,Jamie Carvell,other,2016,10
+337,Doctors,GB,18,1476729,Nicola Thorp,1,False,Jessica Nielson,other,2016,10
+338,Doctors,GB,18,2864220,Kia Pegg,1,False,Zoe McCluskey,other,2017,3
+339,Doctors,GB,19,1489013,Sarah Moyle,1,True,Valerie Pitman,doctor (probably),2017,4
+340,Doctors,GB,19,1420277,Siubhan Harrison,1,False,Violet Plessy,other,2017,5
+341,Doctors,GB,19,2623918,Bobby Beynon,2,False,Ryan Jarwood,other,2018,2
+342,Doctors,GB,19,234580,Amy Noble,1,False,Beth Flanders,other,2018,2
+343,Doctors,GB,19,1278584,Juliet Alderice,1,False,Jan Williams,other,2018,2
+344,Doctors,GB,19,1908261,Rukku Nahar,1,False,Rana Khan,other,2018,3
+345,Doctors,GB,19,195354,Sam Callis,2,False,Matt Gold,other,2018,6
+346,Doctors,GB,19,1787085,Blain Neale,2,False,Simon Darby,other,2018,9
+347,Doctors,GB,19,2008565,Olivia Swann,1,False,Karinna Hailes,other,2018,9
+348,Doctors,GB,19,185830,Ruth Madoc,1,False,Jean March,other,2018,10
+349,Doctors,GB,19,1219260,Su Pollard,1,False,Mary Dunlop,other,2018,10
+350,Doctors,GB,19,2639848,Jonny Green,2,False,Edwin Robson,other,2018,10
+351,Doctors,GB,20,2337630,Lorna Laidlaw,1,True,Mrs. Tembe,doctor (probably),2018,11
+352,Doctors,GB,20,1489013,Sarah Moyle,1,True,Valerie Pitman,doctor (probably),2018,11
+353,Doctors,GB,20,2205106,Liam Smith,2,False,Arthur Dawson,other,2018,11
+354,Doctors,GB,20,1898017,Niino Furuhata,2,False,Hiroshi Nagamura,other,2019,5
+355,Doctors,GB,20,2341794,Rish Shah,2,False,Rajdeep Mishra,other,2019,5
+356,Doctors,GB,23,2864220,Kia Pegg,1,False,Scarlett Kiernan,other,2022,4

@@ -1,0 +1,131 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Doc Martin,GB,1,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2004,9
+1,Doc Martin,GB,1,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2004,9
+2,Doc Martin,GB,1,74158,Katherine Parkinson,1,True,Pauline Lamb,doctor (probably),2004,9
+3,Doc Martin,GB,1,204533,Stephanie Cole,1,True,Joan Norton,doctor (probably),2004,9
+4,Doc Martin,GB,1,63358,Angeline Ball,1,True,,doctor (probably),2004,9
+5,Doc Martin,GB,1,97430,Joe Absolom,2,True,Al Large,doctor (probably),2004,9
+6,Doc Martin,GB,1,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2004,9
+7,Doc Martin,GB,1,81024,Roger Lloyd Pack,2,True,,doctor (probably),2004,9
+8,Doc Martin,GB,1,162489,Jake Wood,2,True,Jimmy Dobbs,doctor (probably),2004,9
+9,Doc Martin,GB,1,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2004,9
+10,Doc Martin,GB,1,65890,Lia Williams,1,True,,doctor (probably),2004,9
+11,Doc Martin,GB,1,59043,Stewart Wright,2,True,,doctor (probably),2004,9
+12,Doc Martin,GB,1,40477,Chris O'Dowd,2,True,Jonathan Crozier,doctor (probably),2004,9
+13,Doc Martin,GB,1,199522,Amanda Abbington,1,True,Isobel,doctor (probably),2004,9
+14,Doc Martin,GB,1,20510,Richard Johnson,2,False,,other,2004,9
+15,Doc Martin,GB,1,117187,Reno Wilson,2,False,,other,2004,9
+16,Doc Martin,GB,2,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2005,11
+17,Doc Martin,GB,2,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2005,11
+18,Doc Martin,GB,2,66446,Lucy Punch,1,True,Elaine Denham,doctor (probably),2005,11
+19,Doc Martin,GB,2,74158,Katherine Parkinson,1,True,Pauline Lamb,doctor (probably),2005,11
+20,Doc Martin,GB,2,204533,Stephanie Cole,1,True,Joan Norton,doctor (probably),2005,11
+21,Doc Martin,GB,2,63358,Angeline Ball,1,True,,doctor (probably),2005,11
+22,Doc Martin,GB,2,97430,Joe Absolom,2,True,Al Large,doctor (probably),2005,11
+23,Doc Martin,GB,2,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2005,11
+24,Doc Martin,GB,2,81024,Roger Lloyd Pack,2,True,,doctor (probably),2005,11
+25,Doc Martin,GB,2,162489,Jake Wood,2,True,Jimmy Dobbs,doctor (probably),2005,11
+26,Doc Martin,GB,2,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2005,11
+27,Doc Martin,GB,2,65890,Lia Williams,1,True,,doctor (probably),2005,11
+28,Doc Martin,GB,2,59043,Stewart Wright,2,True,,doctor (probably),2005,11
+29,Doc Martin,GB,2,40477,Chris O'Dowd,2,True,Jonathan Crozier,doctor (probably),2005,11
+30,Doc Martin,GB,2,199522,Amanda Abbington,1,True,Isobel,doctor (probably),2005,11
+31,Doc Martin,GB,2,127558,Andrea Riseborough,1,False,,other,2005,12
+32,Doc Martin,GB,3,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2007,9
+33,Doc Martin,GB,3,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2007,9
+34,Doc Martin,GB,3,74158,Katherine Parkinson,1,True,Pauline Lamb,doctor (probably),2007,9
+35,Doc Martin,GB,3,204533,Stephanie Cole,1,True,Joan Norton,doctor (probably),2007,9
+36,Doc Martin,GB,3,63358,Angeline Ball,1,True,,doctor (probably),2007,9
+37,Doc Martin,GB,3,97430,Joe Absolom,2,True,Al Large,doctor (probably),2007,9
+38,Doc Martin,GB,3,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2007,9
+39,Doc Martin,GB,3,81024,Roger Lloyd Pack,2,True,,doctor (probably),2007,9
+40,Doc Martin,GB,3,162489,Jake Wood,2,True,Jimmy Dobbs,doctor (probably),2007,9
+41,Doc Martin,GB,3,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2007,9
+42,Doc Martin,GB,3,65890,Lia Williams,1,True,,doctor (probably),2007,9
+43,Doc Martin,GB,3,59043,Stewart Wright,2,True,,doctor (probably),2007,9
+44,Doc Martin,GB,3,40477,Chris O'Dowd,2,True,Jonathan Crozier,doctor (probably),2007,9
+45,Doc Martin,GB,3,199522,Amanda Abbington,1,True,Isobel,doctor (probably),2007,9
+46,Doc Martin,GB,4,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2009,9
+47,Doc Martin,GB,4,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2009,9
+48,Doc Martin,GB,4,66446,Lucy Punch,1,True,Elaine Denham,doctor (probably),2009,9
+49,Doc Martin,GB,4,74158,Katherine Parkinson,1,True,Pauline Lamb,doctor (probably),2009,9
+50,Doc Martin,GB,4,204533,Stephanie Cole,1,True,Joan Norton,doctor (probably),2009,9
+51,Doc Martin,GB,4,63358,Angeline Ball,1,True,,doctor (probably),2009,9
+52,Doc Martin,GB,4,97430,Joe Absolom,2,True,Al Large,doctor (probably),2009,9
+53,Doc Martin,GB,4,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2009,9
+54,Doc Martin,GB,4,81024,Roger Lloyd Pack,2,True,,doctor (probably),2009,9
+55,Doc Martin,GB,4,162489,Jake Wood,2,True,Jimmy Dobbs,doctor (probably),2009,9
+56,Doc Martin,GB,4,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2009,9
+57,Doc Martin,GB,4,65890,Lia Williams,1,True,,doctor (probably),2009,9
+58,Doc Martin,GB,4,59043,Stewart Wright,2,True,,doctor (probably),2009,9
+59,Doc Martin,GB,4,40477,Chris O'Dowd,2,True,Jonathan Crozier,doctor (probably),2009,9
+60,Doc Martin,GB,4,199522,Amanda Abbington,1,True,Isobel,doctor (probably),2009,9
+61,Doc Martin,GB,4,2048718,Richard Derrington,2,False,Tourist,other,2009,10
+62,Doc Martin,GB,4,183785,Nicholas Le Prevost,2,False,Robert,other,2009,10
+63,Doc Martin,GB,5,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2011,9
+64,Doc Martin,GB,5,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2011,9
+65,Doc Martin,GB,5,66446,Lucy Punch,1,True,Elaine Denham,doctor (probably),2011,9
+66,Doc Martin,GB,5,74158,Katherine Parkinson,1,True,Pauline Lamb,doctor (probably),2011,9
+67,Doc Martin,GB,5,63358,Angeline Ball,1,True,,doctor (probably),2011,9
+68,Doc Martin,GB,5,97430,Joe Absolom,2,True,Al Large,doctor (probably),2011,9
+69,Doc Martin,GB,5,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2011,9
+70,Doc Martin,GB,5,81024,Roger Lloyd Pack,2,True,,doctor (probably),2011,9
+71,Doc Martin,GB,5,162489,Jake Wood,2,True,Jimmy Dobbs,doctor (probably),2011,9
+72,Doc Martin,GB,5,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2011,9
+73,Doc Martin,GB,5,65890,Lia Williams,1,True,,doctor (probably),2011,9
+74,Doc Martin,GB,5,59043,Stewart Wright,2,True,,doctor (probably),2011,9
+75,Doc Martin,GB,5,20300,Eileen Atkins,1,True,Ruth Ellingham,doctor (probably),2011,9
+76,Doc Martin,GB,5,40477,Chris O'Dowd,2,True,Jonathan Crozier,doctor (probably),2011,9
+77,Doc Martin,GB,5,199522,Amanda Abbington,1,True,Isobel,doctor (probably),2011,9
+78,Doc Martin,GB,5,1231407,John Marquez,2,True,PC Penhale,doctor (probably),2011,9
+79,Doc Martin,GB,5,1231409,Jessica Ransom,1,True,Morwenna Newcross,doctor (probably),2011,9
+80,Doc Martin,GB,5,1231410,Ashton Hinchliff,3,True,James Henry Ellingham,doctor (probably),2011,9
+81,Doc Martin,GB,5,179598,Louise Jameson,1,True,Eleanor Glasson,doctor (probably),2011,9
+82,Doc Martin,GB,6,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2013,9
+83,Doc Martin,GB,6,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2013,9
+84,Doc Martin,GB,6,66446,Lucy Punch,1,True,Elaine Denham,doctor (probably),2013,9
+85,Doc Martin,GB,6,74158,Katherine Parkinson,1,True,Pauline Lamb,doctor (probably),2013,9
+86,Doc Martin,GB,6,63358,Angeline Ball,1,True,,doctor (probably),2013,9
+87,Doc Martin,GB,6,97430,Joe Absolom,2,True,Al Large,doctor (probably),2013,9
+88,Doc Martin,GB,6,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2013,9
+89,Doc Martin,GB,6,81024,Roger Lloyd Pack,2,True,,doctor (probably),2013,9
+90,Doc Martin,GB,6,162489,Jake Wood,2,True,Jimmy Dobbs,doctor (probably),2013,9
+91,Doc Martin,GB,6,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2013,9
+92,Doc Martin,GB,6,65890,Lia Williams,1,True,,doctor (probably),2013,9
+93,Doc Martin,GB,6,59043,Stewart Wright,2,True,,doctor (probably),2013,9
+94,Doc Martin,GB,6,20300,Eileen Atkins,1,True,Ruth Ellingham,doctor (probably),2013,9
+95,Doc Martin,GB,6,40477,Chris O'Dowd,2,True,Jonathan Crozier,doctor (probably),2013,9
+96,Doc Martin,GB,6,199522,Amanda Abbington,1,True,Isobel,doctor (probably),2013,9
+97,Doc Martin,GB,6,1231407,John Marquez,2,True,PC Penhale,doctor (probably),2013,9
+98,Doc Martin,GB,6,1231409,Jessica Ransom,1,True,Morwenna Newcross,doctor (probably),2013,9
+99,Doc Martin,GB,6,139635,Stuart Davidson,2,False,Ben Twilly,other,2013,9
+100,Doc Martin,GB,7,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2015,9
+101,Doc Martin,GB,7,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2015,9
+102,Doc Martin,GB,7,97430,Joe Absolom,2,True,Al Large,doctor (probably),2015,9
+103,Doc Martin,GB,7,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2015,9
+104,Doc Martin,GB,7,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2015,9
+105,Doc Martin,GB,7,139635,Stuart Davidson,2,False,Ben Twilly,other,2015,9
+106,Doc Martin,GB,7,10205,Sigourney Weaver,1,False,American Tourist,other,2015,10
+107,Doc Martin,GB,8,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2017,9
+108,Doc Martin,GB,8,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2017,9
+109,Doc Martin,GB,8,97430,Joe Absolom,2,True,Al Large,doctor (probably),2017,9
+110,Doc Martin,GB,8,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2017,9
+111,Doc Martin,GB,8,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2017,9
+112,Doc Martin,GB,8,20300,Eileen Atkins,1,True,Ruth Ellingham,doctor (probably),2017,9
+113,Doc Martin,GB,8,1231409,Jessica Ransom,1,True,Morwenna Newcross,doctor (probably),2017,9
+114,Doc Martin,GB,8,1231407,John Marquez,2,True,PC Joe Penhale,doctor (probably),2017,9
+115,Doc Martin,GB,8,1893526,Lucy Briggs-Owen,1,False,Rosie Edwards,other,2017,9
+116,Doc Martin,GB,8,147233,Robyn Addison,1,False,Janice Bone,other,2017,9
+117,Doc Martin,GB,8,129346,Malcolm Storry,2,False,Clive Tishell,other,2017,9
+118,Doc Martin,GB,8,10672,Art Malik,2,False,John  Rahmanzai,other,2017,9
+119,Doc Martin,GB,8,1709747,Yolanda Kettle,1,False,Hannah Butler,other,2017,10
+120,Doc Martin,GB,8,7025,Richard McCabe,2,False,Trevor Dodds,other,2017,10
+121,Doc Martin,GB,8,122535,Samantha Spiro,1,False,Tina Collins,other,2017,10
+122,Doc Martin,GB,8,96698,Caroline Quentin,1,False,Angela Sim,other,2017,10
+123,Doc Martin,GB,9,22159,Martin Clunes,2,True,Dr. Martin Ellingham,doctor,2019,9
+124,Doc Martin,GB,9,1227794,Caroline Catz,1,True,Louisa Glasson,doctor (probably),2019,9
+125,Doc Martin,GB,9,97430,Joe Absolom,2,True,Al Large,doctor (probably),2019,9
+126,Doc Martin,GB,9,3547,Ian McNeice,2,True,Bert Large,doctor (probably),2019,9
+127,Doc Martin,GB,9,4573,Selina Cadell,1,True,Mrs Tishell,doctor (probably),2019,9
+128,Doc Martin,GB,9,1263102,Rosalie Craig,1,False,Lorna Argyll,other,2019,10
+129,Doc Martin,GB,9,2896514,Jacqueline Clarke,1,False,Madge,other,2019,10

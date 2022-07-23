@@ -1,0 +1,362 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Shortland Street,NZ,2,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),1992,12
+1,Shortland Street,NZ,2,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),1992,12
+2,Shortland Street,NZ,2,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),1992,12
+3,Shortland Street,NZ,2,1372,Karl Urban,2,True,Jamie Forrest,doctor (probably),1992,12
+4,Shortland Street,NZ,2,2535027,Maggie Harper,1,True,Jenny Harrison,doctor (probably),1992,12
+5,Shortland Street,NZ,2,2535029,Stephanie Wilkin,1,True,Meredith Fleming,doctor (probably),1992,12
+6,Shortland Street,NZ,2,2535037,Glynis McNicoll,1,True,Lady Margot Warner,doctor (probably),1992,12
+7,Shortland Street,NZ,2,2535042,Ezra Wood,2,True,Andrew Fleming,doctor,1992,12
+8,Shortland Street,NZ,2,2535057,Moana Maniapoto-Jackson,0,True,Te Aniwa Ryan,doctor (probably),1992,12
+9,Shortland Street,NZ,2,220111,Angela Marie Dotchin,1,True,Kirsty Knight,doctor (probably),1992,12
+10,Shortland Street,NZ,2,66577,Danielle Cormack,1,True,Alison Raynor,doctor (probably),1992,12
+11,Shortland Street,NZ,2,1399812,Elizabeth McRae,1,True,Marj Neilson,doctor (probably),1992,12
+12,Shortland Street,NZ,2,26291,Martin Henderson,2,True,Stuart Neilson,doctor (probably),1992,12
+13,Shortland Street,NZ,2,173481,Paul Gittins,2,True,Michael McKenna,doctor (probably),1992,12
+14,Shortland Street,NZ,2,221143,Andrew Robertt,2,True,Steve Mills,doctor (probably),1992,12
+15,Shortland Street,NZ,2,1399779,Karl Burnett,2,True,Nick Harrison,doctor (probably),1992,12
+16,Shortland Street,NZ,2,144913,Nancy Brunning,1,True,Jaki Manu,doctor (probably),1992,12
+17,Shortland Street,NZ,2,1230318,Lisa Crittenden,1,True,Carrie Burton,doctor (probably),1992,12
+18,Shortland Street,NZ,2,1231487,Josephine Davison,1,True,Gina Rossi,doctor (probably),1992,12
+19,Shortland Street,NZ,2,2521097,Adrian Keeling,2,True,Tom Neilson,doctor (probably),1992,12
+20,Shortland Street,NZ,2,7242,Temuera Morrison,2,True,Hone Ropata,doctor,1992,12
+21,Shortland Street,NZ,2,1239572,Ken Blackburn,2,True,Sir Bruce Warner,doctor (probably),1992,12
+22,Shortland Street,NZ,2,73883,Rene Naufahu,2,True,Sam Aleni,doctor (probably),1992,12
+23,Shortland Street,NZ,2,87728,Willa O'Neill,1,True,Serena Hughes,doctor (probably),1992,12
+24,Shortland Street,NZ,2,28739,Kevin J. Wilson,2,True,Declan Kennedy,doctor (probably),1992,12
+25,Shortland Street,NZ,2,154873,Kieren Hutchison,1,True,Jonathon McKenna,doctor (probably),1992,12
+26,Shortland Street,NZ,2,1238425,Simon Prast,2,True,Paul Churchill,doctor (probably),1992,12
+27,Shortland Street,NZ,2,2531574,Elizabeth Skeen,1,True,"Talita ""TP"" Palele / Aleni",doctor (probably),1992,12
+28,Shortland Street,NZ,2,1332,Craig Parker,2,True,Guy Warner,doctor (probably),1992,12
+29,Shortland Street,NZ,2,173370,Martyn Sanderson,2,True,Noel Sturgess,doctor (probably),1992,12
+30,Shortland Street,NZ,2,20982,Marton Csokas,2,True,Leonard Dodds,doctor (probably),1992,12
+31,Shortland Street,NZ,2,135318,Margaret Umbers,1,True,Katherine Blake,doctor (probably),1992,12
+32,Shortland Street,NZ,2,1217771,Mark Ferguson,2,True,Darryl Neilson,doctor (probably),1992,12
+33,Shortland Street,NZ,2,76851,John Leigh,2,True,Lionel Skeggins,doctor (probably),1992,12
+34,Shortland Street,NZ,2,1004741,Theresa Healey,1,True,Carmen Roberts,doctor (probably),1992,12
+35,Shortland Street,NZ,2,173569,Chic Littlewood,2,True,Laurie Brasch,doctor (probably),1992,12
+36,Shortland Street,NZ,2,135314,Greer Robson,1,True,Joanna Jordan,doctor (probably),1992,12
+37,Shortland Street,NZ,3,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),1994,1
+38,Shortland Street,NZ,3,154873,Kieren Hutchison,1,True,Jonathan McKenna,doctor (probably),1994,1
+39,Shortland Street,NZ,3,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),1994,1
+40,Shortland Street,NZ,3,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),1994,1
+41,Shortland Street,NZ,3,1372,Karl Urban,2,True,Jamie Forrest,doctor (probably),1994,1
+42,Shortland Street,NZ,3,2535027,Maggie Harper,1,True,Jenny Harrison,doctor (probably),1994,1
+43,Shortland Street,NZ,3,2535029,Stephanie Wilkin,1,True,Meredith Fleming,doctor (probably),1994,1
+44,Shortland Street,NZ,3,2535037,Glynis McNicoll,1,True,Lady Margot Warner,doctor (probably),1994,1
+45,Shortland Street,NZ,3,2535057,Moana Maniapoto-Jackson,0,True,Te Aniwa Ryan,doctor (probably),1994,1
+46,Shortland Street,NZ,3,2536036,Lynette Forday,1,True,Grace Kwan,doctor (probably),1994,1
+47,Shortland Street,NZ,3,2536040,Luisa Burgess,1,True,Rebecca Frost,doctor (probably),1994,1
+48,Shortland Street,NZ,3,2536051,Albert Belz,2,True,Manny Atutahi,doctor (probably),1994,1
+49,Shortland Street,NZ,3,220111,Angela Marie Dotchin,1,True,Kirsty Knight,doctor (probably),1994,1
+50,Shortland Street,NZ,3,144913,Nancy Brunning,1,True,Jaki Manu,doctor (probably),1994,1
+51,Shortland Street,NZ,3,221143,Andrew Robertt,2,True,Steve Mills,doctor (probably),1994,1
+52,Shortland Street,NZ,3,173481,Paul Gittins,2,True,Michael McKenna,doctor (probably),1994,1
+53,Shortland Street,NZ,3,73883,Rene Naufahu,2,True,Sam Aleni,doctor (probably),1994,1
+54,Shortland Street,NZ,3,1239572,Ken Blackburn,2,True,Sir Bruce Warner,doctor (probably),1994,1
+55,Shortland Street,NZ,3,26291,Martin Henderson,2,True,Stuart Neilson,doctor (probably),1994,1
+56,Shortland Street,NZ,3,1399812,Elizabeth McRae,1,True,Marj Neilson,doctor (probably),1994,1
+57,Shortland Street,NZ,3,7242,Temuera Morrison,2,True,Hone Ropata,doctor,1994,1
+58,Shortland Street,NZ,3,1399779,Karl Burnett,2,True,Nick Harrison,doctor (probably),1994,1
+59,Shortland Street,NZ,3,1238425,Simon Prast,2,True,Paul Churchill,doctor (probably),1994,1
+60,Shortland Street,NZ,3,76851,John Leigh,2,True,Lionel Skeggins,doctor (probably),1994,1
+61,Shortland Street,NZ,3,132663,Katrina Devine,1,True,Minnie Crozier,doctor (probably),1994,1
+62,Shortland Street,NZ,3,1231487,Josephine Davison,1,True,Gina Rossi-Dodds,doctor (probably),1994,1
+63,Shortland Street,NZ,3,1332,Craig Parker,2,True,Guy Warner,doctor (probably),1994,1
+64,Shortland Street,NZ,3,1217771,Mark Ferguson,2,True,Darryl Neilson,doctor (probably),1994,1
+65,Shortland Street,NZ,3,11332,Timothy Balme,2,True,Greg Feeney,doctor (probably),1994,1
+66,Shortland Street,NZ,3,173370,Martyn Sanderson,2,True,Noel Sturgess,doctor (probably),1994,1
+67,Shortland Street,NZ,3,2531574,Elizabeth Skeen,1,True,TP Aleni,doctor (probably),1994,1
+68,Shortland Street,NZ,3,135318,Margaret Umbers,1,True,Katherine Blake,doctor (probably),1994,1
+69,Shortland Street,NZ,3,125938,Robyn Malcolm,1,True,Ellen Crozier,nurse,1994,1
+70,Shortland Street,NZ,3,173506,Sarah Smuts-Kennedy,1,True,Caitlin Devereux,doctor (probably),1994,1
+71,Shortland Street,NZ,3,173569,Chic Littlewood,2,True,Laurie Brasch,doctor (probably),1994,1
+72,Shortland Street,NZ,3,1397347,Joseph Naufahu,2,True,Nat Aleni,doctor (probably),1994,1
+73,Shortland Street,NZ,3,81875,Donna Akersten,1,True,Marilyn Bluck,doctor (probably),1994,1
+74,Shortland Street,NZ,3,1004741,Theresa Healey,1,True,Carmen Roberts,doctor (probably),1994,1
+75,Shortland Street,NZ,3,173385,Rebecca Hobbs,1,True,Annie Flynn,doctor (probably),1994,1
+76,Shortland Street,NZ,3,1621971,Shane Bartle,2,True,Otis Jackson,doctor (probably),1994,1
+77,Shortland Street,NZ,3,38783,Stelios Yiakmis,2,True,Johnny Marinovich,doctor (probably),1994,1
+78,Shortland Street,NZ,3,1236977,Claire Chitham,1,True,Waverley Wilson,doctor (probably),1994,1
+79,Shortland Street,NZ,3,1092362,Richard Vette,2,True,Tim Cunningham,doctor (probably),1994,1
+80,Shortland Street,NZ,3,20982,Marton Csokas,2,True,Leonard Dodds,doctor (probably),1994,1
+81,Shortland Street,NZ,3,135314,Greer Robson,1,True,Joanna Jordan,doctor (probably),1994,1
+82,Shortland Street,NZ,3,132668,Ashleigh Seagar,1,True,Ramona Derby,doctor (probably),1994,1
+83,Shortland Street,NZ,3,2611961,Jo Briant,1,True,Ruth Brasch,doctor (probably),1994,1
+84,Shortland Street,NZ,4,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),1995,1
+85,Shortland Street,NZ,4,154873,Kieren Hutchison,1,True,Jonathan McKenna,doctor (probably),1995,1
+86,Shortland Street,NZ,4,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),1995,1
+87,Shortland Street,NZ,4,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),1995,1
+88,Shortland Street,NZ,4,2535027,Maggie Harper,1,True,Jenny Harrison,doctor (probably),1995,1
+89,Shortland Street,NZ,4,2536036,Lynette Forday,1,True,Grace Kwan,doctor (probably),1995,1
+90,Shortland Street,NZ,4,2536040,Luisa Burgess,1,True,Rebecca Frost,doctor (probably),1995,1
+91,Shortland Street,NZ,4,2536051,Albert Belz,2,True,Manny Atutahi,doctor (probably),1995,1
+92,Shortland Street,NZ,4,2536072,Glynis McNicoll,1,True,Lady Margot Warner,doctor (probably),1995,1
+93,Shortland Street,NZ,4,2536086,Chris Dykzeul,2,True,James Thornton,doctor (probably),1995,1
+94,Shortland Street,NZ,4,2536087,James Hayward,2,True,Richard Thornton,doctor (probably),1995,1
+95,Shortland Street,NZ,4,2536096,Mary Lose,1,True,Ana Fa'asolo,doctor (probably),1995,1
+96,Shortland Street,NZ,4,2536102,Elisabeth Easther,1,True,Carla Crozier/Leach,doctor (probably),1995,1
+97,Shortland Street,NZ,4,220111,Angela Marie Dotchin,1,True,Kirsty Knight,doctor (probably),1995,1
+98,Shortland Street,NZ,4,1399812,Elizabeth McRae,1,True,Marj Neilson,doctor (probably),1995,1
+99,Shortland Street,NZ,4,73883,Rene Naufahu,2,True,Sam Aleni,doctor (probably),1995,1
+100,Shortland Street,NZ,4,26291,Martin Henderson,2,True,Stuart Neilson,doctor (probably),1995,1
+101,Shortland Street,NZ,4,7242,Temuera Morrison,2,True,Hone Ropata,doctor,1995,1
+102,Shortland Street,NZ,4,173481,Paul Gittins,2,True,Michael McKenna,doctor (probably),1995,1
+103,Shortland Street,NZ,4,1399779,Karl Burnett,2,True,Nick Harrison,doctor (probably),1995,1
+104,Shortland Street,NZ,4,1239572,Ken Blackburn,2,True,Sir Bruce Warner,doctor (probably),1995,1
+105,Shortland Street,NZ,4,1332,Craig Parker,2,True,Guy Warner,doctor (probably),1995,1
+106,Shortland Street,NZ,4,173569,Chic Littlewood,2,True,Laurie Brasch,doctor (probably),1995,1
+107,Shortland Street,NZ,4,1238425,Simon Prast,2,True,Paul Churchill,doctor (probably),1995,1
+108,Shortland Street,NZ,4,1004741,Theresa Healey,1,True,Carmen Roberts,doctor (probably),1995,1
+109,Shortland Street,NZ,4,76851,John Leigh,2,True,Lionel Skeggins,doctor (probably),1995,1
+110,Shortland Street,NZ,4,1231487,Josephine Davison,1,True,Gina Rossi-Dodds,doctor (probably),1995,1
+111,Shortland Street,NZ,4,81875,Donna Akersten,1,True,Marilyn Bluck,doctor (probably),1995,1
+112,Shortland Street,NZ,4,11332,Timothy Balme,2,True,Greg Feeney,doctor (probably),1995,1
+113,Shortland Street,NZ,4,125938,Robyn Malcolm,1,True,Ellen Crozier,nurse,1995,1
+114,Shortland Street,NZ,4,132663,Katrina Devine,1,True,Minnie Crozier,doctor (probably),1995,1
+115,Shortland Street,NZ,4,38783,Stelios Yiakmis,2,True,Johnny Marinovich,doctor (probably),1995,1
+116,Shortland Street,NZ,4,132668,Ashleigh Seagar,1,True,Ramona Derby,doctor (probably),1995,1
+117,Shortland Street,NZ,4,20982,Marton Csokas,2,True,Leonard Rossi-Dodds,doctor (probably),1995,1
+118,Shortland Street,NZ,4,1237629,Meighan Desmond,0,True,Lulu Chatfield,doctor (probably),1995,1
+119,Shortland Street,NZ,4,41785,Joel Tobeck,2,True,Craig Develter,doctor (probably),1995,1
+120,Shortland Street,NZ,4,1182668,Mike Edward,2,True,Zac Smith,doctor (probably),1995,1
+121,Shortland Street,NZ,4,5533,Elizabeth Hawthorne,1,True,Julia Thornton,doctor (probably),1995,1
+122,Shortland Street,NZ,4,186477,Jay Saussey,1,True,Dominique Coombes,doctor (probably),1995,1
+123,Shortland Street,NZ,4,2519207,Robert Harte,2,True,Ryan Birch,doctor (probably),1995,1
+124,Shortland Street,NZ,4,173506,Sarah Smuts-Kennedy,1,True,Caitlin Devereux,doctor (probably),1995,1
+125,Shortland Street,NZ,4,1236977,Claire Chitham,1,True,Waverley Wilson,doctor (probably),1995,1
+126,Shortland Street,NZ,4,1255010,Blair Strang,2,True,Rangi Heremaia,doctor (probably),1995,1
+127,Shortland Street,NZ,4,1621971,Shane Bartle,2,True,Otis Jackson,doctor (probably),1995,1
+128,Shortland Street,NZ,4,29096,Peter McCauley,2,True,Finlay Keats,doctor (probably),1995,1
+129,Shortland Street,NZ,4,1062452,Darren Young,2,True,Billy Leach,doctor (probably),1995,1
+130,Shortland Street,NZ,4,67126,Timothy Bartlett,2,True,Bernie Leach,doctor (probably),1995,1
+131,Shortland Street,NZ,4,152566,Dean O'Gorman,2,True,Harry Martin,doctor (probably),1995,1
+132,Shortland Street,NZ,4,1217771,Mark Ferguson,2,True,Darryl Neilson,doctor (probably),1995,1
+133,Shortland Street,NZ,4,2611961,Jo Briant,1,True,Ruth Brasch,doctor (probably),1995,1
+134,Shortland Street,NZ,4,1793986,Michaela Rooney,1,True,Emily Devine,doctor (probably),1995,1
+135,Shortland Street,NZ,5,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),1996,1
+136,Shortland Street,NZ,5,154873,Kieren Hutchison,1,True,Jonathan McKenna,doctor (probably),1996,1
+137,Shortland Street,NZ,5,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),1996,1
+138,Shortland Street,NZ,5,220111,Angela Marie Dotchin,1,True,Kirsty Knight,doctor (probably),1996,1
+139,Shortland Street,NZ,5,1572883,Alison Raine,1,False,Nurse Tiffany Pratt Warner Marinovich,nurse,1996,10
+140,Shortland Street,NZ,6,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),1997,1
+141,Shortland Street,NZ,6,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),1997,1
+142,Shortland Street,NZ,6,1236978,Stephanie Tauevihi,1,True,Donna Heka,doctor (probably),1997,1
+143,Shortland Street,NZ,6,220111,Angela Marie Dotchin,1,True,Kirsty Knight,doctor (probably),1997,1
+144,Shortland Street,NZ,6,1572883,Alison Raine,1,False,Nurse Tiffany Pratt Warner Marinovich,nurse,1997,2
+145,Shortland Street,NZ,6,2519360,David Mackie,2,False,Len Jabel,other,1997,3
+146,Shortland Street,NZ,6,1535094,Christopher Hobbs,2,False,Dr. Frank Malone,doctor,1997,12
+147,Shortland Street,NZ,8,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),1999,1
+148,Shortland Street,NZ,8,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,1999,1
+149,Shortland Street,NZ,8,1236977,Claire Chitham,1,True,Waverley Wilson/Harrison,doctor (probably),1999,1
+150,Shortland Street,NZ,8,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),1999,1
+151,Shortland Street,NZ,8,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),1999,1
+152,Shortland Street,NZ,8,1236978,Stephanie Tauevihi,1,True,Donna Heka,doctor (probably),1999,1
+153,Shortland Street,NZ,8,11340,Murray Keane,2,True,Earl Crombie,doctor (probably),1999,1
+154,Shortland Street,NZ,8,107967,Sylvia Rands,1,True,Fran Kennedy Brown,doctor (probably),1999,1
+155,Shortland Street,NZ,8,89844,Shimpal Lelisi,2,False,Nurse Louie Iosefa,nurse,1999,10
+156,Shortland Street,NZ,9,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2000,1
+157,Shortland Street,NZ,9,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2000,1
+158,Shortland Street,NZ,9,75397,Rod Mullinar,2,True,Max Dubrovsky,doctor (probably),2000,1
+159,Shortland Street,NZ,9,1236977,Claire Chitham,1,True,Waverley Wilson/Harrison,doctor (probably),2000,1
+160,Shortland Street,NZ,9,1236978,Stephanie Tauevihi,1,True,Donna Heka,doctor (probably),2000,1
+161,Shortland Street,NZ,9,2538901,Barry De Lore,2,True,Dr. Griggs,doctor,2000,1
+162,Shortland Street,NZ,9,1510200,Jeremy Elwood,2,True,Grant Kelsey,doctor (probably),2000,1
+163,Shortland Street,NZ,9,1684412,Penny Ashton,1,True,Dr. Margaret Cole,doctor,2000,1
+164,Shortland Street,NZ,9,60383,Todd Emerson,2,True,Cody Bell,doctor (probably),2000,1
+165,Shortland Street,NZ,9,1236965,Maggie Tarver,1,False,,other,2000,7
+166,Shortland Street,NZ,10,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2001,1
+167,Shortland Street,NZ,10,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2001,1
+168,Shortland Street,NZ,10,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2001,1
+169,Shortland Street,NZ,10,1226684,James Napier,2,True,Glen McNulty,doctor (probably),2001,1
+170,Shortland Street,NZ,10,41782,Manu Bennett,2,True,Jack Hewitt,doctor (probably),2001,1
+171,Shortland Street,NZ,10,1236977,Claire Chitham,1,True,Waverley Wilson/Harrison,doctor (probably),2001,1
+172,Shortland Street,NZ,10,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),2001,1
+173,Shortland Street,NZ,10,1236978,Stephanie Tauevihi,1,True,Donna Heka,doctor (probably),2001,1
+174,Shortland Street,NZ,10,2612514,Carrie McLaughlin,1,True,Nurse Mere Johnson,nurse,2001,1
+175,Shortland Street,NZ,10,1471094,Donna Brookbanks,1,True,Mandy,doctor (probably),2001,1
+176,Shortland Street,NZ,10,1236967,Anna Hewlett,1,False,,other,2001,7
+177,Shortland Street,NZ,11,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2002,1
+178,Shortland Street,NZ,11,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2002,1
+179,Shortland Street,NZ,11,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2002,1
+180,Shortland Street,NZ,11,41782,Manu Bennett,2,True,Jack Hewitt,doctor (probably),2002,1
+181,Shortland Street,NZ,11,1236977,Claire Chitham,1,True,Waverley Wilson/Harrison,doctor (probably),2002,1
+182,Shortland Street,NZ,11,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),2002,1
+183,Shortland Street,NZ,11,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),2002,1
+184,Shortland Street,NZ,11,1236978,Stephanie Tauevihi,1,True,Donna Heka,doctor (probably),2002,1
+185,Shortland Street,NZ,11,2612514,Carrie McLaughlin,1,True,Nurse Mere Johnson,nurse,2002,1
+186,Shortland Street,NZ,11,1471094,Donna Brookbanks,1,True,Whitney,doctor (probably),2002,1
+187,Shortland Street,NZ,12,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2003,1
+188,Shortland Street,NZ,12,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2003,1
+189,Shortland Street,NZ,12,1236974,Emily Robins,1,True,Claire Solomon,doctor (probably),2003,1
+190,Shortland Street,NZ,12,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2003,1
+191,Shortland Street,NZ,12,1236977,Claire Chitham,1,True,Waverley Wilson/Harrison,doctor (probably),2003,1
+192,Shortland Street,NZ,12,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),2003,1
+193,Shortland Street,NZ,12,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),2003,1
+194,Shortland Street,NZ,12,1236978,Stephanie Tauevihi,1,True,Donna Heka,doctor (probably),2003,1
+195,Shortland Street,NZ,12,1182660,Hannah Banks,1,True,Nurse Jesse George,nurse,2003,1
+196,Shortland Street,NZ,12,2623301,Sarah Somerville,1,True,Emily Bredican / Warner,doctor (probably),2003,1
+197,Shortland Street,NZ,12,1510289,Dane Dawson,2,False,Kev Riorda,other,2003,8
+198,Shortland Street,NZ,13,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2004,1
+199,Shortland Street,NZ,13,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2004,1
+200,Shortland Street,NZ,13,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2004,1
+201,Shortland Street,NZ,13,1236972,Faye Smythe,1,True,Tania Jeffries,doctor (probably),2004,1
+202,Shortland Street,NZ,13,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2004,1
+203,Shortland Street,NZ,13,1236974,Emily Robins,1,True,Claire Solomon,doctor (probably),2004,1
+204,Shortland Street,NZ,13,1215242,Adam Rickitt,2,True,Kieran Mitchell,doctor (probably),2004,1
+205,Shortland Street,NZ,13,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2004,1
+206,Shortland Street,NZ,13,1236977,Claire Chitham,1,True,Waverley Wilson/Harrison,doctor (probably),2004,1
+207,Shortland Street,NZ,13,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),2004,1
+208,Shortland Street,NZ,13,1230280,Renato Bartolomei,2,True,Craig Valentine,doctor (probably),2004,1
+209,Shortland Street,NZ,13,1236978,Stephanie Tauevihi,1,True,Donna Heka,doctor (probably),2004,1
+210,Shortland Street,NZ,14,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2005,1
+211,Shortland Street,NZ,14,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2005,1
+212,Shortland Street,NZ,14,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2005,1
+213,Shortland Street,NZ,14,1236972,Faye Smythe,1,True,Tania Jeffries,doctor (probably),2005,1
+214,Shortland Street,NZ,14,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2005,1
+215,Shortland Street,NZ,14,1236974,Emily Robins,1,True,Claire Solomon,doctor (probably),2005,1
+216,Shortland Street,NZ,14,1215242,Adam Rickitt,2,True,Kieran Mitchell,doctor (probably),2005,1
+217,Shortland Street,NZ,14,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2005,1
+218,Shortland Street,NZ,14,1236977,Claire Chitham,1,True,Waverley Wilson/Harrison,doctor (probably),2005,1
+219,Shortland Street,NZ,14,1230280,Renato Bartolomei,2,True,Craig Valentine,doctor (probably),2005,1
+220,Shortland Street,NZ,15,206532,Ben Mitchell,2,True,TK Samuels,doctor (probably),2006,1
+221,Shortland Street,NZ,15,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2006,1
+222,Shortland Street,NZ,15,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2006,1
+223,Shortland Street,NZ,15,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2006,1
+224,Shortland Street,NZ,15,1236972,Faye Smythe,1,True,Tania Jeffries,doctor (probably),2006,1
+225,Shortland Street,NZ,15,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2006,1
+226,Shortland Street,NZ,15,1236974,Emily Robins,1,True,Claire Solomon,doctor (probably),2006,1
+227,Shortland Street,NZ,15,1223140,Peter Mochrie,2,True,Callum McKay,doctor (probably),2006,1
+228,Shortland Street,NZ,15,192696,Fleur Saville,1,True,Libby Jeffries,doctor (probably),2006,1
+229,Shortland Street,NZ,15,1215242,Adam Rickitt,2,True,Kieran Mitchell,doctor (probably),2006,1
+230,Shortland Street,NZ,15,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2006,1
+231,Shortland Street,NZ,15,1236975,Lee Donoghue,2,True,Hunter McKay,doctor (probably),2006,1
+232,Shortland Street,NZ,15,1230280,Renato Bartolomei,2,True,Craig Valentine,doctor (probably),2006,1
+233,Shortland Street,NZ,15,2436833,Marion Prebble,1,False,Lynda,other,2006,5
+234,Shortland Street,NZ,15,2535044,Madeleine Lynch,1,False,Ingrid Campbell,other,2006,9
+235,Shortland Street,NZ,16,206532,Ben Mitchell,2,True,TK Samuels,doctor (probably),2007,1
+236,Shortland Street,NZ,16,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2007,1
+237,Shortland Street,NZ,16,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2007,1
+238,Shortland Street,NZ,16,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2007,1
+239,Shortland Street,NZ,16,1236972,Faye Smythe,1,True,Tania Jeffries,doctor (probably),2007,1
+240,Shortland Street,NZ,16,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2007,1
+241,Shortland Street,NZ,16,1236974,Emily Robins,1,True,Claire Solomon,doctor (probably),2007,1
+242,Shortland Street,NZ,16,1223140,Peter Mochrie,2,True,Callum McKay,doctor (probably),2007,1
+243,Shortland Street,NZ,16,192696,Fleur Saville,1,True,Libby Jeffries,doctor (probably),2007,1
+244,Shortland Street,NZ,16,1215242,Adam Rickitt,2,True,Kieran Mitchell,doctor (probably),2007,1
+245,Shortland Street,NZ,16,76836,Paolo Rotondo,2,True,Andrew Solomon,doctor,2007,1
+246,Shortland Street,NZ,16,1236975,Lee Donoghue,2,True,Hunter McKay,doctor (probably),2007,1
+247,Shortland Street,NZ,16,1230280,Renato Bartolomei,2,True,Craig Valentine,doctor (probably),2007,1
+248,Shortland Street,NZ,16,1236979,Sarah Thomson,1,True,,doctor (probably),2007,1
+249,Shortland Street,NZ,16,941439,Olivia Tennet,1,True,Tuesday Warner,doctor (probably),2007,1
+250,Shortland Street,NZ,16,1615727,Helene Wong,1,False,Ruth Yan,other,2007,2
+251,Shortland Street,NZ,16,1232258,Vicky Rodewyk,1,False,Madison Lodge,other,2007,2
+252,Shortland Street,NZ,16,2623275,Kate Simmonds,1,False,Leah Blundell,other,2007,4
+253,Shortland Street,NZ,16,2436833,Marion Prebble,1,False,Angie,other,2007,4
+254,Shortland Street,NZ,16,1501109,Jordan Blaikie,2,False,Stu,other,2007,5
+255,Shortland Street,NZ,16,2623264,Brendan Roberts,2,False,Mick Broad,other,2007,5
+256,Shortland Street,NZ,16,1088970,Alison Titulaer,1,False,Naomi Adams,other,2007,5
+257,Shortland Street,NZ,16,2621705,Lara Liew,1,False,Polly Deaker,other,2007,6
+258,Shortland Street,NZ,17,206532,Ben Mitchell,2,True,TK Samuels,doctor (probably),2008,1
+259,Shortland Street,NZ,17,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2008,1
+260,Shortland Street,NZ,17,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2008,1
+261,Shortland Street,NZ,17,1236971,Laura Hill,1,True,Toni Thompson/Warner,doctor (probably),2008,1
+262,Shortland Street,NZ,17,1236972,Faye Smythe,1,True,Tania Jeffries,doctor (probably),2008,1
+263,Shortland Street,NZ,17,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2008,1
+264,Shortland Street,NZ,17,1223140,Peter Mochrie,2,True,Callum McKay,doctor (probably),2008,1
+265,Shortland Street,NZ,17,192696,Fleur Saville,1,True,Libby Jeffries,doctor (probably),2008,1
+266,Shortland Street,NZ,17,1215242,Adam Rickitt,2,True,Kieran Mitchell,doctor (probably),2008,1
+267,Shortland Street,NZ,17,1236975,Lee Donoghue,2,True,Hunter McKay,doctor (probably),2008,1
+268,Shortland Street,NZ,17,66584,Liddy Holloway,1,True,Alex McKenna,doctor (probably),2008,1
+269,Shortland Street,NZ,17,1230280,Renato Bartolomei,2,True,Craig Valentine,doctor (probably),2008,1
+270,Shortland Street,NZ,17,1232260,Beth Allen,1,True,Brooke Freeman,doctor (probably),2008,1
+271,Shortland Street,NZ,17,1236979,Sarah Thomson,1,True,,doctor (probably),2008,1
+272,Shortland Street,NZ,17,941439,Olivia Tennet,1,True,Tuesday Warner,doctor (probably),2008,1
+273,Shortland Street,NZ,17,2621569,Leroy Lakamu,2,True,Gonzo,doctor (probably),2008,1
+274,Shortland Street,NZ,17,2598350,Katrina Misa,1,False,Cynthia Cole,other,2008,1
+275,Shortland Street,NZ,17,1501109,Jordan Blaikie,2,False,Trent,other,2008,4
+276,Shortland Street,NZ,17,1023465,Stephane Garneau-Monten,2,False,Ethan Nash,other,2008,4
+277,Shortland Street,NZ,17,1641278,Benjamin Murray,2,False,Ticket Scalper,other,2008,6
+278,Shortland Street,NZ,17,965278,Sarah McLeod,1,False,Cindy Watson,other,2008,7
+279,Shortland Street,NZ,17,95280,Bonnie Soper,1,False,Morgan Braithwaite,other,2008,7
+280,Shortland Street,NZ,17,2623146,Rashmi Pilapitiya,1,False,Dipali Kumari,other,2008,7
+281,Shortland Street,NZ,17,2621537,Clare Kelso,1,False,Mrs. Howard,other,2008,8
+282,Shortland Street,NZ,17,1103607,Judy Rankin,1,False,Mona McKay,other,2008,9
+283,Shortland Street,NZ,17,2162769,Katy Beasley,1,False,Raewyn Bromwell,other,2008,9
+284,Shortland Street,NZ,18,2621271,Peter Coates,2,True,Tom Chambers,doctor (probably),2009,1
+285,Shortland Street,NZ,18,2621356,Ruth Dudding,1,True,Susanna Price,doctor (probably),2009,1
+286,Shortland Street,NZ,18,2623228,Rangi Rangitukunoa,2,False,Constable Roberts,other,2009,1
+287,Shortland Street,NZ,18,1240242,Zoe Cramond,1,False,Tamzin Katz,other,2009,2
+288,Shortland Street,NZ,18,2538354,Ryan Richards,2,False,Dean Chapman,other,2009,4
+289,Shortland Street,NZ,18,2622730,Richard Green,2,False,Barry Knox,other,2009,4
+290,Shortland Street,NZ,18,2623264,Brendan Roberts,2,False,Malcolm Henry,other,2009,5
+291,Shortland Street,NZ,19,206532,Ben Mitchell,2,True,TK Samuels,doctor (probably),2010,1
+292,Shortland Street,NZ,19,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2010,1
+293,Shortland Street,NZ,19,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2010,1
+294,Shortland Street,NZ,19,1236972,Faye Smythe,1,True,Tania Jeffries,doctor (probably),2010,1
+295,Shortland Street,NZ,19,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2010,1
+296,Shortland Street,NZ,19,1223140,Peter Mochrie,2,True,Callum McKay,doctor (probably),2010,1
+297,Shortland Street,NZ,19,192696,Fleur Saville,1,True,Libby Jeffries,doctor (probably),2010,1
+298,Shortland Street,NZ,19,1215242,Adam Rickitt,2,True,Kieran Mitchell,doctor (probably),2010,1
+299,Shortland Street,NZ,19,1236975,Lee Donoghue,2,True,Hunter McKay,doctor (probably),2010,1
+300,Shortland Street,NZ,19,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),2010,1
+301,Shortland Street,NZ,19,1232260,Beth Allen,1,True,Brooke Freeman,doctor (probably),2010,1
+302,Shortland Street,NZ,19,1236979,Sarah Thomson,1,True,,doctor (probably),2010,1
+303,Shortland Street,NZ,19,1240909,Ari Boyland,2,True,Brodie Kemp,doctor (probably),2010,1
+304,Shortland Street,NZ,19,2621271,Peter Coates,2,True,Benny Oliver,doctor (probably),2010,1
+305,Shortland Street,NZ,19,228192,Sally Martin,1,True,Nicole Martin,doctor (probably),2010,1
+306,Shortland Street,NZ,20,206532,Ben Mitchell,2,True,TK Samuels,doctor (probably),2011,1
+307,Shortland Street,NZ,20,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2011,1
+308,Shortland Street,NZ,20,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2011,1
+309,Shortland Street,NZ,20,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2011,1
+310,Shortland Street,NZ,20,1223140,Peter Mochrie,2,True,Callum McKay,doctor (probably),2011,1
+311,Shortland Street,NZ,20,1236975,Lee Donoghue,2,True,Hunter McKay,doctor (probably),2011,1
+312,Shortland Street,NZ,20,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),2011,1
+313,Shortland Street,NZ,20,1232260,Beth Allen,1,True,Brooke Freeman,doctor (probably),2011,1
+314,Shortland Street,NZ,20,1236979,Sarah Thomson,1,True,,doctor (probably),2011,1
+315,Shortland Street,NZ,20,76834,Robbie Magasiva,2,True,Maxwell Avia,doctor (probably),2011,1
+316,Shortland Street,NZ,20,1240909,Ari Boyland,2,True,Brodie Kemp,doctor (probably),2011,1
+317,Shortland Street,NZ,20,2623228,Rangi Rangitukunoa,2,False,Constable Binning,other,2011,1
+318,Shortland Street,NZ,21,206532,Ben Mitchell,2,True,TK Samuels,doctor (probably),2012,1
+319,Shortland Street,NZ,21,1236969,Amanda Billing,1,True,Sarah Potts,doctor (probably),2012,1
+320,Shortland Street,NZ,21,1236970,Michael Galvin,2,True,Chris Warner,doctor (probably),2012,1
+321,Shortland Street,NZ,21,1236973,Anna Jullienne,1,True,Maia Jeffries,doctor (probably),2012,1
+322,Shortland Street,NZ,21,1223140,Peter Mochrie,2,True,Callum McKay,doctor (probably),2012,1
+323,Shortland Street,NZ,21,1236975,Lee Donoghue,2,True,Hunter McKay,doctor (probably),2012,1
+324,Shortland Street,NZ,21,1236966,Angela Bloomfield,1,True,Rachel McKenna,doctor (probably),2012,1
+325,Shortland Street,NZ,21,1232260,Beth Allen,1,True,Brooke Freeman,doctor (probably),2012,1
+326,Shortland Street,NZ,21,76834,Robbie Magasiva,2,True,Maxwell Avia,doctor (probably),2012,1
+327,Shortland Street,NZ,21,2621221,Sam Bunkall,2,True,Dr. Boyd Rolleston,doctor,2012,1
+328,Shortland Street,NZ,21,2622955,Thomas Easden,2,False,Johnny Rickards,other,2012,1
+329,Shortland Street,NZ,21,1974903,Caitlin Bossley,1,False,Detective Lisa Stone,other,2012,11
+330,Shortland Street,NZ,22,1298669,Roimata Fox,1,True,Tariana Harris,doctor (probably),2013,1
+331,Shortland Street,NZ,22,1881118,Levi Holley,2,False,Terry Macky,other,2013,10
+332,Shortland Street,NZ,23,2612021,Charlie Corrigan,2,True,Cory,doctor (probably),2014,1
+333,Shortland Street,NZ,23,2621406,Lucy Elliott,1,True,Dayna Jenkins,doctor (probably),2014,1
+334,Shortland Street,NZ,24,2621406,Lucy Elliott,1,True,Dayna Jenkins,doctor (probably),2015,1
+335,Shortland Street,NZ,24,1772041,Kieran Foster,2,True,Reggie,doctor (probably),2015,1
+336,Shortland Street,NZ,24,1471094,Donna Brookbanks,1,True,Leonie McDowell,doctor (probably),2015,1
+337,Shortland Street,NZ,24,1680339,K.J. Apa,2,False,Kane Jenkins,other,2015,1
+338,Shortland Street,NZ,24,1852807,Jackson Bliss,2,False,Dion Greene,other,2015,3
+339,Shortland Street,NZ,25,2621406,Lucy Elliott,1,True,Dayna Jenkins,doctor (probably),2016,1
+340,Shortland Street,NZ,25,2244398,Lindsay Daniels,1,True,Holly Watts,doctor (probably),2016,1
+341,Shortland Street,NZ,25,2619507,Lukas Whiting,2,False,Finn Connelly,other,2016,6
+342,Shortland Street,NZ,25,1542442,Ryan Carter,2,False,Cam McCaskill,other,2016,7
+343,Shortland Street,NZ,25,2255096,Amber-Rose Henshall,1,False,Lizzie Elliot,other,2016,7
+344,Shortland Street,NZ,25,2622048,Zoe Fong,1,False,Lily Flores,other,2016,8
+345,Shortland Street,NZ,26,1471094,Donna Brookbanks,1,True,Leonie McDowell,doctor (probably),2017,1
+346,Shortland Street,NZ,26,2255096,Amber-Rose Henshall,1,False,Lizzie Elliot,other,2017,3
+347,Shortland Street,NZ,26,2303247,Catriona Toop,1,False,Mindy Connelly,other,2017,10
+348,Shortland Street,NZ,27,2303247,Catriona Toop,1,False,Mindy Connelly,other,2018,2
+349,Shortland Street,NZ,27,2618548,Nivi Summer,1,False,Zara Mandal,other,2018,6
+350,Shortland Street,NZ,27,2624882,Jonathan James,2,False,Connor Stuart,other,2018,9
+351,Shortland Street,NZ,28,2613358,Kerry-Lee Dewing,1,True,Kylie Brown,doctor (probably),2019,1
+352,Shortland Street,NZ,28,1542443,Reuben Turner,2,False,Jordan Baxter,other,2019,2
+353,Shortland Street,NZ,28,2623009,Iana Grace,1,False,Sophia King,other,2019,4
+354,Shortland Street,NZ,28,2618548,Nivi Summer,1,False,Zara Mandal,other,2019,5
+355,Shortland Street,NZ,28,2538896,Kim Garrett,1,False,Te Rongopai Rameka,other,2019,5
+356,Shortland Street,NZ,28,2622039,Jackie Shaw,1,False,Emma Nixon,other,2019,6
+357,Shortland Street,NZ,28,2621288,Colleen Davis,1,False,Misty Beelers,other,2019,8
+358,Shortland Street,NZ,28,3317803,Courtney Elizabeth Eggleton,1,False,Felicity Shadbolt,other,2019,10
+359,Shortland Street,NZ,28,1779165,Jordi Webber,2,False,Jake Morris,other,2019,11
+360,Shortland Street,NZ,29,2618548,Nivi Summer,1,False,Zara Mandal,other,2020,3

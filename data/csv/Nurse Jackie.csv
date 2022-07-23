@@ -1,0 +1,109 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Nurse Jackie,US,1,36190,Edie Falco,1,True,Jackie Peyton,doctor (probably),2009,6
+1,Nurse Jackie,US,1,201665,Eve Best,1,True,Dr. Eleanor O'Hara,doctor,2009,6
+2,Nurse Jackie,US,1,36189,Paul Schulze,2,True,Eddie Walzer,doctor (probably),2009,6
+3,Nurse Jackie,US,1,56857,Peter Facinelli,2,True,Dr. Fitch Cooper,doctor,2009,6
+4,Nurse Jackie,US,1,82103,Haaz Sleiman,2,True,Mohammed 'Mo-Mo' De La Cruz,doctor (probably),2009,6
+5,Nurse Jackie,US,1,1246804,Lenny Jacobson,2,True,Lenny,doctor (probably),2009,6
+6,Nurse Jackie,US,1,28044,Merritt Wever,1,True,Zoey Barkow,doctor (probably),2009,6
+7,Nurse Jackie,US,1,1246800,Stephen Wallem,2,True,Thor Lundgren,doctor (probably),2009,6
+8,Nurse Jackie,US,1,154784,Dominic Fumusa,2,True,Kevin Peyton,doctor (probably),2009,6
+9,Nurse Jackie,US,1,1218228,Ruby Jerins,1,True,Grace Peyton,doctor (probably),2009,6
+10,Nurse Jackie,US,1,207628,Mackenzie Aladjem,1,True,Fiona Peyton,doctor (probably),2009,6
+11,Nurse Jackie,US,1,63279,Anna Deavere Smith,1,True,Gloria Akalitus,doctor (probably),2009,6
+12,Nurse Jackie,US,1,109513,Alexandra Daddario,1,False,,other,2009,6
+13,Nurse Jackie,US,1,80002,Daisy Tahan,1,False,,other,2009,6
+14,Nurse Jackie,US,1,1220768,Quincy Dunn-Baker,2,False,Policeman Brother,other,2009,6
+15,Nurse Jackie,US,1,95604,Daniel London,2,False,Mr. Batali,other,2009,6
+16,Nurse Jackie,US,1,54883,Michael Buscemi,2,False,God,other,2009,7
+17,Nurse Jackie,US,1,984629,Christopher Abbott,2,False,Andy Singer,other,2009,8
+18,Nurse Jackie,US,2,36190,Edie Falco,1,True,Jackie Peyton,doctor (probably),2010,3
+19,Nurse Jackie,US,2,201665,Eve Best,1,True,Dr. Eleanor O'Hara,doctor,2010,3
+20,Nurse Jackie,US,2,36189,Paul Schulze,2,True,Eddie Walzer,doctor (probably),2010,3
+21,Nurse Jackie,US,2,56857,Peter Facinelli,2,True,Dr. Fitch Cooper,doctor,2010,3
+22,Nurse Jackie,US,2,1246803,Arjun Gupta,2,True,Sam,doctor (probably),2010,3
+23,Nurse Jackie,US,2,1246804,Lenny Jacobson,2,True,Lenny,doctor (probably),2010,3
+24,Nurse Jackie,US,2,28044,Merritt Wever,1,True,Zoey Barkow,doctor (probably),2010,3
+25,Nurse Jackie,US,2,1246800,Stephen Wallem,2,True,Thor Lundgren,doctor (probably),2010,3
+26,Nurse Jackie,US,2,154784,Dominic Fumusa,2,True,Kevin Peyton,doctor (probably),2010,3
+27,Nurse Jackie,US,2,1218228,Ruby Jerins,1,True,Grace Peyton,doctor (probably),2010,3
+28,Nurse Jackie,US,2,207628,Mackenzie Aladjem,1,True,Fiona Peyton,doctor (probably),2010,3
+29,Nurse Jackie,US,2,63279,Anna Deavere Smith,1,True,Gloria Akalitus,doctor (probably),2010,3
+30,Nurse Jackie,US,2,54883,Michael Buscemi,2,False,God,other,2010,3
+31,Nurse Jackie,US,2,15031,Patrick Breen,2,False,Martin Vobernick,other,2010,4
+32,Nurse Jackie,US,2,171297,Sondra James,1,False,Mrs. Feinberg,other,2010,4
+33,Nurse Jackie,US,3,36190,Edie Falco,1,True,Jackie Peyton,doctor (probably),2011,3
+34,Nurse Jackie,US,3,201665,Eve Best,1,True,Dr. Eleanor O'Hara,doctor,2011,3
+35,Nurse Jackie,US,3,36189,Paul Schulze,2,True,Eddie Walzer,doctor (probably),2011,3
+36,Nurse Jackie,US,3,56857,Peter Facinelli,2,True,Dr. Fitch Cooper,doctor,2011,3
+37,Nurse Jackie,US,3,1246803,Arjun Gupta,2,True,Sam,doctor (probably),2011,3
+38,Nurse Jackie,US,3,1246804,Lenny Jacobson,2,True,Lenny,doctor (probably),2011,3
+39,Nurse Jackie,US,3,28044,Merritt Wever,1,True,Zoey Barkow,doctor (probably),2011,3
+40,Nurse Jackie,US,3,1246800,Stephen Wallem,2,True,Thor Lundgren,doctor (probably),2011,3
+41,Nurse Jackie,US,3,154784,Dominic Fumusa,2,True,Kevin Peyton,doctor (probably),2011,3
+42,Nurse Jackie,US,3,1218228,Ruby Jerins,1,True,Grace Peyton,doctor (probably),2011,3
+43,Nurse Jackie,US,3,207628,Mackenzie Aladjem,1,True,Fiona Peyton,doctor (probably),2011,3
+44,Nurse Jackie,US,3,63279,Anna Deavere Smith,1,True,Gloria Akalitus,doctor (probably),2011,3
+45,Nurse Jackie,US,3,1281308,Darby Lynn Totten,1,False,Woman,other,2011,3
+46,Nurse Jackie,US,3,54883,Michael Buscemi,2,False,God,other,2011,4
+47,Nurse Jackie,US,3,155705,Leslie Silva,1,False,Nurse Jackie,nurse,2011,4
+48,Nurse Jackie,US,3,1451506,Kalani Queypo,2,False,Joseph Delaronde,other,2011,5
+49,Nurse Jackie,US,3,1224384,Theo Stockman,2,False,Kyle Finch,other,2011,6
+50,Nurse Jackie,US,4,36190,Edie Falco,1,True,Jackie Peyton,doctor (probably),2012,4
+51,Nurse Jackie,US,4,201665,Eve Best,1,True,Dr. Eleanor O'Hara,doctor,2012,4
+52,Nurse Jackie,US,4,36189,Paul Schulze,2,True,Eddie Walzer,doctor (probably),2012,4
+53,Nurse Jackie,US,4,56857,Peter Facinelli,2,True,Dr. Fitch Cooper,doctor,2012,4
+54,Nurse Jackie,US,4,1246802,Jake Cannavale,2,True,Charlie Cruz,doctor (probably),2012,4
+55,Nurse Jackie,US,4,1246803,Arjun Gupta,2,True,Sam,doctor (probably),2012,4
+56,Nurse Jackie,US,4,1246804,Lenny Jacobson,2,True,Lenny,doctor (probably),2012,4
+57,Nurse Jackie,US,4,28044,Merritt Wever,1,True,Zoey Barkow,doctor (probably),2012,4
+58,Nurse Jackie,US,4,1246800,Stephen Wallem,2,True,Thor Lundgren,doctor (probably),2012,4
+59,Nurse Jackie,US,4,154784,Dominic Fumusa,2,True,Kevin Peyton,doctor (probably),2012,4
+60,Nurse Jackie,US,4,1218228,Ruby Jerins,1,True,Grace Peyton,doctor (probably),2012,4
+61,Nurse Jackie,US,4,207628,Mackenzie Aladjem,1,True,Fiona Peyton,doctor (probably),2012,4
+62,Nurse Jackie,US,4,63279,Anna Deavere Smith,1,True,Gloria Akalitus,doctor (probably),2012,4
+63,Nurse Jackie,US,4,99007,Laura Silverman,1,False,Laura,other,2012,6
+64,Nurse Jackie,US,4,54883,Michael Buscemi,2,False,God,other,2012,6
+65,Nurse Jackie,US,4,1260481,Greta Lee,1,False,Nurse,nurse,2012,6
+66,Nurse Jackie,US,5,36190,Edie Falco,1,True,Jackie Peyton,doctor (probably),2013,4
+67,Nurse Jackie,US,5,36189,Paul Schulze,2,True,Eddie Walzer,doctor (probably),2013,4
+68,Nurse Jackie,US,5,56857,Peter Facinelli,2,True,Dr. Fitch Cooper,doctor,2013,4
+69,Nurse Jackie,US,5,1246804,Lenny Jacobson,2,True,Lenny,doctor (probably),2013,4
+70,Nurse Jackie,US,5,28044,Merritt Wever,1,True,Zoey Barkow,doctor (probably),2013,4
+71,Nurse Jackie,US,5,1246800,Stephen Wallem,2,True,Thor Lundgren,doctor (probably),2013,4
+72,Nurse Jackie,US,5,154784,Dominic Fumusa,2,True,Kevin Peyton,doctor (probably),2013,4
+73,Nurse Jackie,US,5,1218228,Ruby Jerins,1,True,Grace Peyton,doctor (probably),2013,4
+74,Nurse Jackie,US,5,63279,Anna Deavere Smith,1,True,Gloria Akalitus,doctor (probably),2013,4
+75,Nurse Jackie,US,5,207628,Mackenzie Aladjem,1,True,Fiona Peyton,doctor (probably),2013,4
+76,Nurse Jackie,US,5,92572,Betty Gilpin,1,True,Dr. Carrie Roman,doctor,2013,4
+77,Nurse Jackie,US,5,1260481,Greta Lee,1,False,Nurse,nurse,2013,4
+78,Nurse Jackie,US,5,972883,Skylar Gaertner,2,False,Jake,other,2013,4
+79,Nurse Jackie,US,5,1636654,Robbie Tann,2,False,Steve,other,2013,5
+80,Nurse Jackie,US,5,1384849,Pallavi Sastry,1,False,Allison,other,2013,5
+81,Nurse Jackie,US,6,36190,Edie Falco,1,True,Jackie Peyton,doctor (probably),2014,4
+82,Nurse Jackie,US,6,36189,Paul Schulze,2,True,Eddie Walzer,doctor (probably),2014,4
+83,Nurse Jackie,US,6,56857,Peter Facinelli,2,True,Dr. Fitch Cooper,doctor,2014,4
+84,Nurse Jackie,US,6,1246804,Lenny Jacobson,2,True,Lenny,doctor (probably),2014,4
+85,Nurse Jackie,US,6,28044,Merritt Wever,1,True,Zoey Barkow,doctor (probably),2014,4
+86,Nurse Jackie,US,6,1246800,Stephen Wallem,2,True,Thor Lundgren,doctor (probably),2014,4
+87,Nurse Jackie,US,6,154784,Dominic Fumusa,2,True,Kevin Peyton,doctor (probably),2014,4
+88,Nurse Jackie,US,6,1218228,Ruby Jerins,1,True,Grace Peyton,doctor (probably),2014,4
+89,Nurse Jackie,US,6,63279,Anna Deavere Smith,1,True,Gloria Akalitus,doctor (probably),2014,4
+90,Nurse Jackie,US,6,207628,Mackenzie Aladjem,1,True,Fiona Peyton,doctor (probably),2014,4
+91,Nurse Jackie,US,6,92572,Betty Gilpin,1,True,Dr. Carrie Roman,doctor,2014,4
+92,Nurse Jackie,US,6,1046723,Rhiannon Giddens,1,False,Square dance caller,other,2014,4
+93,Nurse Jackie,US,6,77013,Deirdre O'Connell,1,False,Helen,other,2014,5
+94,Nurse Jackie,US,7,36190,Edie Falco,1,True,Jackie Peyton,doctor (probably),2015,4
+95,Nurse Jackie,US,7,36189,Paul Schulze,2,True,Eddie Walzer,doctor (probably),2015,4
+96,Nurse Jackie,US,7,56857,Peter Facinelli,2,True,Dr. Fitch Cooper,doctor,2015,4
+97,Nurse Jackie,US,7,28044,Merritt Wever,1,True,Zoey Barkow,doctor (probably),2015,4
+98,Nurse Jackie,US,7,1246800,Stephen Wallem,2,True,Thor Lundgren,doctor (probably),2015,4
+99,Nurse Jackie,US,7,154784,Dominic Fumusa,2,True,Kevin Peyton,doctor (probably),2015,4
+100,Nurse Jackie,US,7,1218228,Ruby Jerins,1,True,Grace Peyton,doctor (probably),2015,4
+101,Nurse Jackie,US,7,207628,Mackenzie Aladjem,1,True,Fiona Peyton,doctor (probably),2015,4
+102,Nurse Jackie,US,7,63279,Anna Deavere Smith,1,True,Gloria Akalitus,doctor (probably),2015,4
+103,Nurse Jackie,US,7,92572,Betty Gilpin,1,True,Dr. Carrie Roman,doctor,2015,4
+104,Nurse Jackie,US,7,1264566,Dave Shalansky,2,False,Rick,other,2015,4
+105,Nurse Jackie,US,7,53260,Adriane Lenox,1,False,NURSE JACKIE,nurse,2015,6
+106,Nurse Jackie,US,7,109024,Purva Bedi,1,False,Tazim,other,2015,6
+107,Nurse Jackie,US,7,54883,Michael Buscemi,2,False,Donald,other,2015,6

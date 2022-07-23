@@ -1,0 +1,269 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Familie Dr. Kleist,DE,1,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2004,4
+1,Familie Dr. Kleist,DE,1,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2004,4
+2,Familie Dr. Kleist,DE,1,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2004,4
+3,Familie Dr. Kleist,DE,1,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2004,4
+4,Familie Dr. Kleist,DE,1,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2004,4
+5,Familie Dr. Kleist,DE,1,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2004,4
+6,Familie Dr. Kleist,DE,1,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2004,4
+7,Familie Dr. Kleist,DE,1,226669,David Bode,2,True,Peter Kleist,doctor (probably),2004,4
+8,Familie Dr. Kleist,DE,1,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2004,4
+9,Familie Dr. Kleist,DE,1,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2004,4
+10,Familie Dr. Kleist,DE,1,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2004,4
+11,Familie Dr. Kleist,DE,1,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2004,4
+12,Familie Dr. Kleist,DE,1,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2004,4
+13,Familie Dr. Kleist,DE,1,34298,Susanne Hoss,1,False,Susanne Kleist,other,2004,4
+14,Familie Dr. Kleist,DE,1,70462,Johannes Gabriel,2,False,Uwe Karminski,other,2004,4
+15,Familie Dr. Kleist,DE,1,64568,Martin Goeres,2,False,Gregor Holstein,other,2004,4
+16,Familie Dr. Kleist,DE,1,23120,Teresa Weißbach,1,False,Nina Wertheimer,other,2004,4
+17,Familie Dr. Kleist,DE,1,22953,Simone von Zglinicki,1,False,Dr. Verena Klein,doctor,2004,4
+18,Familie Dr. Kleist,DE,1,1477298,Aline Hochscheid,1,False,Remanka Walter,other,2004,4
+19,Familie Dr. Kleist,DE,1,43170,Thomas Huber,2,False,Helmut Langer,other,2004,4
+20,Familie Dr. Kleist,DE,1,1307364,Angela Hobrig,1,False,Carola Baum,other,2004,4
+21,Familie Dr. Kleist,DE,1,70116,Bernd Herzsprung,2,False,Erwin Baum,other,2004,4
+22,Familie Dr. Kleist,DE,1,2946411,Alexandra Scheidt,1,False,Sara Baum,other,2004,4
+23,Familie Dr. Kleist,DE,1,987550,Mathias Herrmann,2,False,Klaus Kleist,other,2004,4
+24,Familie Dr. Kleist,DE,1,68478,Sebastian Ströbel,2,False,Michael Hertel,other,2004,4
+25,Familie Dr. Kleist,DE,1,1800324,Wiebke Adam,1,False,Karin Meier,other,2004,4
+26,Familie Dr. Kleist,DE,1,1800325,Peter Schulze-Sandow,2,False,Markus Landwehr,other,2004,4
+27,Familie Dr. Kleist,DE,1,34300,Dieter Montag,2,False,Bernd Wertheimer,other,2004,4
+28,Familie Dr. Kleist,DE,1,32444,Tamara Simunovic,1,False,Hannah Röder,other,2004,5
+29,Familie Dr. Kleist,DE,1,928177,Hansjürgen Hürrig,2,False,,other,2004,5
+30,Familie Dr. Kleist,DE,1,49200,Denise Zich,1,False,Tanja Eisler,other,2004,5
+31,Familie Dr. Kleist,DE,1,233409,Klaus Mikoleit,2,False,Dr. Robert Schirrer,doctor,2004,5
+32,Familie Dr. Kleist,DE,1,13817,Michael Gerber,2,False,Hartmut Eisler,other,2004,5
+33,Familie Dr. Kleist,DE,1,1008395,Heike Hanold-Lynch,1,False,,other,2004,5
+34,Familie Dr. Kleist,DE,1,49016,Guntbert Warns,2,False,Dr. Heiner Lister,doctor,2004,5
+35,Familie Dr. Kleist,DE,1,48905,Silke Matthias,1,False,Sonja Baldauf,other,2004,5
+36,Familie Dr. Kleist,DE,1,2948982,Friederike Nedelmann,1,False,Frau Gerber,other,2004,5
+37,Familie Dr. Kleist,DE,1,1530895,Rahel Ohm,1,False,Bea Hauser,other,2004,5
+38,Familie Dr. Kleist,DE,1,1861269,Ev-Katrin Weiß,1,False,Imke Jahreis,other,2004,5
+39,Familie Dr. Kleist,DE,1,1420241,Peter Rauch,2,False,,other,2004,5
+40,Familie Dr. Kleist,DE,1,2948983,Tina Hollitzer,1,False,,other,2004,5
+41,Familie Dr. Kleist,DE,1,11609,Floriane Daniel,1,False,Carina Freund,other,2004,5
+42,Familie Dr. Kleist,DE,1,38216,Kai Scheve,2,False,Matthias Freund,other,2004,5
+43,Familie Dr. Kleist,DE,1,34301,Evelyn Meyka,1,False,Frau Schaller,other,2004,5
+44,Familie Dr. Kleist,DE,1,48247,Antonio Di Mauro,2,False,Vittorio,other,2004,6
+45,Familie Dr. Kleist,DE,1,1515679,Anka Baier,1,False,Petra Merkel,other,2004,6
+46,Familie Dr. Kleist,DE,1,74186,Dieter Wien,2,False,Heribert Merkel,other,2004,6
+47,Familie Dr. Kleist,DE,1,2949004,Caroline Schneider,1,False,Julia Kleist,other,2004,6
+48,Familie Dr. Kleist,DE,1,588318,André Röhner,2,False,Konrad Tromberger,other,2004,6
+49,Familie Dr. Kleist,DE,1,16720,Bernd Stegemann,2,False,Michael Beyer,other,2004,6
+50,Familie Dr. Kleist,DE,1,572437,Lars Pape,2,False,Jan Schröder,other,2004,6
+51,Familie Dr. Kleist,DE,1,1112947,Matthias Manz,2,False,Herbert,other,2004,6
+52,Familie Dr. Kleist,DE,1,36749,Hans-Peter Korff,2,False,Herr Winscheid,other,2004,6
+53,Familie Dr. Kleist,DE,1,26499,Gernot Endemann,2,False,,other,2004,6
+54,Familie Dr. Kleist,DE,1,2949053,Katja Langnäse,1,False,,other,2004,6
+55,Familie Dr. Kleist,DE,1,42879,Florentine Lahme,1,False,Sabine Gross,other,2004,6
+56,Familie Dr. Kleist,DE,1,49766,Kirsten Block,1,False,Birte Hänning,other,2004,6
+57,Familie Dr. Kleist,DE,1,445372,Frederic Welter,2,False,Florian Hänning,other,2004,6
+58,Familie Dr. Kleist,DE,1,1253977,Bettina Lamprecht,1,False,Elisabeth Heimann,other,2004,6
+59,Familie Dr. Kleist,DE,1,2949083,Katharine Sobko,1,False,Lilli Heimann,other,2004,6
+60,Familie Dr. Kleist,DE,1,67423,Christoph Grunert,2,False,Hermann Gross,other,2004,6
+61,Familie Dr. Kleist,DE,1,1460955,Maximilian Pfaff,2,False,Fred,other,2004,7
+62,Familie Dr. Kleist,DE,1,2007099,Hamid Bundu,2,False,Henry Keeler,other,2004,7
+63,Familie Dr. Kleist,DE,1,2949115,Alexander Eisenfeld,2,False,Steffen Wagner,other,2004,7
+64,Familie Dr. Kleist,DE,1,1081441,Patrick Kalupa,2,False,Lutz,other,2004,7
+65,Familie Dr. Kleist,DE,2,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2006,4
+66,Familie Dr. Kleist,DE,2,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2006,4
+67,Familie Dr. Kleist,DE,2,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2006,4
+68,Familie Dr. Kleist,DE,2,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2006,4
+69,Familie Dr. Kleist,DE,2,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2006,4
+70,Familie Dr. Kleist,DE,2,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2006,4
+71,Familie Dr. Kleist,DE,2,226669,David Bode,2,True,Peter Kleist,doctor (probably),2006,4
+72,Familie Dr. Kleist,DE,2,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2006,4
+73,Familie Dr. Kleist,DE,2,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2006,4
+74,Familie Dr. Kleist,DE,2,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2006,4
+75,Familie Dr. Kleist,DE,2,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2006,4
+76,Familie Dr. Kleist,DE,2,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2006,4
+77,Familie Dr. Kleist,DE,2,1307364,Angela Hobrig,1,False,Carola Baum,other,2006,4
+78,Familie Dr. Kleist,DE,2,70116,Bernd Herzsprung,2,False,Erwin Baum,other,2006,4
+79,Familie Dr. Kleist,DE,2,2946411,Alexandra Scheidt,1,False,Sara Baum,other,2006,4
+80,Familie Dr. Kleist,DE,2,22953,Simone von Zglinicki,1,False,Dr. Verena Klein,doctor,2006,4
+81,Familie Dr. Kleist,DE,2,1477298,Aline Hochscheid,1,False,Remanka Walter,other,2006,4
+82,Familie Dr. Kleist,DE,2,1833155,Verena Klein,1,False,Ingrid Biber,other,2006,4
+83,Familie Dr. Kleist,DE,2,22703,Diana Körner,1,False,Evelyn Dahlmann,other,2006,4
+84,Familie Dr. Kleist,DE,2,43156,Deborah Kaufmann,1,False,Tatjana Dahlmann,other,2006,4
+85,Familie Dr. Kleist,DE,2,25432,Winnie Böwe,1,False,Nora Mann,other,2006,4
+86,Familie Dr. Kleist,DE,2,1284178,Jeannette Arndt,1,False,Monika Hofer,other,2006,4
+87,Familie Dr. Kleist,DE,2,34300,Dieter Montag,2,False,Bernd Wertheimer,other,2006,5
+88,Familie Dr. Kleist,DE,2,1127786,Swetlana Schönfeld,1,False,Milena Strunk,other,2006,5
+89,Familie Dr. Kleist,DE,2,1825866,Georg Jungermann,2,False,Florian Siewert,other,2006,5
+90,Familie Dr. Kleist,DE,2,3936,Petra Zieser,1,False,Sybille Körner,other,2006,5
+91,Familie Dr. Kleist,DE,2,576093,Bert Tischendorf,2,False,Jens Körner,other,2006,5
+92,Familie Dr. Kleist,DE,2,38442,Thure Riefenstein,2,False,Dr. Hubertus Winkler,doctor,2006,5
+93,Familie Dr. Kleist,DE,2,2952088,Sylvia Arndt,1,False,,other,2006,5
+94,Familie Dr. Kleist,DE,2,1684497,Anette Hellwig,1,False,,other,2006,5
+95,Familie Dr. Kleist,DE,2,2330389,Bernd Hengst,2,False,,other,2006,5
+96,Familie Dr. Kleist,DE,2,1861,Markus Knüfken,2,False,Horst Brinkmann,other,2006,3
+97,Familie Dr. Kleist,DE,2,1510119,Ina Rudolph,1,False,Stefanie Saarow,other,2006,3
+98,Familie Dr. Kleist,DE,2,227659,Jonathan Dümcke,2,False,Daniel Saarow,other,2006,3
+99,Familie Dr. Kleist,DE,2,2953410,Kathleen Gaube,1,False,,other,2006,3
+100,Familie Dr. Kleist,DE,2,43494,Elisabeth Wiedemann,1,False,Elisabeth Ludwig,other,2006,6
+101,Familie Dr. Kleist,DE,2,1246710,Ole Tillmann,2,False,Alexander Baum,other,2006,6
+102,Familie Dr. Kleist,DE,2,37793,Dietmar Schönherr,2,False,Friedrich Ewersbusch,doctor,2006,5
+103,Familie Dr. Kleist,DE,2,228902,Janina Hartwig,1,False,Elke Lerch,other,2006,5
+104,Familie Dr. Kleist,DE,2,1822170,Theresa Schwierske,1,False,Nadja Lerch,other,2006,5
+105,Familie Dr. Kleist,DE,2,72215,Sina Tkotsch,1,False,Romy Winter,other,2006,7
+106,Familie Dr. Kleist,DE,2,1428160,Matthias Zahlbaum,2,False,Günter Winter,other,2006,7
+107,Familie Dr. Kleist,DE,2,1179175,Susanne Lüning,1,False,Petra Winter,other,2006,7
+108,Familie Dr. Kleist,DE,2,141655,Alexander Höchst,2,False,Marius Berg,other,2006,7
+109,Familie Dr. Kleist,DE,2,1181855,Paul Gäbler,2,False,Frank,other,2006,7
+110,Familie Dr. Kleist,DE,2,70888,Michael von Au,2,False,Reiner Marthaler,other,2006,7
+111,Familie Dr. Kleist,DE,2,1535175,Amina Gusner,1,False,Ulrike Braun,other,2006,7
+112,Familie Dr. Kleist,DE,2,1169507,Dirk Schoedon,2,False,Paul,other,2006,7
+113,Familie Dr. Kleist,DE,2,39861,Marcus Mittermeier,2,False,Michael Stellmann,other,2006,8
+114,Familie Dr. Kleist,DE,2,4536,Hansa Czypionka,2,False,Bernhard Möhring,other,2006,8
+115,Familie Dr. Kleist,DE,2,234227,Ezra-Valentin Lenz,0,False,Sven Möhring,other,2006,8
+116,Familie Dr. Kleist,DE,3,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2008,11
+117,Familie Dr. Kleist,DE,3,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2008,11
+118,Familie Dr. Kleist,DE,3,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2008,11
+119,Familie Dr. Kleist,DE,3,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2008,11
+120,Familie Dr. Kleist,DE,3,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2008,11
+121,Familie Dr. Kleist,DE,3,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2008,11
+122,Familie Dr. Kleist,DE,3,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2008,11
+123,Familie Dr. Kleist,DE,3,226669,David Bode,2,True,Peter Kleist,doctor (probably),2008,11
+124,Familie Dr. Kleist,DE,3,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2008,11
+125,Familie Dr. Kleist,DE,3,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2008,11
+126,Familie Dr. Kleist,DE,3,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2008,11
+127,Familie Dr. Kleist,DE,3,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2008,11
+128,Familie Dr. Kleist,DE,3,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2008,11
+129,Familie Dr. Kleist,DE,3,49740,Daniela Holtz,1,False,Dr. Hannah Kohler,doctor,2008,11
+130,Familie Dr. Kleist,DE,3,588085,Florian Sonnefeld,2,False,Lukas,other,2008,11
+131,Familie Dr. Kleist,DE,3,2946419,Lina Schuller,1,False,Julia Kleist,other,2008,11
+132,Familie Dr. Kleist,DE,3,1307364,Angela Hobrig,1,False,Carola Baum,other,2008,11
+133,Familie Dr. Kleist,DE,3,2946411,Alexandra Scheidt,1,False,Sara Baum,other,2008,11
+134,Familie Dr. Kleist,DE,3,1833155,Verena Klein,1,False,Ingrid Biber,other,2008,11
+135,Familie Dr. Kleist,DE,3,1184321,Susann Uplegger,1,False,Rita Bennet,other,2008,11
+136,Familie Dr. Kleist,DE,3,54466,Julia Stinshoff,1,False,Manuela Tanner,other,2008,11
+137,Familie Dr. Kleist,DE,3,50185,David C. Bunners,2,False,Frank Tanner,other,2008,11
+138,Familie Dr. Kleist,DE,3,2946421,Willy Lütke,2,False,Olli Miesfelder,other,2008,11
+139,Familie Dr. Kleist,DE,3,1257218,Hans-Joachim Heist,2,False,Ingenieur R. Krostel,other,2008,11
+140,Familie Dr. Kleist,DE,3,52400,Dirk Martens,2,False,Dieter Kerner,other,2008,11
+141,Familie Dr. Kleist,DE,3,1024860,Ann-Cathrin Sudhoff,1,False,Birgit Kerner,other,2008,11
+142,Familie Dr. Kleist,DE,3,2946423,Felix Wichum,2,False,Victor Kerner,other,2008,11
+143,Familie Dr. Kleist,DE,3,1477298,Aline Hochscheid,1,False,Remanka Walter,other,2008,11
+144,Familie Dr. Kleist,DE,3,42402,Verena Peter,1,False,Marion,other,2008,12
+145,Familie Dr. Kleist,DE,3,141655,Alexander Höchst,2,False,Dr. Marius Berg,doctor,2008,12
+146,Familie Dr. Kleist,DE,3,1286402,Susanne Michel,1,False,Stefanie Holzmann,other,2008,12
+147,Familie Dr. Kleist,DE,3,118430,Jürgen Zartmann,2,False,Martin Burger,other,2008,12
+148,Familie Dr. Kleist,DE,3,6266,Steffen Groth,2,False,Heiner Hauser,other,2008,12
+149,Familie Dr. Kleist,DE,3,48904,Nike Fuhrmann,1,False,Ulla Hauser,other,2008,12
+150,Familie Dr. Kleist,DE,3,1709922,Danne Hoffmann,0,False,Frau Schneider,other,2008,12
+151,Familie Dr. Kleist,DE,3,66930,Lea Eisleb,1,False,Nele Järisch,other,2008,12
+152,Familie Dr. Kleist,DE,3,38772,Adrian Topol,2,False,Thomas,other,2008,12
+153,Familie Dr. Kleist,DE,3,143481,Katharina Schubert,1,False,Leonie Sturm,other,2008,12
+154,Familie Dr. Kleist,DE,3,50243,Katrin Bühring,1,False,Iris Wagner,other,2009,1
+155,Familie Dr. Kleist,DE,3,934382,Patrik Fichte,2,False,Jens Wagner,other,2009,1
+156,Familie Dr. Kleist,DE,3,213586,Helmut Zierl,2,False,Maximilian Ohlmann,other,2009,1
+157,Familie Dr. Kleist,DE,3,48705,Ute Willing,1,False,Sophia Brucker,other,2009,1
+158,Familie Dr. Kleist,DE,3,28273,Friederike Kempter,1,False,Sabrina Zimmermann,other,2009,1
+159,Familie Dr. Kleist,DE,3,1537160,Uwe Rathsam,2,False,Gerd Bauermeister,other,2009,1
+160,Familie Dr. Kleist,DE,3,1329196,Oleg Zhukov,2,False,Dimitrij Zimmermann,other,2009,1
+161,Familie Dr. Kleist,DE,3,48662,Annette Kreft,1,False,Frau Eckert,other,2009,1
+162,Familie Dr. Kleist,DE,3,1208292,Roberto Guerra,2,False,Enzo,other,2009,1
+163,Familie Dr. Kleist,DE,3,928179,Lucia Gailová,1,False,Hanne Bader,other,2009,1
+164,Familie Dr. Kleist,DE,3,2195363,Nelly Keusch,1,False,Sophia Bader,other,2009,1
+165,Familie Dr. Kleist,DE,3,1177415,Anke Sevenich,1,False,Thea Ziegler,other,2009,2
+166,Familie Dr. Kleist,DE,3,543973,Herbert Trattnigg,2,False,Lorenz Ziegler,other,2009,2
+167,Familie Dr. Kleist,DE,3,25415,Axel Schreiber,2,False,Nico,other,2009,2
+168,Familie Dr. Kleist,DE,3,33511,Oliver Broumis,2,False,Justus Schinkel,other,2009,2
+169,Familie Dr. Kleist,DE,3,48424,Angelika Thomas,1,False,Sabine Mann,other,2009,2
+170,Familie Dr. Kleist,DE,4,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2010,11
+171,Familie Dr. Kleist,DE,4,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2010,11
+172,Familie Dr. Kleist,DE,4,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2010,11
+173,Familie Dr. Kleist,DE,4,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2010,11
+174,Familie Dr. Kleist,DE,4,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2010,11
+175,Familie Dr. Kleist,DE,4,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2010,11
+176,Familie Dr. Kleist,DE,4,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2010,11
+177,Familie Dr. Kleist,DE,4,226669,David Bode,2,True,Peter Kleist,doctor (probably),2010,11
+178,Familie Dr. Kleist,DE,4,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2010,11
+179,Familie Dr. Kleist,DE,4,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2010,11
+180,Familie Dr. Kleist,DE,4,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2010,11
+181,Familie Dr. Kleist,DE,4,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2010,11
+182,Familie Dr. Kleist,DE,4,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2010,11
+183,Familie Dr. Kleist,DE,4,1244346,Katharina Abt,1,False,Valerie Spengler,other,2010,11
+184,Familie Dr. Kleist,DE,4,21750,Petra Kelling,1,False,Helga Thaller,other,2010,11
+185,Familie Dr. Kleist,DE,4,1501990,Nadja Engel,1,False,Martina Thaller,other,2010,11
+186,Familie Dr. Kleist,DE,4,45903,Nina Hoger,1,False,Elisabeth Volkerts,other,2010,11
+187,Familie Dr. Kleist,DE,4,34296,Anja Knauer,1,False,Marion Merkel,other,2010,11
+188,Familie Dr. Kleist,DE,4,25401,Josefine Preuß,1,False,Liane Fürstenberg,other,2010,11
+189,Familie Dr. Kleist,DE,4,16722,Tim Wilde,2,False,Stefan Markwart,other,2010,12
+190,Familie Dr. Kleist,DE,4,18734,Tim Seyfi,2,False,Stefano Piranelli,other,2010,12
+191,Familie Dr. Kleist,DE,4,1565704,Jennipher Antoni,1,False,Jutta Wagner,other,2010,12
+192,Familie Dr. Kleist,DE,4,27270,Johannes Brandrup,2,False,Dr. Marc Jansen,doctor,2011,1
+193,Familie Dr. Kleist,DE,4,66827,Tim Sander,2,False,Dirk Werner,other,2011,2
+194,Familie Dr. Kleist,DE,5,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2013,10
+195,Familie Dr. Kleist,DE,5,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2013,10
+196,Familie Dr. Kleist,DE,5,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2013,10
+197,Familie Dr. Kleist,DE,5,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2013,10
+198,Familie Dr. Kleist,DE,5,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2013,10
+199,Familie Dr. Kleist,DE,5,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2013,10
+200,Familie Dr. Kleist,DE,5,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2013,10
+201,Familie Dr. Kleist,DE,5,226669,David Bode,2,True,Peter Kleist,doctor (probably),2013,10
+202,Familie Dr. Kleist,DE,5,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2013,10
+203,Familie Dr. Kleist,DE,5,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2013,10
+204,Familie Dr. Kleist,DE,5,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2013,10
+205,Familie Dr. Kleist,DE,5,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2013,10
+206,Familie Dr. Kleist,DE,5,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2013,10
+207,Familie Dr. Kleist,DE,5,118433,Karin Düwel,1,False,Frau Wegert,other,2013,11
+208,Familie Dr. Kleist,DE,5,27108,Sonsee Neu,1,False,Krista Hesse,other,2013,11
+209,Familie Dr. Kleist,DE,5,1856,Ralph Herforth,2,False,,other,2013,12
+210,Familie Dr. Kleist,DE,5,46163,Sonja Kirchberger,1,False,,other,2013,12
+211,Familie Dr. Kleist,DE,5,1800342,Alexander Mazza,2,False,,other,2013,12
+212,Familie Dr. Kleist,DE,5,1167136,Mariella Ahrens,1,False,Ingrid Weber,other,2014,1
+213,Familie Dr. Kleist,DE,5,100095,Horst Janson,2,False,,other,2014,1
+214,Familie Dr. Kleist,DE,5,588136,Andrea Lüdke,1,False,Sandra Müller,doctor,2014,2
+215,Familie Dr. Kleist,DE,6,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2016,9
+216,Familie Dr. Kleist,DE,6,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2016,9
+217,Familie Dr. Kleist,DE,6,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2016,9
+218,Familie Dr. Kleist,DE,6,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2016,9
+219,Familie Dr. Kleist,DE,6,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2016,9
+220,Familie Dr. Kleist,DE,6,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2016,9
+221,Familie Dr. Kleist,DE,6,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2016,9
+222,Familie Dr. Kleist,DE,6,226669,David Bode,2,True,Peter Kleist,doctor (probably),2016,9
+223,Familie Dr. Kleist,DE,6,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2016,9
+224,Familie Dr. Kleist,DE,6,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2016,9
+225,Familie Dr. Kleist,DE,6,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2016,9
+226,Familie Dr. Kleist,DE,6,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2016,9
+227,Familie Dr. Kleist,DE,6,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2016,9
+228,Familie Dr. Kleist,DE,7,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2017,11
+229,Familie Dr. Kleist,DE,7,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2017,11
+230,Familie Dr. Kleist,DE,7,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2017,11
+231,Familie Dr. Kleist,DE,7,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2017,11
+232,Familie Dr. Kleist,DE,7,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2017,11
+233,Familie Dr. Kleist,DE,7,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2017,11
+234,Familie Dr. Kleist,DE,7,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2017,11
+235,Familie Dr. Kleist,DE,7,226669,David Bode,2,True,Peter Kleist,doctor (probably),2017,11
+236,Familie Dr. Kleist,DE,7,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2017,11
+237,Familie Dr. Kleist,DE,7,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2017,11
+238,Familie Dr. Kleist,DE,7,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2017,11
+239,Familie Dr. Kleist,DE,7,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2017,11
+240,Familie Dr. Kleist,DE,7,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2017,11
+241,Familie Dr. Kleist,DE,7,1454055,Gisa Zach,1,False,Claudia Beermann,other,2017,12
+242,Familie Dr. Kleist,DE,8,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2018,10
+243,Familie Dr. Kleist,DE,8,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2018,10
+244,Familie Dr. Kleist,DE,8,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2018,10
+245,Familie Dr. Kleist,DE,8,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2018,10
+246,Familie Dr. Kleist,DE,8,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2018,10
+247,Familie Dr. Kleist,DE,8,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2018,10
+248,Familie Dr. Kleist,DE,8,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2018,10
+249,Familie Dr. Kleist,DE,8,226669,David Bode,2,True,Peter Kleist,doctor (probably),2018,10
+250,Familie Dr. Kleist,DE,8,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2018,10
+251,Familie Dr. Kleist,DE,8,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2018,10
+252,Familie Dr. Kleist,DE,8,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2018,10
+253,Familie Dr. Kleist,DE,8,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2018,10
+254,Familie Dr. Kleist,DE,8,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2018,10
+255,Familie Dr. Kleist,DE,9,77881,Francis Fulton-Smith,2,True,Dr. Christian Kleist,doctor,2019,9
+256,Familie Dr. Kleist,DE,9,1245164,Uta Schorn,1,True,Inge Kleist,doctor (probably),2019,9
+257,Familie Dr. Kleist,DE,9,1460950,Marie Seiser,1,True,Lisa Kleist,doctor (probably),2019,9
+258,Familie Dr. Kleist,DE,9,25432,Winnie Böwe,1,True,Nora Mann,doctor (probably),2019,9
+259,Familie Dr. Kleist,DE,9,37105,Ulrich Pleitgen,2,True,Johannes Kleist,doctor (probably),2019,9
+260,Familie Dr. Kleist,DE,9,48148,Christina Plate,1,True,Marlene Holstein,doctor (probably),2019,9
+261,Familie Dr. Kleist,DE,9,1255214,Luca Zamperoni,2,True,Dr. Michael Sandmann,doctor,2019,9
+262,Familie Dr. Kleist,DE,9,226669,David Bode,2,True,Peter Kleist,doctor (probably),2019,9
+263,Familie Dr. Kleist,DE,9,1824167,Tom Radisch,2,True,Dr. Timotheus von Hatzfeld,doctor,2019,9
+264,Familie Dr. Kleist,DE,9,2103585,Julian König,2,True,Paul Kleist,doctor (probably),2019,9
+265,Familie Dr. Kleist,DE,9,1525297,Meo Wulf,2,True,Peter Kleist,doctor (probably),2019,9
+266,Familie Dr. Kleist,DE,9,1283954,Lisa-Marie Koroll,1,True,Clara Kleist,doctor (probably),2019,9
+267,Familie Dr. Kleist,DE,9,1307363,Walter Plathe,2,True,Bernd Spengler,doctor (probably),2019,9

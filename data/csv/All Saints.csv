@@ -1,0 +1,243 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,All Saints,AU,1,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),1998,2
+1,All Saints,AU,1,1229666,Jeremy Cumpston,2,True,Connor Costello,doctor (probably),1998,2
+2,All Saints,AU,1,75489,Sam Healy,2,True,Jaz Hillerman,doctor (probably),1998,2
+3,All Saints,AU,1,1213289,Martin Lynes,2,True,Luke Forlano,doctor (probably),1998,2
+4,All Saints,AU,1,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),1998,2
+5,All Saints,AU,1,1212867,Andrew McKaige,2,True,Peter Morrison,doctor (probably),1998,2
+6,All Saints,AU,1,1229671,Libby Tanner,1,True,Bronwyn Craig,doctor (probably),1998,2
+7,All Saints,AU,1,1229665,Ben Tari,2,True,Jared Levine,doctor (probably),1998,2
+8,All Saints,AU,1,1212875,Kirrily White,0,True,Stephanie Markham,doctor (probably),1998,2
+9,All Saints,AU,1,72134,Steve Jacobs,2,False,Dr Harry Williams,doctor,1998,2
+10,All Saints,AU,1,139782,Angelo D'Angelo,2,False,Damien Carr,other,1998,2
+11,All Saints,AU,1,3067,Gennie Nevinson,1,False,Mrs Levine,other,1998,2
+12,All Saints,AU,1,2194632,Dinah Shearing,1,False,Judith Aston,other,1998,2
+13,All Saints,AU,1,57799,Bill Young,2,False,Don McClusky,other,1998,2
+14,All Saints,AU,1,75889,Michael Caton,2,False,Bob Parkin,other,1998,2
+15,All Saints,AU,1,1239006,Brian Vriends,2,False,Ben Markham,other,1998,2
+16,All Saints,AU,1,2553471,Terry Binding,1,False,Sister Jane Foster,other,1998,2
+17,All Saints,AU,1,3026890,Geoff Cartwright,2,False,Dr Rob Bowen,doctor,1998,2
+18,All Saints,AU,1,3308808,John Clingan,2,False,Intensivist,other,1998,2
+19,All Saints,AU,1,215865,Belinda Cotterill,1,False,Angela Meadows,other,1998,2
+20,All Saints,AU,1,3308809,John Griffiths,2,False,Anaesthetist,other,1998,2
+21,All Saints,AU,1,1335090,Silvio Ofria,2,False,Luis Gonzalez,other,1998,2
+22,All Saints,AU,1,2788597,Chin Yu,1,False,Mrs Cheng,other,1998,2
+23,All Saints,AU,1,2206446,Elizabeth Maywald,1,False,Sophie Williams,other,1998,2
+24,All Saints,AU,1,1807459,Alex Hughes,2,False,Tim Williams,other,1998,2
+25,All Saints,AU,1,3308811,Ross Pirelli,2,False,James Williams,other,1998,2
+26,All Saints,AU,1,62487,Michael Denkha,2,False,Mario Constantine,other,1998,3
+27,All Saints,AU,1,76067,Laurence Breuls,1,False,Scott Chambers,other,1998,3
+28,All Saints,AU,1,1233049,Jackson Raine,2,False,Dr James Wu,doctor,1998,3
+29,All Saints,AU,1,3309313,Maria Stunt,1,False,Mrs Gianopolous,other,1998,3
+30,All Saints,AU,1,3045641,Kim Hillas,1,False,Joan Marden,other,1998,3
+31,All Saints,AU,1,3309315,Chloe Allen,1,False,Waitress,other,1998,3
+32,All Saints,AU,1,3309318,Tony Vitello,2,False,Gang Member,other,1998,3
+33,All Saints,AU,1,3309319,Todd Dwyer,2,False,Police Officer,other,1998,3
+34,All Saints,AU,1,75755,Anthony Jensen,2,False,Dealer,other,1998,3
+35,All Saints,AU,1,3309322,Freddi Yannich,2,False,Thug,other,1998,3
+36,All Saints,AU,1,1230571,David Baldwin,2,False,Adam Beauman,other,1998,3
+37,All Saints,AU,1,2709811,Emma Blake,1,False,Kylie Green,other,1998,3
+38,All Saints,AU,1,3309326,Myra Campbell,1,False,Mrs Andrikidis,doctor,1998,3
+39,All Saints,AU,1,3309327,Lee Campbell,2,False,Brad,other,1998,3
+40,All Saints,AU,1,3309328,Colleen Cook,1,False,Mrs Carrington,other,1998,3
+41,All Saints,AU,1,3309329,Mariette Rups Donnelly,1,False,Mrs Walker,other,1998,3
+42,All Saints,AU,1,75929,Tony Forrow,2,False,Matt,other,1998,3
+43,All Saints,AU,1,1879712,Steve Judkins,2,False,Arnie Walker,other,1998,3
+44,All Saints,AU,1,3073234,Alfie Lee,0,False,Policeman,other,1998,3
+45,All Saints,AU,1,1505287,Zika Nester,0,False,Gilda Clemenko,other,1998,3
+46,All Saints,AU,1,3017227,Tai Scrivener,2,False,Policeman,other,1998,3
+47,All Saints,AU,1,75740,Helen Dallimore,1,False,Amanda Sales,other,1998,3
+48,All Saints,AU,1,1344406,Sandy Winton,2,False,Greg Newman,other,1998,3
+49,All Saints,AU,1,942259,Beth Champion,1,False,Melissa,other,1998,3
+50,All Saints,AU,1,3059217,Pat Hutchinson,3,False,Gwen Jones,other,1998,3
+51,All Saints,AU,1,3309334,Joy Miller,1,False,Brenda Blair,other,1998,3
+52,All Saints,AU,1,2174122,Andy Cachia,2,False,Jamie,other,1998,3
+53,All Saints,AU,1,212739,Martin Dingle Wall,2,False,,other,1998,3
+54,All Saints,AU,1,79711,Maggie Dence,1,False,,other,1998,4
+55,All Saints,AU,1,214546,Lauren Hewett,1,False,,other,1998,4
+56,All Saints,AU,1,1381,John Noble,2,False,,other,1998,4
+57,All Saints,AU,1,78566,Denise Roberts,1,False,,other,1998,4
+58,All Saints,AU,1,1229651,Matthew Krok,2,False,,other,1998,4
+59,All Saints,AU,1,50235,Michael C. Gwynne,2,False,,other,1998,4
+60,All Saints,AU,1,190461,Kate Fitzpatrick,1,False,,other,1998,5
+61,All Saints,AU,1,79128,Alan Cinis,2,False,,other,1998,5
+62,All Saints,AU,1,1223011,June Salter,1,False,,other,1998,5
+63,All Saints,AU,1,1229653,Caroline Conlon,1,False,,other,1998,6
+64,All Saints,AU,1,1229654,Stuart Wagstaff,2,False,,other,1998,6
+65,All Saints,AU,1,152473,Michela Noonan,1,False,,other,1998,6
+66,All Saints,AU,1,265230,Paul Tassone,2,False,,other,1998,7
+67,All Saints,AU,1,79692,Justine Clarke,1,False,,other,1998,8
+68,All Saints,AU,1,2018368,Kellie Jones,1,False,Amy Jacobs,other,1998,8
+69,All Saints,AU,1,1228910,Bridie Carter,1,False,,other,1998,9
+70,All Saints,AU,1,11132,Charles Tingwell,2,False,,other,1998,11
+71,All Saints,AU,2,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),1999,2
+72,All Saints,AU,2,1229666,Jeremy Cumpston,2,True,Connor Costello,doctor (probably),1999,2
+73,All Saints,AU,2,75489,Sam Healy,2,True,Jaz Hillerman,doctor (probably),1999,2
+74,All Saints,AU,2,1213289,Martin Lynes,2,True,Luke Forlano,doctor (probably),1999,2
+75,All Saints,AU,2,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),1999,2
+76,All Saints,AU,2,1212867,Andrew McKaige,2,True,Peter Morrison,doctor (probably),1999,2
+77,All Saints,AU,2,1229671,Libby Tanner,1,True,Bronwyn Craig,doctor (probably),1999,2
+78,All Saints,AU,2,1229665,Ben Tari,2,True,Jared Levine,doctor (probably),1999,2
+79,All Saints,AU,2,1212875,Kirrily White,0,True,Stephanie Markham,doctor (probably),1999,2
+80,All Saints,AU,2,91399,Erik Thomson,2,True,Mitch Stevens,doctor (probably),1999,2
+81,All Saints,AU,2,138581,Lyn Collingwood,1,False,Laraine Parkes,other,1999,3
+82,All Saints,AU,2,75266,Scott Major,2,False,Jason Richard,other,1999,3
+83,All Saints,AU,2,79692,Justine Clarke,1,False,Dr. Samantha O'Hara,doctor,1999,3
+84,All Saints,AU,2,208296,Callan Mulvey,2,False,Stewie Holder,other,1999,4
+85,All Saints,AU,2,62753,Andy Anderson,2,False,Alan Mitchell,other,1999,6
+86,All Saints,AU,2,1616404,Jon Pollard,2,False,Nigel 'Zap',other,1999,6
+87,All Saints,AU,2,186420,Kristian Schmid,2,False,Thomas Ferry,other,1999,7
+88,All Saints,AU,3,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),2000,2
+89,All Saints,AU,3,1229666,Jeremy Cumpston,2,True,Connor Costello,doctor (probably),2000,2
+90,All Saints,AU,3,1213289,Martin Lynes,2,True,Luke Forlano,doctor (probably),2000,2
+91,All Saints,AU,3,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2000,2
+92,All Saints,AU,3,1229671,Libby Tanner,1,True,Bronwyn Craig,doctor (probably),2000,2
+93,All Saints,AU,3,1229665,Ben Tari,2,True,Jared Levine,doctor (probably),2000,2
+94,All Saints,AU,3,1212875,Kirrily White,0,True,Stephanie Markham,doctor (probably),2000,2
+95,All Saints,AU,3,91399,Erik Thomson,2,True,Mitch Stevens,doctor (probably),2000,2
+96,All Saints,AU,3,1239006,Brian Vriends,2,True,Ben Markham,doctor (probably),2000,2
+97,All Saints,AU,3,1381,John Noble,2,False,,other,2000,2
+98,All Saints,AU,3,1229658,Deborah Galanos,1,False,,other,2000,2
+99,All Saints,AU,3,1229659,Andrew Tighe,2,False,,other,2000,2
+100,All Saints,AU,3,115720,Rebekah Elmaloglou,1,False,Justine Addison,other,2000,6
+101,All Saints,AU,3,2628319,John McNeill,2,False,Allan Miller,other,2000,6
+102,All Saints,AU,3,88418,Amanda Wenban,1,False,,other,2000,7
+103,All Saints,AU,3,1229660,Mat Stevenson,1,False,,other,2000,10
+104,All Saints,AU,3,24589,Paul Mercurio,2,False,,other,2000,10
+105,All Saints,AU,3,1229661,Sam Atwell,2,False,,other,2000,11
+106,All Saints,AU,4,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),2001,2
+107,All Saints,AU,4,1229666,Jeremy Cumpston,2,True,Connor Costello,doctor (probably),2001,2
+108,All Saints,AU,4,1213289,Martin Lynes,2,True,Luke Forlano,doctor (probably),2001,2
+109,All Saints,AU,4,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2001,2
+110,All Saints,AU,4,1229671,Libby Tanner,1,True,Bronwyn Craig,doctor (probably),2001,2
+111,All Saints,AU,4,1229665,Ben Tari,2,True,Jared Levine,doctor (probably),2001,2
+112,All Saints,AU,4,91399,Erik Thomson,2,True,Mitch Stevens,doctor (probably),2001,2
+113,All Saints,AU,4,109750,Conrad Coleby,2,True,Scott Zinenko,doctor (probably),2001,2
+114,All Saints,AU,4,1239006,Brian Vriends,2,True,Ben Markham,doctor (probably),2001,2
+115,All Saints,AU,4,115720,Rebekah Elmaloglou,1,False,Justine Addison,other,2001,3
+116,All Saints,AU,4,2630475,Bill Conn,2,False,Vic McArdle,other,2001,7
+117,All Saints,AU,5,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),2002,2
+118,All Saints,AU,5,1213289,Martin Lynes,2,True,Luke Forlano,doctor (probably),2002,2
+119,All Saints,AU,5,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2002,2
+120,All Saints,AU,5,1229671,Libby Tanner,1,True,Bronwyn Craig,doctor (probably),2002,2
+121,All Saints,AU,5,1229665,Ben Tari,2,True,Jared Levine,doctor (probably),2002,2
+122,All Saints,AU,5,91399,Erik Thomson,2,True,Mitch Stevens,doctor (probably),2002,2
+123,All Saints,AU,5,109750,Conrad Coleby,2,True,Scott Zinenko,doctor (probably),2002,2
+124,All Saints,AU,5,1239006,Brian Vriends,2,True,Ben Markham,doctor (probably),2002,2
+125,All Saints,AU,5,80664,Jenni Baird,1,False,Paula Morgan,other,2002,2
+126,All Saints,AU,5,1213284,Adam Saunders,2,False,Josh Koumanis,other,2002,2
+127,All Saints,AU,5,4031,Greg Ellis,2,False,SRA Worker #3,other,2002,2
+128,All Saints,AU,5,1228907,Josh Quong Tart,2,False,Matt Horner,other,2002,2
+129,All Saints,AU,5,61642,Natasha Beaumont,1,False,Rebecca Green,other,2002,2
+130,All Saints,AU,5,1229663,Drew Forsythe,2,False,,other,2002,2
+131,All Saints,AU,5,1229662,Adam Willits,2,False,,other,2002,2
+132,All Saints,AU,5,3070,Chris Haywood,2,False,,other,2002,6
+133,All Saints,AU,5,47874,Richard Wilson,2,False,,other,2002,6
+134,All Saints,AU,5,199316,David Hoflin,2,False,,other,2002,7
+135,All Saints,AU,5,1242840,Amanda Bishop,1,False,Ms. Alexander,other,2002,9
+136,All Saints,AU,6,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),2003,2
+137,All Saints,AU,6,80664,Jenni Baird,1,True,Paula Morgan,doctor (probably),2003,2
+138,All Saints,AU,6,1213289,Martin Lynes,2,True,Luke Forlano,doctor (probably),2003,2
+139,All Saints,AU,6,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2003,2
+140,All Saints,AU,6,1229671,Libby Tanner,1,True,Bronwyn Craig,doctor (probably),2003,2
+141,All Saints,AU,6,1229665,Ben Tari,2,True,Jared Levine,doctor (probably),2003,2
+142,All Saints,AU,6,91399,Erik Thomson,2,True,Mitch Stevens,doctor (probably),2003,2
+143,All Saints,AU,6,109750,Conrad Coleby,2,True,Scott Zinenko,doctor (probably),2003,2
+144,All Saints,AU,6,1239006,Brian Vriends,2,True,Ben Markham,doctor (probably),2003,2
+145,All Saints,AU,6,265230,Paul Tassone,2,True,Nelson Curtis,doctor (probably),2003,2
+146,All Saints,AU,6,223903,Tammy Macintosh,1,True,Charlotte Beaumont,doctor (probably),2003,2
+147,All Saints,AU,6,1230297,Christopher Gabardi,2,True,Vincent Hughes,doctor (probably),2003,2
+148,All Saints,AU,7,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),2004,2
+149,All Saints,AU,7,80664,Jenni Baird,1,True,Paula Morgan,doctor (probably),2004,2
+150,All Saints,AU,7,1213289,Martin Lynes,2,True,Luke Forlano,doctor (probably),2004,2
+151,All Saints,AU,7,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2004,2
+152,All Saints,AU,7,1212877,Mark Priestley,2,True,Dan Goldman,doctor (probably),2004,2
+153,All Saints,AU,7,91399,Erik Thomson,2,True,Mitch Stevens,doctor (probably),2004,2
+154,All Saints,AU,7,109750,Conrad Coleby,2,True,Scott Zinenko,doctor (probably),2004,2
+155,All Saints,AU,7,1212874,Natalie Saleeba,1,True,Jessica Singelton,doctor (probably),2004,2
+156,All Saints,AU,7,1228906,Wil Traval,3,True,Jack Quade,doctor (probably),2004,2
+157,All Saints,AU,7,265230,Paul Tassone,2,True,Nelson Curtis,doctor (probably),2004,2
+158,All Saints,AU,7,223903,Tammy Macintosh,1,True,Charlotte Beaumont,doctor (probably),2004,2
+159,All Saints,AU,7,1230297,Christopher Gabardi,2,True,Vincent Hughes,doctor (probably),2004,2
+160,All Saints,AU,7,102603,John Howard,2,True,Frank Campion,doctor (probably),2004,2
+161,All Saints,AU,7,2618032,Zoe Houghton,1,False,Carol Blake,other,2004,5
+162,All Saints,AU,7,2633785,Zoe Ella,1,False,Roxy,other,2004,5
+163,All Saints,AU,8,1229664,Georgie Parker,3,True,Terri Sullivan,doctor (probably),2005,2
+164,All Saints,AU,8,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2005,2
+165,All Saints,AU,8,1228885,Alexandra Davies,1,True,Cate McMasters,doctor (probably),2005,2
+166,All Saints,AU,8,1212877,Mark Priestley,2,True,Dan Goldman,doctor (probably),2005,2
+167,All Saints,AU,8,1212874,Natalie Saleeba,1,True,Jessica Singelton,doctor (probably),2005,2
+168,All Saints,AU,8,1228906,Wil Traval,3,True,Jack Quade,doctor (probably),2005,2
+169,All Saints,AU,8,265230,Paul Tassone,2,True,Nelson Curtis,doctor (probably),2005,2
+170,All Saints,AU,8,223903,Tammy Macintosh,1,True,Charlotte Beaumont,doctor (probably),2005,2
+171,All Saints,AU,8,1230297,Christopher Gabardi,2,True,Vincent Hughes,doctor (probably),2005,2
+172,All Saints,AU,8,102603,John Howard,2,True,Frank Campion,doctor (probably),2005,2
+173,All Saints,AU,8,76070,Mia Wasikowska,1,False,,other,2005,2
+174,All Saints,AU,8,1616404,Jon Pollard,2,False,Troy Smart,other,2005,3
+175,All Saints,AU,9,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2006,2
+176,All Saints,AU,9,1228885,Alexandra Davies,1,True,Cate McMasters,doctor (probably),2006,2
+177,All Saints,AU,9,1212877,Mark Priestley,2,True,Dan Goldman,doctor (probably),2006,2
+178,All Saints,AU,9,1229669,Andrew Supanz,2,True,Bartholomew West,doctor (probably),2006,2
+179,All Saints,AU,9,1229670,Jolene Anderson,1,True,Erica Templeton,doctor (probably),2006,2
+180,All Saints,AU,9,1212874,Natalie Saleeba,1,True,Jessica Singelton,doctor (probably),2006,2
+181,All Saints,AU,9,1228906,Wil Traval,3,True,Jack Quade,doctor (probably),2006,2
+182,All Saints,AU,9,265230,Paul Tassone,2,True,Nelson Curtis,doctor (probably),2006,2
+183,All Saints,AU,9,223903,Tammy Macintosh,1,True,Charlotte Beaumont,doctor (probably),2006,2
+184,All Saints,AU,9,1230297,Christopher Gabardi,2,True,Vincent Hughes,doctor (probably),2006,2
+185,All Saints,AU,9,102603,John Howard,2,True,Frank Campion,doctor (probably),2006,2
+186,All Saints,AU,9,144287,Allison Cratchley,1,True,Zoe Gallagher,doctor (probably),2006,2
+187,All Saints,AU,9,75183,Chris Vance,2,True,Sean Everleigh,doctor (probably),2006,2
+188,All Saints,AU,9,1451740,Christian Manon,2,False,Smythe,other,2006,4
+189,All Saints,AU,9,1242840,Amanda Bishop,1,False,Theresa Pye,other,2006,6
+190,All Saints,AU,9,1184955,Ian Meadows,2,False,Jeff Weiss,other,2006,6
+191,All Saints,AU,9,206713,Daniel Amalm,2,False,Moe Atsidakos,other,2006,7
+192,All Saints,AU,10,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2007,2
+193,All Saints,AU,10,1228885,Alexandra Davies,1,True,Cate McMasters,doctor (probably),2007,2
+194,All Saints,AU,10,1212877,Mark Priestley,2,True,Dan Goldman,doctor (probably),2007,2
+195,All Saints,AU,10,1226767,Jack Campbell,2,True,Steve Taylor,doctor (probably),2007,2
+196,All Saints,AU,10,1229669,Andrew Supanz,2,True,Bartholomew West,doctor (probably),2007,2
+197,All Saints,AU,10,1229670,Jolene Anderson,1,True,Erica Templeton,doctor (probably),2007,2
+198,All Saints,AU,10,1228906,Wil Traval,3,True,Jack Quade,doctor (probably),2007,2
+199,All Saints,AU,10,223903,Tammy Macintosh,1,True,Charlotte Beaumont,doctor (probably),2007,2
+200,All Saints,AU,10,1230297,Christopher Gabardi,2,True,Vincent Hughes,doctor (probably),2007,2
+201,All Saints,AU,10,102603,John Howard,2,True,Frank Campion,doctor (probably),2007,2
+202,All Saints,AU,10,144287,Allison Cratchley,1,True,Zoe Gallagher,doctor (probably),2007,2
+203,All Saints,AU,10,75183,Chris Vance,2,True,Sean Everleigh,doctor (probably),2007,2
+204,All Saints,AU,10,1252834,Virginia Gay,1,True,Gabrielle Jaegar,doctor (probably),2007,2
+205,All Saints,AU,10,1068123,John Waters,2,True,Mike Vlasek,doctor (probably),2007,2
+206,All Saints,AU,10,2618032,Zoe Houghton,1,False,Chloe Friar,other,2007,4
+207,All Saints,AU,10,62753,Andy Anderson,2,False,Lewis Dowd,other,2007,8
+208,All Saints,AU,10,1549688,Mark Simpson,2,False,Matthew Holgrem,other,2007,8
+209,All Saints,AU,10,2632032,Megan O'Connell,1,False,Alisa,other,2007,10
+210,All Saints,AU,11,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2008,2
+211,All Saints,AU,11,1212877,Mark Priestley,2,True,Dan Goldman,doctor (probably),2008,2
+212,All Saints,AU,11,1226767,Jack Campbell,2,True,Steve Taylor,doctor (probably),2008,2
+213,All Saints,AU,11,1229669,Andrew Supanz,2,True,Bartholomew West,doctor (probably),2008,2
+214,All Saints,AU,11,1229670,Jolene Anderson,1,True,Erica Templeton,doctor (probably),2008,2
+215,All Saints,AU,11,1228906,Wil Traval,3,True,Jack Quade,doctor (probably),2008,2
+216,All Saints,AU,11,223903,Tammy Macintosh,1,True,Charlotte Beaumont,doctor (probably),2008,2
+217,All Saints,AU,11,102603,John Howard,2,True,Frank Campion,doctor (probably),2008,2
+218,All Saints,AU,11,144287,Allison Cratchley,1,True,Zoe Gallagher,doctor (probably),2008,2
+219,All Saints,AU,11,1252834,Virginia Gay,1,True,Gabrielle Jaegar,doctor (probably),2008,2
+220,All Saints,AU,11,1068123,John Waters,2,True,Mike Vlasek,doctor (probably),2008,2
+221,All Saints,AU,11,1231101,Kip Gamblin,2,True,Adam Rossi,doctor (probably),2008,2
+222,All Saints,AU,11,1194111,Ella Scott Lynch,1,True,Claire Anderson,doctor (probably),2008,2
+223,All Saints,AU,11,2018368,Kellie Jones,1,False,Young Laura,other,2008,3
+224,All Saints,AU,11,1251875,Keiynan Lonsdale,2,False,Corey,other,2008,7
+225,All Saints,AU,12,1219616,Judith McGrath,1,True,Von Ryan,doctor (probably),2009,2
+226,All Saints,AU,12,1228885,Alexandra Davies,1,True,Cate McMasters,doctor (probably),2009,2
+227,All Saints,AU,12,82605,Mirrah Foulkes,1,True,Jo Mathieson,doctor (probably),2009,2
+228,All Saints,AU,12,1226767,Jack Campbell,2,True,Steve Taylor,doctor (probably),2009,2
+229,All Saints,AU,12,1229669,Andrew Supanz,2,True,Bartholomew West,doctor (probably),2009,2
+230,All Saints,AU,12,1229670,Jolene Anderson,1,True,Erica Templeton,doctor (probably),2009,2
+231,All Saints,AU,12,223903,Tammy Macintosh,1,True,Charlotte Beaumont,doctor (probably),2009,2
+232,All Saints,AU,12,102603,John Howard,2,True,Frank Campion,doctor (probably),2009,2
+233,All Saints,AU,12,1231101,Kip Gamblin,2,True,Adam Rossi,doctor (probably),2009,2
+234,All Saints,AU,12,1194111,Ella Scott Lynch,1,True,Claire Anderson,doctor (probably),2009,2
+235,All Saints,AU,12,3070630,Alix Bidstrup,1,True,Amy Fielding,doctor (probably),2009,2
+236,All Saints,AU,12,2631896,Luisa Hastings Edge,1,False,Roxy,other,2009,6
+237,All Saints,AU,12,235416,Sarah Snook,1,False,Sophie,other,2009,6
+238,All Saints,AU,12,1734175,Chris Patton,2,False,Gang Member,other,2009,7
+239,All Saints,AU,12,2629316,Fiona Walsh,1,False,Sandy Wilson,other,2009,7
+240,All Saints,AU,12,1424638,Sophie Bloom,1,False,Isabelle,other,2009,7
+241,All Saints,AU,12,136348,Robin McLeavy,1,False,Katherine Burnett,other,2009,9

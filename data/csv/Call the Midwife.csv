@@ -1,0 +1,160 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Call the Midwife,GB,1,62965,Miranda Hart,1,True,Chummy,doctor (probably),2012,1
+1,Call the Midwife,GB,1,1151410,Jessica Raine,1,True,Jenny Lee,doctor (probably),2012,1
+2,Call the Midwife,GB,1,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2012,1
+3,Call the Midwife,GB,1,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2012,1
+4,Call the Midwife,GB,1,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2012,1
+5,Call the Midwife,GB,1,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2012,1
+6,Call the Midwife,GB,1,11213,Pam Ferris,1,True,Sister Evangelina,doctor (probably),2012,1
+7,Call the Midwife,GB,1,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2012,1
+8,Call the Midwife,GB,1,182110,Cliff Parisi,2,True,Fred,doctor (probably),2012,1
+9,Call the Midwife,GB,1,1254882,Bryony Hannah,1,True,Cynthia Miller,doctor (probably),2012,1
+10,Call the Midwife,GB,1,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2012,1
+11,Call the Midwife,GB,1,1318418,George Rainsford,2,False,Jimmy,other,2012,1
+12,Call the Midwife,GB,2,62965,Miranda Hart,1,True,Chummy,doctor (probably),2013,1
+13,Call the Midwife,GB,2,1151410,Jessica Raine,1,True,Jenny Lee,doctor (probably),2013,1
+14,Call the Midwife,GB,2,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2013,1
+15,Call the Midwife,GB,2,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2013,1
+16,Call the Midwife,GB,2,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2013,1
+17,Call the Midwife,GB,2,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2013,1
+18,Call the Midwife,GB,2,11213,Pam Ferris,1,True,Sister Evangelina,doctor (probably),2013,1
+19,Call the Midwife,GB,2,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2013,1
+20,Call the Midwife,GB,2,182110,Cliff Parisi,2,True,Fred,doctor (probably),2013,1
+21,Call the Midwife,GB,2,1254882,Bryony Hannah,1,True,Cynthia Miller,doctor (probably),2013,1
+22,Call the Midwife,GB,2,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2013,1
+23,Call the Midwife,GB,2,1426167,Michael Vardian,2,False,Nordic Sailor,other,2013,1
+24,Call the Midwife,GB,2,1426183,Peter Svatik,2,False,Nordic Sailor #2,other,2013,1
+25,Call the Midwife,GB,2,1426184,JJ Rousku,0,False,Nordic Sailor #3,other,2013,1
+26,Call the Midwife,GB,2,1318418,George Rainsford,2,False,Jimmy,other,2013,1
+27,Call the Midwife,GB,2,1776636,Craige Els,2,False,Terry,other,2013,2
+28,Call the Midwife,GB,3,1151410,Jessica Raine,1,True,Jenny Lee,doctor (probably),2014,1
+29,Call the Midwife,GB,3,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2014,1
+30,Call the Midwife,GB,3,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2014,1
+31,Call the Midwife,GB,3,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2014,1
+32,Call the Midwife,GB,3,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2014,1
+33,Call the Midwife,GB,3,11213,Pam Ferris,1,True,Sister Evangelina,doctor (probably),2014,1
+34,Call the Midwife,GB,3,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2014,1
+35,Call the Midwife,GB,3,182110,Cliff Parisi,2,True,Fred,doctor (probably),2014,1
+36,Call the Midwife,GB,3,1254882,Bryony Hannah,1,True,Cynthia Miller,doctor (probably),2014,1
+37,Call the Midwife,GB,3,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2014,1
+38,Call the Midwife,GB,3,1252934,Emerald Fennell,1,True,Patsy Mount,doctor (probably),2014,1
+39,Call the Midwife,GB,3,1901525,Victoria Yeates,1,True,Sister Winifred,doctor (probably),2014,1
+40,Call the Midwife,GB,3,1897247,Reece Pockney,2,False,Larry Aston,other,2014,1
+41,Call the Midwife,GB,3,1088620,Sophie Rundle,1,False,Pamela Saint,other,2014,3
+42,Call the Midwife,GB,3,1071124,Aimee Kelly,1,False,Norma,other,2014,3
+43,Call the Midwife,GB,4,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2015,1
+44,Call the Midwife,GB,4,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2015,1
+45,Call the Midwife,GB,4,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2015,1
+46,Call the Midwife,GB,4,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2015,1
+47,Call the Midwife,GB,4,11213,Pam Ferris,1,True,Sister Evangelina,doctor (probably),2015,1
+48,Call the Midwife,GB,4,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2015,1
+49,Call the Midwife,GB,4,182110,Cliff Parisi,2,True,Fred,doctor (probably),2015,1
+50,Call the Midwife,GB,4,1254882,Bryony Hannah,1,True,Cynthia Miller,doctor (probably),2015,1
+51,Call the Midwife,GB,4,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2015,1
+52,Call the Midwife,GB,4,1488056,Charlotte Ritchie,1,True,Barbara Gilbert,doctor (probably),2015,1
+53,Call the Midwife,GB,4,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2015,1
+54,Call the Midwife,GB,4,1252934,Emerald Fennell,1,True,Patsy Mount,doctor (probably),2015,1
+55,Call the Midwife,GB,4,1901525,Victoria Yeates,1,True,Sister Winifred,doctor (probably),2015,1
+56,Call the Midwife,GB,4,3122932,Kate Lamb,1,False,Delia Busby,other,2015,1
+57,Call the Midwife,GB,4,1092559,Manjinder Virk,1,False,Ameera Khatun,other,2015,2
+58,Call the Midwife,GB,5,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2016,1
+59,Call the Midwife,GB,5,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2016,1
+60,Call the Midwife,GB,5,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2016,1
+61,Call the Midwife,GB,5,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2016,1
+62,Call the Midwife,GB,5,11213,Pam Ferris,1,True,Sister Evangelina,doctor (probably),2016,1
+63,Call the Midwife,GB,5,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2016,1
+64,Call the Midwife,GB,5,182110,Cliff Parisi,2,True,Fred,doctor (probably),2016,1
+65,Call the Midwife,GB,5,1254882,Bryony Hannah,1,True,Cynthia Miller,doctor (probably),2016,1
+66,Call the Midwife,GB,5,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2016,1
+67,Call the Midwife,GB,5,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2016,1
+68,Call the Midwife,GB,5,1252934,Emerald Fennell,1,True,Patsy Mount,doctor (probably),2016,1
+69,Call the Midwife,GB,5,1901525,Victoria Yeates,1,True,Sister Winifred,doctor (probably),2016,1
+70,Call the Midwife,GB,5,1620025,Nicky Goldie,1,False,Sally,other,2016,1
+71,Call the Midwife,GB,5,1765428,Dinita Gohil,1,False,Jamila Shahjee,other,2016,2
+72,Call the Midwife,GB,5,1698109,Celeste Dodwell,1,False,Roseanne Dawley,other,2016,2
+73,Call the Midwife,GB,5,1386826,Danny Walters,2,False,Leslie Matlin,other,2016,2
+74,Call the Midwife,GB,6,2249219,Jennifer Kirby,1,True,Nurse Valerie Dyer,nurse,2017,1
+75,Call the Midwife,GB,6,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2017,1
+76,Call the Midwife,GB,6,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2017,1
+77,Call the Midwife,GB,6,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2017,1
+78,Call the Midwife,GB,6,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2017,1
+79,Call the Midwife,GB,6,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2017,1
+80,Call the Midwife,GB,6,182110,Cliff Parisi,2,True,Fred,doctor (probably),2017,1
+81,Call the Midwife,GB,6,1254882,Bryony Hannah,1,True,Cynthia Miller,doctor (probably),2017,1
+82,Call the Midwife,GB,6,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2017,1
+83,Call the Midwife,GB,6,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2017,1
+84,Call the Midwife,GB,6,1252934,Emerald Fennell,1,True,Patsy Mount,doctor (probably),2017,1
+85,Call the Midwife,GB,6,1901525,Victoria Yeates,1,True,Sister Winifred,doctor (probably),2017,1
+86,Call the Midwife,GB,6,80369,Annabelle Apsion,1,True,Violet Buckle,doctor (probably),2017,1
+87,Call the Midwife,GB,6,17477,Harriet Walter,1,False,Schwester Ursula,other,2017,1
+88,Call the Midwife,GB,6,1443617,Chris Bell,2,False,Constable Madigan,other,2017,3
+89,Call the Midwife,GB,7,2249219,Jennifer Kirby,1,True,Nurse Valerie Dyer,nurse,2018,1
+90,Call the Midwife,GB,7,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2018,1
+91,Call the Midwife,GB,7,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2018,1
+92,Call the Midwife,GB,7,2058162,Leonie Elliott,1,True,Nurse Lucille Anderson,nurse,2018,1
+93,Call the Midwife,GB,7,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2018,1
+94,Call the Midwife,GB,7,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2018,1
+95,Call the Midwife,GB,7,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2018,1
+96,Call the Midwife,GB,7,182110,Cliff Parisi,2,True,Fred,doctor (probably),2018,1
+97,Call the Midwife,GB,7,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2018,1
+98,Call the Midwife,GB,7,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2018,1
+99,Call the Midwife,GB,7,1901525,Victoria Yeates,1,True,Sister Winifred,doctor (probably),2018,1
+100,Call the Midwife,GB,7,80369,Annabelle Apsion,1,True,Violet Buckle,doctor (probably),2018,1
+101,Call the Midwife,GB,7,1976366,Balvinder Sopal,2,False,Mumtaz Gani,other,2018,2
+102,Call the Midwife,GB,7,1976368,Aasiya Shah,1,False,Parveen Gani,other,2018,2
+103,Call the Midwife,GB,7,1665082,Simon Rivers,2,False,Saddiq Gani,other,2018,2
+104,Call the Midwife,GB,7,1976373,Rose Wardlaw,1,False,Mrs. Campbell,other,2018,2
+105,Call the Midwife,GB,7,1530197,Rosie Akerman,1,False,Machinist,other,2018,2
+106,Call the Midwife,GB,8,2249219,Jennifer Kirby,1,True,Nurse Valerie Dyer,nurse,2019,1
+107,Call the Midwife,GB,8,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2019,1
+108,Call the Midwife,GB,8,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2019,1
+109,Call the Midwife,GB,8,2058162,Leonie Elliott,1,True,Nurse Lucille Anderson,nurse,2019,1
+110,Call the Midwife,GB,8,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2019,1
+111,Call the Midwife,GB,8,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2019,1
+112,Call the Midwife,GB,8,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2019,1
+113,Call the Midwife,GB,8,182110,Cliff Parisi,2,True,Fred,doctor (probably),2019,1
+114,Call the Midwife,GB,8,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2019,1
+115,Call the Midwife,GB,8,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2019,1
+116,Call the Midwife,GB,8,1901525,Victoria Yeates,1,True,Sister Winifred,doctor (probably),2019,1
+117,Call the Midwife,GB,8,80369,Annabelle Apsion,1,True,Violet Buckle,doctor (probably),2019,1
+118,Call the Midwife,GB,9,2249219,Jennifer Kirby,1,True,Nurse Valerie Dyer,nurse,2020,1
+119,Call the Midwife,GB,9,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2020,1
+120,Call the Midwife,GB,9,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2020,1
+121,Call the Midwife,GB,9,2058162,Leonie Elliott,1,True,Nurse Lucille Anderson,nurse,2020,1
+122,Call the Midwife,GB,9,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2020,1
+123,Call the Midwife,GB,9,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2020,1
+124,Call the Midwife,GB,9,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2020,1
+125,Call the Midwife,GB,9,182110,Cliff Parisi,2,True,Fred,doctor (probably),2020,1
+126,Call the Midwife,GB,9,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2020,1
+127,Call the Midwife,GB,9,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2020,1
+128,Call the Midwife,GB,9,80369,Annabelle Apsion,1,True,Violet Buckle,doctor (probably),2020,1
+129,Call the Midwife,GB,9,947551,Katie Moore,1,False,Marion Smith,other,2020,2
+130,Call the Midwife,GB,10,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2021,4
+131,Call the Midwife,GB,10,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2021,4
+132,Call the Midwife,GB,10,2058162,Leonie Elliott,1,True,Nurse Lucille Anderson,nurse,2021,4
+133,Call the Midwife,GB,10,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2021,4
+134,Call the Midwife,GB,10,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2021,4
+135,Call the Midwife,GB,10,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2021,4
+136,Call the Midwife,GB,10,182110,Cliff Parisi,2,True,Fred,doctor (probably),2021,4
+137,Call the Midwife,GB,10,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2021,4
+138,Call the Midwife,GB,10,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2021,4
+139,Call the Midwife,GB,10,80369,Annabelle Apsion,1,True,Violet Buckle,doctor (probably),2021,4
+140,Call the Midwife,GB,10,1647690,Kathryn Wilder,1,False,Audrey Fleming,doctor,2021,4
+141,Call the Midwife,GB,10,1510559,Jack Colgrave Hirst,2,False,Derek Fleming,other,2021,4
+142,Call the Midwife,GB,10,1356781,Oliver Rix,2,False,Matthew Aylward,other,2021,4
+143,Call the Midwife,GB,10,2836254,Jo Herbert,1,False,Fiona Aylward,other,2021,4
+144,Call the Midwife,GB,10,176227,Richard Dillane,2,False,Mr. Scarisbrick,other,2021,4
+145,Call the Midwife,GB,10,1683345,Ashley Campbell,2,False,Mr. Clarke,other,2021,4
+146,Call the Midwife,GB,10,1991679,Sandra Marvin,1,False,Pat Williams,other,2021,5
+147,Call the Midwife,GB,10,2954606,Jack Archer,2,False,Michael Leeks,other,2021,5
+148,Call the Midwife,GB,10,1219229,Rebecca Lacey,1,False,Rita Leeks,other,2021,5
+149,Call the Midwife,GB,11,13333,Vanessa Redgrave,1,True,Mature Jenny,doctor (probably),2022,1
+150,Call the Midwife,GB,11,1254881,Helen George,1,True,Trixie Franklin,doctor (probably),2022,1
+151,Call the Midwife,GB,11,2058162,Leonie Elliott,1,True,Nurse Lucille Anderson,nurse,2022,1
+152,Call the Midwife,GB,11,14464,Jenny Agutter,1,True,Sister Julienne,doctor (probably),2022,1
+153,Call the Midwife,GB,11,33448,Judy Parfitt,1,True,Sister Monica Joan,doctor (probably),2022,1
+154,Call the Midwife,GB,11,1225379,Stephen McGann,2,True,Dr. Turner,doctor,2022,1
+155,Call the Midwife,GB,11,182110,Cliff Parisi,2,True,Fred,doctor (probably),2022,1
+156,Call the Midwife,GB,11,1254883,Laura Main,1,True,Sister Bernadette,doctor (probably),2022,1
+157,Call the Midwife,GB,11,8443,Linda Bassett,1,True,Nurse Phyllis Crane,nurse,2022,1
+158,Call the Midwife,GB,11,80369,Annabelle Apsion,1,True,Violet Buckle,doctor (probably),2022,1

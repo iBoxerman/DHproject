@@ -1,0 +1,2219 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Casualty,GB,1,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1986,9
+1,Casualty,GB,1,1788862,Debbie Roza,1,True,Susie Mercer,doctor (probably),1986,9
+2,Casualty,GB,1,1788863,Colin Fisher,2,True,Sergeant Brenner,doctor (probably),1986,9
+3,Casualty,GB,1,1228250,Julia Watson,1,True,Barbara 'Baz' Samuels,doctor (probably),1986,9
+4,Casualty,GB,1,1411754,Lisa Bowerman,1,True,Sandra Mute,doctor,1986,9
+5,Casualty,GB,1,116126,Christopher Rozycki,2,True,Kuba Trzcinski,doctor (probably),1986,9
+6,Casualty,GB,1,2247,George Harris,2,True,Clive King,doctor (probably),1986,9
+7,Casualty,GB,1,1422627,Bernard Gallagher,2,True,Ewart Plimmer,doctor (probably),1986,9
+8,Casualty,GB,1,18345,Brenda Fricker,1,True,Megan Roach,doctor (probably),1986,9
+9,Casualty,GB,1,47643,Robert Pugh,2,True,Andrew Ponting,doctor,1986,9
+10,Casualty,GB,1,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1986,9
+11,Casualty,GB,1,1332577,Roger Ostime,2,False,Norman Parker,other,1986,9
+12,Casualty,GB,1,3913,Phil McCall,2,False,Starchy Harris,other,1986,9
+13,Casualty,GB,1,1736076,Emma Vansittart,1,False,Dannie Bennett,other,1986,9
+14,Casualty,GB,1,79934,Trevor Cooper,2,False,Ralph,other,1986,9
+15,Casualty,GB,1,124314,Al Hunter Ashton,2,False,Robert Palmer,other,1986,9
+16,Casualty,GB,1,1212163,David Simeon,2,False,Bob Bates,other,1986,9
+17,Casualty,GB,1,1050332,Zelah Clarke,1,False,Ruth White,other,1986,9
+18,Casualty,GB,1,1229473,Paul Moriarty,2,False,Ray Blackwell,other,1986,9
+19,Casualty,GB,1,1082299,Graham Fletcher-Cook,2,False,Kevin Blackwell,other,1986,9
+20,Casualty,GB,1,1565168,John Flanagan,2,False,Det Sgt Fox,other,1986,9
+21,Casualty,GB,1,158278,Patsy Smart,1,False,Winnie,other,1986,9
+22,Casualty,GB,1,658,Alfred Molina,2,False,Harry Horner,other,1986,9
+23,Casualty,GB,1,1408055,James Snell,2,False,Mr. Thalton,other,1986,9
+24,Casualty,GB,1,134699,Stella Gonet,1,False,Dr. Clare Wainwright,doctor,1986,9
+25,Casualty,GB,1,1181269,Sarah Moore,1,False,Carrie,other,1986,10
+26,Casualty,GB,1,47520,Michael Culver,2,False,James,other,1986,10
+27,Casualty,GB,1,1228665,Brian Bovell,2,False,Jed,other,1986,10
+28,Casualty,GB,1,203093,Tyler Butterworth,2,False,Mark,other,1986,10
+29,Casualty,GB,1,1211934,Nigel Anthony,2,False,Ted Roach,other,1986,10
+30,Casualty,GB,1,175975,Derek Benfield,2,False,Mr. Davies,other,1986,10
+31,Casualty,GB,1,1247740,Betty Alberge,1,False,Mrs. Davies,other,1986,10
+32,Casualty,GB,1,1229839,Mark Jones,2,False,Tom,other,1986,10
+33,Casualty,GB,1,1482567,Charles Lamb,2,False,Harry,other,1986,11
+34,Casualty,GB,1,1348871,Wally Thomas,2,False,Lagger,other,1986,11
+35,Casualty,GB,1,81600,Perry Fenwick,2,False,Marvin Osborne,other,1986,11
+36,Casualty,GB,1,1536345,Victoria Hasted,1,False,Gillian Plimmer,other,1986,11
+37,Casualty,GB,1,1498967,Shelley King,1,False,Rama Patel,other,1986,11
+38,Casualty,GB,1,1006808,Elvis Payne,2,False,Henry McCartney,other,1986,12
+39,Casualty,GB,1,129051,Harry Fowler,2,False,Terry,other,1986,12
+40,Casualty,GB,1,1229135,Johanna Hargreaves,1,False,Gail McCartney,other,1986,12
+41,Casualty,GB,1,210715,Sean Scanlan,2,False,Alex,other,1986,12
+42,Casualty,GB,1,1757670,Christopher Douglas,2,False,Mr Radford,other,1986,12
+43,Casualty,GB,1,80496,Roberta Tovey,1,False,Mrs. Radford,other,1986,12
+44,Casualty,GB,1,1230693,Keith Jayne,2,False,Luke,other,1986,12
+45,Casualty,GB,1,174524,Sebastian Abineri,2,False,David,other,1986,12
+46,Casualty,GB,1,61584,John Forgeham,2,False,Sgt. Shaw,other,1986,12
+47,Casualty,GB,1,1208202,Harold Goodwin,2,False,Mr. Collee,other,1986,12
+48,Casualty,GB,1,1211895,Susan Jameson,1,False,Harriet,other,1986,12
+49,Casualty,GB,2,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1987,9
+50,Casualty,GB,2,1211934,Nigel Anthony,2,True,Ted Roach,doctor (probably),1987,9
+51,Casualty,GB,2,1788862,Debbie Roza,1,True,Susie Mercer,doctor (probably),1987,9
+52,Casualty,GB,2,189256,Maureen O'Brien,1,True,Elizabeth Straker,doctor (probably),1987,9
+53,Casualty,GB,2,1411754,Lisa Bowerman,1,True,Sandra Mute,doctor,1987,9
+54,Casualty,GB,2,116126,Christopher Rozycki,2,True,Kuba Trzcinski,doctor (probably),1987,9
+55,Casualty,GB,2,1668752,Geoffrey Leesley,2,True,Keith Cotterill,doctor (probably),1987,9
+56,Casualty,GB,2,1422627,Bernard Gallagher,2,True,Ewart Plimmer,doctor (probably),1987,9
+57,Casualty,GB,2,18345,Brenda Fricker,1,True,Megan Roach,doctor (probably),1987,9
+58,Casualty,GB,2,47643,Robert Pugh,2,True,Andrew Ponting,doctor,1987,9
+59,Casualty,GB,2,1683279,Helena Little,1,True,Mary Tomlinson,doctor (probably),1987,9
+60,Casualty,GB,2,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1987,9
+61,Casualty,GB,2,1789185,Ella WIlder,1,True,Shirley Franklin,doctor (probably),1987,9
+62,Casualty,GB,2,90740,Janine Duvitski,1,False,Joyce,other,1987,9
+63,Casualty,GB,2,186032,Colin McCormack,2,False,Gregory Newman,other,1987,9
+64,Casualty,GB,2,10213,Tip Tipping,2,False,Car Driver,doctor,1987,9
+65,Casualty,GB,2,20771,Kate Hardie,1,False,Karen O'Malley,other,1987,9
+66,Casualty,GB,2,94740,Eddie Nestor,2,False,Cyril James,other,1987,9
+67,Casualty,GB,2,8399,Christopher Fairbank,2,False,Gerald Bryant,other,1987,9
+68,Casualty,GB,2,108463,Dorian Healy,2,False,Tommy Harper,other,1987,9
+69,Casualty,GB,2,174527,Mela White,1,False,Sonia Blackwood,other,1987,9
+70,Casualty,GB,2,78329,Lorraine Ashbourne,1,False,Sandy,other,1987,10
+71,Casualty,GB,2,86106,Tony Selby,2,False,Leon,other,1987,10
+72,Casualty,GB,2,1788887,Jackie Lye,1,False,Wanda the Anaconda,other,1987,10
+73,Casualty,GB,2,1759716,Dee Sadler,1,False,Maggie,other,1987,10
+74,Casualty,GB,2,1231855,Peter Amory,2,False,Guy,other,1987,10
+75,Casualty,GB,2,1219365,Edward Wiley,2,False,Jonno,other,1987,10
+76,Casualty,GB,2,86045,Gary Beadle,2,False,Denny,other,1987,10
+77,Casualty,GB,2,11213,Pam Ferris,1,False,Linda,other,1987,10
+78,Casualty,GB,2,32990,Sophie Thompson,1,False,Judy Wilson,other,1987,10
+79,Casualty,GB,2,3464,Julie Dawn Cole,1,False,Jenny,other,1987,11
+80,Casualty,GB,2,130417,Christopher Ellison,2,False,Wayne Davisson,other,1987,11
+81,Casualty,GB,2,53350,Emer Gillespie,1,False,Miss Harris,other,1987,11
+82,Casualty,GB,2,1220356,Eric Deacon,2,False,Peter,other,1987,11
+83,Casualty,GB,2,27660,Roger Hammond,2,False,The Man,other,1987,11
+84,Casualty,GB,2,249810,Ray Mort,2,False,Albert Monday,other,1987,11
+85,Casualty,GB,2,73285,Peter Caffrey,2,False,Seamus,other,1987,11
+86,Casualty,GB,2,189353,Jon Laurimore,2,False,Ken,other,1987,11
+87,Casualty,GB,2,24605,Pete Lee-Wilson,2,False,Terry Mullett,other,1987,11
+88,Casualty,GB,2,12690,John Hallam,2,False,Big Ted,other,1987,12
+89,Casualty,GB,2,22171,Bryan Pringle,2,False,George Tomlinson,other,1987,12
+90,Casualty,GB,2,1430499,Jonathan Oliver,2,False,Brendan,other,1987,12
+91,Casualty,GB,2,2449,Kevin McNally,2,False,Tom Bennod,other,1987,12
+92,Casualty,GB,2,962885,Kate Lock,1,False,Sophie Bennod,other,1987,12
+93,Casualty,GB,2,26780,Deborah Grant,1,False,Lucinda Arthur,other,1987,12
+94,Casualty,GB,2,189430,Roger Brierley,2,False,Coroner,other,1987,12
+95,Casualty,GB,3,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1988,9
+96,Casualty,GB,3,94740,Eddie Nestor,2,True,Cyril James,doctor (probably),1988,9
+97,Casualty,GB,3,1570958,Paul Lacoux,2,True,David Rowe,doctor (probably),1988,9
+98,Casualty,GB,3,1422627,Bernard Gallagher,2,True,Ewart Plimmer,doctor (probably),1988,9
+99,Casualty,GB,3,1429874,Carol Leader,1,True,Sadie Tomkins,doctor (probably),1988,9
+100,Casualty,GB,3,1690319,Susan Franklyn,1,True,Valerie Sinclair,doctor (probably),1988,9
+101,Casualty,GB,3,18345,Brenda Fricker,1,True,Megan Roach,doctor (probably),1988,9
+102,Casualty,GB,3,6218,Shaheen Khan,1,True,Kiran Joghill,doctor (probably),1988,9
+103,Casualty,GB,3,116126,Christopher Rozycki,2,True,Kuba Trzcinski,doctor (probably),1988,9
+104,Casualty,GB,3,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1988,9
+105,Casualty,GB,3,1231181,Joseph Brady,2,False,George Dunwoody,other,1988,9
+106,Casualty,GB,3,1763865,Francesca Hall,1,False,Viv Baxter,other,1988,9
+107,Casualty,GB,3,10174,Bernard Horsfall,2,False,Tom Baxter,other,1988,9
+108,Casualty,GB,3,137471,Julia Deakin,1,False,Jill,other,1988,9
+109,Casualty,GB,3,1046059,Nicholas Barnes,2,False,Eric,other,1988,9
+110,Casualty,GB,3,106992,Kenneth Cope,2,False,Archie Higgs,other,1988,9
+111,Casualty,GB,3,1095523,Paul Ridley,2,False,John Groves,other,1988,9
+112,Casualty,GB,3,6645,Richard Ridings,2,False,Kevin,other,1988,9
+113,Casualty,GB,3,1054378,Andrea Gordon,1,False,Sandra,doctor,1988,9
+114,Casualty,GB,3,5473,Julian Wadham,2,False,Rev. Tony Vassar,other,1988,9
+115,Casualty,GB,3,28235,Sebastian Shaw,2,False,Charles Howlett,other,1988,9
+116,Casualty,GB,3,79931,Caroline John,1,False,Edith Howlett,other,1988,9
+117,Casualty,GB,3,27641,Peter-Hugo Daly,2,False,Roger West,other,1988,9
+118,Casualty,GB,3,1470207,Lesley Nightingale,1,False,Monica West,other,1988,9
+119,Casualty,GB,3,40652,John Ringham,2,False,Keith Cunningham,other,1988,9
+120,Casualty,GB,3,1215232,Brian Capron,2,False,Peter,other,1988,9
+121,Casualty,GB,3,1213513,Daphne Oxenford,1,False,Mrs. Johnson,other,1988,9
+122,Casualty,GB,3,1213417,Mark Strickson,2,False,Gynaecological Registrar,other,1988,9
+123,Casualty,GB,3,20915,Bradley Cole,2,False,Tony,other,1988,10
+124,Casualty,GB,3,31419,Phil Rowlands,2,False,Mr. Gordon,other,1988,10
+125,Casualty,GB,3,1236104,David Garfield,2,False,Don Lockhart,other,1988,10
+126,Casualty,GB,3,3463,Roy Kinnear,2,False,Brian McCarthy,other,1988,10
+127,Casualty,GB,3,1198147,Clarence Smith,2,False,Colin,other,1988,10
+128,Casualty,GB,3,1120608,Simon Dormandy,2,False,Tom,other,1988,10
+129,Casualty,GB,3,26670,Rebecca Saire,1,False,Polly,other,1988,10
+130,Casualty,GB,3,152234,John Bowler,2,False,Richard Leighton,other,1988,10
+131,Casualty,GB,3,1258322,David Hargreaves,2,False,Donald Petersen,other,1988,10
+132,Casualty,GB,3,1240510,Polly Hemingway,1,False,Jenny Petersen,other,1988,10
+133,Casualty,GB,3,1504602,Anne Dyson,1,False,Granny,other,1988,10
+134,Casualty,GB,3,1239887,Chris Pitt,2,False,Paul Petersen,other,1988,10
+135,Casualty,GB,3,227751,Pauline Quirke,1,False,Mary Taylor,other,1988,10
+136,Casualty,GB,3,1212717,John Challis,2,False,Harry,other,1988,10
+137,Casualty,GB,3,186138,Sharon Duce,1,False,Thea,other,1988,10
+138,Casualty,GB,3,1220007,George Irving,2,False,Paul,other,1988,10
+139,Casualty,GB,3,218136,James Ottaway,2,False,Edwin Palmer,other,1988,10
+140,Casualty,GB,3,1416780,Felicity Steel,1,False,Ruth Howard,other,1988,10
+141,Casualty,GB,3,1243686,Albert Welling,2,False,Terence,other,1988,10
+142,Casualty,GB,3,41381,Sadie Frost,1,False,Natasha,other,1988,10
+143,Casualty,GB,3,1241627,Nick Orchard,2,False,Dr. Chris Alton,doctor,1988,10
+144,Casualty,GB,3,1231968,Andy de la Tour,2,False,Bill Potter,other,1988,11
+145,Casualty,GB,3,47000,Richard Vernon,2,False,Dr. RIchard Payton,doctor,1988,11
+146,Casualty,GB,3,111326,Gwen Nelson,1,False,Miss Dalrimple,other,1988,11
+147,Casualty,GB,3,145533,Clive Mantle,2,False,Robert Forbes,other,1988,11
+148,Casualty,GB,3,1093410,Barry Stearn,2,False,Kevin Forbes,other,1988,11
+149,Casualty,GB,4,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1989,9
+150,Casualty,GB,4,1789187,Belinda Davison,1,True,Alex Spencer,doctor (probably),1989,9
+151,Casualty,GB,4,1789188,Vivienne McKone,1,True,Julie Stevens,doctor (probably),1989,9
+152,Casualty,GB,4,94740,Eddie Nestor,2,True,Cyril James,doctor (probably),1989,9
+153,Casualty,GB,4,1690319,Susan Franklyn,1,True,Valerie Sinclair,doctor (probably),1989,9
+154,Casualty,GB,4,190407,William Gaminara,2,True,Andrew Bower,doctor,1989,9
+155,Casualty,GB,4,18345,Brenda Fricker,1,True,Megan Roach,doctor (probably),1989,9
+156,Casualty,GB,4,1668752,Geoffrey Leesley,2,True,Keith Cotterill,doctor (probably),1989,9
+157,Casualty,GB,4,1781148,Tam Hoskyns,1,True,Lucy Perry,doctor (probably),1989,9
+158,Casualty,GB,4,195929,Robson Green,2,True,Jimmy Powell,doctor (probably),1989,9
+159,Casualty,GB,4,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1989,9
+160,Casualty,GB,4,1213403,Ian Bleasdale,2,False,Josh Griffiths,other,1989,9
+161,Casualty,GB,4,10942,Pat Roach,2,False,Len,other,1989,9
+162,Casualty,GB,4,47629,Stephen Tompkinson,2,False,PC Tony Mitton,other,1989,9
+163,Casualty,GB,4,28848,Sean Pertwee,2,False,PC Nick Johns,other,1989,9
+164,Casualty,GB,4,1231745,Joanna Dukes,1,False,Jane Wyatt,other,1989,9
+165,Casualty,GB,4,1498279,Christopher Driscoll,2,False,Paul Rulton,other,1989,9
+166,Casualty,GB,4,137928,Colin Baker,2,False,Colin Miles,other,1989,9
+167,Casualty,GB,4,1228094,Maggie Ollerenshaw,1,False,Beverley Miles,other,1989,9
+168,Casualty,GB,4,1083344,Robert Patterson,2,False,Eric,other,1989,9
+169,Casualty,GB,4,74637,Russell Hunter,2,False,Edwin Crew,other,1989,9
+170,Casualty,GB,4,1505106,Erick Ray Evans,2,False,Howard Stanton,other,1989,9
+171,Casualty,GB,4,1225428,Mary Tamm,1,False,Virginia Wilson,other,1989,9
+172,Casualty,GB,4,1760666,David Kinder,2,False,Richard Cumming,other,1989,9
+173,Casualty,GB,4,1372589,Meryl Hampton,1,False,Pamela Cumming,other,1989,9
+174,Casualty,GB,4,1220286,Joe McGann,2,False,Bobby Masters,other,1989,9
+175,Casualty,GB,4,1229207,Shirin Taylor,1,False,Helen Masters,other,1989,9
+176,Casualty,GB,4,2467,James Cosmo,2,False,John Breckman,other,1989,9
+177,Casualty,GB,4,1771804,Freddie Boardley,2,False,Tom Longworth,other,1989,9
+178,Casualty,GB,4,1695959,Mark Straker,2,False,PC Rogers,other,1989,9
+179,Casualty,GB,4,141551,Richard Lumsden,2,False,Phil,other,1989,9
+180,Casualty,GB,4,87192,Mike O'Malley,2,False,Arthur Drury,doctor,1989,9
+181,Casualty,GB,4,84423,Conleth Hill,2,False,Rob,other,1989,9
+182,Casualty,GB,4,38070,Edward Judd,2,False,Alfred Newcombe,other,1989,10
+183,Casualty,GB,4,8397,Charlie Creed-Miles,2,False,Eric Newcombe,other,1989,10
+184,Casualty,GB,4,186026,Rod Culbertson,2,False,Graham Newcombe,other,1989,10
+185,Casualty,GB,4,194902,Robert Austin,2,False,Father Dominic,other,1989,10
+186,Casualty,GB,4,481,Jean Heywood,1,False,Mrs. Grady,other,1989,10
+187,Casualty,GB,4,138415,Edward Jewesbury,2,False,Ivor Maitland,other,1989,10
+188,Casualty,GB,4,99905,Kathleen Byron,1,False,Avril Maitland,other,1989,10
+189,Casualty,GB,4,34720,Christopher Villiers,2,False,Mr. Lewis,other,1989,10
+190,Casualty,GB,4,1213415,Sarah Sutton,1,False,Sarah Dryden,doctor,1989,10
+191,Casualty,GB,4,928838,Graeme Du Fresne,2,False,Bobby French,other,1989,10
+192,Casualty,GB,4,1212181,Tim Healy,2,False,Ken Gardiner,other,1989,10
+193,Casualty,GB,4,1213723,Elaine Donnelly,1,False,Dawn Gardiner,other,1989,10
+194,Casualty,GB,4,42644,Badi Uzzaman,2,False,Bharat Patel,other,1989,10
+195,Casualty,GB,4,1498966,Dinesh Shukia,2,False,Vijesh Patel,other,1989,10
+196,Casualty,GB,4,10213,Tip Tipping,2,False,Wayne,other,1989,10
+197,Casualty,GB,4,1215187,Chris Gascoyne,2,False,Simon,other,1989,10
+198,Casualty,GB,4,65890,Lia Williams,1,False,Carrie Langman,other,1989,10
+199,Casualty,GB,4,31923,Oliver Ford Davies,2,False,The Major,other,1989,10
+200,Casualty,GB,4,10747,Julian Fellowes,2,False,Mr. Flannagan,other,1989,10
+201,Casualty,GB,4,1226756,Andrew Robertson,2,False,Mr. Offenbach,other,1989,10
+202,Casualty,GB,4,194899,Maria Charles,1,False,Miss Phelan,other,1989,10
+203,Casualty,GB,4,1090138,Stephen Bent,2,False,Alan Hillage,other,1989,10
+204,Casualty,GB,4,1230652,June Page,1,False,Jean Hillage,other,1989,10
+205,Casualty,GB,4,1555288,Gil Brailey,1,False,Mrs. Curtis,other,1989,10
+206,Casualty,GB,4,1738562,John Pennington,2,False,Mr. Curtis,other,1989,10
+207,Casualty,GB,4,73285,Peter Caffrey,2,False,Patrick,other,1989,10
+208,Casualty,GB,4,192866,Angela Down,1,False,Liz,other,1989,11
+209,Casualty,GB,4,93477,Peter Marinker,2,False,Graham,other,1989,11
+210,Casualty,GB,4,195195,Siobhan Burke,1,False,Dawn,other,1989,11
+211,Casualty,GB,4,1091005,Abi Gouhad,2,False,Mr. Darboush,other,1989,11
+212,Casualty,GB,4,1219786,Sukie Smith,1,False,Anna,other,1989,11
+213,Casualty,GB,4,26131,George Innes,2,False,Geoff Coxon,other,1989,11
+214,Casualty,GB,4,185197,Anna Lindup,1,False,Emma Foster,other,1989,11
+215,Casualty,GB,4,33185,Jeremy Bulloch,2,False,Peter Cunningham,other,1989,11
+216,Casualty,GB,4,79956,David Savile,2,False,Mr. Stevens,other,1989,11
+217,Casualty,GB,4,5483,Philip Whitchurch,2,False,Detective Sergeant,other,1989,11
+218,Casualty,GB,4,1563887,Penny Bunton,1,False,WPC Martin,other,1989,11
+219,Casualty,GB,4,12658,Patricia Hayes,1,False,Mrs. Calthorne,other,1989,11
+220,Casualty,GB,4,9016,Eileen Nicholas,1,False,Mary Calthorn,other,1989,11
+221,Casualty,GB,4,176093,John Cassady,2,False,John Redpath,other,1989,11
+222,Casualty,GB,4,203459,Barbara Marten,1,False,Tamara Redpath,other,1989,11
+223,Casualty,GB,4,96698,Caroline Quentin,1,False,Jane Locke,other,1989,11
+224,Casualty,GB,4,53490,Michael O'Hagan,2,False,Football Manager,other,1989,11
+225,Casualty,GB,4,11285,Ian Burfield,2,False,Jeff,other,1989,11
+226,Casualty,GB,4,740,Julian Glover,2,False,Arnold Richardson,other,1989,12
+227,Casualty,GB,4,1766732,Philip Lowrie,2,False,Simon Spencer,other,1989,12
+228,Casualty,GB,4,942377,Pippa Guard,1,False,Jill Robson,other,1989,12
+229,Casualty,GB,4,127506,Lynne Verrall,1,False,Christine,other,1989,12
+230,Casualty,GB,4,1064073,Cherry Gillespie,1,False,Barbara Conrad,other,1989,12
+231,Casualty,GB,4,62259,Len Collin,2,False,John Morgan,other,1989,12
+232,Casualty,GB,5,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1990,9
+233,Casualty,GB,5,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1990,9
+234,Casualty,GB,5,1789228,Mamta Kaash,1,True,Beth Ramanee,doctor (probably),1990,9
+235,Casualty,GB,5,1343571,Nigel Le Vaillant,2,True,Julian Chapman,doctor (probably),1990,9
+236,Casualty,GB,5,18345,Brenda Fricker,1,True,Megan Roach,doctor (probably),1990,9
+237,Casualty,GB,5,195929,Robson Green,2,True,Jimmy Powell,doctor (probably),1990,9
+238,Casualty,GB,5,1214695,Eamon Boland,2,True,Tony Walker,doctor (probably),1990,9
+239,Casualty,GB,5,1233838,Maggie McCarthy,1,True,Helen Green,doctor (probably),1990,9
+240,Casualty,GB,5,1668752,Geoffrey Leesley,2,True,Keith Cotterill,doctor (probably),1990,9
+241,Casualty,GB,5,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1990,9
+242,Casualty,GB,5,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),1990,9
+243,Casualty,GB,5,1760878,Maggie Lynskey,1,False,Vicky,other,1990,9
+244,Casualty,GB,5,1220328,Richard Caldicot,2,False,Max Shaw,other,1990,9
+245,Casualty,GB,5,1233763,Bert Parnaby,2,False,Billie Jennings,other,1990,9
+246,Casualty,GB,5,95896,Dervla Kirwan,1,False,Anna,other,1990,9
+247,Casualty,GB,5,1229160,Mmoloki Chrystie,0,False,Colin,other,1990,9
+248,Casualty,GB,5,146758,Jonathan Lacey,2,False,Ian,other,1990,9
+249,Casualty,GB,5,1402966,Jenny McCracken,1,False,Anne Carpenter,other,1990,9
+250,Casualty,GB,5,185391,Geoffrey Bateman,2,False,Henry Carpenter,other,1990,9
+251,Casualty,GB,5,82712,George Costigan,2,False,Robert,other,1990,9
+252,Casualty,GB,5,1834,Shirley Henderson,1,False,Denise,other,1990,9
+253,Casualty,GB,5,24613,Jamie Glover,2,False,Luke,other,1990,9
+254,Casualty,GB,5,70881,Alan Cox,2,False,Joshua,other,1990,9
+255,Casualty,GB,5,1253313,Tara MacGowran,1,False,Ms. Warner,other,1990,9
+256,Casualty,GB,5,1705491,Ken Sharrock,2,False,Barry,other,1990,9
+257,Casualty,GB,5,1498279,Christopher Driscoll,2,False,Paul Rulton,other,1990,9
+258,Casualty,GB,5,4935,Pete Postlethwaite,2,False,Ralph Peters,other,1990,9
+259,Casualty,GB,5,184886,Mark Kingston,2,False,Mr. Parrish,other,1990,9
+260,Casualty,GB,5,185426,Rowena Cooper,1,False,Mrs. Parrish,other,1990,9
+261,Casualty,GB,5,1250099,Melanie Kilburn,1,False,Mrs. Hearn,other,1990,9
+262,Casualty,GB,5,1229135,Johanna Hargreaves,1,False,Debbie Bannister,other,1990,9
+263,Casualty,GB,5,1490011,Kevin O'Donohoe,2,False,Eddy,other,1990,9
+264,Casualty,GB,5,1231417,Amanda Boxer,1,False,Mrs. Leach,other,1990,9
+265,Casualty,GB,5,156363,Laura Howard,1,False,Victoria Leach,other,1990,9
+266,Casualty,GB,5,182062,Caroline Harker,1,False,Tessa,other,1990,9
+267,Casualty,GB,5,183148,Rachel Fielding,1,False,Sally,other,1990,9
+268,Casualty,GB,5,175975,Derek Benfield,2,False,Eric Hogarth,other,1990,9
+269,Casualty,GB,5,1214778,Judy Flynn,1,False,Lorraine,other,1990,9
+270,Casualty,GB,5,1220054,Denise Black,1,False,Jenny Munro,other,1990,9
+271,Casualty,GB,5,129309,Tony Caunter,2,False,Cafe Owner,other,1990,9
+272,Casualty,GB,5,26259,Michael Feast,2,False,Wayne Simpson,other,1990,10
+273,Casualty,GB,5,19901,Clive Russell,2,False,Dave McCray,other,1990,10
+274,Casualty,GB,5,78097,Stevan Rimkus,2,False,Danny Gresty,other,1990,10
+275,Casualty,GB,5,1214095,John Bardon,2,False,Jack Morris,other,1990,10
+276,Casualty,GB,5,72307,Marion Bailey,1,False,Joy Waddington,other,1990,10
+277,Casualty,GB,5,1434398,Alison Peebles,1,False,Sarah Peterson,other,1990,10
+278,Casualty,GB,5,1215187,Chris Gascoyne,2,False,Yob,other,1990,10
+279,Casualty,GB,5,17484,Dermot Crowley,2,False,Hastings,other,1990,10
+280,Casualty,GB,5,25665,Robert Glenister,2,False,Duncan,other,1990,10
+281,Casualty,GB,5,179598,Louise Jameson,1,False,Judy,other,1990,10
+282,Casualty,GB,5,80369,Annabelle Apsion,1,False,Carrie Potter,other,1990,10
+283,Casualty,GB,5,1226746,Carol Royle,1,False,Lizzie Trent,other,1990,10
+284,Casualty,GB,5,1409424,Amanda Royle,1,False,Mandy Trent,other,1990,10
+285,Casualty,GB,5,1215737,Hilda Braid,1,False,Agnes Hartley,other,1990,10
+286,Casualty,GB,5,185762,Mark McGann,2,False,Joe Morrison,other,1990,10
+287,Casualty,GB,5,1229860,Elspet Gray,1,False,Mary Porter,other,1990,10
+288,Casualty,GB,5,1244695,Dean Harris,2,False,Mike,other,1990,10
+289,Casualty,GB,5,26121,Nicholas Jones,2,False,John Packard,other,1990,10
+290,Casualty,GB,5,111327,Pat Keen,1,False,Mavis Watson,other,1990,10
+291,Casualty,GB,5,1538453,Michael Lees,2,False,Colonel Johnson,other,1990,10
+292,Casualty,GB,5,129452,Denis Lill,2,False,Tom Porter,other,1990,10
+293,Casualty,GB,5,6974,Doreen Mantle,1,False,Mrs. Duffin,other,1990,10
+294,Casualty,GB,5,192870,Carolyn Pickles,1,False,Diane Robinson,other,1990,10
+295,Casualty,GB,5,136027,Dominic Jephcott,2,False,Peter Gosford,other,1990,11
+296,Casualty,GB,5,65145,Liza Walker,1,False,Fenella Chivers,other,1990,11
+297,Casualty,GB,5,153359,Ann Mitchell,1,False,Mrs. McKenzie,other,1990,11
+298,Casualty,GB,5,16752,David Harewood,2,False,Paul Grant,other,1990,11
+299,Casualty,GB,5,1198873,Tessa Peake-Jones,1,False,Esther Macauley,other,1990,11
+300,Casualty,GB,5,33395,Dearbhla Molloy,1,False,Eileen Walker,other,1990,11
+301,Casualty,GB,5,134116,Matthew Scurfield,2,False,Stan,other,1990,11
+302,Casualty,GB,5,185226,Fred Pearson,2,False,Frank Philpott,other,1990,11
+303,Casualty,GB,5,176097,Heather Canning,1,False,Thelma Philpott,other,1990,11
+304,Casualty,GB,5,1753716,Ian Flintoff,2,False,Headmaster,other,1990,11
+305,Casualty,GB,5,1802419,Jeremy Rampling,2,False,Miles Philpott,other,1990,11
+306,Casualty,GB,5,39028,Jean Anderson,1,False,Rosie Collier,other,1990,11
+307,Casualty,GB,5,166221,Robert Gwilym,2,False,Howard Collier,other,1990,11
+308,Casualty,GB,5,162413,Suzanne Bertish,1,False,Caroline Collier,other,1990,11
+309,Casualty,GB,5,1213665,David Ellison,2,False,Ron Wilson,other,1990,11
+310,Casualty,GB,5,80418,Ewan Hooper,2,False,Sam Dewsbury,other,1990,11
+311,Casualty,GB,5,62229,Kulvinder Ghir,2,False,Jeevan,other,1990,11
+312,Casualty,GB,5,30320,Annette Badland,1,False,Jodie Forbes,other,1990,11
+313,Casualty,GB,5,1218934,Tony Bluto,2,False,Brian Thomas,other,1990,11
+314,Casualty,GB,5,23790,Dominic Keating,2,False,Ian Tilsley,other,1990,11
+315,Casualty,GB,5,1215890,Christopher Blake,2,False,Mike Jameson,other,1990,11
+316,Casualty,GB,5,20805,Louise Lombard,1,False,Clare Jameson,other,1990,11
+317,Casualty,GB,5,8547,Jonny Phillips,2,False,Ronnie,other,1990,11
+318,Casualty,GB,5,83548,Peter Gunn,2,False,Malcolm,other,1990,11
+319,Casualty,GB,5,10988,Geraldine Somerville,1,False,Ruth,other,1990,11
+320,Casualty,GB,5,26258,Kenneth Cranham,2,False,James Lawrence,other,1990,12
+321,Casualty,GB,5,165986,Catherine Neilson,1,False,Emma Lawrence,other,1990,12
+322,Casualty,GB,5,1219988,Rob Spendlove,2,False,Supt. Pete Collier,other,1990,12
+323,Casualty,GB,5,2040,Christopher Eccleston,2,False,Stephen Hills,other,1990,12
+324,Casualty,GB,5,1212891,Joan Blackham,1,False,Mrs. Wheeler,other,1990,12
+325,Casualty,GB,5,21343,Ben Chaplin,2,False,Gareth Orell,other,1990,12
+326,Casualty,GB,6,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1991,9
+327,Casualty,GB,6,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1991,9
+328,Casualty,GB,6,1789228,Mamta Kaash,1,True,Beth Ramanee,doctor (probably),1991,9
+329,Casualty,GB,6,1343571,Nigel Le Vaillant,2,True,Julian Chapman,doctor (probably),1991,9
+330,Casualty,GB,6,195929,Robson Green,2,True,Jimmy Powell,doctor (probably),1991,9
+331,Casualty,GB,6,1239996,Adie Allen,1,True,Kelly Liddle,doctor (probably),1991,9
+332,Casualty,GB,6,1231376,Anne Kristen,1,True,Norma Sullivan,doctor (probably),1991,9
+333,Casualty,GB,6,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1991,9
+334,Casualty,GB,6,1789319,Caroline Webster,1,True,Jane Scott,doctor (probably),1991,9
+335,Casualty,GB,6,140568,Maria Friedman,1,True,Trish Baynes,doctor (probably),1991,9
+336,Casualty,GB,6,123797,Maureen Beattie,1,True,Sandra Nicholl,doctor,1991,9
+337,Casualty,GB,6,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),1991,9
+338,Casualty,GB,6,10734,Kenneth Colley,2,False,Paddy,other,1991,9
+339,Casualty,GB,6,183147,Ciaran Madden,1,False,Zoe Turner,other,1991,9
+340,Casualty,GB,6,9143,Felicity Montagu,1,False,Karen Forrester,other,1991,9
+341,Casualty,GB,6,70903,Marc Warren,2,False,Nick,other,1991,9
+342,Casualty,GB,6,1214677,Lyndon Davies,2,False,Terry,other,1991,9
+343,Casualty,GB,6,29409,Christien Anholt,2,False,Jude,other,1991,9
+344,Casualty,GB,6,193356,Karl Collins,2,False,Roy,other,1991,9
+345,Casualty,GB,6,81029,Jack Deam,2,False,Lee,other,1991,9
+346,Casualty,GB,6,10174,Bernard Horsfall,2,False,Dr. Alex Upchurch,doctor,1991,9
+347,Casualty,GB,6,2598,Sophie Okonedo,1,False,Gina Russell,other,1991,9
+348,Casualty,GB,6,8947,Tom Georgeson,2,False,Tim Talbot,other,1991,9
+349,Casualty,GB,6,20057,Michelle Fairley,1,False,Kathy Emerick,other,1991,9
+350,Casualty,GB,6,20070,Jim Carter,2,False,Matthew Charlton,other,1991,9
+351,Casualty,GB,6,185464,Tilly Vosburgh,1,False,Mary Tyler,other,1991,9
+352,Casualty,GB,6,17353,Matthew Marsh,2,False,Geoff Marks,other,1991,9
+353,Casualty,GB,6,122198,Jo Stone-Fewings,2,False,Mark Sutton,other,1991,9
+354,Casualty,GB,6,143527,Lee Whitlock,2,False,Graham,other,1991,9
+355,Casualty,GB,6,1232088,Scott Edmund Lane,2,False,Danny,other,1991,9
+356,Casualty,GB,6,1789325,Fleur Taylor,1,False,Shelley,other,1991,9
+357,Casualty,GB,6,200332,John McGlynn,2,False,Steve Lewis,other,1991,9
+358,Casualty,GB,6,162457,Karen Salt,1,False,Kasha Lewis,other,1991,9
+359,Casualty,GB,6,1220110,Rob Edwards,2,False,Adam McBride,other,1991,9
+360,Casualty,GB,6,125039,Tom Chadbon,2,False,Richard Greetham,other,1991,9
+361,Casualty,GB,6,84927,Benjamin Whitrow,2,False,Douglas Cranville,other,1991,9
+362,Casualty,GB,6,1230688,Polly James,1,False,Sylvia Vaughan,other,1991,10
+363,Casualty,GB,6,1377842,Ian Talbot,2,False,Ken Vaughan,other,1991,10
+364,Casualty,GB,6,26861,Andrew Wilde,2,False,Robert Frost,other,1991,10
+365,Casualty,GB,6,1220100,Belinda Sinclair,1,False,Carole Frost,other,1991,10
+366,Casualty,GB,6,1219229,Rebecca Lacey,1,False,Debbie,other,1991,10
+367,Casualty,GB,6,29698,Paul Barber,2,False,Cliff Sidwell,other,1991,10
+368,Casualty,GB,6,1220981,Sheila Allen,1,False,Marcia Parrish,other,1991,10
+369,Casualty,GB,6,79956,David Savile,2,False,Derek Parrish,other,1991,10
+370,Casualty,GB,6,16273,Simon Chandler,2,False,Richard Penfold,other,1991,10
+371,Casualty,GB,6,1221007,Su Eliott,1,False,Helen Hardwick,other,1991,10
+372,Casualty,GB,6,30087,Fraser James,2,False,Andrew Hardwick,doctor,1991,10
+373,Casualty,GB,6,26702,Philip Anthony,2,False,Dr. Phillips,doctor,1991,10
+374,Casualty,GB,6,29616,William Armstrong,2,False,Paul,other,1991,10
+375,Casualty,GB,6,29235,Lucy Cohu,1,False,Theresa Johnson,other,1991,10
+376,Casualty,GB,6,201648,Patti Love,1,False,Yvonne Miller,other,1991,10
+377,Casualty,GB,6,1221966,Barrie Rutter,2,False,Ted Miller,other,1991,10
+378,Casualty,GB,6,72316,Edna Doré,1,False,Grace Harper,other,1991,10
+379,Casualty,GB,6,176,Kieran O'Brien,2,False,Chris Miller,other,1991,10
+380,Casualty,GB,6,229961,Shaun Scott,2,False,Rob Carrington,other,1991,10
+381,Casualty,GB,6,1244331,Annie Hulley,1,False,Jan Callington,other,1991,10
+382,Casualty,GB,6,121464,Gillian Kearney,1,False,Mandy,other,1991,10
+383,Casualty,GB,6,1789326,Sam Howells-Pugh,2,False,Peter Duffin,other,1991,10
+384,Casualty,GB,6,71249,Eleanor David,1,False,Stephanie Freeman,other,1991,10
+385,Casualty,GB,6,195930,Jerome Flynn,2,False,Alan Deacon,other,1991,10
+386,Casualty,GB,6,1255427,Ann Penfold,1,False,Edith,other,1991,10
+387,Casualty,GB,6,1220510,Rupert Holliday-Evans,2,False,Michael Cook,other,1991,10
+388,Casualty,GB,6,53328,Julia Sawalha,1,False,Nikki Watson,other,1991,10
+389,Casualty,GB,6,1760878,Maggie Lynskey,1,False,Vicky,other,1991,11
+390,Casualty,GB,6,183785,Nicholas Le Prevost,2,False,Antony Reynolds,other,1991,11
+391,Casualty,GB,6,1536342,Amy Melhuish,1,False,Antonia Reynolds,other,1991,11
+392,Casualty,GB,6,87419,Jimmy Jewel,2,False,Sid Towers,other,1991,11
+393,Casualty,GB,6,4573,Selina Cadell,1,False,Sister Margaret,other,1991,11
+394,Casualty,GB,6,1789327,Dean Richard,2,False,Jason,other,1991,11
+395,Casualty,GB,6,1493073,Anthony Milner,2,False,Mike,other,1991,11
+396,Casualty,GB,6,56471,Katy Murphy,1,False,Kath,other,1991,11
+397,Casualty,GB,6,43798,Peggy Mount,1,False,Eliza Johnstone,other,1991,11
+398,Casualty,GB,6,183146,Jack Galloway,2,False,Jeff Dryden,doctor,1991,11
+399,Casualty,GB,6,133124,Mary Larkin,1,False,Jenny Dryden,doctor,1991,11
+400,Casualty,GB,6,34550,Alan Stocks,2,False,James Dixon,other,1991,11
+401,Casualty,GB,6,17788,Ralph Riach,2,False,Alex,other,1991,11
+402,Casualty,GB,6,87416,Charlotte Cornwell,1,False,Chris Williamson,other,1991,11
+403,Casualty,GB,6,219902,Charlie Condou,2,False,David Williamson,other,1991,11
+404,Casualty,GB,6,87097,Neil Dudgeon,2,False,Mick,other,1991,11
+405,Casualty,GB,6,69735,Paul Geoffrey,2,False,William Ellis,other,1991,11
+406,Casualty,GB,6,1393548,Breffni McKenna,2,False,Richard Lord,other,1991,11
+407,Casualty,GB,6,1215187,Chris Gascoyne,2,False,Cliff Davies,other,1991,11
+408,Casualty,GB,6,151952,Colin Tierney,2,False,Michael Letts,other,1991,11
+409,Casualty,GB,6,6613,Minnie Driver,1,False,Zena Mitchell,other,1991,11
+410,Casualty,GB,6,97416,Richard Dormer,2,False,Rick Tomlinson,other,1991,11
+411,Casualty,GB,6,132993,Hermione Norris,1,False,Abby Larwood,other,1991,11
+412,Casualty,GB,6,75063,Cathryn Bradshaw,1,False,Monica Larwood,other,1991,11
+413,Casualty,GB,6,3327824,Anna Niland,1,False,Ellen Jones,other,1991,11
+414,Casualty,GB,6,992504,Siobhan Redmond,1,False,Betty Jones,other,1991,11
+415,Casualty,GB,6,24598,Michael Attwell,2,False,Sam Jones,other,1991,11
+416,Casualty,GB,6,1270882,Wendy Gifford,1,False,Mrs. Cox,other,1991,11
+417,Casualty,GB,6,96585,Daniel Peacock,2,False,Leathers,other,1991,11
+418,Casualty,GB,6,1789332,Nicholas Caunter,2,False,Tommy,other,1991,11
+419,Casualty,GB,6,32357,Nicholas Farrell,2,False,Phil Byron,other,1991,12
+420,Casualty,GB,6,1231385,Patricia Kerrigan,1,False,Alice Byron,other,1991,12
+421,Casualty,GB,6,1173708,Pauline Delaney,1,False,Mona Drekon,doctor,1991,12
+422,Casualty,GB,6,27822,David Ryall,2,False,Eddie Gash,other,1991,12
+423,Casualty,GB,6,123209,Geoffrey Bayldon,2,False,Duncan Frain,other,1991,12
+424,Casualty,GB,6,47567,Anna Cropper,1,False,Mrs. Chassnee,other,1991,12
+425,Casualty,GB,6,37759,Kathy Burke,1,False,Lorraine McCullier,other,1991,12
+426,Casualty,GB,6,1221009,Tom Szekeres,2,False,Stewart Byron,other,1991,12
+427,Casualty,GB,6,190526,Frank Windsor,2,False,Leslie Smith,other,1991,12
+428,Casualty,GB,6,28482,Peter Copley,2,False,Dan Woods,other,1991,12
+429,Casualty,GB,6,192975,Christine Kavanagh,1,False,Helen Ferris,other,1991,12
+430,Casualty,GB,6,47493,Simon Shepherd,2,False,John Ferris,other,1991,12
+431,Casualty,GB,6,1770556,Alexandra Milman,1,False,Amanda Ferris,other,1991,12
+432,Casualty,GB,6,53349,Gary Olsen,2,False,Gary Tate,other,1991,12
+433,Casualty,GB,6,113360,Tim Preece,2,False,Peter Gilchrist,other,1992,2
+434,Casualty,GB,6,27632,Ben Daniels,2,False,Graham Marda,other,1992,2
+435,Casualty,GB,6,32061,John Moulder-Brown,2,False,Hal,other,1992,2
+436,Casualty,GB,6,26676,Davyd Harries,2,False,George Felton,other,1992,2
+437,Casualty,GB,6,63073,Billy Murray,2,False,Don Collins,other,1992,2
+438,Casualty,GB,6,185825,Sharon Morgan,1,False,Jean Collins,other,1992,2
+439,Casualty,GB,6,16274,Dominic Guard,2,False,Tim Turner,other,1992,2
+440,Casualty,GB,7,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1992,9
+441,Casualty,GB,7,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1992,9
+442,Casualty,GB,7,1343571,Nigel Le Vaillant,2,True,Julian Chapman,doctor (probably),1992,9
+443,Casualty,GB,7,190407,William Gaminara,2,True,Andrew Bower,doctor,1992,9
+444,Casualty,GB,7,1376049,Emma Bird,1,True,Maxine Price,doctor (probably),1992,9
+445,Casualty,GB,7,1231376,Anne Kristen,1,True,Norma Sullivan,doctor (probably),1992,9
+446,Casualty,GB,7,1523993,Jason Riddington,2,True,Rob Khalefa,doctor (probably),1992,9
+447,Casualty,GB,7,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1992,9
+448,Casualty,GB,7,1789319,Caroline Webster,1,True,Jane Scott,doctor (probably),1992,9
+449,Casualty,GB,7,1803460,Nicola Jeffries,1,True,Jenny,doctor (probably),1992,9
+450,Casualty,GB,7,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),1992,9
+451,Casualty,GB,7,1215189,Tracie Bennett,1,False,Sally,other,1992,9
+452,Casualty,GB,7,151457,Robert Daws,2,False,Simon Eastman,other,1992,9
+453,Casualty,GB,7,63141,Ron Donachie,2,False,PC Pewsey,other,1992,9
+454,Casualty,GB,7,79361,Julia Foster,1,False,Joyce Pratkash,other,1992,9
+455,Casualty,GB,7,140568,Maria Friedman,1,False,Trish Barnes,other,1992,9
+456,Casualty,GB,7,693,Roshan Seth,2,False,Sujit Pratkash,other,1992,9
+457,Casualty,GB,7,1220108,David Beames,2,False,Chris Dale,other,1992,9
+458,Casualty,GB,7,94021,Christopher Benjamin,2,False,Henry Lindall,other,1992,9
+459,Casualty,GB,7,25666,Ian Hogg,2,False,Bill Morgan,other,1992,9
+460,Casualty,GB,7,83553,Paul Reynolds,2,False,Alan Morgan,other,1992,9
+461,Casualty,GB,7,10657,Shane Rimmer,2,False,Ed Rhinehart,other,1992,9
+462,Casualty,GB,7,56918,Imogen Boorman,1,False,Nikki Wyatt,other,1992,9
+463,Casualty,GB,7,10731,Anna Chancellor,1,False,Celia Morton,other,1992,9
+464,Casualty,GB,7,158837,David Gwillim,2,False,Jeff Morton,other,1992,9
+465,Casualty,GB,7,1211884,Jan Harvey,1,False,Claire,other,1992,9
+466,Casualty,GB,7,1253637,Joanna Foster,1,False,Kate Miller,other,1992,10
+467,Casualty,GB,7,438859,Susan Brown,1,False,Julie,other,1992,10
+468,Casualty,GB,7,17476,Peter Wight,2,False,Trevor,other,1992,10
+469,Casualty,GB,7,1789894,Oliver Pearce Owen,2,False,Danny,other,1992,10
+470,Casualty,GB,7,137952,Jesse Birdsall,2,False,Mike,other,1992,10
+471,Casualty,GB,7,77287,Anne Reid,1,False,Barbara,other,1992,10
+472,Casualty,GB,7,1216393,John Normington,2,False,George,other,1992,10
+473,Casualty,GB,7,43626,Dora Bryan,1,False,Hester Blewett,other,1992,10
+474,Casualty,GB,7,117450,Betty Marsden,1,False,Naomi Blewett,other,1992,10
+475,Casualty,GB,7,1427805,Margaret Towner,1,False,Kitty Meadows,other,1992,10
+476,Casualty,GB,7,53367,Ruth Sheen,1,False,Barbara George,other,1992,10
+477,Casualty,GB,7,82548,Peter Gilmore,2,False,Lionel,other,1992,10
+478,Casualty,GB,7,58915,Nicholas Gleaves,2,False,George Reynolds,other,1992,10
+479,Casualty,GB,7,29069,Michael Jayston,2,False,Ian,other,1992,10
+480,Casualty,GB,7,196385,Helen Lederer,1,False,Maria Harrop,other,1992,10
+481,Casualty,GB,7,295849,Alun Lewis,2,False,Phil,other,1992,10
+482,Casualty,GB,7,30706,Lionel Jeffries,2,False,Bill Tongue,other,1992,10
+483,Casualty,GB,7,1211870,Tenniel Evans,2,False,Gerald Summers,other,1992,10
+484,Casualty,GB,7,30141,Maxine Audley,1,False,Leah Kelvin,other,1992,11
+485,Casualty,GB,7,9012,Jonny Lee Miller,2,False,Matt,other,1992,11
+486,Casualty,GB,7,116645,Harry Towb,2,False,Sam Kelvin,other,1992,11
+487,Casualty,GB,7,20242,Fiona Victory,1,False,Katherine McArthy,other,1992,11
+488,Casualty,GB,7,135172,Juliette Caton,1,False,Jan,other,1992,11
+489,Casualty,GB,7,1408057,Jon Croft,2,False,Fred,other,1992,11
+490,Casualty,GB,7,975,Nick Moran,2,False,Jez,other,1992,11
+491,Casualty,GB,7,93177,Lee Ross,2,False,Dave,other,1992,11
+492,Casualty,GB,7,129051,Harry Fowler,2,False,George,other,1992,11
+493,Casualty,GB,7,29796,Rosalind Ayres,1,False,Sarah,other,1992,11
+494,Casualty,GB,7,126363,Martin Jarvis,2,False,Bart,other,1992,11
+495,Casualty,GB,7,1240510,Polly Hemingway,1,False,Pat Bolt,other,1992,11
+496,Casualty,GB,7,80499,Philip Madoc,2,False,Mike,other,1992,11
+497,Casualty,GB,7,5483,Philip Whitchurch,2,False,Paul Bolt,other,1992,11
+498,Casualty,GB,7,130,Kenny Baker,2,False,Archie,other,1992,12
+499,Casualty,GB,7,69467,Rula Lenska,1,False,Circus Owner,other,1992,12
+500,Casualty,GB,7,1211865,Rocky Marshall,2,False,Bobby,other,1992,12
+501,Casualty,GB,7,9125,Susan Penhaligon,1,False,Hattie Kent,other,1992,12
+502,Casualty,GB,7,1780966,Pal Aron,2,False,Santa Claus,other,1992,12
+503,Casualty,GB,7,83902,James Blackwell,2,False,PC Tony Roberts,other,1992,12
+504,Casualty,GB,7,27820,Rebecca Callard,1,False,Suzie Brennan,other,1992,12
+505,Casualty,GB,7,14948,T. P. McKenna,2,False,Arthur Jackson,other,1992,12
+506,Casualty,GB,7,81022,Jeff Rawle,2,False,Len Jackson,other,1992,12
+507,Casualty,GB,7,1229207,Shirin Taylor,1,False,Joan,other,1993,1
+508,Casualty,GB,7,17780,Ian Shaw,2,False,Sean,other,1993,1
+509,Casualty,GB,7,70633,Amanda Redman,1,False,Olivia Purcell,other,1993,1
+510,Casualty,GB,7,29860,Trevyn McDowell,0,False,Louise,other,1993,1
+511,Casualty,GB,7,31419,Phil Rowlands,2,False,Edwin Ansdell,other,1993,1
+512,Casualty,GB,7,51969,Hywel Bennett,2,False,Paul Lawson,other,1993,1
+513,Casualty,GB,7,95789,Georgina Cates,1,False,Emily Russell (as Clare Woodgate),other,1993,1
+514,Casualty,GB,7,63006,Ram John Holder,2,False,George,other,1993,1
+515,Casualty,GB,7,1219438,Heather Tobias,1,False,Pam Russell,other,1993,1
+516,Casualty,GB,7,1244695,Dean Harris,2,False,Simmer,other,1993,1
+517,Casualty,GB,7,37440,Angela Pleasence,1,False,Sonia,other,1993,1
+518,Casualty,GB,7,132206,Stephen Moore,2,False,Kevin,other,1993,1
+519,Casualty,GB,7,515133,Michael Cashman,2,False,Malcolm Paynter,other,1993,1
+520,Casualty,GB,7,1232402,Julia Hills,1,False,Carole Simpson,other,1993,1
+521,Casualty,GB,7,145533,Clive Mantle,2,False,Mike Barratt,other,1993,1
+522,Casualty,GB,7,96279,Con O'Neill,2,False,Denis Simpson,other,1993,1
+523,Casualty,GB,7,178748,Paula Wilcox,1,False,Rosalind Paynter,other,1993,1
+524,Casualty,GB,7,1229111,Ben Brazier,2,False,Lee Chasey,other,1993,1
+525,Casualty,GB,7,1220360,Charles De'Ath,2,False,Rosco,other,1993,1
+526,Casualty,GB,7,233563,Cindy O'Callaghan,1,False,Diane Chasey,other,1993,1
+527,Casualty,GB,7,204,Kate Winslet,1,False,Suzanne,other,1993,2
+528,Casualty,GB,7,24716,John Duttine,2,False,Alec Howard,other,1993,2
+529,Casualty,GB,7,1220181,Elizabeth Estensen,1,False,Madeleine Howard,other,1993,2
+530,Casualty,GB,7,1789945,Paul Murthwaite,2,False,Alex Perry,other,1993,2
+531,Casualty,GB,7,1705491,Ken Sharrock,2,False,Kevin Price,other,1993,2
+532,Casualty,GB,7,108575,René Zagger,2,False,Rick,other,1993,2
+533,Casualty,GB,7,110075,Paul Bazely,2,False,Gary Watson,other,1993,2
+534,Casualty,GB,7,1667,Danny Cunningham,2,False,Steve,other,1993,2
+535,Casualty,GB,7,1215154,Daniel Hill,2,False,Clive,other,1993,2
+536,Casualty,GB,7,25079,Stefan Kalipha,2,False,Joseph Watson,other,1993,2
+537,Casualty,GB,7,65409,Fay Masterson,1,False,Amy Croft,other,1993,2
+538,Casualty,GB,7,27323,Garry Cooper,2,False,Han Dybendak,other,1993,2
+539,Casualty,GB,7,209659,Keith Drinkel,2,False,Insp. Easton,other,1993,2
+540,Casualty,GB,7,79635,Julian Holloway,2,False,Jim,other,1993,2
+541,Casualty,GB,7,109602,Chowee Leow,2,False,Lee,other,1993,2
+542,Casualty,GB,7,1227666,Elaine Lordan,1,False,Janice Bradley,other,1993,2
+543,Casualty,GB,7,1687610,Leonard Preston,2,False,Mark Woodburn,other,1993,2
+544,Casualty,GB,7,1070713,Sion Probert,2,False,Derek Redland,other,1993,2
+545,Casualty,GB,7,1230624,Chris Tranchell,2,False,Ortho Registrar,other,1993,2
+546,Casualty,GB,7,1229389,Barbara Wilshere,1,False,Val Hetherington,other,1993,2
+547,Casualty,GB,7,1789326,Sam Howells-Pugh,2,False,Peter Duffin,other,1993,2
+548,Casualty,GB,7,24594,Michael Angelis,2,False,Gordon McCauley,other,1993,2
+549,Casualty,GB,7,1246598,Jane Wood,1,False,Elspeth McCauley,other,1993,2
+550,Casualty,GB,7,1399673,Allan Surtees,2,False,Ray McCauley,other,1993,2
+551,Casualty,GB,7,1213687,Anton Phillips,2,False,Errol Walmsley,other,1993,2
+552,Casualty,GB,7,1227767,Joseph Kpobie,2,False,John Walmsley,other,1993,2
+553,Casualty,GB,7,87098,Matt Bardock,2,False,Terry,other,1993,2
+554,Casualty,GB,8,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1993,9
+555,Casualty,GB,8,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1993,9
+556,Casualty,GB,8,145533,Clive Mantle,2,True,Mike Barratt,doctor (probably),1993,9
+557,Casualty,GB,8,1231376,Anne Kristen,1,True,Norma Sullivan,doctor (probably),1993,9
+558,Casualty,GB,8,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1993,9
+559,Casualty,GB,8,10652,Suzanna Hamilton,1,True,Karen Goodliffe,doctor (probably),1993,9
+560,Casualty,GB,8,16270,Christopher Guard,2,True,Ken Hodges,doctor (probably),1993,9
+561,Casualty,GB,8,83675,Doña Croll,1,True,Adele Beckford,doctor (probably),1993,9
+562,Casualty,GB,8,1789319,Caroline Webster,1,True,Jane Scott,doctor (probably),1993,9
+563,Casualty,GB,8,205659,Naoko Mori,1,True,Mie Nishi-Kawa,doctor (probably),1993,9
+564,Casualty,GB,8,79885,Steven O'Donnell,2,True,Frankie Drummer,doctor,1993,9
+565,Casualty,GB,8,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),1993,9
+566,Casualty,GB,8,1698329,Jackie Morrison,3,False,Daisy,other,1993,9
+567,Casualty,GB,8,1255235,Janet Amsbury,1,False,Stella,other,1993,9
+568,Casualty,GB,8,1211852,Ian Gelder,2,False,Jeremy,other,1993,9
+569,Casualty,GB,8,203568,Tony Marshall,2,False,Roy,other,1993,9
+570,Casualty,GB,8,59074,John Cater,2,False,Bernard,other,1993,9
+571,Casualty,GB,8,185426,Rowena Cooper,1,False,Marion,other,1993,9
+572,Casualty,GB,8,30087,Fraser James,2,False,George,other,1993,9
+573,Casualty,GB,8,94738,Leon Black,2,False,Danny,other,1993,9
+574,Casualty,GB,8,1211859,Ben Price,2,False,Ed,other,1993,9
+575,Casualty,GB,8,2467,James Cosmo,2,False,Tony,other,1993,9
+576,Casualty,GB,8,26259,Michael Feast,2,False,Gerry Whitmore,other,1993,9
+577,Casualty,GB,8,40646,Amelda Brown,1,False,Linda,other,1993,9
+578,Casualty,GB,8,1790048,Blair Ford,3,False,Nicholas Wilson,other,1993,9
+579,Casualty,GB,8,109651,Adjoa Andoh,1,False,Maggie,other,1993,9
+580,Casualty,GB,8,99905,Kathleen Byron,1,False,Mrs. Anderson,other,1993,9
+581,Casualty,GB,8,6645,Richard Ridings,2,False,Jack,other,1993,9
+582,Casualty,GB,8,182110,Cliff Parisi,2,False,Malc,other,1993,9
+583,Casualty,GB,8,29698,Paul Barber,2,False,Mungo,other,1993,9
+584,Casualty,GB,8,1711118,Mary Miller,1,False,Hilary Kingston,other,1993,10
+585,Casualty,GB,8,1230680,Brian Miller,2,False,Chris Sullivan,other,1993,10
+586,Casualty,GB,8,35315,Brenda Bruce,1,False,Carrie Springett,other,1993,10
+587,Casualty,GB,8,1242954,Christopher Hancock,2,False,Ted Springett,other,1993,10
+588,Casualty,GB,8,107408,David Burke,2,False,Ron Fisher,other,1993,10
+589,Casualty,GB,8,940044,Barbara Ewing,1,False,Sheila Fisher,other,1993,10
+590,Casualty,GB,8,1198448,Joanna Riding,1,False,Jackie Walsh,other,1993,10
+591,Casualty,GB,8,34550,Alan Stocks,2,False,Gary Walsh,other,1993,10
+592,Casualty,GB,8,218321,Gary Sefton,2,False,Kevin Fisher,other,1993,10
+593,Casualty,GB,8,1230432,Clive Rowe,2,False,Geoff Speight,other,1993,10
+594,Casualty,GB,8,1335243,Saira Todd,1,False,Debbie Miller,other,1993,10
+595,Casualty,GB,8,90741,John Salthouse,2,False,Chris Weston,other,1993,10
+596,Casualty,GB,8,20057,Michelle Fairley,1,False,Kate Maguire,other,1993,10
+597,Casualty,GB,8,28482,Peter Copley,2,False,Hugh Phipps,other,1993,10
+598,Casualty,GB,8,25656,Terence Harvey,2,False,Peter Hart,other,1993,10
+599,Casualty,GB,8,65145,Liza Walker,1,False,Kathy Hart,other,1993,10
+600,Casualty,GB,8,42996,Trevor Peacock,2,False,Reg,other,1993,10
+601,Casualty,GB,8,148135,Julia Ford,1,False,Susie,other,1993,10
+602,Casualty,GB,8,147424,Jayne Ashbourne,1,False,Mary,other,1993,10
+603,Casualty,GB,8,108463,Dorian Healy,2,False,Bernard,other,1993,10
+604,Casualty,GB,8,16752,David Harewood,2,False,Leon,other,1993,10
+605,Casualty,GB,8,1211886,Jaye Griffiths,0,False,Sheena Whitehead,other,1993,10
+606,Casualty,GB,8,1145584,Steve Delaney,2,False,Mike Findlay,other,1993,10
+607,Casualty,GB,8,210065,Luke Hayden,2,False,Kieron Kennedy,other,1993,10
+608,Casualty,GB,8,1041408,Ravi Kapoor,2,False,Tony Chopra,other,1993,10
+609,Casualty,GB,8,195359,John Brobbey,2,False,Phil Chambers,other,1993,11
+610,Casualty,GB,8,1196019,Andrew Scarborough,2,False,Gavin Turner,other,1993,11
+611,Casualty,GB,8,1513631,Mark Mulholland,2,False,Willy,other,1993,11
+612,Casualty,GB,8,176,Kieran O'Brien,2,False,Billy,other,1993,11
+613,Casualty,GB,8,123632,David Doyle,2,False,Darren,other,1993,11
+614,Casualty,GB,8,1234330,Ann Morrish,1,False,Peggy Fuller,other,1993,11
+615,Casualty,GB,8,30320,Annette Badland,1,False,Angela Mason,other,1993,11
+616,Casualty,GB,8,40643,Andy Rashleigh,2,False,Richie Mason,other,1993,11
+617,Casualty,GB,8,1790681,Jesse Alexander,2,False,Liam Mason,other,1993,11
+618,Casualty,GB,8,139444,Terrence Hardiman,2,False,Carlisle,other,1993,11
+619,Casualty,GB,8,1790683,Julie Foy,1,False,Sue,other,1993,11
+620,Casualty,GB,8,1790684,Kieron Forsyth,2,False,Eric,other,1993,11
+621,Casualty,GB,8,146768,Claire Hackett,1,False,Sandra Bennison,doctor,1993,11
+622,Casualty,GB,8,1450288,Steve Weston,2,False,Kevin Bennison,other,1993,11
+623,Casualty,GB,8,157799,Robert Swann,2,False,Col. Eric Dutton,other,1993,11
+624,Casualty,GB,8,56552,Sean Chapman,2,False,Tom Wernik,other,1993,11
+625,Casualty,GB,8,33185,Jeremy Bulloch,2,False,Rodney Mulligan,other,1993,11
+626,Casualty,GB,8,27822,David Ryall,2,False,Tom Harley,other,1993,11
+627,Casualty,GB,8,110456,Sheila White,1,False,Deborah Shines,other,1993,11
+628,Casualty,GB,8,1214783,David Ross,2,False,Lenny Shines,other,1993,11
+629,Casualty,GB,8,15456,Helen Baxendale,1,False,Emma Hayes,other,1993,11
+630,Casualty,GB,8,1492649,Colin Farrell,2,False,John Hayes,other,1993,11
+631,Casualty,GB,8,1255427,Ann Penfold,1,False,Gwen Hayes,other,1993,11
+632,Casualty,GB,8,202506,Simon Slater,2,False,Mike Howlett,other,1993,11
+633,Casualty,GB,8,207295,Melanie Hill,1,False,Janice Hutchins,other,1993,12
+634,Casualty,GB,8,165434,Nick Dunning,2,False,Jack Paice,other,1993,12
+635,Casualty,GB,8,30318,Amanda Root,1,False,Joyce Paice,other,1993,12
+636,Casualty,GB,8,26676,Davyd Harries,2,False,Barry Hoyle,other,1993,12
+637,Casualty,GB,8,1399567,Jo Cameron Brown,1,False,Enid Hoyle,other,1993,12
+638,Casualty,GB,8,62229,Kulvinder Ghir,2,False,Ahmet,other,1993,12
+639,Casualty,GB,8,122994,Seamus O'Neill,2,False,Stefan,other,1993,12
+640,Casualty,GB,8,1091241,Boris Boscovic,2,False,Kemal,other,1993,12
+641,Casualty,GB,8,201660,Brian Stirner,2,False,Nigel Fox,other,1993,12
+642,Casualty,GB,8,4935,Pete Postlethwaite,2,False,Hank,other,1993,12
+643,Casualty,GB,8,58628,Sara Sugarman,1,False,Kath,other,1993,12
+644,Casualty,GB,8,30432,Jan Chappell,1,False,Dr. Potter,doctor,1993,12
+645,Casualty,GB,8,174382,George Rossi,2,False,Giovanni Fachetti,other,1993,12
+646,Casualty,GB,8,127156,William Vanderpuye,2,False,Victor Cheritan,other,1993,12
+647,Casualty,GB,8,79489,Leslie Schofield,2,False,Ron Jenson,other,1993,12
+648,Casualty,GB,8,183151,Greg Hicks,2,False,Gerry Talbot,other,1993,12
+649,Casualty,GB,8,142746,Stuart Laing,2,False,Matt,other,1993,12
+650,Casualty,GB,8,20999,Mark Williams,2,False,Des Jones,other,1993,12
+651,Casualty,GB,8,53588,Billy Hartman,2,False,Rick,other,1993,12
+652,Casualty,GB,8,1335635,Paul Butterworth,2,False,Bob,other,1993,12
+653,Casualty,GB,8,1360193,Corinne Skinner-Carter,1,False,June Jackson,other,1993,12
+654,Casualty,GB,8,129451,Carol Burns,1,False,Jean Hall,other,1994,1
+655,Casualty,GB,8,141550,Michael Godley,2,False,Sir Andrew Owen,doctor,1994,1
+656,Casualty,GB,8,1789434,Ray Polhill,2,False,Jamie Foster,other,1994,1
+657,Casualty,GB,8,1239068,Emma Amos,1,False,Anna Owen,other,1994,1
+658,Casualty,GB,8,1375591,David Plimmer,2,False,Roy Welsh,other,1994,1
+659,Casualty,GB,8,190516,June Watson,1,False,Ruth,other,1994,1
+660,Casualty,GB,8,48968,Ben Pullen,2,False,Stephen Roche,other,1994,1
+661,Casualty,GB,8,58079,Sarah Badel,1,False,Celia Cooke,other,1994,1
+662,Casualty,GB,8,61366,Richard Huw,2,False,Simon Hackett,other,1994,1
+663,Casualty,GB,8,192821,Rosie Marcel,1,False,Stella,other,1994,1
+664,Casualty,GB,8,1791805,David Larkin,2,False,Smudge,other,1994,1
+665,Casualty,GB,8,176132,Trevor Byfield,2,False,Security Man,other,1994,1
+666,Casualty,GB,8,1436905,Kate Fitzgerald,1,False,June Williamson,other,1994,1
+667,Casualty,GB,8,217906,Annie Hayes,1,False,Betty Faraday,other,1994,1
+668,Casualty,GB,8,1214781,George Sweeney,2,False,Ted Faraday,other,1994,1
+669,Casualty,GB,8,177240,George Russo,2,False,Billy Faraday,other,1994,1
+670,Casualty,GB,8,1562466,Cherith Mellor,1,False,Liz Adams,other,1994,1
+671,Casualty,GB,8,1242012,Peter Armitage,2,False,Peter Adams,other,1994,1
+672,Casualty,GB,8,1452763,Peter McNamara,2,False,Terry Cooper,other,1994,1
+673,Casualty,GB,8,1696958,Vicky Murdock,1,False,Alison Cooper,other,1994,1
+674,Casualty,GB,8,1216423,Stella Tanner,1,False,Joan Cooper,other,1994,1
+675,Casualty,GB,8,1593857,Jack Carr,2,False,Harry Taylor,other,1994,1
+676,Casualty,GB,8,193365,Arthur Whybrow,2,False,Mr. Daniels,other,1994,1
+677,Casualty,GB,8,201499,Elizabeth Bradley,1,False,Mrs. Daniels,other,1994,1
+678,Casualty,GB,8,27172,Peter Guinness,2,False,Paul Becket,other,1994,1
+679,Casualty,GB,8,1372589,Meryl Hampton,1,False,Anna Beckett,other,1994,1
+680,Casualty,GB,8,1215215,Andrew Lancel,2,False,Peter Becket,other,1994,1
+681,Casualty,GB,8,1229187,Tim Dantay,2,False,Trevor,other,1994,1
+682,Casualty,GB,8,106992,Kenneth Cope,2,False,Les Hocknall,other,1994,1
+683,Casualty,GB,8,21608,Derek Fowlds,2,False,Mr. Croft,other,1994,1
+684,Casualty,GB,8,1409424,Amanda Royle,1,False,Jill,other,1994,1
+685,Casualty,GB,8,192842,Anne Stallybrass,1,False,Sheila Hocknall,other,1994,1
+686,Casualty,GB,9,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1994,9
+687,Casualty,GB,9,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1994,9
+688,Casualty,GB,9,145533,Clive Mantle,2,True,Mike Barratt,doctor (probably),1994,9
+689,Casualty,GB,9,115282,Jane Gurnett,1,True,Rachel Longworth,doctor (probably),1994,9
+690,Casualty,GB,9,57340,Steven Brand,2,True,Adam Cooke,doctor (probably),1994,9
+691,Casualty,GB,9,1221763,Sorcha Cusack,1,True,Kate Wilson,doctor (probably),1994,9
+692,Casualty,GB,9,1219775,Sue Devaney,1,True,Liz Harker,doctor (probably),1994,9
+693,Casualty,GB,9,79876,Joan Oliver,1,True,Eddie Gordon,doctor (probably),1994,9
+694,Casualty,GB,9,1221970,Jason Merrells,2,True,Matt Hawley,doctor (probably),1994,9
+695,Casualty,GB,9,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),1994,9
+696,Casualty,GB,9,42582,Linda Henry,1,False,Diane Daw,other,1994,9
+697,Casualty,GB,9,27408,Mark Lewis,2,False,Barry,other,1994,9
+698,Casualty,GB,9,1788856,Andrew Read,2,False,John,other,1994,9
+699,Casualty,GB,9,63003,Ricci Harnett,2,False,Colin Miller,other,1994,9
+700,Casualty,GB,9,93524,Tat Whalley,2,False,Rory Miller,other,1994,9
+701,Casualty,GB,9,28158,Martin Hancock,2,False,Sam McGann,other,1994,9
+702,Casualty,GB,9,184924,Frances Tomelty,1,False,Annie McGann,other,1994,9
+703,Casualty,GB,9,102980,Des McAleer,2,False,Dave McGann,other,1994,9
+704,Casualty,GB,9,1230882,Julian Kerridge,2,False,PC Kevin Bradshaw,other,1994,9
+705,Casualty,GB,9,1398300,Melvyn Bedford,2,False,PC John Milligan,other,1994,9
+706,Casualty,GB,9,195535,Anna Bolt,1,False,Sally Lister,other,1994,9
+707,Casualty,GB,9,129733,Kate Binchy,1,False,Kath Lister,other,1994,9
+708,Casualty,GB,9,1451438,Amy Hodge,1,False,Carly Hutchings,other,1994,9
+709,Casualty,GB,9,1757174,Angela Catherall,1,False,Patsy,other,1994,9
+710,Casualty,GB,9,1102152,Oliver Young,2,False,Sam's Friend,other,1994,9
+711,Casualty,GB,9,1250653,Gabrielle Lloyd,1,False,Marian Ford,other,1994,10
+712,Casualty,GB,9,110078,Geoffrey Hutchings,2,False,Paul Fenwick,other,1994,10
+713,Casualty,GB,9,1529329,Lavinia Bertram,1,False,Jean Fenwick,other,1994,10
+714,Casualty,GB,9,1219229,Rebecca Lacey,1,False,Louise Tomlin,other,1994,10
+715,Casualty,GB,9,89829,Jack Ellis,2,False,Bernie,other,1994,10
+716,Casualty,GB,9,137748,Louisa Milwood-Haigh,1,False,Vicki Allen,other,1994,10
+717,Casualty,GB,9,1793878,Sonya Kearns,1,False,Karen,other,1994,10
+718,Casualty,GB,9,183620,Noreen Kershaw,1,False,Steph,other,1994,10
+719,Casualty,GB,9,1231909,Alex Lowe,2,False,Alex Hopkins,other,1994,10
+720,Casualty,GB,9,174727,Lesley Nicol,1,False,Jayne Bowen,other,1994,10
+721,Casualty,GB,9,255920,David Cardy,2,False,James Bowen,other,1994,10
+722,Casualty,GB,9,1500132,James Lailey,2,False,Glen Quinn,other,1994,10
+723,Casualty,GB,9,207342,Lesley Clare O'Neill,1,False,Christine Fairhurst,other,1994,10
+724,Casualty,GB,9,1772653,Richard Albrecht,2,False,Ray Fairhurst,other,1994,10
+725,Casualty,GB,9,68384,Claire Rushbrook,1,False,Policewoman,other,1994,10
+726,Casualty,GB,9,1219988,Rob Spendlove,2,False,Rick Westbrook,other,1994,10
+727,Casualty,GB,9,1240508,Sadie Shimmin,1,False,Brenda Westbrook,other,1994,10
+728,Casualty,GB,9,1220055,Will Knightley,2,False,Nigel,other,1994,10
+729,Casualty,GB,9,946350,Nasser Memarzia,2,False,Patrick Sabet,other,1994,10
+730,Casualty,GB,9,63608,Jason Watkins,2,False,Partridge,other,1994,10
+731,Casualty,GB,9,162489,Jake Wood,2,False,Rhys Proctor,other,1994,10
+732,Casualty,GB,9,203147,Dickon Tolson,2,False,Danny,other,1994,10
+733,Casualty,GB,9,1214691,Martha Cope,1,False,Sylvia,other,1994,10
+734,Casualty,GB,9,8397,Charlie Creed-Miles,2,False,Philip O'Connor,other,1994,10
+735,Casualty,GB,9,162488,Jeillo Edwards,1,False,Jean MacKenzie,other,1994,10
+736,Casualty,GB,9,82637,Colette Brown,1,False,Emma,other,1994,10
+737,Casualty,GB,9,1196019,Andrew Scarborough,2,False,PC,other,1994,10
+738,Casualty,GB,9,30316,Shaun Parkes,2,False,Patrick Senior,other,1994,10
+739,Casualty,GB,9,1226922,Connie Hyde,1,False,Nikki Neal,other,1994,10
+740,Casualty,GB,9,1221066,Daniel Ryan,2,False,Mark Hitchens,other,1994,10
+741,Casualty,GB,9,1781424,Nicholas Frost,2,False,Fatso,other,1994,10
+742,Casualty,GB,9,32559,Scott Handy,2,False,Trevor Coyle,other,1994,10
+743,Casualty,GB,9,1221761,Kwame Kwei-Armah,0,False,Lloyd Wincott,other,1994,10
+744,Casualty,GB,9,1087600,Ben Onwukwe,2,False,Greg James,other,1994,10
+745,Casualty,GB,9,166259,Chris Jury,2,False,Mr. Skinner,other,1994,10
+746,Casualty,GB,9,1361007,Bill Gavin,2,False,Alfred MacIntyre,other,1994,10
+747,Casualty,GB,9,198133,Thomas Craig,2,False,Graham Evans,other,1994,10
+748,Casualty,GB,9,240300,Kenneth Farrington,2,False,Philip Jenkins,other,1994,11
+749,Casualty,GB,9,96175,Ann Lynn,1,False,Mary Jenkins,other,1994,11
+750,Casualty,GB,9,1637078,Melissa Wilkes,1,False,Elaine Warbin,other,1994,11
+751,Casualty,GB,9,162457,Karen Salt,1,False,'Whitney' Christine Warbin,other,1994,11
+752,Casualty,GB,9,186108,Ian Redford,2,False,Doug Rothermere,other,1994,11
+753,Casualty,GB,9,1635857,Gary Dunnington,2,False,Duncan Cox,other,1994,11
+754,Casualty,GB,9,127151,Dicken Ashworth,2,False,Alan Todd,other,1994,11
+755,Casualty,GB,9,77292,Sean Gilder,2,False,D.S. Hennessy,other,1994,11
+756,Casualty,GB,9,1793748,Kemal Sylvester,2,False,D.S. Clapton,other,1994,11
+757,Casualty,GB,9,135420,Deborah Findlay,1,False,Debbie Cookson,other,1994,11
+758,Casualty,GB,9,942377,Pippa Guard,1,False,Fiona,other,1994,11
+759,Casualty,GB,9,63358,Angeline Ball,1,False,Shirley,other,1994,11
+760,Casualty,GB,9,56101,Gerard Horan,2,False,Mark,other,1994,11
+761,Casualty,GB,9,151129,Mary Maxted,1,False,Mrs. Grace,other,1994,11
+762,Casualty,GB,9,17353,Matthew Marsh,2,False,Russell Miller,other,1994,11
+763,Casualty,GB,9,1231914,Rory Jennings,2,False,Danny Miller,other,1994,11
+764,Casualty,GB,9,1223070,Colette O'Neil,1,False,Maureen Trafford,other,1994,11
+765,Casualty,GB,9,20241,Tony Haygarth,2,False,Frank Thorp,other,1994,11
+766,Casualty,GB,9,133032,David Horovitch,2,False,Roger Longford,other,1994,11
+767,Casualty,GB,9,72307,Marion Bailey,1,False,Anna Longford,other,1994,11
+768,Casualty,GB,9,1229343,Victoria Finney,1,False,Trish Lathwell,other,1994,11
+769,Casualty,GB,9,184886,Mark Kingston,2,False,Edward Avery,other,1994,12
+770,Casualty,GB,9,40951,Angela Douglas,1,False,Jane Avery,other,1994,12
+771,Casualty,GB,9,238272,Thomas Russell,2,False,Michael Croft,other,1994,12
+772,Casualty,GB,9,132993,Hermione Norris,1,False,Bobbie Croft,other,1994,12
+773,Casualty,GB,9,18022,Gina McKee,1,False,Ginnie Davies,other,1994,12
+774,Casualty,GB,9,1068158,Carmel McSharry,1,False,Frances Miller,other,1994,12
+775,Casualty,GB,9,229498,Tony Melody,2,False,Brian Miller,other,1994,12
+776,Casualty,GB,9,1406458,Helena McCarthy,1,False,Kathy Allan,other,1994,12
+777,Casualty,GB,9,42585,Isobel Middleton,1,False,WPC,other,1994,12
+778,Casualty,GB,9,17357,Andrew Grainger,2,False,Joe Jobson,other,1994,12
+779,Casualty,GB,9,125043,Charon Bourke,1,False,Rebecca Jobson,other,1994,12
+780,Casualty,GB,9,1803324,Fergus Brazier,2,False,Rory Jobson,other,1994,12
+781,Casualty,GB,9,1803325,Max Brazier,2,False,Finn Jobson,other,1994,12
+782,Casualty,GB,9,185992,Diana Fairfax,1,False,Connie Sanders,other,1994,12
+783,Casualty,GB,9,107432,Barbara Murray,1,False,Vivien Guyett,other,1994,12
+784,Casualty,GB,9,141521,Walter Sparrow,2,False,Archie Farrell,other,1994,12
+785,Casualty,GB,9,199523,Pandora Colin,1,False,Joanna Farrell,other,1994,12
+786,Casualty,GB,9,1528562,Chanda Sharma,1,False,Mrs. Singh,other,1994,12
+787,Casualty,GB,9,1373526,Burt Caesar,2,False,Mr. Carlisle,other,1994,12
+788,Casualty,GB,9,1280910,Christopher Gilbert,2,False,Uncle Bob,other,1994,12
+789,Casualty,GB,9,1241905,Tracy Whitwell,1,False,Janice Draper,doctor,1994,12
+790,Casualty,GB,9,69032,Matthew Delamere,2,False,Terry,other,1994,12
+791,Casualty,GB,9,7194,Ken Hutchison,2,False,Mr. Draper,doctor,1994,12
+792,Casualty,GB,9,1427691,Joanne Allen,1,False,Mrs. Draper,doctor,1994,12
+793,Casualty,GB,9,1803328,Luke Pursey,2,False,Dougie Draper,doctor,1994,12
+794,Casualty,GB,9,1258322,David Hargreaves,2,False,Dennis Martin,other,1995,1
+795,Casualty,GB,9,95692,Jennie Linden,1,False,Caroline Martin,other,1995,1
+796,Casualty,GB,9,1220068,Paula Jacobs,1,False,Iris Thompson,other,1995,1
+797,Casualty,GB,9,1632583,Sidney Livingstone,2,False,Ronnie Thompson,other,1995,1
+798,Casualty,GB,9,1463146,Elizabeth Rider,1,False,Bev Elliott,other,1995,1
+799,Casualty,GB,9,1569592,John Vine,2,False,Geoff Cooper,other,1995,1
+800,Casualty,GB,9,1773131,Colin Wyatt,2,False,Colin,other,1995,1
+801,Casualty,GB,9,1803329,Scott Robinson,2,False,Lee,other,1995,1
+802,Casualty,GB,9,58986,Kevin Knapman,2,False,Ian Lester,other,1995,1
+803,Casualty,GB,9,1244441,Suzanne Maddock,1,False,Charlotte Harrison,other,1995,1
+804,Casualty,GB,9,1647287,Lynda Rooke,1,False,Jill Lester,other,1995,1
+805,Casualty,GB,9,8223,Jon Finch,2,False,Graham Lester,other,1995,1
+806,Casualty,GB,9,1240551,Carl Rice,2,False,Jason Lester,other,1995,1
+807,Casualty,GB,9,1803380,Matthew Warren,2,False,Paul Patterson,other,1995,1
+808,Casualty,GB,9,1602716,Nancy Lodder,1,False,Esther Clayton,other,1995,1
+809,Casualty,GB,9,9139,Celia Imrie,1,False,Elizabeth Clayton,other,1995,1
+810,Casualty,GB,9,72310,Sam Kelly,2,False,John Clayton,other,1995,1
+811,Casualty,GB,9,1803381,Dwayne Thomas,2,False,Craig Sturley,other,1995,1
+812,Casualty,GB,9,186163,Michelle Newell,1,False,Anna Matthews,other,1995,1
+813,Casualty,GB,9,1430494,Adam Bareham,2,False,Simon Matthews,other,1995,1
+814,Casualty,GB,9,101985,George A. Cooper,2,False,Albert Collins,other,1995,1
+815,Casualty,GB,9,1215888,Cheryl Hall,1,False,Jane Turner,other,1995,1
+816,Casualty,GB,9,481,Jean Heywood,1,False,Edith Whoitmore,other,1995,1
+817,Casualty,GB,9,1653702,Jonathan Barlow,2,False,Johnny Whitmore,other,1995,1
+818,Casualty,GB,9,195242,Martina Laird,1,False,Pauline,other,1995,1
+819,Casualty,GB,9,5538,Ray Winstone,2,False,Terry Brennan,other,1995,2
+820,Casualty,GB,9,1837,Susan Vidler,1,False,Pat Brennan,other,1995,2
+821,Casualty,GB,9,86106,Tony Selby,2,False,Dan Kavanagh,other,1995,2
+822,Casualty,GB,9,185198,Rosemary Martin,1,False,Sheila Kavanagh,other,1995,2
+823,Casualty,GB,9,122199,Gary Oliver,2,False,Andy Barnes,other,1995,2
+824,Casualty,GB,9,3543,Jamie Foreman,2,False,Phil Pearson,other,1995,2
+825,Casualty,GB,9,17789,Bill Stewart,2,False,Ted Andrews,doctor,1995,2
+826,Casualty,GB,9,233563,Cindy O'Callaghan,1,False,Lynne Browne,other,1995,2
+827,Casualty,GB,9,438859,Susan Brown,1,False,Joan Hawley,other,1995,2
+828,Casualty,GB,9,195601,Frank Grimes,2,False,Brian Hawley,other,1995,2
+829,Casualty,GB,9,1622216,Victoria Williams,1,False,Susan Harris,other,1995,2
+830,Casualty,GB,9,20522,Robert Cavanah,2,False,James Barnes,other,1995,2
+831,Casualty,GB,9,18025,Ben Miller,2,False,Daniel Murdoch,doctor,1995,2
+832,Casualty,GB,9,1400709,Christine Pollon,1,False,Dr. Jacobs,doctor,1995,2
+833,Casualty,GB,9,1198873,Tessa Peake-Jones,1,False,Jenny Hodges,other,1995,2
+834,Casualty,GB,9,1215739,Andrew Woodall,2,False,Tom Hodges,other,1995,2
+835,Casualty,GB,9,1233388,Glenn McCrory,2,False,Vlad the Impaler,other,1995,2
+836,Casualty,GB,9,185460,Mark Lewis Jones,2,False,Allsop,other,1995,2
+837,Casualty,GB,9,1562955,Anna Rose,1,False,Sally Porter,other,1995,2
+838,Casualty,GB,9,1206043,Gerard Rooney,2,False,Niall,other,1995,3
+839,Casualty,GB,10,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1995,9
+840,Casualty,GB,10,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1995,9
+841,Casualty,GB,10,145533,Clive Mantle,2,True,Mike Barratt,doctor (probably),1995,9
+842,Casualty,GB,10,115282,Jane Gurnett,1,True,Rachel Longworth,doctor (probably),1995,9
+843,Casualty,GB,10,1221763,Sorcha Cusack,1,True,Kate Wilson,doctor (probably),1995,9
+844,Casualty,GB,10,1219775,Sue Devaney,1,True,Liz Harker,doctor (probably),1995,9
+845,Casualty,GB,10,1221970,Jason Merrells,2,True,Matt Hawley,doctor (probably),1995,9
+846,Casualty,GB,10,177974,Lisa Coleman,1,True,Jude Kocarnik,doctor (probably),1995,9
+847,Casualty,GB,10,18019,Craig Kelly,2,True,Daniel Perryman,doctor (probably),1995,9
+848,Casualty,GB,10,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),1995,9
+849,Casualty,GB,10,67568,Glen Berry,2,False,Russell,other,1995,9
+850,Casualty,GB,10,47545,Frederick Treves,2,False,Henry Alsop,other,1995,10
+851,Casualty,GB,10,75778,Guy Witcher,2,False,David Alsop,other,1995,10
+852,Casualty,GB,10,32041,William Russell,2,False,Mo Meredrew,doctor,1995,10
+853,Casualty,GB,10,1214783,David Ross,2,False,Mr. Carnell,other,1995,10
+854,Casualty,GB,10,1317450,Tam Williams,2,False,Shane Fisher,other,1995,10
+855,Casualty,GB,10,1243939,Ben Hull,2,False,Nick Harvey,other,1995,10
+856,Casualty,GB,10,97433,Cyril Nri,2,False,Steve York,other,1995,10
+857,Casualty,GB,10,33679,Emily Woof,1,False,WDC Dawn Morris,other,1995,10
+858,Casualty,GB,10,1225426,Letitia Dean,1,False,Hannah Chesney,other,1995,11
+859,Casualty,GB,10,1220510,Rupert Holliday-Evans,2,False,Tom,other,1995,11
+860,Casualty,GB,10,7320,Liz Smith,1,False,Tillie,other,1995,11
+861,Casualty,GB,10,11180,David Bradley,2,False,Stanmore,other,1995,11
+862,Casualty,GB,10,10174,Bernard Horsfall,2,False,Gerald Lassiter,other,1995,11
+863,Casualty,GB,10,16274,Dominic Guard,2,False,Philip Hall,other,1995,11
+864,Casualty,GB,10,134692,William Mannering,2,False,Gareth Price,other,1995,12
+865,Casualty,GB,10,75789,Simon Fenton,2,False,Jed Jarrold,other,1995,12
+866,Casualty,GB,10,140230,Niall Tóibín,2,False,Desi Lavers,other,1995,12
+867,Casualty,GB,10,97430,Joe Absolom,2,False,Howard Jarrold,other,1995,12
+868,Casualty,GB,10,102375,David Robb,2,False,Henry Reeve-Jones,other,1995,12
+869,Casualty,GB,10,137979,Peter England,2,False,Sam Carson,other,1995,12
+870,Casualty,GB,10,6367,Daniel Brocklebank,2,False,Greg Althorpe,other,1995,12
+871,Casualty,GB,10,24594,Michael Angelis,2,False,Jez Ingrams,other,1995,12
+872,Casualty,GB,10,1814834,Danny Worters,2,False,Oscar,other,1995,12
+873,Casualty,GB,10,116975,Paul Copley,2,False,Frederick Chambers,other,1995,12
+874,Casualty,GB,10,63911,Iain Cuthbertson,2,False,Dermot Needle,other,1995,12
+875,Casualty,GB,10,18021,Jane Lapotaire,1,False,Eileen Jarvis,other,1996,1
+876,Casualty,GB,10,231610,Parminder Nagra,1,False,Alisha,other,1996,1
+877,Casualty,GB,10,1230732,Stuart Organ,2,False,Ken,other,1996,1
+878,Casualty,GB,10,93177,Lee Ross,2,False,Ray,other,1996,1
+879,Casualty,GB,10,81267,Navin Chowdhry,2,False,Zaf,other,1996,1
+880,Casualty,GB,10,19901,Clive Russell,2,False,Ellis,other,1996,1
+881,Casualty,GB,10,42279,Laura Fraser,1,False,Gemma McEnery,other,1996,1
+882,Casualty,GB,10,8443,Linda Bassett,1,False,Olwyn Humphries,other,1996,1
+883,Casualty,GB,10,41043,Tim McInnerny,2,False,Marty Deakin,other,1996,1
+884,Casualty,GB,10,212393,Kate Gartside,1,False,Fiona Cox,other,1996,1
+885,Casualty,GB,10,3548,Timothy Bateson,2,False,Ronald Horton,other,1996,2
+886,Casualty,GB,10,129452,Denis Lill,2,False,Walter Fisher,other,1996,2
+887,Casualty,GB,10,184997,Oscar James,2,False,Franklyn Ashford,other,1996,2
+888,Casualty,GB,10,42570,Don Henderson,2,False,Jerry Hunter,other,1996,2
+889,Casualty,GB,10,1231744,Kelda Holmes,0,False,Shelley Miles,other,1996,2
+890,Casualty,GB,11,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1996,9
+891,Casualty,GB,11,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1996,9
+892,Casualty,GB,11,145533,Clive Mantle,2,True,Mike Barratt,doctor (probably),1996,9
+893,Casualty,GB,11,1221763,Sorcha Cusack,1,True,Kate Wilson,doctor (probably),1996,9
+894,Casualty,GB,11,1221970,Jason Merrells,2,True,Matt Hawley,doctor (probably),1996,9
+895,Casualty,GB,11,1219775,Sue Devaney,1,True,Liz Harker,doctor (probably),1996,9
+896,Casualty,GB,11,177974,Lisa Coleman,1,True,Jude Kocarnik,doctor (probably),1996,9
+897,Casualty,GB,11,1215219,Gray O'Brien,2,True,Richard McCaig,doctor (probably),1996,9
+898,Casualty,GB,11,33680,Ganiat Kasumu,0,True,Gloria Hammond,doctor (probably),1996,9
+899,Casualty,GB,11,1221760,Jonathan Kerrigan,2,True,Sam Colloby,doctor (probably),1996,9
+900,Casualty,GB,11,202031,Lizzy McInnerny,1,True,Laura Milburn,doctor (probably),1996,9
+901,Casualty,GB,11,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),1996,9
+902,Casualty,GB,11,24626,Josh Maguire,2,False,James Leonard,other,1996,9
+903,Casualty,GB,11,162489,Jake Wood,2,False,Toby Grant,other,1996,9
+904,Casualty,GB,11,1665,Eddie Marsan,2,False,Rick Grant,other,1996,9
+905,Casualty,GB,11,192821,Rosie Marcel,1,False,Dorothea Mikus,other,1996,9
+906,Casualty,GB,11,1230621,Jonathan Newth,2,False,Dr. Elliott,doctor,1996,9
+907,Casualty,GB,11,3292,Nicholas Hoult,2,False,Craig Morrissey,other,1996,9
+908,Casualty,GB,11,189915,Jo-Anne Stockham,1,False,Paula Morrissey,other,1996,9
+909,Casualty,GB,11,176201,Grant Masters,2,False,Steve Morrissey,other,1996,9
+910,Casualty,GB,11,55398,Ashley Jensen,1,False,Jess,other,1996,10
+911,Casualty,GB,11,185831,Jason Hughes,2,False,Kev,other,1996,10
+912,Casualty,GB,11,79928,David Daker,2,False,Jim Porteous,other,1996,10
+913,Casualty,GB,11,1794391,Martino Lazzeri,2,False,Kenny,other,1996,10
+914,Casualty,GB,11,1412369,Terence Beesley,2,False,Tim Harris,other,1996,10
+915,Casualty,GB,11,54014,David Hayman,2,False,Phil Davies,other,1996,10
+916,Casualty,GB,11,109385,Amita Dhiri,1,False,Dr. Julia Kaash,doctor,1996,11
+917,Casualty,GB,11,19996,Kevin Bishop,2,False,Nick Wilson,other,1996,11
+918,Casualty,GB,11,114,Orlando Bloom,2,False,Noel Harrison,other,1996,11
+919,Casualty,GB,11,1220612,Nadia Sawalha,1,False,Dr. Robyn McCormack,doctor,1996,11
+920,Casualty,GB,11,104301,Judy Campbell,1,False,Alice Polston,other,1996,11
+921,Casualty,GB,11,88894,Joseph O'Conor,2,False,George Polston,other,1996,11
+922,Casualty,GB,11,108462,Mo Sesay,2,False,Herbie Akimbaye,other,1996,11
+923,Casualty,GB,11,39028,Jean Anderson,1,False,Jessie Baine,other,1996,11
+924,Casualty,GB,11,89534,Phyllis Calvert,1,False,Mary,other,1996,11
+925,Casualty,GB,11,93490,Anna Wing,1,False,Binnie,other,1996,11
+926,Casualty,GB,11,939,David Schofield,2,False,Detective Inspector Logan,other,1996,12
+927,Casualty,GB,11,1221756,Suzanne Packer,1,False,Candice Francis,other,1996,12
+928,Casualty,GB,11,143971,Derek Riddell,2,False,Jeff Marriot,other,1996,12
+929,Casualty,GB,11,24712,Michael Cronin,2,False,Chief Superintendent Walker,other,1996,12
+930,Casualty,GB,11,1653372,Luke Brown,2,False,Carl Francis,other,1996,12
+931,Casualty,GB,11,347318,Jane Hazlegrove,1,False,Jane,other,1996,12
+932,Casualty,GB,11,60412,Eva Pope,1,False,Josie Barker,other,1996,12
+933,Casualty,GB,11,81600,Perry Fenwick,2,False,Perry Snape,other,1996,12
+934,Casualty,GB,11,195544,Matilda Ziegler,1,False,Nula Snape,other,1996,12
+935,Casualty,GB,11,25527,Jason Connery,2,False,James Dunham,other,1997,1
+936,Casualty,GB,11,183148,Rachel Fielding,1,False,Charlotte Dunham,other,1997,1
+937,Casualty,GB,11,29235,Lucy Cohu,1,False,Jayne Bazeley,other,1997,1
+938,Casualty,GB,11,32556,Ronald Pickup,2,False,Martin / Reginald Freeborn,other,1997,1
+939,Casualty,GB,11,72316,Edna Doré,1,False,Joan Hughes,other,1997,1
+940,Casualty,GB,11,165424,Danny Sapani,2,False,Walker Bennett,other,1997,1
+941,Casualty,GB,11,1213387,Ellie Beaven,1,False,Sarah Griffiths,other,1997,1
+942,Casualty,GB,11,1705261,Jamie O'Brien,1,False,Ben Lowther,other,1997,2
+943,Casualty,GB,11,185464,Tilly Vosburgh,1,False,Linnie Lowther,other,1997,2
+944,Casualty,GB,11,30433,Neil Maskell,2,False,Luke Lowther,other,1997,2
+945,Casualty,GB,11,1227702,Lucy Speed,1,False,Kerry,other,1997,2
+946,Casualty,GB,11,39952,Maurice Denham,2,False,William Turnbull,other,1997,2
+947,Casualty,GB,12,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1997,9
+948,Casualty,GB,12,1221763,Sorcha Cusack,1,True,Kate Wilson,doctor (probably),1997,9
+949,Casualty,GB,12,1219775,Sue Devaney,1,True,Liz Harker,doctor (probably),1997,9
+950,Casualty,GB,12,1215219,Gray O'Brien,2,True,Richard McCaig,doctor (probably),1997,9
+951,Casualty,GB,12,1221760,Jonathan Kerrigan,2,True,Sam Colloby,doctor (probably),1997,9
+952,Casualty,GB,12,1228250,Julia Watson,1,True,Barbara Hayes,doctor (probably),1997,9
+953,Casualty,GB,12,1219229,Rebecca Lacey,1,True,Georgina 'George' Woodman,doctor (probably),1997,9
+954,Casualty,GB,12,19868,Paterson Joseph,2,True,Mark Grace,doctor (probably),1997,9
+955,Casualty,GB,12,1233552,Peter Birch,2,True,Jack Hathaway,doctor (probably),1997,9
+956,Casualty,GB,12,139535,Claire Goose,1,True,Tina Seabrook,doctor (probably),1997,9
+957,Casualty,GB,12,1818315,Vincenzo Pellegrino,2,True,Derek 'Sunny' Sunderland,doctor (probably),1997,9
+958,Casualty,GB,12,197235,Brigit Forsyth,1,False,Margaret Pearce,other,1997,9
+959,Casualty,GB,12,19996,Kevin Bishop,2,False,Nick Wilson,other,1997,9
+960,Casualty,GB,12,72100,Joseph May,2,False,Paul,other,1997,9
+961,Casualty,GB,12,178622,Ramon Tikaram,2,False,Darren Wilson,other,1997,10
+962,Casualty,GB,12,82712,George Costigan,2,False,Martin Gregory,other,1997,10
+963,Casualty,GB,12,1211852,Ian Gelder,2,False,Guy Chambers,other,1997,10
+964,Casualty,GB,12,182062,Caroline Harker,1,False,Helen Bradley,other,1997,11
+965,Casualty,GB,12,195206,John McArdle,2,False,Pete Ellington,other,1997,11
+966,Casualty,GB,12,123209,Geoffrey Bayldon,2,False,James Ellington,other,1997,11
+967,Casualty,GB,12,1360193,Corinne Skinner-Carter,1,False,Ellen Weekes,other,1997,11
+968,Casualty,GB,12,1468188,Paul Haigh,2,False,Keith Cassidy,other,1997,11
+969,Casualty,GB,12,14948,T. P. McKenna,2,False,Dr. Archie Whitlock,doctor,1997,12
+970,Casualty,GB,12,178618,Mark Womack,2,False,Sean Malin,other,1997,12
+971,Casualty,GB,12,108463,Dorian Healy,2,False,Mick,other,1997,12
+972,Casualty,GB,12,165434,Nick Dunning,2,False,Brian Harper,other,1997,12
+973,Casualty,GB,12,1214786,Kim Hartman,1,False,Roz Felton,other,1997,12
+974,Casualty,GB,12,1219469,Tracy-Ann Oberman,1,False,Zoe Garrard,other,1997,12
+975,Casualty,GB,12,1871158,Jonathan Napier,2,False,Liam Harper,other,1997,12
+976,Casualty,GB,12,85071,Shaun Dooley,2,False,Fireman,other,1997,12
+977,Casualty,GB,12,137928,Colin Baker,2,False,David Vincent,other,1998,1
+978,Casualty,GB,12,29698,Paul Barber,2,False,Carl Meyers,other,1998,1
+979,Casualty,GB,12,145533,Clive Mantle,2,False,Mike Barratt,other,1998,2
+980,Casualty,GB,12,18345,Brenda Fricker,1,False,Megan Roach,other,1998,2
+981,Casualty,GB,12,1770986,Catherine Shipton,1,False,Lisa 'Duffy' Duffin,other,1998,2
+982,Casualty,GB,12,1231385,Patricia Kerrigan,1,False,Sheila Norris,other,1998,2
+983,Casualty,GB,12,39661,Francis Magee,2,False,Norris,other,1998,2
+984,Casualty,GB,12,1244475,Patrick Robinson,2,False,Martin 'Ash' Ashford,other,1998,2
+985,Casualty,GB,13,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1998,9
+986,Casualty,GB,13,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1998,9
+987,Casualty,GB,13,1219229,Rebecca Lacey,1,True,Georgina 'George' Woodman,doctor (probably),1998,9
+988,Casualty,GB,13,1221760,Jonathan Kerrigan,2,True,Sam Colloby,doctor (probably),1998,9
+989,Casualty,GB,13,139535,Claire Goose,1,True,Tina Seabrook,doctor (probably),1998,9
+990,Casualty,GB,13,19868,Paterson Joseph,2,True,Mark Grace,doctor (probably),1998,9
+991,Casualty,GB,13,1818315,Vincenzo Pellegrino,2,True,Derek 'Sunny' Sunderland,doctor (probably),1998,9
+992,Casualty,GB,13,1220371,Rebecca Wheatley,1,True,Amy Howard,doctor (probably),1998,9
+993,Casualty,GB,13,1244276,Gerald Kyd,2,True,Sean Maddox,doctor (probably),1998,9
+994,Casualty,GB,13,166221,Robert Gwilym,2,True,Max Gallagher,doctor (probably),1998,9
+995,Casualty,GB,13,1216413,Jan Anderson,1,True,Chloe Hill,doctor (probably),1998,9
+996,Casualty,GB,13,1220157,Lorraine Chase,1,False,Bonnie Russell,other,1998,9
+997,Casualty,GB,13,85071,Shaun Dooley,2,False,Fire Officer,other,1998,9
+998,Casualty,GB,13,55468,Andrew Knott,2,False,Garth,other,1998,9
+999,Casualty,GB,13,1229148,Rosie Rowell,1,False,Pam Wilson,other,1998,10
+1000,Casualty,GB,13,175919,Neil Stuke,2,False,Tony,other,1998,10
+1001,Casualty,GB,13,1220119,Elizabeth Spriggs,1,False,Barbara Thomas,other,1998,10
+1002,Casualty,GB,13,1643,Adrian Rawlins,2,False,Richard Thomas,other,1998,10
+1003,Casualty,GB,13,10920,Tobias Menzies,2,False,Frank Gallagher,other,1998,10
+1004,Casualty,GB,13,1239887,Chris Pitt,2,False,Steve Morris,other,1998,10
+1005,Casualty,GB,13,7060,Martin Freeman,2,False,Ricky Beck,other,1998,10
+1006,Casualty,GB,13,23429,Adam Godley,2,False,Alan Decker,other,1998,10
+1007,Casualty,GB,13,76379,Norman Wisdom,2,False,Mr. Cole,other,1998,10
+1008,Casualty,GB,13,27822,David Ryall,2,False,Dr. James Baker,doctor,1998,10
+1009,Casualty,GB,13,137981,Harry Capehorn,2,False,Danny Johnson,other,1998,10
+1010,Casualty,GB,13,95047,Graham McTavish,2,False,Gerry Talbot,other,1998,10
+1011,Casualty,GB,13,231610,Parminder Nagra,1,False,Asha Guptah,other,1998,11
+1012,Casualty,GB,13,82710,Michelle Holmes,1,False,Jo Bishop,other,1998,11
+1013,Casualty,GB,13,1049895,Bryan Murray,2,False,James Roberts,other,1998,11
+1014,Casualty,GB,13,1221811,Michael French,2,False,Nick Jordan,other,1998,11
+1015,Casualty,GB,13,300596,Nicola Stephenson,1,False,Julie Fitzjohn,other,1998,11
+1016,Casualty,GB,13,118609,Jennifer Hennessy,1,False,Gemma Fisher,other,1998,11
+1017,Casualty,GB,13,174724,Lynda Bellingham,1,False,Steph Yates,other,1998,11
+1018,Casualty,GB,13,24594,Michael Angelis,2,False,Ollie Yates,other,1998,11
+1019,Casualty,GB,13,1219438,Heather Tobias,1,False,June Richards,other,1998,11
+1020,Casualty,GB,13,27820,Rebecca Callard,1,False,Connie,other,1998,11
+1021,Casualty,GB,13,90546,Andrew Schofield,2,False,Pete North,other,1998,11
+1022,Casualty,GB,13,127165,Jean Boht,1,False,Lil Clark,other,1998,12
+1023,Casualty,GB,13,132206,Stephen Moore,2,False,Alan Dunn,other,1998,12
+1024,Casualty,GB,13,63006,Ram John Holder,2,False,Vivian House,other,1998,12
+1025,Casualty,GB,13,1637459,Desmond McNamara,2,False,Tom Logan,other,1998,12
+1026,Casualty,GB,13,53366,Simon Day,2,False,Cardiothoracic Surgeon,doctor,1998,12
+1027,Casualty,GB,13,143527,Lee Whitlock,2,False,Steve Johnstone,other,1999,1
+1028,Casualty,GB,13,30316,Shaun Parkes,2,False,Grant Flock,other,1999,1
+1029,Casualty,GB,13,137979,Peter England,2,False,Martin Galloway,other,1999,1
+1030,Casualty,GB,13,1226756,Andrew Robertson,2,False,Vic Harkness,other,1999,1
+1031,Casualty,GB,13,203467,Ewan Bailey,2,False,Nick,other,1999,1
+1032,Casualty,GB,13,1352513,Larissa Kouznetsova,1,False,Anna Allen,other,1999,1
+1033,Casualty,GB,13,199522,Amanda Abbington,1,False,Jen Reynolds,other,1999,1
+1034,Casualty,GB,13,73947,Barnaby Kay,2,False,Gareth Mullins,other,1999,2
+1035,Casualty,GB,13,190516,June Watson,1,False,Ruth Reynolds,other,1999,2
+1036,Casualty,GB,13,1343047,Doreene Blackstock,1,False,Carole Williams,other,1999,2
+1037,Casualty,GB,13,1227767,Joseph Kpobie,2,False,David Talbot,other,1999,2
+1038,Casualty,GB,13,1225334,Roy Barraclough,2,False,Arthur Lyle,other,1999,2
+1039,Casualty,GB,13,1017597,Simon Meacock,2,False,Richie,other,1999,2
+1040,Casualty,GB,13,1215332,Craig Heaney,2,False,Dean,other,1999,2
+1041,Casualty,GB,13,1250459,Dax O'Callaghan,2,False,Dominic Taylor,other,1999,3
+1042,Casualty,GB,13,8319,Nick Brimble,2,False,Bob Taylor,other,1999,3
+1043,Casualty,GB,13,3543,Jamie Foreman,2,False,Gil Stephens,other,1999,3
+1044,Casualty,GB,13,135174,Nicola Stapleton,1,False,Kay Larcombe,other,1999,3
+1045,Casualty,GB,14,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),1999,9
+1046,Casualty,GB,14,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),1999,9
+1047,Casualty,GB,14,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),1999,9
+1048,Casualty,GB,14,139535,Claire Goose,1,True,Tina Seabrook,doctor (probably),1999,9
+1049,Casualty,GB,14,166221,Robert Gwilym,2,True,Max Gallagher,doctor (probably),1999,9
+1050,Casualty,GB,14,1216413,Jan Anderson,1,True,Chloe Hill,doctor (probably),1999,9
+1051,Casualty,GB,14,1220248,Ian Kelsey,2,True,Patrick Spiller,doctor (probably),1999,9
+1052,Casualty,GB,14,1221761,Kwame Kwei-Armah,0,True,Finlay Newton,doctor (probably),1999,9
+1053,Casualty,GB,14,1221760,Jonathan Kerrigan,2,False,Sam Colloby,other,1999,9
+1054,Casualty,GB,14,95047,Graham McTavish,2,False,Gerry Talbot,other,1999,9
+1055,Casualty,GB,14,63911,Iain Cuthbertson,2,False,Eddie,other,1999,9
+1056,Casualty,GB,14,195670,Derek Griffiths,2,False,Duke Bains,other,1999,9
+1057,Casualty,GB,14,1790599,Bruno Melling,2,False,John Pawley,other,1999,9
+1058,Casualty,GB,14,298977,Russ Abbot,2,False,Simon Lancaster,other,1999,10
+1059,Casualty,GB,14,1794352,Aidan David,2,False,Carl Pearce,other,1999,10
+1060,Casualty,GB,14,1220054,Denise Black,1,False,Maggie Kavanah,other,1999,10
+1061,Casualty,GB,14,106995,Ann Bell,1,False,Celia,other,1999,10
+1062,Casualty,GB,14,136039,Larry Lamb,2,False,Father Peter Harker,other,1999,10
+1063,Casualty,GB,14,1219960,James Carlton,2,False,Drew Kavanah,doctor,1999,10
+1064,Casualty,GB,14,85534,Ian Lavender,2,False,Benny Jenkins,other,1999,11
+1065,Casualty,GB,14,99905,Kathleen Byron,1,False,Lizzie Burnley,other,1999,12
+1066,Casualty,GB,14,124513,Brian Murphy,2,False,Walter Burnley,other,1999,12
+1067,Casualty,GB,14,1081469,Oliver Hoare,2,False,Owen Lewis,other,1999,12
+1068,Casualty,GB,14,39658,Sally Hawkins,1,False,Emma Lister,other,1999,12
+1069,Casualty,GB,14,1211870,Tenniel Evans,2,False,Albert Sylvester,other,1999,12
+1070,Casualty,GB,14,300596,Nicola Stephenson,1,False,Julie Fitzjohn,other,1999,12
+1071,Casualty,GB,14,10920,Tobias Menzies,2,False,Frank Gallagher,other,2000,1
+1072,Casualty,GB,14,1196019,Andrew Scarborough,2,False,Daniel,other,2000,1
+1073,Casualty,GB,14,1793836,John Drummond,2,False,Keith Welsh,other,2000,1
+1074,Casualty,GB,14,189418,Nicola Bryant,1,False,Susan Harris,other,2000,1
+1075,Casualty,GB,14,31718,Frank Middlemass,2,False,Leonard Huckerby,other,2000,1
+1076,Casualty,GB,14,87385,Tony Robinson,2,False,Reg Podmore,other,2000,2
+1077,Casualty,GB,14,1218303,Una Stubbs,1,False,Joan Bannville,other,2000,2
+1078,Casualty,GB,14,1229304,John Hasler,2,False,Lee Carter,other,2000,2
+1079,Casualty,GB,14,151809,Freddie Annobil-Dodoo,2,False,Joey Baxter,other,2000,2
+1080,Casualty,GB,14,184886,Mark Kingston,2,False,Peter Williams,other,2000,4
+1081,Casualty,GB,14,83816,John Henshaw,2,False,Lenny Adams,other,2000,3
+1082,Casualty,GB,14,2726651,Andy Williams,2,False,Chris Collins,other,2000,3
+1083,Casualty,GB,15,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2000,9
+1084,Casualty,GB,15,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2000,9
+1085,Casualty,GB,15,1872915,Donna Alexander,1,True,Penny Hutchens,doctor (probably),2000,9
+1086,Casualty,GB,15,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),2000,9
+1087,Casualty,GB,15,1220248,Ian Kelsey,2,True,Patrick Spiller,doctor (probably),2000,9
+1088,Casualty,GB,15,1221761,Kwame Kwei-Armah,0,True,Finlay Newton,doctor (probably),2000,9
+1089,Casualty,GB,15,166221,Robert Gwilym,2,True,Max Gallagher,doctor (probably),2000,9
+1090,Casualty,GB,15,1216413,Jan Anderson,1,True,Chloe Hill,doctor (probably),2000,9
+1091,Casualty,GB,15,208542,Sandra Huggett,1,True,Holly Miles,doctor (probably),2000,9
+1092,Casualty,GB,15,1234987,Zita Sattar,1,True,Anna Paul,doctor (probably),2000,9
+1093,Casualty,GB,15,1733453,Ronnie McCann,2,True,Barney Wolfe,doctor (probably),2000,9
+1094,Casualty,GB,15,176201,Grant Masters,2,True,Dan Robinson,doctor (probably),2000,9
+1095,Casualty,GB,15,1234916,Michelle Butterly,1,True,Mel Dyson,doctor (probably),2000,9
+1096,Casualty,GB,15,109651,Adjoa Andoh,1,True,Colette Kierney,doctor (probably),2000,9
+1097,Casualty,GB,15,194961,Will Mellor,2,True,Jack Vincent,doctor (probably),2000,9
+1098,Casualty,GB,15,1212897,Philip Bretherton,2,True,Andrew Bower,doctor,2000,9
+1099,Casualty,GB,15,1371455,Sylvano Clarke,0,False,Andy,other,2000,9
+1100,Casualty,GB,15,192855,Honeysuckle Weeks,1,False,Diane Gibson,other,2000,9
+1101,Casualty,GB,15,141453,Paul Bown,2,False,Ed Connors,other,2000,9
+1102,Casualty,GB,15,185464,Tilly Vosburgh,1,False,Jody Ingram,other,2000,9
+1103,Casualty,GB,15,1216031,Joe Swash,2,False,Denny Ingram,other,2000,9
+1104,Casualty,GB,15,1412369,Terence Beesley,2,False,Trevor Bennett,other,2000,9
+1105,Casualty,GB,15,145875,Carol Drinkwater,1,False,Frances Lawson,other,2000,10
+1106,Casualty,GB,15,1872270,Callum Ray,2,False,Louis Fairhead,other,2000,10
+1107,Casualty,GB,15,1872271,Matthew Lockwood,2,False,Joel Patterson,other,2000,10
+1108,Casualty,GB,15,1228960,Raymond Pickard,2,False,Mikey Rees,other,2000,10
+1109,Casualty,GB,15,57629,Steve Huison,2,False,Phil Rees,other,2000,10
+1110,Casualty,GB,15,148543,Anita Dobson,1,False,Elaine Carrington,other,2000,10
+1111,Casualty,GB,15,231333,Murray Head,2,False,Billy Cooper,other,2000,10
+1112,Casualty,GB,15,36820,Jenny Seagrove,1,False,Summer,other,2000,10
+1113,Casualty,GB,15,1215178,Beverley Callard,1,False,Laura Hughes,other,2000,10
+1114,Casualty,GB,15,68287,Callum Blue,2,False,Paul Hughes,other,2000,10
+1115,Casualty,GB,15,12517,Freddie Jones,2,False,Henry Wallowski,other,2000,10
+1116,Casualty,GB,15,1215275,Michael Troughton,2,False,Chris Thomas,other,2000,10
+1117,Casualty,GB,15,16702,Sean Harris,2,False,Tim Vanner,other,2000,11
+1118,Casualty,GB,15,93490,Anna Wing,1,False,Milly Soames,other,2000,11
+1119,Casualty,GB,15,10734,Kenneth Colley,2,False,Clifford Watkins,other,2000,12
+1120,Casualty,GB,15,86108,Windsor Davies,2,False,Robert Cox,other,2000,12
+1121,Casualty,GB,15,1221972,Janet Dibley,1,False,Amanda Lewis,other,2001,1
+1122,Casualty,GB,15,1524893,Scott Chisholm,2,False,Harry Butler,other,2001,1
+1123,Casualty,GB,15,14465,John Woodvine,2,False,Reg Macready,other,2001,1
+1124,Casualty,GB,15,300596,Nicola Stephenson,1,False,Julie Fitzjohn,other,2001,1
+1125,Casualty,GB,15,1214515,Daniel Anthony,2,False,Tyrone Harris,other,2001,1
+1126,Casualty,GB,15,86045,Gary Beadle,2,False,Steven Harris,other,2001,1
+1127,Casualty,GB,15,130977,Joanne Froggatt,1,False,Lucy Curry,other,2001,1
+1128,Casualty,GB,15,2393,Marina Sirtis,1,False,"Jane Taylor, MP",other,2001,2
+1129,Casualty,GB,15,3544,Harry Eden,2,False,Matty Tate,other,2001,2
+1130,Casualty,GB,15,26281,Asier Newman,2,False,Casey,other,2001,2
+1131,Casualty,GB,15,53487,Margi Clarke,1,False,Shirley Warner,other,2001,2
+1132,Casualty,GB,15,78050,Elyes Gabel,2,False,Jean-Claude Tournier,other,2001,2
+1133,Casualty,GB,15,43019,Patrick Baladi,2,False,Gary Rix,other,2001,3
+1134,Casualty,GB,15,56104,Sharon Maughan,1,False,Victoria Bevins,other,2001,3
+1135,Casualty,GB,15,92042,Frank Thornton,2,False,Edward Gutheridge,other,2001,3
+1136,Casualty,GB,15,89821,Dimitri Leonidas,2,False,Ross,other,2001,3
+1137,Casualty,GB,15,1221759,Christopher Colquhoun,2,False,Luke Hutchens,other,2001,3
+1138,Casualty,GB,15,31925,Hugh Quarshie,2,False,Gordon Hutchens,other,2001,4
+1139,Casualty,GB,15,2044492,Ricky Hards,2,False,Vic Collins,other,2001,4
+1140,Casualty,GB,15,1436900,Ben Maguire,2,False,Matt Thompson,other,2001,4
+1141,Casualty,GB,15,119687,Simon Merrells,2,False,Ed Jamieson,other,2001,4
+1142,Casualty,GB,16,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2001,9
+1143,Casualty,GB,16,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2001,9
+1144,Casualty,GB,16,1872921,Daniel Rymer,2,True,Dillon Cahill,doctor (probably),2001,9
+1145,Casualty,GB,16,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),2001,9
+1146,Casualty,GB,16,1221761,Kwame Kwei-Armah,0,True,Finlay Newton,doctor (probably),2001,9
+1147,Casualty,GB,16,1234987,Zita Sattar,1,True,Anna Paul,doctor (probably),2001,9
+1148,Casualty,GB,16,194961,Will Mellor,2,True,Jack Vincent,doctor (probably),2001,9
+1149,Casualty,GB,16,29870,Fiona Gillies,1,True,Philippa Kinross,doctor (probably),2001,9
+1150,Casualty,GB,16,1220381,Lee Warburton,2,True,Tony Vincent,doctor (probably),2001,9
+1151,Casualty,GB,16,126956,Kelly Harrison,1,True,Nikki Marshall,doctor (probably),2001,9
+1152,Casualty,GB,16,145314,Christine Stephen-Daly,1,True,Lara Stone,doctor (probably),2001,9
+1153,Casualty,GB,16,76242,Noel Clarke,2,False,Danny Oldfield,other,2001,9
+1154,Casualty,GB,16,31166,Henry Ian Cusick,2,False,Jason,other,2001,9
+1155,Casualty,GB,16,138413,Charles Kay,2,False,Professor Weinberg,other,2001,10
+1156,Casualty,GB,16,1452671,Avin Shah,0,False,Rupert,other,2001,10
+1157,Casualty,GB,16,128649,Steven Duffy,2,False,Johnny Shears,other,2001,10
+1158,Casualty,GB,16,151949,Rosie Cavaliero,1,False,Carmel Ramsey,other,2001,10
+1159,Casualty,GB,16,1202683,Max Wrottesley,2,False,Alex Tyler,other,2001,11
+1160,Casualty,GB,16,165425,Sendhil Ramamurthy,2,False,Ron Montague,other,2001,11
+1161,Casualty,GB,16,14326,Patsy Kensit,1,False,Charlotte Leith-Jones,other,2001,12
+1162,Casualty,GB,16,548619,Stirling Gallacher,1,False,Michelle,other,2001,12
+1163,Casualty,GB,16,39683,Ivan Kaye,2,False,Guy,other,2001,12
+1164,Casualty,GB,16,80112,Sylvester McCoy,2,False,Kev the Rev,other,2001,12
+1165,Casualty,GB,16,30315,Richard Armitage,2,False,Craig Parker,other,2001,12
+1166,Casualty,GB,16,111327,Pat Keen,1,False,Emily,other,2002,1
+1167,Casualty,GB,16,1225226,Andrew Neil,2,False,Len,other,2002,1
+1168,Casualty,GB,16,1691876,Jo Martin,1,False,WDS Bridgeman,other,2002,1
+1169,Casualty,GB,16,1227303,Tony Guilfoyle,2,False,Watch Commander,other,2002,1
+1170,Casualty,GB,16,47653,Aidan McArdle,2,False,James O'Hearne,other,2002,1
+1171,Casualty,GB,16,116263,Christian Cooke,2,False,Mark Booth,other,2002,1
+1172,Casualty,GB,16,200332,John McGlynn,2,False,Malcolm Christy,other,2002,1
+1173,Casualty,GB,16,289370,Angel Coulby,1,False,Sally,other,2002,2
+1174,Casualty,GB,16,203093,Tyler Butterworth,2,False,Mr. Evvans,other,2002,2
+1175,Casualty,GB,16,73360,Liam Hess,2,False,Stanley Wilson,other,2002,2
+1176,Casualty,GB,16,930959,Frankie Fitzgerald,2,False,Russell,other,2002,3
+1177,Casualty,GB,16,1220311,Chad Shepherd,2,False,Rob Jones,other,2002,3
+1178,Casualty,GB,16,6974,Doreen Mantle,1,False,Renee Wainwright,other,2002,3
+1179,Casualty,GB,16,1221759,Christopher Colquhoun,2,False,Simon Kaminski,other,2002,3
+1180,Casualty,GB,16,151142,Michael Praed,2,False,Chris Meredith,other,2002,4
+1181,Casualty,GB,16,1220307,Gillian Taylforth,1,False,Justine Walker MP,other,2002,4
+1182,Casualty,GB,16,26657,David Bamber,2,False,Dr. Martin Campbell,doctor,2002,4
+1183,Casualty,GB,16,28476,Griff Rhys Jones,2,False,Paul Fuller,other,2002,5
+1184,Casualty,GB,16,24743,Simon MacCorkindale,2,False,Harry Harper,other,2002,6
+1185,Casualty,GB,16,108463,Dorian Healy,2,False,David Collier,other,2002,6
+1186,Casualty,GB,16,1216425,Stuart McGugan,2,False,Martin Davidson,other,2002,6
+1187,Casualty,GB,16,1225264,Sue Perkins,1,False,Dr. Lloyd,doctor,2002,6
+1188,Casualty,GB,17,24743,Simon MacCorkindale,2,True,Harry Harper,doctor (probably),2002,9
+1189,Casualty,GB,17,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2002,9
+1190,Casualty,GB,17,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2002,9
+1191,Casualty,GB,17,1872921,Daniel Rymer,2,True,Dillon Cahill,doctor (probably),2002,9
+1192,Casualty,GB,17,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),2002,9
+1193,Casualty,GB,17,109651,Adjoa Andoh,1,True,Colette Griffiths,doctor (probably),2002,9
+1194,Casualty,GB,17,126956,Kelly Harrison,1,True,Nikki Marshall,doctor (probably),2002,9
+1195,Casualty,GB,17,1234987,Zita Sattar,1,True,Anna Paul,doctor (probably),2002,9
+1196,Casualty,GB,17,1221761,Kwame Kwei-Armah,0,True,Finlay Newton,doctor (probably),2002,9
+1197,Casualty,GB,17,194961,Will Mellor,2,True,Jack Vincent,doctor (probably),2002,9
+1198,Casualty,GB,17,1647287,Lynda Rooke,1,False,Beth Harper,other,2002,9
+1199,Casualty,GB,17,1890773,Matthew Gillespie,2,False,Ollie Harper,other,2002,9
+1200,Casualty,GB,17,24605,Pete Lee-Wilson,2,False,Brian Foster,other,2002,9
+1201,Casualty,GB,17,65864,Ian Aspinall,2,False,Mubbs Hussein,other,2002,9
+1202,Casualty,GB,17,1221038,Siwan Morris,1,False,Sabine,other,2002,10
+1203,Casualty,GB,17,1221045,Mark Monero,2,False,Gary,other,2002,10
+1204,Casualty,GB,17,63000,Bernard Kay,2,False,Kevin Elkins,other,2002,11
+1205,Casualty,GB,17,131535,Stefan Dennis,2,False,Mark Christie,other,2002,11
+1206,Casualty,GB,17,192871,Gudrun Ure,1,False,Kath Berry,other,2002,11
+1207,Casualty,GB,17,1317397,T.J. Ramini,2,False,PC Atkins,other,2002,11
+1208,Casualty,GB,17,1232751,Luke Bailey,2,False,Ben,other,2002,11
+1209,Casualty,GB,17,17479,Matyelok Gibbs,1,False,Nora Linton,other,2002,11
+1210,Casualty,GB,17,166796,Gareth Thomas,2,False,Jim Bailey,other,2002,11
+1211,Casualty,GB,17,185831,Jason Hughes,2,False,Carl Williams,other,2002,11
+1212,Casualty,GB,17,1220286,Joe McGann,2,False,Greg Flowers,other,2002,12
+1213,Casualty,GB,17,1864876,Richard Rycroft,2,False,Barry,other,2002,12
+1214,Casualty,GB,17,1170517,Seb Castang,2,False,Andy Wells,other,2002,12
+1215,Casualty,GB,17,1173709,Lucinda Curtis,1,False,Ms. Marston,other,2002,12
+1216,Casualty,GB,17,83405,Orlando Seale,2,False,Merlin Jameson,other,2003,1
+1217,Casualty,GB,17,386,Peter Vaughan,2,False,Henry Lambert,other,2003,1
+1218,Casualty,GB,17,102375,David Robb,2,False,Henry Reeve-Jones,other,2003,1
+1219,Casualty,GB,17,195414,David Paisley,2,False,Ben Saunders,other,2003,2
+1220,Casualty,GB,17,77292,Sean Gilder,2,False,D.I. Langen,other,2003,2
+1221,Casualty,GB,17,2067617,Pete Gallagher,2,False,Danny Toms,other,2003,2
+1222,Casualty,GB,17,80536,David Walliams,2,False,Jon Fielding,other,2003,2
+1223,Casualty,GB,17,26780,Deborah Grant,1,False,Sheila Granger,other,2003,2
+1224,Casualty,GB,18,24743,Simon MacCorkindale,2,True,Harry Harper,doctor (probably),2003,9
+1225,Casualty,GB,18,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2003,9
+1226,Casualty,GB,18,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2003,9
+1227,Casualty,GB,18,1892056,Georgina Bouzova,1,True,Ellen Zitek,doctor (probably),2003,9
+1228,Casualty,GB,18,1221761,Kwame Kwei-Armah,0,True,Finlay Newton,doctor (probably),2003,9
+1229,Casualty,GB,18,1234987,Zita Sattar,1,True,Anna Paul,doctor (probably),2003,9
+1230,Casualty,GB,18,1215751,James Redmond,2,True,John 'Abs' Denham,doctor (probably),2003,9
+1231,Casualty,GB,18,101908,Maxwell Caulfield,2,True,Jim Brodie,doctor (probably),2003,9
+1232,Casualty,GB,18,195242,Martina Laird,1,True,Comfort Jones,doctor (probably),2003,9
+1233,Casualty,GB,18,1221759,Christopher Colquhoun,2,True,Simon Kaminski,doctor (probably),2003,9
+1234,Casualty,GB,18,87591,Daniel Ainsleigh,2,False,Jason Rees,other,2003,9
+1235,Casualty,GB,18,4318,Victor McGuire,2,False,Father Frank,other,2003,9
+1236,Casualty,GB,18,1470523,Sharon Maiden,1,False,Patsy Harris,other,2003,10
+1237,Casualty,GB,18,94741,Christine Tremarco,1,False,Sarah Jennings,other,2003,10
+1238,Casualty,GB,18,24716,John Duttine,2,False,Tom Jennings,other,2003,10
+1239,Casualty,GB,18,1526720,Paul J. Medford,2,False,Joe Freeman,other,2003,11
+1240,Casualty,GB,18,1891477,Patrick Lichfield,2,False,Lord Patrick Lichfield,other,2003,11
+1241,Casualty,GB,18,65145,Liza Walker,1,False,Jenny Wells,other,2003,11
+1242,Casualty,GB,18,62972,Tim Plester,2,False,Derek Moberley,other,2003,11
+1243,Casualty,GB,18,73360,Liam Hess,2,False,Louis Fairhead,other,2003,11
+1244,Casualty,GB,18,1794352,Aidan David,2,False,Jason Forster,other,2003,11
+1245,Casualty,GB,18,190526,Frank Windsor,2,False,Kenneth Samuels,other,2003,11
+1246,Casualty,GB,18,104312,Gwyneth Strong,1,False,Elizabeth Brodie,other,2003,11
+1247,Casualty,GB,18,1891478,Kristian Wilkin,2,False,Andy Brodie,other,2003,11
+1248,Casualty,GB,18,162398,Tony Slattery,2,False,Michael Chambers,other,2003,11
+1249,Casualty,GB,18,78427,David Troughton,2,False,Eddie West,other,2003,12
+1250,Casualty,GB,18,126540,John-Paul Macleod,2,False,Toby Borodin,other,2003,12
+1251,Casualty,GB,18,110875,Gareth David-Lloyd,2,False,Darrell Kemmer,other,2003,12
+1252,Casualty,GB,18,55411,David Gyasi,2,False,Bryce,other,2004,1
+1253,Casualty,GB,18,1243939,Ben Hull,2,False,Dale Charters,other,2004,1
+1254,Casualty,GB,18,1213731,Diana Weston,1,False,Mavis Taylor,other,2004,1
+1255,Casualty,GB,18,78050,Elyes Gabel,2,False,Jude,other,2004,1
+1256,Casualty,GB,18,115787,Danny John-Jules,2,False,Leon,other,2004,1
+1257,Casualty,GB,18,186138,Sharon Duce,1,False,Alesia Pamboris,other,2004,1
+1258,Casualty,GB,18,12517,Freddie Jones,2,False,Iain Roles,other,2003,2
+1259,Casualty,GB,18,1323612,Jonny Coyne,2,False,Roger Morgan (as Jonathan Coyne),other,2004,2
+1260,Casualty,GB,18,82805,Ray Burdis,2,False,Alan 'Dusty' Binns,other,2004,2
+1261,Casualty,GB,18,1782204,Liam Barr,2,False,Glenn Wilson,other,2004,2
+1262,Casualty,GB,18,1412369,Terence Beesley,2,False,Bill Halliwell,other,2004,2
+1263,Casualty,GB,18,1484865,Liam Noble,2,False,Terry Hollingsworth,other,2004,3
+1264,Casualty,GB,18,72310,Sam Kelly,2,False,Percy Miles,other,2004,3
+1265,Casualty,GB,18,1892745,Austin Drage,2,False,Jason O'Donnel,other,2004,3
+1266,Casualty,GB,18,202561,Norman Pace,2,False,Harold Collins,other,2004,3
+1267,Casualty,GB,18,1231950,Katie Sheridan,1,False,Becky Eastwood,other,2004,3
+1268,Casualty,GB,18,1249100,Julie Buckfield,1,False,Saskia Lovell,other,2004,4
+1269,Casualty,GB,18,1221954,Josie D'Arby,1,False,Stevie Bishop,other,2004,4
+1270,Casualty,GB,18,16628,Martin Compston,2,False,Matty Howell,other,2004,4
+1271,Casualty,GB,18,3134217,Colin R. Campbell,2,False,Captain Bob,other,2004,5
+1272,Casualty,GB,18,13326,Susannah York,1,False,Helen Grant,other,2004,6
+1273,Casualty,GB,18,117557,Sara Crowe,1,False,Kerry Summerston,other,2004,5
+1274,Casualty,GB,18,58693,Dean Andrews,2,False,Reg Summerston,other,2004,5
+1275,Casualty,GB,18,1251769,Philip McGinley,2,False,Ben Bradshaw,other,2004,5
+1276,Casualty,GB,18,123209,Geoffrey Bayldon,2,False,Ralph Michaels,other,2004,8
+1277,Casualty,GB,18,1216400,Shaheen Jafargholi,2,False,Christy Skinner,other,2004,8
+1278,Casualty,GB,18,55398,Ashley Jensen,1,False,Stella,other,2004,8
+1279,Casualty,GB,19,24743,Simon MacCorkindale,2,True,Harry Harper,doctor (probably),2004,9
+1280,Casualty,GB,19,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2004,9
+1281,Casualty,GB,19,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2004,9
+1282,Casualty,GB,19,1892053,Rebekah Gibbs,1,True,Nina Farr,doctor (probably),2004,9
+1283,Casualty,GB,19,78050,Elyes Gabel,2,True,Gurpreet 'Guppy' Sandhu,doctor (probably),2004,9
+1284,Casualty,GB,19,1215751,James Redmond,2,True,John 'Abs' Denham,doctor (probably),2004,9
+1285,Casualty,GB,19,195242,Martina Laird,1,True,Comfort Jones,doctor (probably),2004,9
+1286,Casualty,GB,19,101908,Maxwell Caulfield,2,True,Jim Brodie,doctor (probably),2004,9
+1287,Casualty,GB,19,1182560,Matthew Wait,2,True,Luke Warren,doctor (probably),2004,9
+1288,Casualty,GB,19,190386,Elizabeth Carling,1,True,Selena Manning,doctor (probably),2004,9
+1289,Casualty,GB,19,1232751,Luke Bailey,2,True,Sam Bateman,doctor (probably),2004,9
+1290,Casualty,GB,19,1464281,Janine Mellor,1,True,Kelsey Phillips,doctor (probably),2004,9
+1291,Casualty,GB,19,1244469,Louise Brealey,1,True,Roxanne Bird,doctor (probably),2004,9
+1292,Casualty,GB,19,82390,Leanne Wilson,1,True,Claire Guildford,doctor (probably),2004,9
+1293,Casualty,GB,19,1221472,Sarah Manners,1,True,Bex Reynolds,doctor (probably),2004,9
+1294,Casualty,GB,19,1221756,Suzanne Packer,1,True,Tess Bateman,doctor (probably),2004,9
+1295,Casualty,GB,19,62972,Tim Plester,2,False,Derek Moberley,other,2004,9
+1296,Casualty,GB,19,1220565,Lucy Benjamin,1,False,Gina Taylor,other,2004,9
+1297,Casualty,GB,19,1226592,James Ellis,2,False,Reg,other,2004,9
+1298,Casualty,GB,19,1216101,Kevin Doyle,2,False,Barry Ricks,other,2004,9
+1299,Casualty,GB,19,217788,Gary Mavers,2,False,DI Will Manning,other,2004,9
+1300,Casualty,GB,19,1213692,Mary Wimbush,1,False,Lily,other,2004,9
+1301,Casualty,GB,19,55643,Prunella Scales,1,False,Jocelyn Anderson,other,2004,9
+1302,Casualty,GB,19,184990,Christopher Timothy,2,False,Karl Ackerman,other,2004,9
+1303,Casualty,GB,19,1211852,Ian Gelder,2,False,Arthur Swain,other,2004,9
+1304,Casualty,GB,19,205678,Ryan Conway,2,False,Jason Kennedy,other,2004,10
+1305,Casualty,GB,19,109861,Jamie Thomas King,2,False,Jamie Canning,other,2004,10
+1306,Casualty,GB,19,1225379,Stephen McGann,2,False,Garry Lesser,other,2004,10
+1307,Casualty,GB,19,197235,Brigit Forsyth,1,False,Patricia Baxter,other,2004,10
+1308,Casualty,GB,19,31924,Geoffrey Beevers,2,False,Francis Twine,other,2004,10
+1309,Casualty,GB,19,150543,Thomas Byrne,2,False,Zack Lesser,other,2004,10
+1310,Casualty,GB,19,206177,Abhin Galeya,2,False,Ajay Singh,other,2004,10
+1311,Casualty,GB,19,1070854,Matt Kane,2,False,Danny Chandler,other,2004,11
+1312,Casualty,GB,19,65864,Ian Aspinall,2,False,Mubbs Hussein,other,2004,11
+1313,Casualty,GB,19,1232749,Adam Thomas,2,False,Jamie Ridderford,other,2004,12
+1314,Casualty,GB,19,17606,Imogen Poots,1,False,Alice Thornton,other,2004,12
+1315,Casualty,GB,19,94370,Diana Coupland,1,False,Lily Thirlwell,other,2004,12
+1316,Casualty,GB,19,3555,Jeremy Swift,2,False,Noah Fitch,other,2004,12
+1317,Casualty,GB,19,108575,René Zagger,2,False,Bob Smith,other,2004,12
+1318,Casualty,GB,19,195206,John McArdle,2,False,Frank Morgan,other,2004,12
+1319,Casualty,GB,19,1428461,Jaye Jacobs,1,False,Donna Jackson,other,2004,12
+1320,Casualty,GB,19,31925,Hugh Quarshie,2,False,Ric Griffin,other,2004,12
+1321,Casualty,GB,19,135174,Nicola Stapleton,1,False,Shirley Smith,other,2004,12
+1322,Casualty,GB,19,1182929,Freema Agyeman,1,False,Kate Hindley,other,2004,12
+1323,Casualty,GB,19,1484865,Liam Noble,2,False,Terry Hollingsworth,other,2004,12
+1324,Casualty,GB,19,143508,Keith-Lee Castle,2,False,Phil,other,2004,12
+1325,Casualty,GB,19,2205074,Alex Stedman,2,False,Jason,other,2005,1
+1326,Casualty,GB,19,62071,Dougie Poynter,2,False,Dougie Poynter,other,2005,1
+1327,Casualty,GB,19,62070,Harry Judd,2,False,Harry Judd,other,2005,1
+1328,Casualty,GB,19,62069,Danny Jones,2,False,Danny Jones,other,2005,1
+1329,Casualty,GB,19,62068,Tom Fletcher,2,False,Tom Fletcher,other,2005,1
+1330,Casualty,GB,19,1278489,Jenna Boyd,1,False,Rose Pearson,other,2005,1
+1331,Casualty,GB,19,104561,Craig Roberts,2,False,Jordan Philpot,other,2005,1
+1332,Casualty,GB,19,178618,Mark Womack,2,False,Andy Stedding,other,2005,1
+1333,Casualty,GB,19,82711,Siobhan Finneran,1,False,Sue Stedding,other,2005,1
+1334,Casualty,GB,19,1230810,Joanna Kanska,1,False,Ingrid,other,2005,1
+1335,Casualty,GB,19,1221128,Brian Cant,2,False,Billy Hargreaves,other,2005,2
+1336,Casualty,GB,19,1873905,Jordan Metcalfe,2,False,Andy Murphy,other,2005,2
+1337,Casualty,GB,19,20769,Imogen Stubbs,1,False,Chloe Greer,other,2005,4
+1338,Casualty,GB,19,26281,Asier Newman,2,False,Dan Forino,other,2005,4
+1339,Casualty,GB,19,1795217,Josh Brown,2,False,Darren Sullivan,other,2005,4
+1340,Casualty,GB,19,95047,Graham McTavish,2,False,George Naseby,other,2005,6
+1341,Casualty,GB,19,1232089,Jamie Lomas,1,False,Nathan Simmonds,other,2005,6
+1342,Casualty,GB,19,74158,Katherine Parkinson,1,False,Helen Gibbons,other,2005,6
+1343,Casualty,GB,19,1790599,Bruno Melling,2,False,Louis Richins,other,2005,7
+1344,Casualty,GB,19,59316,Max Brown,2,False,Simon Broughton,other,2005,7
+1345,Casualty,GB,19,202032,Ralph Ineson,2,False,Martin Woodbridge,other,2005,7
+1346,Casualty,GB,19,446476,Tommy Knight,2,False,Liam Woodbridge,other,2005,7
+1347,Casualty,GB,19,9912,Martin Benson,2,False,Rudy Goldspink,other,2005,7
+1348,Casualty,GB,19,30434,Ellen Thomas,1,False,Stephanie Mellor,other,2005,7
+1349,Casualty,GB,20,24743,Simon MacCorkindale,2,True,Harry Harper,doctor (probably),2005,9
+1350,Casualty,GB,20,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2005,9
+1351,Casualty,GB,20,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2005,9
+1352,Casualty,GB,20,1892056,Georgina Bouzova,1,True,Ellen Zitek,doctor (probably),2005,9
+1353,Casualty,GB,20,78050,Elyes Gabel,2,True,Gurpreet 'Guppy' Sandhu,doctor (probably),2005,9
+1354,Casualty,GB,20,1215751,James Redmond,2,True,John 'Abs' Denham,doctor (probably),2005,9
+1355,Casualty,GB,20,1182560,Matthew Wait,2,True,Luke Warren,doctor (probably),2005,9
+1356,Casualty,GB,20,1232751,Luke Bailey,2,True,Sam Bateman,doctor (probably),2005,9
+1357,Casualty,GB,20,1220202,Susan Cookson,1,True,Maggie Coldwell,doctor (probably),2005,9
+1358,Casualty,GB,20,1221995,Will Thorp,2,True,Paul 'Woody' Joyner,doctor (probably),2005,9
+1359,Casualty,GB,20,1464281,Janine Mellor,1,True,Kelsey Phillips,doctor (probably),2005,9
+1360,Casualty,GB,20,190386,Elizabeth Carling,1,True,Selena Donovan,doctor (probably),2005,9
+1361,Casualty,GB,20,1231402,Mark Bonnar,2,True,Bruno Jenkins,doctor (probably),2005,9
+1362,Casualty,GB,20,1221756,Suzanne Packer,1,True,Tess Bateman,doctor (probably),2005,9
+1363,Casualty,GB,20,1484865,Liam Noble,2,False,Terry Hollingsworth,other,2005,9
+1364,Casualty,GB,20,1864876,Richard Rycroft,2,False,Thomas Banks,other,2005,9
+1365,Casualty,GB,20,1575324,Damien Nash,2,False,Jo-Jo Harker,other,2005,9
+1366,Casualty,GB,20,3464,Julie Dawn Cole,1,False,Lucy Roland,other,2005,9
+1367,Casualty,GB,20,969561,Thomas Law,2,False,Matt Haddon,other,2005,9
+1368,Casualty,GB,20,4002,Roy Dotrice,2,False,George Tunstall,other,2005,10
+1369,Casualty,GB,20,215597,Simon O'Brien,2,False,Jon Gartshore,other,2005,11
+1370,Casualty,GB,20,1892823,Jack Dedman,2,False,Louis Fairhead,other,2005,12
+1371,Casualty,GB,20,1360193,Corinne Skinner-Carter,1,False,Mrs. Johnson,other,2005,12
+1372,Casualty,GB,20,1232046,Stacey Cadman,1,False,Sabrina Watkins,other,2006,1
+1373,Casualty,GB,20,1215241,Philip Middlemiss,2,False,Kenny Bradford,other,2006,1
+1374,Casualty,GB,20,1359449,Callum Dixon,2,False,Tony Ryman,other,2006,1
+1375,Casualty,GB,20,80154,Blake Ritson,2,False,Daniel Tasker,other,2006,2
+1376,Casualty,GB,20,184924,Frances Tomelty,1,False,Morven Tasker,other,2006,2
+1377,Casualty,GB,20,43554,Josef Altin,2,False,Steven Hooper,other,2006,2
+1378,Casualty,GB,20,1243389,Andrew Falvey,2,False,PC James,other,2006,3
+1379,Casualty,GB,20,21662,Ed Westwick,2,False,Johnny Cullin,other,2006,3
+1380,Casualty,GB,20,1241041,Daniel Roche,2,False,Douglas Calvin,other,2006,3
+1381,Casualty,GB,20,573737,Arnold Oceng,2,False,Solomon 'Sol' Lakah,other,2006,4
+1382,Casualty,GB,20,85067,Jumayn Hunter,2,False,Richard 'Mags' Keely,other,2006,4
+1383,Casualty,GB,20,696,David Yip,2,False,Jiang Guang,other,2006,4
+1384,Casualty,GB,20,182793,Angela May,1,False,Jiang Zhen Juan,other,2006,4
+1385,Casualty,GB,20,67212,Tom Wu,2,False,Huang Lok,other,2006,4
+1386,Casualty,GB,20,968425,Tom Hudson,2,False,Jamie Coldwell,other,2006,4
+1387,Casualty,GB,20,224193,Robert James-Collier,2,False,Martin Stonewell,other,2006,5
+1388,Casualty,GB,20,151809,Freddie Annobil-Dodoo,2,False,Frankie Whittock,other,2006,5
+1389,Casualty,GB,20,116975,Paul Copley,2,False,Mick McCarthur,other,2006,6
+1390,Casualty,GB,20,27428,Aaron Taylor-Johnson,2,False,Joey Byrne,other,2006,6
+1391,Casualty,GB,20,1225226,Andrew Neil,2,False,Peter Winters,other,2006,6
+1392,Casualty,GB,20,123209,Geoffrey Bayldon,2,False,Wilf Simpson,other,2006,7
+1393,Casualty,GB,20,235538,Robert Timmins,2,False,Hal Nicholson,other,2006,7
+1394,Casualty,GB,20,234934,Freddie Stroma,2,False,James Huppert,other,2006,8
+1395,Casualty,GB,20,109874,Dominic Mafham,2,False,Jerry Sands,other,2006,8
+1396,Casualty,GB,20,233093,Jack McMullen,2,False,Simon Aspen,other,2006,8
+1397,Casualty,GB,20,20241,Tony Haygarth,2,False,Martin Ridley,other,2006,8
+1398,Casualty,GB,20,1229098,Gary Webster,2,False,Ned Prior,other,2006,8
+1399,Casualty,GB,21,24743,Simon MacCorkindale,2,True,Harry Harper,doctor (probably),2006,9
+1400,Casualty,GB,21,347318,Jane Hazlegrove,1,True,"Kathleen""Dixie"" Dixon",doctor (probably),2006,9
+1401,Casualty,GB,21,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2006,9
+1402,Casualty,GB,21,87098,Matt Bardock,2,True,Jeff Collier,doctor (probably),2006,9
+1403,Casualty,GB,21,1231101,Kip Gamblin,2,True,Greg Fallon,doctor (probably),2006,9
+1404,Casualty,GB,21,78050,Elyes Gabel,2,True,Gurpreet 'Guppy' Sandhu,doctor (probably),2006,9
+1405,Casualty,GB,21,1215751,James Redmond,2,True,John 'Abs' Denham,doctor (probably),2006,9
+1406,Casualty,GB,21,1232751,Luke Bailey,2,True,Sam Bateman,doctor (probably),2006,9
+1407,Casualty,GB,21,1464281,Janine Mellor,1,True,Kelsey Phillips,doctor (probably),2006,9
+1408,Casualty,GB,21,190386,Elizabeth Carling,1,True,Selena Donovan,doctor (probably),2006,9
+1409,Casualty,GB,21,1220202,Susan Cookson,1,True,Maggie Coldwell,doctor (probably),2006,9
+1410,Casualty,GB,21,1233104,Joanne King,1,True,Cynthia 'Cyd' Pyke,doctor (probably),2006,9
+1411,Casualty,GB,21,1211859,Ben Price,2,True,Nathan Spencer,doctor (probably),2006,9
+1412,Casualty,GB,21,1221756,Suzanne Packer,1,True,Tess Bateman,doctor (probably),2006,9
+1413,Casualty,GB,21,1770986,Catherine Shipton,1,False,Lisa 'Duffy' Duffin,other,2006,9
+1414,Casualty,GB,21,95536,John Bowe,2,False,Mike Hornsey,other,2006,9
+1415,Casualty,GB,21,1220054,Denise Black,1,False,Grace Anning,other,2006,9
+1416,Casualty,GB,21,77680,Zac Fox,0,False,Jason Anning,other,2006,9
+1417,Casualty,GB,21,994,Stephen Marcus,2,False,Tommy Indler,other,2006,9
+1418,Casualty,GB,21,1231914,Rory Jennings,2,False,Kevin Bingham,other,2006,9
+1419,Casualty,GB,21,32203,Stephen Moyer,2,False,Dr. Mark Ellis,doctor,2006,9
+1420,Casualty,GB,21,129309,Tony Caunter,2,False,Tom Stopes,other,2006,9
+1421,Casualty,GB,21,1214515,Daniel Anthony,2,False,Niall Gorton,other,2006,10
+1422,Casualty,GB,21,1220252,Charlie Brooks,1,False,Sally Montgomery,other,2006,10
+1423,Casualty,GB,21,116263,Christian Cooke,2,False,Jude Becket,other,2006,10
+1424,Casualty,GB,21,1227873,Rebecca Ryan,1,False,Leah Crawford,other,2006,10
+1425,Casualty,GB,21,1228925,Charlie Quirke,2,False,Danny Parks,other,2006,10
+1426,Casualty,GB,21,1214695,Eamon Boland,2,False,George Haley,other,2006,11
+1427,Casualty,GB,21,1226938,Scott Mills,2,False,TV Reporter - Paul Lang,other,2006,11
+1428,Casualty,GB,21,227751,Pauline Quirke,1,False,Jackie Rogers,other,2006,12
+1429,Casualty,GB,21,1827231,Keir Mills,2,False,Paul Rugg,other,2006,12
+1430,Casualty,GB,21,102665,Jacqueline Pearce,1,False,Elspeth Lang,other,2006,12
+1431,Casualty,GB,21,1220286,Joe McGann,2,False,Martin White,other,2006,12
+1432,Casualty,GB,21,82712,George Costigan,2,False,Stephen Gregory MP,other,2006,12
+1433,Casualty,GB,21,47590,Holly Aird,1,False,Laura Merriman,other,2006,12
+1434,Casualty,GB,21,1892823,Jack Dedman,2,False,Louis Fairhead,other,2006,12
+1435,Casualty,GB,21,1216101,Kevin Doyle,2,False,Dennis Tooms,other,2006,12
+1436,Casualty,GB,21,7042,Gary Kemp,2,False,Matthew Merriman,other,2006,12
+1437,Casualty,GB,21,192871,Gudrun Ure,1,False,Violet Brook,other,2006,12
+1438,Casualty,GB,21,19901,Clive Russell,2,False,Billy McCabe,other,2006,12
+1439,Casualty,GB,21,78064,Adam Deacon,2,False,Tyrell Cater,other,2006,12
+1440,Casualty,GB,21,174708,Josette Simon,1,False,Sarah Keith,other,2006,12
+1441,Casualty,GB,21,1893550,Jamie Jarvis,1,False,Laurie Cobb,other,2007,1
+1442,Casualty,GB,21,185426,Rowena Cooper,1,False,Adele Benson,other,2007,1
+1443,Casualty,GB,21,12812,Lysette Anthony,1,False,Rachel Houston,other,2007,1
+1444,Casualty,GB,21,113910,Steven Hartley,2,False,Philip Miller,other,2007,1
+1445,Casualty,GB,21,1573846,Jennifer Wilson,1,False,Lily Compton,other,2007,1
+1446,Casualty,GB,21,176227,Richard Dillane,2,False,Anthony Sharman,other,2007,2
+1447,Casualty,GB,21,88322,Liam Boyle,2,False,Alan Jessup,other,2007,2
+1448,Casualty,GB,21,178622,Ramon Tikaram,2,False,Jonty Jones,other,2007,2
+1449,Casualty,GB,21,130,Kenny Baker,2,False,Charles Isaac,other,2007,2
+1450,Casualty,GB,21,143508,Keith-Lee Castle,2,False,Leaky,other,2007,2
+1451,Casualty,GB,21,1232744,Reece Noi,2,False,Marlon Miller,other,2007,2
+1452,Casualty,GB,21,91606,Tom Hiddleston,2,False,Chris Vaughan,other,2007,2
+1453,Casualty,GB,21,18345,Brenda Fricker,1,False,Megan Roach,other,2007,3
+1454,Casualty,GB,21,83150,Angus Deayton,2,False,Himself,other,2007,3
+1455,Casualty,GB,21,1225379,Stephen McGann,2,False,Sam Roach,other,2007,3
+1456,Casualty,GB,21,1173230,Ben Lloyd-Hughes,2,False,Colm Roach,other,2007,3
+1457,Casualty,GB,21,1211895,Susan Jameson,1,False,Samantha Grieve,other,2007,3
+1458,Casualty,GB,21,15736,Sylvia Syms,1,False,Bunny Tyrill,other,2007,3
+1459,Casualty,GB,21,63295,Peter O'Brien,2,False,Theo 'Stitch' Lambert,other,2007,3
+1460,Casualty,GB,21,1017294,Tom Hopper,2,False,Hugh 'Chewy' Mullen,other,2007,3
+1461,Casualty,GB,21,1219970,Georgia Tennant,1,False,Elaine Walker,other,2007,4
+1462,Casualty,GB,21,131534,Kate Miles,1,False,Kaz Quinn,other,2007,4
+1463,Casualty,GB,21,1953538,Noah Hedges,2,False,Tyler Quinn,other,2007,4
+1464,Casualty,GB,21,85534,Ian Lavender,2,False,Gordon Cunningham,other,2007,5
+1465,Casualty,GB,21,43138,Ian McElhinney,2,False,Robert Finch,other,2007,6
+1466,Casualty,GB,21,86107,Geoffrey Hughes,2,False,Si Blake,other,2007,6
+1467,Casualty,GB,21,128648,Joseph McFadden,2,False,Dave Adams,other,2007,6
+1468,Casualty,GB,21,83814,Steve Evets,2,False,Maddox McCarthy,other,2007,6
+1469,Casualty,GB,21,91280,Roy Hudd,2,False,George Wallace,other,2007,6
+1470,Casualty,GB,21,184904,Nicholas Courtney,2,False,Claude Devigny,other,2007,7
+1471,Casualty,GB,21,1495779,Sean Verey,2,False,Corin Mulhearn,other,2007,7
+1472,Casualty,GB,21,16690,Neil Newbon,2,False,Adam Hamer,other,2007,8
+1473,Casualty,GB,22,24743,Simon MacCorkindale,2,True,Harry Harper,doctor (probably),2007,9
+1474,Casualty,GB,22,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2007,9
+1475,Casualty,GB,22,347318,Jane Hazlegrove,1,True,"Kathleen""Dixie"" Dixon",doctor (probably),2007,9
+1476,Casualty,GB,22,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2007,9
+1477,Casualty,GB,22,55473,Georgia Taylor,1,True,Ruth Winters,doctor (probably),2007,9
+1478,Casualty,GB,22,1231101,Kip Gamblin,2,True,Greg Fallon,doctor (probably),2007,9
+1479,Casualty,GB,22,78050,Elyes Gabel,2,True,Gurpreet 'Guppy' Sandhu,doctor (probably),2007,9
+1480,Casualty,GB,22,1220202,Susan Cookson,1,True,Maggie Coldwell,doctor (probably),2007,9
+1481,Casualty,GB,22,1226921,Tristan Gemmill,2,True,Adam Trueman,doctor (probably),2007,9
+1482,Casualty,GB,22,84068,Daphne Alexander,1,True,Nadia Talianos,doctor (probably),2007,9
+1483,Casualty,GB,22,1211859,Ben Price,2,True,Nathan Spencer,doctor (probably),2007,9
+1484,Casualty,GB,22,1464281,Janine Mellor,1,True,Kelsey Phillips,doctor (probably),2007,9
+1485,Casualty,GB,22,1584566,Matthew Needham,2,True,Toby De Silva,doctor (probably),2007,9
+1486,Casualty,GB,22,1221756,Suzanne Packer,1,True,Tess Bateman,doctor (probably),2007,9
+1487,Casualty,GB,22,31431,Nigel Terry,2,False,Denny Davidson,other,2007,9
+1488,Casualty,GB,22,1233137,Emily Corrie,1,False,Nell Mendez,other,2007,9
+1489,Casualty,GB,22,1250452,Shane Zaza,2,False,Sunny Sagar,other,2007,9
+1490,Casualty,GB,22,1663574,Scarlett Rose Patterson,1,False,Nikki Munro,other,2007,9
+1491,Casualty,GB,22,137979,Peter England,2,False,TC,other,2007,9
+1492,Casualty,GB,22,37437,Caroline Langrishe,1,False,Marilyn Fox,other,2007,9
+1493,Casualty,GB,22,108462,Mo Sesay,2,False,Robbie Aldington,other,2007,10
+1494,Casualty,GB,22,1216405,Steven Meo,2,False,Aiden Hendrie,doctor,2007,10
+1495,Casualty,GB,22,185464,Tilly Vosburgh,1,False,Sheila Noga,other,2007,10
+1496,Casualty,GB,22,43554,Josef Altin,2,False,Andy 'Mez' McKenzie,other,2007,10
+1497,Casualty,GB,22,47864,Lesley Dunlop,1,False,Angela Hartshorne,other,2007,11
+1498,Casualty,GB,22,14465,John Woodvine,2,False,Jack Hetherington,other,2007,11
+1499,Casualty,GB,22,481,Jean Heywood,1,False,Lily Harwood,other,2007,11
+1500,Casualty,GB,22,118608,Anthony Flanagan,2,False,Steve Harwood,other,2007,11
+1501,Casualty,GB,22,1332971,Dean-Charles Chapman,2,False,William Mulhern,other,2007,11
+1502,Casualty,GB,22,96408,Rosemary Leach,1,False,Miranda Watts,other,2007,11
+1503,Casualty,GB,22,1134097,Amy Pemberton,1,False,Jodie Daley,other,2007,11
+1504,Casualty,GB,22,77879,Oliver Kieran-Jones,2,False,Jonas Saville,other,2007,11
+1505,Casualty,GB,22,1894243,Gregory Foreman,2,False,Louis Fairhead,other,2007,12
+1506,Casualty,GB,22,20768,Cherie Lunghi,1,False,Camille Windsor,other,2007,12
+1507,Casualty,GB,22,1220053,Kate Buffery,1,False,Fiona Atwell,other,2007,12
+1508,Casualty,GB,22,43680,Bill Treacher,2,False,Howard Boylan,other,2007,12
+1509,Casualty,GB,22,131814,Michael Brandon,2,False,Mike Barnicott,other,2007,12
+1510,Casualty,GB,22,6638,Maureen Lipman,1,False,Hannah 'Hayley' Liddell,other,2007,12
+1511,Casualty,GB,22,81269,Eros Vlahos,2,False,Liam Hendricks,doctor,2007,12
+1512,Casualty,GB,22,185999,Louis Mahoney,2,False,Tom Cavanagh,other,2007,12
+1513,Casualty,GB,22,1251769,Philip McGinley,2,False,PC Simon Dartford,other,2007,12
+1514,Casualty,GB,22,174760,Lindsey Coulson,1,False,Kate Villiers,other,2007,12
+1515,Casualty,GB,22,112824,Aisling Loftus,1,False,Jo Balmayne,other,2008,1
+1516,Casualty,GB,22,176132,Trevor Byfield,2,False,Don Harrikent,other,2008,1
+1517,Casualty,GB,22,1894256,Moustafa Chousein-Oglou,2,False,Oddbod,other,2008,1
+1518,Casualty,GB,22,196544,Raquel Cassidy,1,False,Monica Batchelor,other,2008,2
+1519,Casualty,GB,22,151783,Rhys Thomas,2,False,Dr. Doom,doctor,2008,2
+1520,Casualty,GB,22,446476,Tommy Knight,2,False,Jugg,other,2008,2
+1521,Casualty,GB,22,176227,Richard Dillane,2,False,Sean Anderson,other,2008,3
+1522,Casualty,GB,22,134699,Stella Gonet,1,False,Jayne Grayson,other,2008,3
+1523,Casualty,GB,22,90741,John Salthouse,2,False,Frank Swedener,other,2008,3
+1524,Casualty,GB,22,964792,Jacob Anderson,2,False,Dom Parke,other,2008,3
+1525,Casualty,GB,22,1894262,Andrew Newton-Lee,2,False,Stacey Merrick,other,2008,3
+1526,Casualty,GB,22,80417,Sarah-Jane Potts,1,False,Ellie,other,2008,3
+1527,Casualty,GB,22,186138,Sharon Duce,1,False,Sheila Denham,other,2008,3
+1528,Casualty,GB,22,1232749,Adam Thomas,2,False,Jake Shepherd,other,2008,3
+1529,Casualty,GB,22,104561,Craig Roberts,2,False,Darren Smith,other,2008,4
+1530,Casualty,GB,22,85534,Ian Lavender,2,False,Gordon Cunningham,other,2008,4
+1531,Casualty,GB,22,113697,Richard O'Callaghan,2,False,Eddie Morris,other,2008,5
+1532,Casualty,GB,22,167847,Paul Fox,2,False,Simon Tanner,other,2008,5
+1533,Casualty,GB,22,1235186,Mark Little,2,False,Gary Forrester,other,2008,5
+1534,Casualty,GB,22,96176,Keith Barron,2,False,Howard Coombes,other,2008,6
+1535,Casualty,GB,22,1213387,Ellie Beaven,1,False,Sally Toner,other,2008,6
+1536,Casualty,GB,22,1356917,Danny Emes,2,False,Lucas,other,2008,7
+1537,Casualty,GB,23,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2008,9
+1538,Casualty,GB,23,347318,Jane Hazlegrove,1,True,"Kathleen""Dixie"" Dixon",doctor (probably),2008,9
+1539,Casualty,GB,23,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2008,9
+1540,Casualty,GB,23,55473,Georgia Taylor,1,True,Ruth Winters,doctor (probably),2008,9
+1541,Casualty,GB,23,87098,Matt Bardock,2,True,Jeff Collier,doctor (probably),2008,9
+1542,Casualty,GB,23,1215751,James Redmond,2,True,John 'Abs' Denham,doctor (probably),2008,9
+1543,Casualty,GB,23,1584566,Matthew Needham,2,True,Toby De Silva,doctor (probably),2008,9
+1544,Casualty,GB,23,1226921,Tristan Gemmill,2,True,Adam Trueman,doctor (probably),2008,9
+1545,Casualty,GB,23,1221985,Sunetra Sarker,1,True,Zoe Hanna,doctor (probably),2008,9
+1546,Casualty,GB,23,121464,Gillian Kearney,1,True,Jessica Harrison,doctor (probably),2008,9
+1547,Casualty,GB,23,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2008,9
+1548,Casualty,GB,23,1667,Danny Cunningham,2,False,Alistair Murrell,other,2008,9
+1549,Casualty,GB,23,119906,Margaret John,1,False,Mrs. Treaver,other,2008,9
+1550,Casualty,GB,23,210165,Bernard Lloyd,2,False,Joe Geraghty,other,2008,9
+1551,Casualty,GB,23,80417,Sarah-Jane Potts,1,False,Ellie Bridges,other,2008,9
+1552,Casualty,GB,23,186138,Sharon Duce,1,False,Sheila Denham,other,2008,9
+1553,Casualty,GB,23,202032,Ralph Ineson,2,False,Raymond Thurber,other,2008,9
+1554,Casualty,GB,23,82710,Michelle Holmes,1,False,Jean Ashton,other,2008,9
+1555,Casualty,GB,23,1221047,Pooky Quesnel,1,False,Pennie Ashton,other,2008,9
+1556,Casualty,GB,23,77821,Danny Midwinter,2,False,Scott Cowden,other,2008,9
+1557,Casualty,GB,23,37437,Caroline Langrishe,1,False,Marilyn Fox,other,2008,10
+1558,Casualty,GB,23,13362,Alec Newman,2,False,Craig,other,2008,10
+1559,Casualty,GB,23,145143,Aneurin Barnard,2,False,Damien,other,2008,10
+1560,Casualty,GB,23,80112,Sylvester McCoy,2,False,Ashley Millington,other,2008,10
+1561,Casualty,GB,23,29698,Paul Barber,2,False,Taylor Blair,other,2008,10
+1562,Casualty,GB,23,79505,Joseph Morgan,2,False,Tony Reece,other,2008,10
+1563,Casualty,GB,23,56552,Sean Chapman,2,False,Ron Meadway,other,2008,11
+1564,Casualty,GB,23,27393,Dudley Sutton,2,False,Arthur,other,2008,11
+1565,Casualty,GB,23,14017,Mark Eden,2,False,Bill,other,2008,11
+1566,Casualty,GB,23,1494840,Joshua Jones,2,False,Young Alex,other,2008,11
+1567,Casualty,GB,23,1497154,Luke Hamill,2,False,Alex Trueman,other,2008,11
+1568,Casualty,GB,23,176227,Richard Dillane,2,False,Sean Anderson,other,2008,12
+1569,Casualty,GB,23,1356917,Danny Emes,2,False,Lucas,other,2008,12
+1570,Casualty,GB,23,97430,Joe Absolom,2,False,Benny Steele,other,2008,12
+1571,Casualty,GB,23,47851,Andrew Sachs,2,False,Father Morgan,other,2008,12
+1572,Casualty,GB,23,47644,Frances Barber,1,False,Nancy,other,2008,12
+1573,Casualty,GB,23,30317,Lee Williams,2,False,Brian,other,2008,12
+1574,Casualty,GB,23,3543,Jamie Foreman,2,False,Henry,other,2008,12
+1575,Casualty,GB,23,32160,Simon Williams,2,False,Professor De Silva,other,2009,1
+1576,Casualty,GB,23,18021,Jane Lapotaire,1,False,Maureen,other,2009,1
+1577,Casualty,GB,23,221985,Jamie Blackley,2,False,Seb Wilton,other,2009,1
+1578,Casualty,GB,23,1216101,Kevin Doyle,2,False,Alan Callerton,other,2009,1
+1579,Casualty,GB,23,92041,Trevor Bannister,2,False,Mr Walter,other,2009,1
+1580,Casualty,GB,23,125039,Tom Chadbon,2,False,Henry Williams,other,2009,2
+1581,Casualty,GB,23,1785589,Ceallach Spellman,2,False,Daniel,other,2009,2
+1582,Casualty,GB,23,107709,Chris Bisson,2,False,Carl,other,2009,2
+1583,Casualty,GB,23,1894243,Gregory Foreman,2,False,Louis Fairhead,other,2009,2
+1584,Casualty,GB,23,17290,Andrew Tiernan,2,False,O'Neill,other,2009,3
+1585,Casualty,GB,23,37440,Angela Pleasence,1,False,Catherine,other,2009,3
+1586,Casualty,GB,23,7027,James Dreyfus,2,False,Rory,other,2009,3
+1587,Casualty,GB,23,184875,Jamie Davis,2,False,Guy Masterson,other,2009,3
+1588,Casualty,GB,23,63611,Nickolas Grace,2,False,Dennis,other,2009,4
+1589,Casualty,GB,23,1228960,Raymond Pickard,2,False,Dean Curran,other,2009,4
+1590,Casualty,GB,23,1894910,Callum Francis,2,False,Jake,other,2009,4
+1591,Casualty,GB,23,153359,Ann Mitchell,1,False,Margaret Samson,other,2009,5
+1592,Casualty,GB,23,1227873,Rebecca Ryan,1,False,Kat Ashton,other,2009,5
+1593,Casualty,GB,23,1763280,John Alford,2,False,Dave Moore,other,2009,5
+1594,Casualty,GB,23,1873905,Jordan Metcalfe,2,False,Huck,other,2009,5
+1595,Casualty,GB,23,1168128,Haruka Abe,1,False,Mika,other,2009,5
+1596,Casualty,GB,23,1220307,Gillian Taylforth,1,False,Gloria,other,2009,6
+1597,Casualty,GB,23,148543,Anita Dobson,1,False,Cora,other,2009,7
+1598,Casualty,GB,23,96697,Karl Howman,2,False,Rod,other,2009,7
+1599,Casualty,GB,23,127165,Jean Boht,1,False,Dorothy Gilbert,other,2009,7
+1600,Casualty,GB,23,1220510,Rupert Holliday-Evans,2,False,Frank MacBride,other,2009,7
+1601,Casualty,GB,23,12812,Lysette Anthony,1,False,Amanda,other,2009,7
+1602,Casualty,GB,23,1220246,Matt Di Angelo,2,False,Tom,other,2009,7
+1603,Casualty,GB,24,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2009,9
+1604,Casualty,GB,24,55473,Georgia Taylor,1,True,Ruth Winters,doctor (probably),2009,9
+1605,Casualty,GB,24,128648,Joseph McFadden,2,True,Alistair,doctor (probably),2009,9
+1606,Casualty,GB,24,939337,Will Sharpe,2,True,Yuki Reid,doctor (probably),2009,9
+1607,Casualty,GB,24,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2009,9
+1608,Casualty,GB,24,150814,Clive Wood,2,False,Tweedie,other,2009,9
+1609,Casualty,GB,24,220232,Luke Pasqualino,2,False,Dans,other,2009,9
+1610,Casualty,GB,24,43554,Josef Altin,2,False,Keanan,other,2009,9
+1611,Casualty,GB,24,1859000,Kelle Marie Walters,0,False,Dawn,other,2009,9
+1612,Casualty,GB,24,1895553,Kate Edney,1,False,Eve,other,2009,9
+1613,Casualty,GB,24,1895554,Conleth Kane,2,False,Paul,other,2009,9
+1614,Casualty,GB,24,1525715,Derek Barr,2,False,Gareth,other,2009,9
+1615,Casualty,GB,24,30454,Robyn Cooper,1,False,Anamaria,other,2009,9
+1616,Casualty,GB,24,67205,Terence Maynard,2,False,Walter,other,2009,9
+1617,Casualty,GB,24,1895555,James Gillan,2,False,Brandon,other,2009,9
+1618,Casualty,GB,24,946350,Nasser Memarzia,2,False,Amir Haron,other,2009,10
+1619,Casualty,GB,24,1347059,Pooja Ghai,1,False,Tasmeen Haron,other,2009,10
+1620,Casualty,GB,24,126534,Toyah Willcox,1,False,Hazel Tillier,other,2009,10
+1621,Casualty,GB,24,83553,Paul Reynolds,2,False,Kev Crowley,other,2009,10
+1622,Casualty,GB,24,1359449,Callum Dixon,2,False,Billy Napier,other,2009,10
+1623,Casualty,GB,24,75566,Max Deacon,2,False,Joel,other,2009,10
+1624,Casualty,GB,24,120895,Neve McIntosh,1,False,Eileen Naysmith,other,2009,10
+1625,Casualty,GB,24,1221066,Daniel Ryan,2,False,Marcus Tiverton,other,2009,10
+1626,Casualty,GB,24,1238461,Ariyon Bakare,2,False,Guy Trainer,other,2009,10
+1627,Casualty,GB,24,1220286,Joe McGann,2,False,Abe,other,2009,10
+1628,Casualty,GB,24,1196986,Maggie Steed,1,False,Sheila Toolan,other,2009,10
+1629,Casualty,GB,24,1215240,Tracy Shaw,1,False,Jane Farrell,other,2009,10
+1630,Casualty,GB,24,49813,Don Warrington,2,False,Trevor,other,2009,10
+1631,Casualty,GB,24,37760,Kenny Doughty,2,False,Steve,other,2009,10
+1632,Casualty,GB,24,1227880,Samantha Siddall,1,False,Katherine Finders,other,2009,11
+1633,Casualty,GB,24,30320,Annette Badland,1,False,Jenny Chinton,other,2009,11
+1634,Casualty,GB,24,1130994,Helen Mutch,1,False,Fran Chinton,other,2009,11
+1635,Casualty,GB,24,95715,Leon Ockenden,2,False,Luke Riley,other,2009,11
+1636,Casualty,GB,24,1743204,Paul Oldham,2,False,Skip Carter,other,2009,11
+1637,Casualty,GB,24,26197,Nabil Elouahabi,2,False,Suhail Haron,other,2009,11
+1638,Casualty,GB,24,298977,Russ Abbot,2,False,Malcolm Crowson,other,2009,11
+1639,Casualty,GB,24,192872,Patricia Brake,1,False,Brenda Crowson,other,2009,11
+1640,Casualty,GB,24,1209046,Amit Shah,2,False,Jake Milns,other,2009,11
+1641,Casualty,GB,24,1894243,Gregory Foreman,2,False,Louis Fairhead,other,2009,11
+1642,Casualty,GB,24,5483,Philip Whitchurch,2,False,Millard,other,2009,11
+1643,Casualty,GB,24,192871,Gudrun Ure,1,False,Isabel,other,2009,11
+1644,Casualty,GB,24,271458,Lynda Baron,1,False,Molly,other,2009,12
+1645,Casualty,GB,24,96176,Keith Barron,2,False,Basil King,other,2009,12
+1646,Casualty,GB,24,1356917,Danny Emes,2,False,Lucas Anderson,other,2009,12
+1647,Casualty,GB,24,1383567,David Mallinson,2,False,The Dean,other,2009,12
+1648,Casualty,GB,24,42642,John Benfield,2,False,Albert Rossiter,other,2009,12
+1649,Casualty,GB,24,109932,Sean Hughes,2,False,Jimmy Shapleton,other,2009,12
+1650,Casualty,GB,24,17691,Miffy Englefield,1,False,Amelia,other,2010,1
+1651,Casualty,GB,24,43019,Patrick Baladi,2,False,Sam Fulton,other,2010,1
+1652,Casualty,GB,24,28897,Julie T. Wallace,1,False,Registrar,other,2010,1
+1653,Casualty,GB,24,82711,Siobhan Finneran,1,False,Mel Riley,other,2010,1
+1654,Casualty,GB,24,1895930,Keaton Lansley,2,False,Tim Riley,other,2010,1
+1655,Casualty,GB,24,1173405,Julia St. John,1,False,Sarah Evans,other,2010,1
+1656,Casualty,GB,24,94741,Christine Tremarco,1,False,Linda,other,2010,1
+1657,Casualty,GB,24,1221045,Mark Monero,2,False,Tim,other,2010,1
+1658,Casualty,GB,24,1895931,Evelyn Hoskins,1,False,Shona,other,2010,1
+1659,Casualty,GB,24,41236,Ron Moody,2,False,Chick,other,2010,1
+1660,Casualty,GB,24,1215207,Chris Fountain,2,False,Seb,other,2010,1
+1661,Casualty,GB,24,116975,Paul Copley,2,False,Arthur,other,2010,2
+1662,Casualty,GB,24,86045,Gary Beadle,2,False,Dom,other,2010,2
+1663,Casualty,GB,24,15736,Sylvia Syms,1,False,Mrs. Bullock,other,2010,2
+1664,Casualty,GB,24,137952,Jesse Birdsall,2,False,Norman Kerr,other,2010,2
+1665,Casualty,GB,24,544076,Matthew James Thomas,2,False,Gary Yates,other,2010,2
+1666,Casualty,GB,24,5482,Raymond Coulthard,2,False,Matt Strong,other,2010,2
+1667,Casualty,GB,24,81029,Jack Deam,2,False,Danny Robertson,other,2010,2
+1668,Casualty,GB,24,206161,Celyn Jones,2,False,Rob Hamley,other,2010,2
+1669,Casualty,GB,24,1220360,Charles De'Ath,2,False,Alan Crozier,other,2010,2
+1670,Casualty,GB,24,132988,John Albasiny,2,False,Peter Everly,other,2010,3
+1671,Casualty,GB,24,1837,Susan Vidler,1,False,Lina,other,2010,3
+1672,Casualty,GB,24,1864858,Louis Payne,2,False,Tommo,other,2010,3
+1673,Casualty,GB,24,1262547,Richard Southgate,2,False,Chris Hallows,other,2010,3
+1674,Casualty,GB,24,50948,Stephanie Beacham,1,False,Monica Shapiro,other,2010,4
+1675,Casualty,GB,24,1558686,Darren Tighe,2,False,Vince,other,2010,4
+1676,Casualty,GB,24,1231914,Rory Jennings,2,False,Ashley,other,2010,4
+1677,Casualty,GB,24,47417,Wendy Morgan,1,False,Denise,other,2010,4
+1678,Casualty,GB,24,1212362,Chris Evans,2,False,Himself (voice),other,2010,4
+1679,Casualty,GB,24,1198873,Tessa Peake-Jones,1,False,Tina Flannery,other,2010,5
+1680,Casualty,GB,24,13362,Alec Newman,2,False,Robert Ludlow,other,2010,5
+1681,Casualty,GB,24,1794953,Jonny Dixon,2,False,Brian Dennis,other,2010,5
+1682,Casualty,GB,24,203146,Michael Begley,2,False,Ian Dennis,other,2010,5
+1683,Casualty,GB,24,1763280,John Alford,2,False,Taxi Driver,doctor,2010,5
+1684,Casualty,GB,24,266531,Jon Lee,2,False,Craig Robbins,other,2010,5
+1685,Casualty,GB,24,73361,Georgia Henshaw,1,False,Maddy Devine,other,2010,5
+1686,Casualty,GB,24,1222404,Matthew Ashforde,2,False,Steve Devine,other,2010,5
+1687,Casualty,GB,24,2477,Stephen Billington,2,False,Edward Thurlow,other,2010,6
+1688,Casualty,GB,24,1634690,Ciaran Kellgren,2,False,Cal McCoy,other,2010,6
+1689,Casualty,GB,24,54,Maurice Roëves,2,False,Carl Jackson,other,2010,6
+1690,Casualty,GB,24,25532,Philip Jackson,2,False,Rob Royson,other,2010,6
+1691,Casualty,GB,24,6239,Ameet Chana,2,False,Arun Sarin,other,2010,6
+1692,Casualty,GB,24,1048692,Amrita Acharia,1,False,Neela Sarin,other,2010,6
+1693,Casualty,GB,24,553274,Linda Robson,1,False,Louise Costello,other,2010,7
+1694,Casualty,GB,24,1500153,Joseph Timms,2,False,Johnny Costello,other,2010,7
+1695,Casualty,GB,24,195206,John McArdle,2,False,Mick Garland,other,2010,7
+1696,Casualty,GB,24,18345,Brenda Fricker,1,False,Megan Roach,other,2010,7
+1697,Casualty,GB,25,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2010,9
+1698,Casualty,GB,25,55473,Georgia Taylor,1,True,Ruth Winters,doctor (probably),2010,9
+1699,Casualty,GB,25,939337,Will Sharpe,2,True,Yuki Reid,doctor (probably),2010,9
+1700,Casualty,GB,25,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2010,9
+1701,Casualty,GB,25,174779,Michelle Collins,1,False,Camille Lewis,other,2010,9
+1702,Casualty,GB,25,1251197,Nathan McMullen,2,False,Devlan O'Connor,other,2010,9
+1703,Casualty,GB,25,56101,Gerard Horan,2,False,Neville O'Connor,other,2010,9
+1704,Casualty,GB,25,1233348,Richard Hawley,2,False,Leslie Brant,other,2010,9
+1705,Casualty,GB,25,29870,Fiona Gillies,1,False,Amy Fraser,other,2010,9
+1706,Casualty,GB,25,157758,Josie Lawrence,1,False,Janet Haines,other,2010,9
+1707,Casualty,GB,25,10779,David Calder,2,False,Roy Parks,other,2010,10
+1708,Casualty,GB,25,255430,Martin Delaney,2,False,Ben Chalmers,other,2010,10
+1709,Casualty,GB,25,2480805,Asif Khan,2,False,Aaron Richards,other,2010,10
+1710,Casualty,GB,25,214503,Joe Duttine,2,False,Frank Simons,other,2010,10
+1711,Casualty,GB,25,18031,Ruth Gemmell,1,False,Kate Margolin,other,2010,10
+1712,Casualty,GB,25,1447221,Billy Seymour,2,False,Luke Hope,other,2010,10
+1713,Casualty,GB,25,1665083,Andy Rush,2,False,Jase Spears,other,2010,11
+1714,Casualty,GB,25,1221469,Sonny Flood,2,False,Mike Sidwell,other,2010,12
+1715,Casualty,GB,25,1663575,Jack Bence,2,False,Karl Fontayne,other,2010,12
+1716,Casualty,GB,25,82414,Karen Meagher,1,False,Coral Williamson,other,2010,12
+1717,Casualty,GB,25,3553,Lewis Chase,2,False,Tommo Jameson,other,2010,12
+1718,Casualty,GB,25,141539,Travis Oliver,2,False,James Molloy,other,2010,12
+1719,Casualty,GB,25,85182,Jody Latham,2,False,Mikey Sandy,other,2010,12
+1720,Casualty,GB,25,132877,Wendy Craig,1,False,Verity Lang,other,2011,1
+1721,Casualty,GB,25,659,Wolf Kahler,2,False,Alexander Chernov,other,2011,1
+1722,Casualty,GB,25,77821,Danny Midwinter,2,False,Sgt Rains,other,2011,1
+1723,Casualty,GB,25,106508,Justine Francesca Glenton,1,False,Karen Wilkes (as Justine Glenton),other,2011,1
+1724,Casualty,GB,25,233096,Lucien Laviscount,2,False,Liam Briggs,other,2011,1
+1725,Casualty,GB,25,1232089,Jamie Lomas,1,False,Barry Southern,other,2011,1
+1726,Casualty,GB,25,178622,Ramon Tikaram,2,False,Sunil Chawhan,other,2011,1
+1727,Casualty,GB,25,6367,Daniel Brocklebank,2,False,Tom Watkins,other,2011,1
+1728,Casualty,GB,25,1227875,Luke Tittensor,2,False,Stan Heyworth,other,2011,1
+1729,Casualty,GB,25,1220148,Matthew Kelly,2,False,Andrew Brookfield,doctor,2011,2
+1730,Casualty,GB,25,549331,Jamie Harding,1,False,Ilan Al-Wahiri,other,2011,2
+1731,Casualty,GB,25,47536,Cheryl Campbell,1,False,Miriam Turner,other,2011,2
+1732,Casualty,GB,25,41044,Babou Ceesay,2,False,Jake Maddick,other,2011,2
+1733,Casualty,GB,25,220765,Emma Cunniffe,1,False,Det Insp Joanne Collins,other,2011,2
+1734,Casualty,GB,25,1251069,Nathalie Emmanuel,1,False,Cheryl Hallows,other,2011,3
+1735,Casualty,GB,25,78064,Adam Deacon,2,False,Jed Francis,other,2011,3
+1736,Casualty,GB,25,1211881,Beth Goddard,1,False,Hannah Fleet,other,2011,4
+1737,Casualty,GB,25,82710,Michelle Holmes,1,False,Donna Bridges,other,2011,4
+1738,Casualty,GB,25,1896534,Siu Hun Li,0,False,Lei Kwok,other,2011,4
+1739,Casualty,GB,25,196385,Helen Lederer,1,False,Dr. Hilary Oppe,doctor,2011,4
+1740,Casualty,GB,25,225612,Chanel Cresswell,1,False,Liz Roberts,other,2011,5
+1741,Casualty,GB,25,1232744,Reece Noi,2,False,Steve Baker,other,2011,5
+1742,Casualty,GB,25,233093,Jack McMullen,2,False,Ethan Miles,other,2011,6
+1743,Casualty,GB,25,25657,Justin Salinger,2,False,Patrick Barton,other,2011,6
+1744,Casualty,GB,25,1229299,Danny Young,2,False,Kevin Brannigan,other,2011,6
+1745,Casualty,GB,25,1619295,Chetna Pandya,1,False,Rani Murad,other,2011,7
+1746,Casualty,GB,25,67205,Terence Maynard,2,False,Gary Linton,other,2011,7
+1747,Casualty,GB,25,1215239,Denise Welch,1,False,Goldie,other,2011,7
+1748,Casualty,GB,25,1148103,Chris Ryman,2,False,Ash Murad,other,2011,7
+1749,Casualty,GB,25,107405,Elliot Levey,2,False,Tim McCaffrey,other,2011,7
+1750,Casualty,GB,25,7042,Gary Kemp,2,False,Michael Warwick,other,2011,7
+1751,Casualty,GB,25,24605,Pete Lee-Wilson,2,False,Daniel Warwick,other,2011,7
+1752,Casualty,GB,25,148543,Anita Dobson,1,False,Rachel Lan,other,2011,7
+1753,Casualty,GB,25,47851,Andrew Sachs,2,False,Mendel Lan,other,2011,7
+1754,Casualty,GB,25,86044,William Ash,2,False,Harry Reynolds,other,2011,7
+1755,Casualty,GB,25,1753282,Kirsty Armstrong,1,False,Emily Firth,other,2011,7
+1756,Casualty,GB,25,1234327,Kaye Wragg,1,False,Maureen Firth,other,2011,7
+1757,Casualty,GB,25,10734,Kenneth Colley,2,False,Arthur Cobb,other,2011,7
+1758,Casualty,GB,25,1305923,Toby Murray,2,False,Connor Reaney,other,2011,7
+1759,Casualty,GB,26,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2011,8
+1760,Casualty,GB,26,55473,Georgia Taylor,1,True,Ruth Winters,doctor (probably),2011,8
+1761,Casualty,GB,26,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2011,8
+1762,Casualty,GB,26,60412,Eva Pope,1,False,Simone Grayson,other,2011,8
+1763,Casualty,GB,26,29698,Paul Barber,2,False,William Paynter,other,2011,8
+1764,Casualty,GB,26,1116,Alan Ford,2,False,Norman Danvers,other,2011,8
+1765,Casualty,GB,26,17290,Andrew Tiernan,2,False,Col Danvers,other,2011,8
+1766,Casualty,GB,26,1214515,Daniel Anthony,2,False,Lee Stark,other,2011,8
+1767,Casualty,GB,26,1221047,Pooky Quesnel,1,False,Emma Davies,other,2011,8
+1768,Casualty,GB,26,1215188,Tina O'Brien,1,False,Chloe Trent,other,2011,8
+1769,Casualty,GB,26,1205266,Connor Catchpole,2,False,Richie Levy,other,2011,8
+1770,Casualty,GB,26,47901,Emma Samms,1,False,Rachel Greer,other,2011,9
+1771,Casualty,GB,26,1220360,Charles De'Ath,2,False,Matt Greer,other,2011,9
+1772,Casualty,GB,26,1184330,Reuben-Henry Biggs,2,False,Luke Mason,other,2011,9
+1773,Casualty,GB,26,740,Julian Glover,2,False,Sebastian Farrow,other,2011,9
+1774,Casualty,GB,26,1058080,Ben Cartwright,2,False,Neil Denton,other,2011,9
+1775,Casualty,GB,26,42642,John Benfield,2,False,George Weaver,other,2011,9
+1776,Casualty,GB,26,130417,Christopher Ellison,2,False,Danny Weaver,other,2011,9
+1777,Casualty,GB,26,1240144,Naomi Bentley,1,False,Annie McLean,other,2011,10
+1778,Casualty,GB,26,142364,Frankie McLaren,2,False,Ciaran McNeive,other,2011,10
+1779,Casualty,GB,26,1268077,Taylor Jay-Davies,2,False,Rocco Slater,other,2011,10
+1780,Casualty,GB,26,1240634,Anabel Barnston,1,False,Maya Kemp,other,2011,10
+1781,Casualty,GB,26,1515413,Robin Kermode,2,False,Philip Kemp,other,2011,10
+1782,Casualty,GB,26,1096558,Eva Fontaine,1,False,DS Bain,other,2011,10
+1783,Casualty,GB,26,82712,George Costigan,2,False,Father Vincent McConnell,other,2011,10
+1784,Casualty,GB,26,1215189,Tracie Bennett,1,False,Seonaidh Lucas,other,2011,10
+1785,Casualty,GB,26,165424,Danny Sapani,2,False,Paul Caffrey,other,2011,10
+1786,Casualty,GB,26,1231609,Angela Lonsdale,1,False,Helen Caffrey,other,2011,10
+1787,Casualty,GB,26,192937,William Gaunt,2,False,Malc Stroud,other,2011,10
+1788,Casualty,GB,26,1283871,Oliver Stark,2,False,Kyle DeNane,other,2011,11
+1789,Casualty,GB,26,29703,Susan Hampshire,1,False,Caitlin Northwick,other,2011,11
+1790,Casualty,GB,26,29069,Michael Jayston,2,False,David Northwick,other,2011,11
+1791,Casualty,GB,26,83553,Paul Reynolds,2,False,Roddy Scotton,other,2011,11
+1792,Casualty,GB,26,224364,Matt Kennard,2,False,Chris Carey,other,2011,11
+1793,Casualty,GB,26,209369,Anna Acton,1,False,Alex Scotton,other,2011,11
+1794,Casualty,GB,26,58587,Phaldut Sharma,2,False,Damon Lynch,other,2011,12
+1795,Casualty,GB,26,1216098,Marshall Lancaster,2,False,Keith Parr,other,2012,1
+1796,Casualty,GB,26,19901,Clive Russell,2,False,Jon Marston,other,2012,1
+1797,Casualty,GB,26,42280,Luke de Lacey,2,False,Patrick Farraday,other,2012,1
+1798,Casualty,GB,26,1329,Billy Boyd,2,False,Duncan Jessup,other,2012,1
+1799,Casualty,GB,26,147424,Jayne Ashbourne,1,False,Stephanie Luscombe,other,2012,2
+1800,Casualty,GB,26,1896751,Taylor Parry,2,False,Joe Andrews,doctor,2012,2
+1801,Casualty,GB,26,127165,Jean Boht,1,False,Doris Quinn,other,2012,2
+1802,Casualty,GB,26,31921,Sophie Ward,1,False,Sandra Dillon,doctor,2012,2
+1803,Casualty,GB,26,1221487,Andrew McNair,2,False,Dean Monroe,other,2012,2
+1804,Casualty,GB,26,41042,Danny Dyer,2,False,Rossy,other,2012,2
+1805,Casualty,GB,26,1896755,Abigail Titmuss,1,False,Tara Edmonds,other,2012,2
+1806,Casualty,GB,26,203139,Dominic Rickhards,2,False,Simon Brayford,other,2012,2
+1807,Casualty,GB,26,151457,Robert Daws,2,False,Hugh Blakeley,other,2012,2
+1808,Casualty,GB,26,1318418,George Rainsford,2,False,Alexander Forbes-Blackwell,other,2012,3
+1809,Casualty,GB,26,591301,Bobby Smalldridge,2,False,Jacob Broker,other,2012,3
+1810,Casualty,GB,26,137748,Louisa Milwood-Haigh,1,False,Jane Statham,other,2012,3
+1811,Casualty,GB,26,1171010,Ayden Callaghan,2,False,Mick Statham,other,2012,3
+1812,Casualty,GB,26,134692,William Mannering,2,False,Jamie Joyce,other,2012,3
+1813,Casualty,GB,26,930332,Nicola Posener,1,False,Leila Leyton,other,2012,3
+1814,Casualty,GB,26,1349801,Ed Birch,2,False,Frankie Joyce,other,2012,3
+1815,Casualty,GB,26,234074,James Ainsworth,2,False,Kevin Granger,other,2012,4
+1816,Casualty,GB,26,137937,Joe Sowerbutts,2,False,Jonas Wiley,other,2012,4
+1817,Casualty,GB,26,1232067,Clare Calbraith,1,False,Paige Norton,other,2012,4
+1818,Casualty,GB,26,119685,Elizabeth Croft,1,False,Jessica Murray,other,2012,4
+1819,Casualty,GB,26,662006,Grahame Fox,2,False,DI Gavin Cook,other,2012,5
+1820,Casualty,GB,26,1821020,Toby Walton,2,False,Andy Haymer,other,2012,5
+1821,Casualty,GB,26,159675,Emily Bruni,1,False,Sandra Wetherill,doctor,2012,5
+1822,Casualty,GB,26,1897247,Reece Pockney,2,False,Ben Jones,other,2012,5
+1823,Casualty,GB,26,53917,Danny Webb,2,False,Martin Danton,other,2012,5
+1824,Casualty,GB,26,185460,Mark Lewis Jones,2,False,Caleb Flack,other,2012,5
+1825,Casualty,GB,26,30434,Ellen Thomas,1,False,Florence Asike,other,2012,6
+1826,Casualty,GB,26,1221477,John Pickard,2,False,PC Chris Bidner,other,2012,6
+1827,Casualty,GB,26,214503,Joe Duttine,2,False,Sgt Gary Poulter,other,2012,7
+1828,Casualty,GB,26,972040,Alex Esmail,2,False,Clint Jackson,other,2012,7
+1829,Casualty,GB,27,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2012,8
+1830,Casualty,GB,27,1214515,Daniel Anthony,2,True,Jamie Collier,doctor (probably),2012,8
+1831,Casualty,GB,27,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),2012,8
+1832,Casualty,GB,27,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2012,8
+1833,Casualty,GB,27,118619,Tony Mooney,2,False,Rob Kamen,other,2012,8
+1834,Casualty,GB,27,130461,Sacha Parkinson,1,False,Laura Bellamy,other,2012,8
+1835,Casualty,GB,27,953986,Kazia Pelka,1,False,Sarah Phelan,other,2012,8
+1836,Casualty,GB,27,1897454,Jamie Howard,1,False,Danny Phelan,other,2012,8
+1837,Casualty,GB,27,1794953,Jonny Dixon,2,False,Carl Kamen,other,2012,8
+1838,Casualty,GB,27,62262,Ranjit Krishnamma,2,False,Mark Earl,other,2012,8
+1839,Casualty,GB,27,71535,Tom Kane,2,False,Marcus Hillgrove,other,2012,8
+1840,Casualty,GB,27,1543213,Jane Slavin,1,False,Olivia Hillgrove,other,2012,8
+1841,Casualty,GB,27,1897455,Samuel Holland,2,False,Alan Thurlough,other,2012,8
+1842,Casualty,GB,27,1216405,Steven Meo,2,False,Nick Collinson,other,2012,12
+1843,Casualty,GB,27,1278489,Jenna Boyd,1,False,Carrie Malin,other,2013,1
+1844,Casualty,GB,27,1795648,William Rush,2,False,Stef Kelly,other,2013,3
+1845,Casualty,GB,27,1691876,Jo Martin,1,False,Vicky Lambert,other,2013,5
+1846,Casualty,GB,28,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2013,8
+1847,Casualty,GB,28,1214515,Daniel Anthony,2,True,Jamie Collier,doctor (probably),2013,8
+1848,Casualty,GB,28,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),2013,8
+1849,Casualty,GB,28,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2013,8
+1850,Casualty,GB,28,105485,Anthony Lewis,2,False,Joe Packard,other,2013,8
+1851,Casualty,GB,28,591301,Bobby Smalldridge,2,False,Casey Midsummer,other,2013,8
+1852,Casualty,GB,28,2303206,Jessica Collins,1,False,Karen O'Grady,other,2014,1
+1853,Casualty,GB,28,3324854,Freddie Rose,2,False,Damon Wagstaff,other,2014,8
+1854,Casualty,GB,28,108575,René Zagger,2,False,Nate Durante,other,2014,8
+1855,Casualty,GB,28,10779,David Calder,2,False,Phillip Perry,other,2014,8
+1856,Casualty,GB,28,1215215,Andrew Lancel,2,False,Chris Perry,other,2014,8
+1857,Casualty,GB,28,1232121,Jemima Abey,0,False,Sarah-Lou Millar,other,2014,8
+1858,Casualty,GB,28,1789952,Harry Collett,2,False,Seb Durante,other,2014,8
+1859,Casualty,GB,28,1789954,Ashley Jones,1,False,Eloise Durante,other,2014,8
+1860,Casualty,GB,28,1572546,Paul Stocker,2,False,Dave Pattinson,other,2014,8
+1861,Casualty,GB,28,1222255,Hilary Maclean,1,False,Susan Napier,other,2014,8
+1862,Casualty,GB,29,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2014,8
+1863,Casualty,GB,29,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),2014,8
+1864,Casualty,GB,29,1244475,Patrick Robinson,2,True,Martin 'Ash' Ashford,doctor (probably),2014,8
+1865,Casualty,GB,29,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2014,8
+1866,Casualty,GB,29,1216067,Charlie G. Hawkins,2,False,Miles Stones,other,2014,11
+1867,Casualty,GB,29,164602,Adam Paul Harvey,2,False,Kieran Batten,other,2014,11
+1868,Casualty,GB,29,264968,Gwyneth Powell,1,False,Gloria Pots,other,2014,11
+1869,Casualty,GB,29,1220254,James Alexandrou,2,False,Franny Da Vies,other,2015,1
+1870,Casualty,GB,29,1216405,Steven Meo,2,False,Drew Hart,doctor,2015,3
+1871,Casualty,GB,29,1261085,Francois Pandolfo,0,False,Andrew Temple,doctor,2015,4
+1872,Casualty,GB,29,3299128,Jacob Greener-Tofts,2,False,Riley Dale,other,2015,6
+1873,Casualty,GB,29,1894243,Gregory Foreman,2,False,Louis Fairhead,other,2015,6
+1874,Casualty,GB,29,1674734,Jordan Bolger,2,False,Matt Conley,other,2015,6
+1875,Casualty,GB,30,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2015,8
+1876,Casualty,GB,30,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2015,8
+1877,Casualty,GB,30,224283,Orlando Wells,2,False,Mark Andrews,doctor,2015,8
+1878,Casualty,GB,30,1694711,Mimi Keene,1,False,Lana Westmore,other,2016,3
+1879,Casualty,GB,30,1226938,Scott Mills,2,False,DJ,other,2016,3
+1880,Casualty,GB,30,1908261,Rukku Nahar,1,False,Rosa Sarwar,other,2016,5
+1881,Casualty,GB,30,1871516,Des O'Malley,2,False,Sean Bell,other,2016,6
+1882,Casualty,GB,30,1058080,Ben Cartwright,2,False,Liam Medford,other,2016,6
+1883,Casualty,GB,30,17353,Matthew Marsh,2,False,Brian Carroll,other,2016,6
+1884,Casualty,GB,31,1124,William Beck,2,True,Dylan Keogh,doctor (probably),2016,8
+1885,Casualty,GB,31,1318418,George Rainsford,2,True,Ethan Hardy,doctor (probably),2016,8
+1886,Casualty,GB,31,1213403,Ian Bleasdale,2,True,Josh Griffiths,doctor (probably),2016,8
+1887,Casualty,GB,31,147895,Charles Venn,2,True,Jacob Masters,doctor (probably),2016,8
+1888,Casualty,GB,31,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2016,8
+1889,Casualty,GB,31,1863433,Chelsea Halfpenny,1,True,Alicia Munroe,doctor (probably),2016,8
+1890,Casualty,GB,31,1863434,Azuka Oforka,0,True,Louise Tyler,doctor (probably),2016,8
+1891,Casualty,GB,31,1863435,Lloyd Everitt,2,True,Jez Andrews,doctor,2016,8
+1892,Casualty,GB,31,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),2016,8
+1893,Casualty,GB,31,1211886,Jaye Griffiths,0,True,Ellie Gardner,doctor (probably),2016,8
+1894,Casualty,GB,31,184875,Jamie Davis,2,True,Max Walker,doctor (probably),2016,8
+1895,Casualty,GB,31,82808,Jason Durr,2,True,David Hide,doctor (probably),2016,8
+1896,Casualty,GB,31,1220019,Amanda Mealing,1,True,Connie Beauchamp,doctor,2016,8
+1897,Casualty,GB,31,127001,Richard Winsor,2,True,Caleb Knight,doctor (probably),2016,8
+1898,Casualty,GB,31,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2016,8
+1899,Casualty,GB,31,3107466,Michael Stevenson,2,True,Iain Dean,doctor (probably),2016,8
+1900,Casualty,GB,31,145533,Clive Mantle,2,False,Mike Barratt,other,2016,8
+1901,Casualty,GB,31,40638,Guy Henry,2,False,Henrik Hanssen,other,2016,8
+1902,Casualty,GB,31,1430700,Raif Clarke,2,False,Kai Swift,other,2016,8
+1903,Casualty,GB,31,1863436,Daisy Douglas,1,False,Charlotte Swift,other,2016,8
+1904,Casualty,GB,31,1854903,Adam Foster,2,False,Steve Swift,other,2016,8
+1905,Casualty,GB,31,1215751,James Redmond,2,False,Abs Denham,other,2016,8
+1906,Casualty,GB,31,1221756,Suzanne Packer,1,False,Tess Bateman,other,2016,8
+1907,Casualty,GB,31,1274938,Owain Arthur,2,False,Glen Thomas,other,2016,9
+1908,Casualty,GB,31,195254,Tracey Wilkinson,1,False,Jackie Munroe,other,2016,9
+1909,Casualty,GB,31,105486,James Gaddas,2,False,Howard Munroe,other,2016,9
+1910,Casualty,GB,31,156363,Laura Howard,1,False,Carly Swinford,other,2016,9
+1911,Casualty,GB,31,996497,Mark Rice-Oxley,2,False,Roddy Swinford,other,2016,9
+1912,Casualty,GB,31,1590758,Emily Carey,1,False,Grace Beauchamp-Strachan,other,2016,9
+1913,Casualty,GB,31,122589,Alan Williams,2,False,Roy Harvey,other,2016,9
+1914,Casualty,GB,31,192838,Eileen Davies,1,False,Jan Harvey,other,2016,9
+1915,Casualty,GB,31,210712,Frances Grey,1,False,Gaynor Lockford,other,2016,9
+1916,Casualty,GB,31,1863440,Zac Gabriel Werb,0,False,Ben Lockford,other,2016,9
+1917,Casualty,GB,31,218329,Elizabeth Edmonds,1,False,Annie O'Shaunessy,other,2016,9
+1918,Casualty,GB,31,1625157,Jaimi Barbakoff,1,False,Cheryl O'Shaunessy,other,2016,9
+1919,Casualty,GB,31,1219984,Liza Goddard,1,False,Gloria Francis,other,2016,9
+1920,Casualty,GB,31,68284,Lorraine Pilkington,1,False,Rosa Hide,other,2016,9
+1921,Casualty,GB,31,1240346,Terence Hillyer,2,False,Allan Francis,other,2016,9
+1922,Casualty,GB,31,1789952,Harry Collett,2,False,Ollie Hide,other,2016,9
+1923,Casualty,GB,31,212944,Michael Higgs,2,False,Henry Nichols,other,2016,10
+1924,Casualty,GB,31,20244,William Scott-Masson,2,False,Daniel Lockford,other,2016,10
+1925,Casualty,GB,31,182070,Alex Avery,2,False,Eli Brookes,other,2016,10
+1926,Casualty,GB,31,3327260,John Webber,2,False,Dr. Roe,doctor,2016,10
+1927,Casualty,GB,31,1864084,Tom Vallen,2,False,Rhys Ronson,other,2016,10
+1928,Casualty,GB,31,1864085,Yemisi Oyinloye,1,False,Danni Reynolds,other,2016,10
+1929,Casualty,GB,31,1746051,Frankie Fox,3,False,Joel Ronson,other,2016,10
+1930,Casualty,GB,31,1864087,Gabriel Lo Giudice,2,False,Paolo Brunetti,other,2016,10
+1931,Casualty,GB,31,1864088,Non Haf,1,False,Kara Lounds,other,2016,10
+1932,Casualty,GB,31,1701544,Basienka Blake,1,False,Elena Stanev,other,2016,10
+1933,Casualty,GB,31,144247,Shobna Gulati,1,False,Preethi Chhabra,other,2016,10
+1934,Casualty,GB,31,1214965,Indira Joshi,1,False,Supriya Chhabra,other,2016,10
+1935,Casualty,GB,31,1701545,Joy Blakeman,1,False,Julie Morry,other,2016,11
+1936,Casualty,GB,31,1864089,Rik Makarem,2,False,Sebastian Grayling,other,2016,11
+1937,Casualty,GB,31,1745819,Sophie Austin,1,False,Tanya Duffin,other,2016,11
+1938,Casualty,GB,31,1229426,Trudie Goodwin,1,False,Karen Bartley,other,2016,11
+1939,Casualty,GB,31,178625,Ricky Nixon,2,False,Peter Duffin,other,2016,11
+1940,Casualty,GB,31,568391,Rohan Gotobed,2,False,Rhys Morry,other,2016,11
+1941,Casualty,GB,31,42627,James Wilby,2,False,Archie Grayling,other,2016,11
+1942,Casualty,GB,31,1600596,Brenock O'Connor,2,False,Peter Barnes,other,2016,12
+1943,Casualty,GB,31,1796798,Jack Rowan,2,False,Sheldon Hawkins,other,2017,1
+1944,Casualty,GB,31,218689,Scott Neal,2,False,Danny Mason,other,2017,2
+1945,Casualty,GB,31,61840,Cathy Tyson,1,False,Cider Anne,other,2017,4
+1946,Casualty,GB,31,962609,Kelli Hollis,1,False,Shelle Jones,other,2017,4
+1947,Casualty,GB,31,2238736,Nathan Clarke,2,False,Numar Hassan,other,2017,4
+1948,Casualty,GB,31,1305923,Toby Murray,2,False,Connor Christie,other,2017,4
+1949,Casualty,GB,31,1665083,Andy Rush,2,False,Craig Heywood,other,2017,5
+1950,Casualty,GB,31,930959,Frankie Fitzgerald,2,False,Jack Woodfield,other,2017,5
+1951,Casualty,GB,31,1221072,Mitch Hewer,2,False,Mickey Ellisson,other,2017,5
+1952,Casualty,GB,31,139635,Stuart Davidson,2,False,Dusty Builder,other,2017,7
+1953,Casualty,GB,32,1124,William Beck,2,True,Dylan Keogh,doctor (probably),2017,8
+1954,Casualty,GB,32,1318418,George Rainsford,2,True,Ethan Hardy,doctor (probably),2017,8
+1955,Casualty,GB,32,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2017,8
+1956,Casualty,GB,32,1863435,Lloyd Everitt,2,True,Jez Andrews,doctor,2017,8
+1957,Casualty,GB,32,1770986,Catherine Shipton,1,True,Lisa 'Duffy' Duffin,doctor (probably),2017,8
+1958,Casualty,GB,32,184875,Jamie Davis,2,True,Max Walker,doctor (probably),2017,8
+1959,Casualty,GB,32,1752554,Mandip Gill,1,True,Nasreen Mahsud,doctor (probably),2017,8
+1960,Casualty,GB,32,82808,Jason Durr,2,True,David Hide,doctor (probably),2017,8
+1961,Casualty,GB,32,1220019,Amanda Mealing,1,True,Connie Beauchamp,doctor,2017,8
+1962,Casualty,GB,32,203568,Tony Marshall,2,True,Noel Garcia,doctor (probably),2017,8
+1963,Casualty,GB,32,1221072,Mitch Hewer,2,False,Mickey Ellisson,other,2017,8
+1964,Casualty,GB,32,2362672,Tut Nyuot,0,False,Sanosi Jemal,other,2017,10
+1965,Casualty,GB,32,2448226,Ariel Reid,2,False,Tara Jewkes,other,2017,10
+1966,Casualty,GB,32,1123867,Jordan Dawes,2,False,Will Franks,other,2017,10
+1967,Casualty,GB,32,109163,Lin Blakley,1,False,Maggie Coomes,other,2018,1
+1968,Casualty,GB,32,1527825,Bradley Hall,2,False,Luke Parkson,other,2018,7
+1969,Casualty,GB,32,1058080,Ben Cartwright,2,False,Felix Barstow,other,2018,7
+1970,Casualty,GB,33,1124,William Beck,2,True,Dylan Keogh,doctor (probably),2018,8
+1971,Casualty,GB,33,147895,Charles Venn,2,True,Jacob Masters,doctor (probably),2018,8
+1972,Casualty,GB,33,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2018,8
+1973,Casualty,GB,33,2722305,Amanda Mealing,1,True,Connie Beauchamp,doctor,2018,8
+1974,Casualty,GB,33,1756015,Harry Gilby,2,False,Toby Williams,other,2019,3
+1975,Casualty,GB,33,139635,Stuart Davidson,2,False,Prison Riot Officer,other,2019,7
+1976,Casualty,GB,34,1124,William Beck,2,True,Dylan Keogh,doctor (probably),2019,8
+1977,Casualty,GB,34,1318418,George Rainsford,2,True,Ethan Hardy,doctor (probably),2019,8
+1978,Casualty,GB,34,1464454,Neet Mohan,2,True,Rashid Masum,doctor (probably),2019,8
+1979,Casualty,GB,34,147895,Charles Venn,2,True,Jacob Masters,doctor (probably),2019,8
+1980,Casualty,GB,34,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2019,8
+1981,Casualty,GB,34,2234056,Maddy Hill,1,True,Ruby Spark,doctor (probably),2019,8
+1982,Casualty,GB,34,82808,Jason Durr,2,True,David Hide,doctor (probably),2019,8
+1983,Casualty,GB,34,1216400,Shaheen Jafargholi,2,True,Marty Kirkby,doctor (probably),2019,8
+1984,Casualty,GB,34,1222237,Di Botcher,1,True,Jan Jenning,doctor (probably),2019,8
+1985,Casualty,GB,34,1429006,Jack Nolan,2,True,Will Noble,doctor (probably),2019,8
+1986,Casualty,GB,34,1220019,Amanda Mealing,1,True,Connie Beauchamp,doctor,2019,8
+1987,Casualty,GB,34,2614243,Gabriella Leon,1,True,Jade Lovall,doctor (probably),2019,8
+1988,Casualty,GB,34,195354,Sam Callis,2,False,Albert 'Big Al' Layne,other,2019,8
+1989,Casualty,GB,34,2726651,Andy Williams,2,False,Barry Needham,other,2019,8
+1990,Casualty,GB,34,1691876,Jo Martin,1,False,Max McGerry,other,2020,5
+1991,Casualty,GB,35,1124,William Beck,2,True,Dylan Keogh,doctor (probably),2021,1
+1992,Casualty,GB,35,1318418,George Rainsford,2,True,Ethan Hardy,doctor (probably),2021,1
+1993,Casualty,GB,35,1464454,Neet Mohan,2,True,Rashid Masum,doctor (probably),2021,1
+1994,Casualty,GB,35,147895,Charles Venn,2,True,Jacob Masters,doctor (probably),2021,1
+1995,Casualty,GB,35,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2021,1
+1996,Casualty,GB,35,1278561,Amanda Henderson,1,True,Robyn Miller,doctor (probably),2021,1
+1997,Casualty,GB,35,1084850,Uriel Emil Pollack,2,True,Lev Malinovsky,doctor (probably),2021,1
+1998,Casualty,GB,35,2829595,Olivia D'Lima,1,True,Fenisha Khatri,doctor (probably),2021,1
+1999,Casualty,GB,35,82808,Jason Durr,2,True,David Hide,doctor (probably),2021,1
+2000,Casualty,GB,35,1216400,Shaheen Jafargholi,2,True,Marty Kirkby,doctor (probably),2021,1
+2001,Casualty,GB,35,49812,Kirsty Mitchell,1,True,Faith Cadogan,doctor (probably),2021,1
+2002,Casualty,GB,35,1222237,Di Botcher,1,True,Jan Jenning,doctor (probably),2021,1
+2003,Casualty,GB,35,2614243,Gabriella Leon,1,True,Jade Lovall,doctor (probably),2021,1
+2004,Casualty,GB,35,2500312,Adele James,1,True,"Christina ""Tina"" Mollett",doctor (probably),2021,1
+2005,Casualty,GB,35,1168076,Edyta Budnik,1,False,Zosia Nowak,other,2021,1
+2006,Casualty,GB,35,3219217,Tom Hanratty,2,False,Anthony O'Reiley,other,2021,1
+2007,Casualty,GB,35,159178,Jean Trend,1,False,Doris Parry,other,2021,1
+2008,Casualty,GB,35,3219218,Rachael Spence,1,False,Karla Capelle,other,2021,1
+2009,Casualty,GB,35,2921446,James Traherne,2,False,Derek Capelle,other,2021,1
+2010,Casualty,GB,35,3219219,Olwen Burton-Spence,1,False,Ava Capelle,other,2021,1
+2011,Casualty,GB,35,1429006,Jack Nolan,2,False,Will Noble,other,2021,1
+2012,Casualty,GB,35,1220019,Amanda Mealing,1,False,Connie Beauchamp,doctor,2021,1
+2013,Casualty,GB,35,203568,Tony Marshall,2,False,Noel Garcia,other,2021,1
+2014,Casualty,GB,35,1672688,Jacey Sallés,1,False,Rosa Cadenas,other,2021,1
+2015,Casualty,GB,35,1253195,Bobby Lockwood,2,False,Leon Cook,other,2021,1
+2016,Casualty,GB,35,80147,Maggie O'Neill,1,False,Cindy Cooper,other,2021,1
+2017,Casualty,GB,35,3219221,Sam Newton,2,False,Shane Cooper,other,2021,1
+2018,Casualty,GB,35,2586264,Lollie McKenzie,1,False,Natalia Malinovsky,other,2021,1
+2019,Casualty,GB,35,3009655,Rachel Nwokoro,1,False,Madison Jeffords,other,2021,1
+2020,Casualty,GB,35,1747180,Clara Onyemere,1,False,Colette Jeffords,other,2021,1
+2021,Casualty,GB,35,3009656,Andre Fyffe,2,False,Hunter Jeffords,other,2021,1
+2022,Casualty,GB,35,3009657,Alice Hoskyns,1,False,Enalia Thakur,other,2021,1
+2023,Casualty,GB,35,3009659,Sam Henderson,2,False,Anton Lewis,other,2021,1
+2024,Casualty,GB,35,548619,Stirling Gallacher,1,False,Ffion Morgan,other,2021,1
+2025,Casualty,GB,35,3009837,Janet Kumah,1,False,Marsha Christey,other,2021,1
+2026,Casualty,GB,35,2486152,Asmara Gabrielle,1,False,Pravi Lakhani,other,2021,1
+2027,Casualty,GB,35,2041382,Dafydd Elliot Thomas,2,False,Chester Blakeley,other,2021,1
+2028,Casualty,GB,35,122589,Alan Williams,2,False,Roy Scaddon,other,2021,1
+2029,Casualty,GB,35,1334309,Miranda Nolan,1,False,Lucy Short,other,2021,1
+2030,Casualty,GB,35,24273,Philip Wright,2,False,Graham Kirkby,other,2021,1
+2031,Casualty,GB,35,3039444,Anna Russell-Martin,1,False,Linda Aldridge,doctor,2021,2
+2032,Casualty,GB,35,86044,William Ash,2,False,Kevin Eccles,other,2021,2
+2033,Casualty,GB,35,1507581,Alice Sykes,1,False,Amber Kensit,other,2021,2
+2034,Casualty,GB,35,1662447,Aled Llyr Thomas,2,False,Scott Turner,other,2021,2
+2035,Casualty,GB,35,1590758,Emily Carey,1,False,Grace Beauchamp,other,2021,2
+2036,Casualty,GB,35,1767276,Cat Simmons,1,False,PC Andrea Mills,doctor,2021,2
+2037,Casualty,GB,35,1215215,Andrew Lancel,2,False,PC William 'Bill' Wise,other,2021,2
+2038,Casualty,GB,35,2668324,Gwydion Rhys,2,False,Shaun Butler,other,2021,2
+2039,Casualty,GB,35,1789952,Harry Collett,2,False,Ollie Hide,other,2021,2
+2040,Casualty,GB,35,3071119,Mali O'Donnell,1,False,Olivia Wyatt,other,2021,2
+2041,Casualty,GB,35,2526962,Yinka Awoni,2,False,Wallace Jamerson,other,2021,2
+2042,Casualty,GB,35,1454625,Chris Gordon,2,False,Ross West,other,2021,2
+2043,Casualty,GB,35,2477660,Rosie Jones,1,False,Paula Kettering,other,2021,2
+2044,Casualty,GB,35,2631971,Georgia Landers,1,False,Elizabet 'Libby' Sharpe,other,2021,3
+2045,Casualty,GB,35,3080312,Cecilia Appiah,1,False,Cleo Sharpe,other,2021,3
+2046,Casualty,GB,35,1570963,Christine Pritchard,1,False,Edna Bryant,other,2021,3
+2047,Casualty,GB,35,1384705,Leon Harrop,2,False,Jordan 'Jordy' Holt,other,2021,3
+2048,Casualty,GB,35,1203511,Lizzie Roper,1,False,Claire Holt,other,2021,3
+2049,Casualty,GB,35,2097215,Eugene Collins,2,False,Lamar Lowell,other,2021,3
+2050,Casualty,GB,35,1169853,Shaun Thomas,2,False,Bruno Wilding,other,2021,3
+2051,Casualty,GB,35,1756550,Sharlene Whyte,1,False,Javine 'Jay' Adams,other,2021,3
+2052,Casualty,GB,35,2618352,Jacade Simpson,2,False,Kareem Dixon,other,2021,3
+2053,Casualty,GB,35,2203864,Conrad McCroddan,2,False,Simon Tierney,other,2021,3
+2054,Casualty,GB,35,62230,Shobu Kapoor,1,False,Mona Nadkarni,other,2021,4
+2055,Casualty,GB,35,3112212,Lloyd Meredith,2,False,Bradley Gibbins,other,2021,4
+2056,Casualty,GB,35,3112213,Tasha Lim,1,False,Marika Hobart,other,2021,4
+2057,Casualty,GB,35,3112230,Mark Stewart,2,False,Ant Campbell,other,2021,4
+2058,Casualty,GB,35,203176,Kriss Dosanjh,2,False,Ashok Masum,other,2021,4
+2059,Casualty,GB,35,1220176,Laurie Brett,1,False,Gail Donham,other,2021,4
+2060,Casualty,GB,35,77505,David Ganly,2,False,Trevor Donham,other,2021,4
+2061,Casualty,GB,35,3113028,Bamshad Abedi-Amin,2,False,Douglas 'Dougie' Whitehouse,other,2021,4
+2062,Casualty,GB,35,2597737,Ashley Gerlach,2,False,Victor Clemens,other,2021,4
+2063,Casualty,GB,35,3107466,Michael Stevenson,2,False,Iain Dean,other,2021,4
+2064,Casualty,GB,35,2735935,Joey Phillips,2,False,James Kershaw,other,2021,4
+2065,Casualty,GB,35,2097249,Vicky Myers,1,False,Marie Kershaw,other,2021,4
+2066,Casualty,GB,35,2548051,Lily Knight,1,False,Tara Reynolds,other,2021,4
+2067,Casualty,GB,35,2799362,Fisun Burgess,1,False,Bibi Kirkby,other,2021,4
+2068,Casualty,GB,35,1222255,Hilary Maclean,1,False,Hannah Watkinson,other,2021,4
+2069,Casualty,GB,35,122199,Gary Oliver,2,False,Eduardo Perella,other,2021,4
+2070,Casualty,GB,35,3134345,Emily Redpath,1,False,Ashlee Watkinson,other,2021,4
+2071,Casualty,GB,35,3142011,Clara Indrani,1,False,Mrs Yasmin Kirmani,other,2021,5
+2072,Casualty,GB,35,3142015,Heather Forster,1,False,Keira Sutby,other,2021,5
+2073,Casualty,GB,35,1607250,Katy Stephens,1,False,Shannon Sutby,other,2021,5
+2074,Casualty,GB,35,2597739,Jay Saighal,2,False,DC Mahmoud Laghari,other,2021,5
+2075,Casualty,GB,35,195609,Neal Barry,2,False,Malcolm 'Mal' Duskley,other,2021,5
+2076,Casualty,GB,35,2694860,Gem Carmella,1,False,Tabitha Spicer,other,2021,5
+2077,Casualty,GB,35,1473276,Cameron Jack,2,False,James 'Jimmy' Barnett,other,2021,5
+2078,Casualty,GB,35,1409653,Douglas Rankine,2,False,Mark Johnstone,other,2021,5
+2079,Casualty,GB,35,83137,Rick Warden,2,False,Ciaran Coulson,other,2021,5
+2080,Casualty,GB,35,2479,Rupert Vansittart,2,False,Kenneth Stair,other,2021,5
+2081,Casualty,GB,35,3219253,Henry Nott,2,False,young Kenneth,other,2021,5
+2082,Casualty,GB,35,1736076,Emma Vansittart,1,False,Roberta Stair,other,2021,5
+2083,Casualty,GB,35,2331656,Zoë Watson,1,False,young Roberta,other,2021,5
+2084,Casualty,GB,35,73709,Raji James,2,False,Adil Saifi,other,2021,5
+2085,Casualty,GB,35,2058171,Rebecca Hesketh-Smith,1,False,Millie Hayford,other,2021,5
+2086,Casualty,GB,35,3219260,Grant Leat,2,False,Edward Marston,other,2021,5
+2087,Casualty,GB,35,1476723,Dafydd Emyr,2,False,Chairperson,other,2021,5
+2088,Casualty,GB,35,1436899,Caroline O'Neill,1,False,Jane Cormett,other,2021,5
+2089,Casualty,GB,35,3219262,Mariah Louca,1,False,Becky Cormett,other,2021,5
+2090,Casualty,GB,35,3219264,Sanna Kelly,1,False,Mary,other,2021,5
+2091,Casualty,GB,35,1537543,Julie Barclay,1,False,Sandra Boen,doctor,2021,5
+2092,Casualty,GB,35,3237201,Sam Hickman,1,False,Singing harpist,other,2021,5
+2093,Casualty,GB,35,1219440,Geff Francis,2,False,Tony Afolami,other,2021,5
+2094,Casualty,GB,35,1324655,Osi Okerafor,2,False,Matthew Afolami,other,2021,5
+2095,Casualty,GB,35,1438350,Cecilia Noble,1,False,Lucy Afolami,other,2021,5
+2096,Casualty,GB,35,40646,Amelda Brown,1,False,Irene Richards,other,2021,6
+2097,Casualty,GB,35,1665008,Kelly Clare,1,False,Nia Amberson,other,2021,6
+2098,Casualty,GB,35,3219269,Ashley Margolis,2,False,Owen Robeson,other,2021,6
+2099,Casualty,GB,35,3219267,Harri Rees-Jones,2,False,Sam Richards,other,2021,6
+2100,Casualty,GB,35,1960295,Danny Szam,2,False,Xander Hayes,other,2021,6
+2101,Casualty,GB,35,1081469,Oliver Hoare,2,False,Dean Marsh,other,2021,6
+2102,Casualty,GB,35,239878,Eleanor Yates,1,False,Maya Edwards,other,2021,6
+2103,Casualty,GB,35,1681438,John Cording,2,False,Sid Thorman,other,2021,6
+2104,Casualty,GB,35,3219270,Benedict Hurley,2,False,Terry Warp,other,2021,6
+2105,Casualty,GB,35,3219271,Dan Emrys-Thomas,2,False,Dave Sweet,other,2021,6
+2106,Casualty,GB,35,311811,Paul Popplewell,2,False,Paul Pegg,other,2021,6
+2107,Casualty,GB,35,1834639,Caitlin Drabble,1,False,Rochelle Reigner,other,2021,6
+2108,Casualty,GB,35,3219273,Ryan Kopel,2,False,Frank Polt,other,2021,6
+2109,Casualty,GB,35,185822,David Hounslow,2,False,Brian Kuller,other,2021,6
+2110,Casualty,GB,35,65302,Leslie Ash,1,False,Vanessa Lytton,other,2021,7
+2111,Casualty,GB,35,1215227,Bill Ward,2,False,Mike Sartwell,other,2021,7
+2112,Casualty,GB,35,2231089,Dermot Canavan,2,False,Tom Burich,other,2021,7
+2113,Casualty,GB,35,746,Alexei Sayle,2,False,Anton Malinovsky,other,2021,7
+2114,Casualty,GB,35,2467451,Huw Euron,2,False,Sgt. Gerard Wilson,other,2021,7
+2115,Casualty,GB,35,2533533,Brandon Fellows,2,False,Connor Elsworth,other,2021,7
+2116,Casualty,GB,35,3210018,Luke Nunn,2,False,Neil Shotts,other,2021,7
+2117,Casualty,GB,35,1595458,Shannon Hayes,1,False,Jeannie Cotler,other,2021,7
+2118,Casualty,GB,35,1813743,Tom Mulheron,2,False,Luka Malinovsky,other,2021,7
+2119,Casualty,GB,35,2871263,Isla Merrick-Lawless,1,False,Ana Malinovsky,other,2021,7
+2120,Casualty,GB,35,938334,Jennifer Matter,1,False,"Eliza ""Liza"" Henard",other,2021,7
+2121,Casualty,GB,35,1752557,Narinder Samra,2,False,Pen Khatri,other,2021,7
+2122,Casualty,GB,35,1841672,Alison Dowling,1,False,Ashley Khatri,other,2021,7
+2123,Casualty,GB,35,3251626,Matthew Lawrence,2,False,James 'Jimmy' Ferris,other,2021,7
+2124,Casualty,GB,35,2113729,Joseph Tweedale,2,False,Crosby,other,2021,8
+2125,Casualty,GB,36,1124,William Beck,2,True,Dylan Keogh,doctor (probably),2021,8
+2126,Casualty,GB,36,1318418,George Rainsford,2,True,Ethan Hardy,doctor (probably),2021,8
+2127,Casualty,GB,36,2763454,Elinor Lawless,1,True,Stevie Nash,doctor (probably),2021,8
+2128,Casualty,GB,36,1464454,Neet Mohan,2,True,Rashid Masum,doctor (probably),2021,8
+2129,Casualty,GB,36,147895,Charles Venn,2,True,Jacob Masters,doctor (probably),2021,8
+2130,Casualty,GB,36,3426,Derek Thompson,2,True,Charlie Fairhead,doctor (probably),2021,8
+2131,Casualty,GB,36,1278561,Amanda Henderson,1,True,Robyn Miller,doctor (probably),2021,8
+2132,Casualty,GB,36,3203863,Milo Clarke,2,True,"Theodore ""Teddy"" Gowan",doctor (probably),2021,8
+2133,Casualty,GB,36,82808,Jason Durr,2,True,David Hide,doctor (probably),2021,8
+2134,Casualty,GB,36,1216400,Shaheen Jafargholi,2,True,Marty Kirkby,doctor (probably),2021,8
+2135,Casualty,GB,36,49812,Kirsty Mitchell,1,True,Faith Cadogan,doctor (probably),2021,8
+2136,Casualty,GB,36,1222237,Di Botcher,1,True,Jan Jenning,doctor (probably),2021,8
+2137,Casualty,GB,36,3107466,Michael Stevenson,2,True,Iain Dean,doctor (probably),2021,8
+2138,Casualty,GB,36,1324655,Osi Okerafor,2,True,Matthew Afolami,doctor (probably),2021,8
+2139,Casualty,GB,36,1672688,Jacey Sallés,1,True,Rosa Cadenas,doctor (probably),2021,8
+2140,Casualty,GB,36,1219948,Charles Dale,2,False,Big Mac,other,2021,8
+2141,Casualty,GB,36,2946485,Adam Sina,2,False,Marcus Fidel,other,2021,8
+2142,Casualty,GB,36,1688792,Brendan Charleson,2,False,Clive Delmore,other,2021,8
+2143,Casualty,GB,36,1785606,Alex Zur,2,False,Toby Damron,other,2021,8
+2144,Casualty,GB,36,3218301,Nancy Farino,1,False,Lily Delmore,other,2021,8
+2145,Casualty,GB,36,3218302,Joshua McCord,2,False,Frank Delmore,other,2021,8
+2146,Casualty,GB,36,2586264,Lollie McKenzie,1,False,Natalia Malinovsky,other,2021,8
+2147,Casualty,GB,36,127001,Richard Winsor,2,False,Caleb Knight,other,2021,8
+2148,Casualty,GB,36,203568,Tony Marshall,2,False,Noel Garcia,other,2021,8
+2149,Casualty,GB,36,3269647,Pharrell Marshall-Green,2,False,Rudi Delahay,other,2021,8
+2150,Casualty,GB,36,2614243,Gabriella Leon,1,False,Jade Lovall,other,2021,8
+2151,Casualty,GB,36,311811,Paul Popplewell,2,False,Paul Pegg,other,2021,8
+2152,Casualty,GB,36,1625157,Jaimi Barbakoff,1,False,Emma Nash,other,2021,8
+2153,Casualty,GB,36,1463146,Elizabeth Rider,1,False,Josephine OBryan,other,2021,8
+2154,Casualty,GB,36,1840553,Nohail Nazir Mohammed,2,False,Amir Bashar,other,2021,8
+2155,Casualty,GB,36,1537545,Olwen Rees,1,False,Bridget Nyman,other,2021,8
+2156,Casualty,GB,36,185826,Rhian Morgan,1,False,Molly Torrell,other,2021,8
+2157,Casualty,GB,36,1752557,Narinder Samra,2,False,Pen Khatri,other,2021,8
+2158,Casualty,GB,36,1841672,Alison Dowling,1,False,Ashley Khatri,other,2021,8
+2159,Casualty,GB,36,2500312,Adele James,1,False,"Christina ""Tina"" Mollett",other,2021,8
+2160,Casualty,GB,36,2529008,Saskia Ashdown,1,False,Nicole ‘Nikki’ Merrow,other,2021,8
+2161,Casualty,GB,36,2822536,Jack Stewart,2,False,Elijah 'Eli' Kenton,other,2021,8
+2162,Casualty,GB,36,548619,Stirling Gallacher,1,False,Ffion Morgan,other,2021,8
+2163,Casualty,GB,36,1528819,Katie Brayben,1,False,Lisa Fernham,other,2021,9
+2164,Casualty,GB,36,2972776,Harry Long,2,False,George Corsham,other,2021,9
+2165,Casualty,GB,36,1138288,Stevie Raine,2,False,Alan 'Al' Shepton,other,2021,9
+2166,Casualty,GB,36,3294934,Bianca Bardoe,1,False,Kate Dunlay,other,2021,9
+2167,Casualty,GB,36,1515606,Sophie Stone,1,False,Susie Ashby,other,2021,9
+2168,Casualty,GB,36,2881041,Charmaine Parsons,1,False,Mrs Coles,other,2021,9
+2169,Casualty,GB,36,3312951,Steph Parry,1,False,Bea Hosser,other,2021,9
+2170,Casualty,GB,36,1462325,Martin Walsh,2,False,Nick Maberley,other,2021,10
+2171,Casualty,GB,36,1205266,Connor Catchpole,2,False,Ryan Maberley,other,2021,10
+2172,Casualty,GB,36,74263,Rosalind March,1,False,Elissa Saint,other,2021,10
+2173,Casualty,GB,36,3065621,Halema Hussain,1,False,Farah Bakshi,other,2021,10
+2174,Casualty,GB,36,1058080,Ben Cartwright,2,False,Sgt Adrian Pitt,doctor,2021,10
+2175,Casualty,GB,36,1851646,Zainab Hasan,1,False,Hafsa Kazimi,other,2021,10
+2176,Casualty,GB,36,1534394,Rebecca Calienda,1,False,Lauren 'Ren' Kearn,other,2021,10
+2177,Casualty,GB,36,1233153,Howard Ward,2,False,Don Kearn,other,2021,10
+2178,Casualty,GB,36,3382995,Arin Smethurst,3,False,Sah Brockner,other,2021,10
+2179,Casualty,GB,36,3404135,Lindsay Foster,1,False,Elsie Ruskin,other,2021,10
+2180,Casualty,GB,36,2123953,El Anthony,2,False,Craig Fernsby,other,2021,10
+2181,Casualty,GB,36,108620,Amanda Walker,1,False,Brenda Tome,other,2021,10
+2182,Casualty,GB,36,3568,Patrick Godfrey,2,False,Derick Tome,other,2021,10
+2183,Casualty,GB,36,1778815,Bill Jones,2,False,Ben Smiler,other,2021,10
+2184,Casualty,GB,36,3404272,Jediael Stiling,2,False,Kyle Morgen,other,2021,10
+2185,Casualty,GB,36,2598649,Simone Saunders,1,False,Holly Cage,other,2021,10
+2186,Casualty,GB,36,3404275,Montel Douglas,2,False,Tyson Culver,other,2021,10
+2187,Casualty,GB,36,3404276,Nicole Arumugam,1,False,Maureen 'Mo' Ramson,other,2021,10
+2188,Casualty,GB,36,1804409,Jordan A. Nash,2,False,Young Kyle Morgen,other,2021,10
+2189,Casualty,GB,36,3404270,Adam Aziz,2,False,Rayan Ayad,other,2021,10
+2190,Casualty,GB,36,1439492,James Barriscale,2,False,Brian Godard,other,2021,11
+2191,Casualty,GB,36,2639848,Jonny Green,2,False,Joseph 'Joe' Walcotts,other,2021,11
+2192,Casualty,GB,36,1602739,Alhaji Fofana,2,False,Solomon 'Sol' Mathes,other,2021,11
+2193,Casualty,GB,36,1278121,Alex Austin,2,False,Luke Reynolds,other,2021,11
+2194,Casualty,GB,36,3404549,Roanna Davidson,1,False,Health Care Manager,other,2021,11
+2195,Casualty,GB,36,3404612,Charlotte Newton John,1,False,Elize Christovel,other,2021,11
+2196,Casualty,GB,36,1986765,Georgia Clarke-Day,1,False,Maja Christovel,other,2021,11
+2197,Casualty,GB,36,3404617,Ryan Mal,2,False,Kian Barrens,other,2021,11
+2198,Casualty,GB,36,3166868,Dee Ahluwalia,2,False,Isaac Bryden,other,2021,11
+2199,Casualty,GB,36,1714868,Richard Shackley,2,False,Security Guard,other,2021,11
+2200,Casualty,GB,36,3256114,Maanuv Thiara,2,False,Chauncey Myer,other,2021,11
+2201,Casualty,GB,36,203176,Kriss Dosanjh,2,False,Ashok Masum,other,2021,11
+2202,Casualty,GB,36,94677,Mark Letheren,2,False,Dave Grazer,other,2021,11
+2203,Casualty,GB,36,1449370,Michael Gould,2,False,Tony Gerrard,other,2021,11
+2204,Casualty,GB,36,3405634,Tom Blumberg,2,False,Mike Roderick,other,2021,11
+2205,Casualty,GB,36,3405645,Tristan Slowley,2,False,Barry Crownley,other,2021,11
+2206,Casualty,GB,36,2477660,Rosie Jones,1,False,Paula Kettering,other,2021,11
+2207,Casualty,GB,36,1376876,Raj Bajaj,2,False,Adith 'Adi' Kapadia,other,2021,11
+2208,Casualty,GB,36,1221756,Suzanne Packer,1,False,Tess Bateman,other,2021,12
+2209,Casualty,GB,36,47590,Holly Aird,1,False,Laura Merriman,other,2021,12
+2210,Casualty,GB,36,1677040,Molly Wright,1,False,Rosie Kemper,other,2021,12
+2211,Casualty,GB,36,1227640,Lauren Rose Crace,1,False,Chrissie Danes,other,2021,12
+2212,Casualty,GB,36,3405934,Donna Sherifi,1,False,Emina Dervishi,other,2021,12
+2213,Casualty,GB,36,1558686,Darren Tighe,2,False,Jed Peterson,other,2021,12
+2214,Casualty,GB,36,3405937,Aris Furtuna,2,False,Zamir Dervishi,other,2021,12
+2215,Casualty,GB,36,3405938,Eric Furtuna,2,False,Lorik Dervishi,other,2021,12
+2216,Casualty,GB,36,2332714,Hara Yannas,1,False,Carla Roswell,other,2021,12
+2217,Casualty,GB,36,3405939,Carlie Enoch,1,False,Lola Redfield,other,2021,12

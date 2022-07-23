@@ -1,0 +1,96 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Code Black,US,1,4726,Marcia Gay Harden,1,True,Dr. Leanne Rorish,doctor,2015,9
+1,Code Black,US,1,40481,Luis Guzmán,2,True,Jesse Salander,doctor (probably),2015,9
+2,Code Black,US,1,440943,Raza Jaffrey,2,True,Neal Hudson,doctor (probably),2015,9
+3,Code Black,US,1,77865,Benjamin Hollingsworth,2,True,Mario Savetti,doctor (probably),2015,9
+4,Code Black,US,1,1491582,Melanie Chandra,1,True,Malaya Pineda,doctor (probably),2015,9
+5,Code Black,US,1,1491583,Harry M. Ford,2,True,Angus Leighton,doctor (probably),2015,9
+6,Code Black,US,1,53087,William Allen Young,2,True,Dr. Rollie Guthrie,doctor,2015,9
+7,Code Black,US,1,180789,Tommy Dewey,2,True,Mike Leighton,doctor (probably),2015,9
+8,Code Black,US,1,1393238,Ariana Molkara,1,False,Vanessa,other,2015,9
+9,Code Black,US,1,66556,Emily Nelson,1,False,Hannah Reynolds,other,2015,9
+10,Code Black,US,1,112742,Emily Alyn Lind,1,False,Ariel,other,2015,9
+11,Code Black,US,1,2524047,Suzanne Erickson,1,False,Ella,other,2015,9
+12,Code Black,US,1,2525678,Neutze Megan,0,False,Amie,other,2015,10
+13,Code Black,US,1,1789713,Ajiona Alexus,1,False,Keesha Platt,other,2015,10
+14,Code Black,US,1,10963,José Zúñiga,2,False,Chef Holder,other,2015,10
+15,Code Black,US,1,51930,Wade Williams,2,False,Nick Gabler,other,2015,10
+16,Code Black,US,1,73933,Daniel Gerroll,2,False,Peter Hudson,other,2015,10
+17,Code Black,US,1,157426,H. Richard Greene,2,False,Lawrence Egan,other,2015,10
+18,Code Black,US,1,14721,Kevin Dunn,2,False,Dr. Taylor,doctor,2015,10
+19,Code Black,US,1,2137,Benito Martinez,2,False,Steve Jasso,other,2015,11
+20,Code Black,US,1,157847,Cress Williams,2,False,Cole Guthrie,other,2015,11
+21,Code Black,US,1,8666,Sal Lopez,2,False,Drunk Man,doctor,2015,11
+22,Code Black,US,1,1085146,J. Mallory McCree,2,False,Jamal,other,2015,11
+23,Code Black,US,1,1310670,Christopher Meyer,2,False,James,other,2015,11
+24,Code Black,US,1,83456,Michael Trucco,2,False,Tom Moreno,other,2015,11
+25,Code Black,US,1,50346,Shiri Appleby,1,False,Carla Niven,other,2015,11
+26,Code Black,US,1,108774,Michael Reilly Burke,2,False,Frank Irvin,other,2015,11
+27,Code Black,US,1,78595,Wes Ramsey,2,False,Matt,other,2015,11
+28,Code Black,US,1,564631,Curt Mega,2,False,Aaron Jacobson,other,2015,11
+29,Code Black,US,1,2145647,Tiffany Denise Hobbs,1,False,Wendy,other,2015,11
+30,Code Black,US,1,1371531,Jim Titus,2,False,Paramedic,medic,2015,11
+31,Code Black,US,1,1990962,Alton Fitzgerald White,2,False,Lawrence,other,2015,11
+32,Code Black,US,1,118362,Jillian Murray,1,False,Heather Pinkney,other,2015,12
+33,Code Black,US,1,64148,Chase Ellison,2,False,Elliot Lembeck,other,2015,12
+34,Code Black,US,1,1046348,Maggie Elizabeth Jones,1,False,Lily Lembeck,other,2015,12
+35,Code Black,US,1,1223084,Mary Mouser,1,False,Tia Benton,other,2016,1
+36,Code Black,US,1,76536,Courtney Ford,1,False,Danielle Randall,other,2016,1
+37,Code Black,US,1,1363744,Melia Renee,1,False,Holly,other,2016,1
+38,Code Black,US,1,137750,Hal Ozsan,2,False,Karo Petrosian,other,2016,1
+39,Code Black,US,1,96593,Jesse Rath,2,False,James,other,2016,2
+40,Code Black,US,1,75041,Cameron Boyce,2,False,Brody,other,2016,2
+41,Code Black,US,1,3281851,Romika Annabell,1,False,Zombie,other,2016,2
+42,Code Black,US,1,1818442,Elisha Henig,2,False,Luke Barton,other,2016,2
+43,Code Black,US,1,17420,Paula Newsome,1,False,Margaret Wesley,other,2016,2
+44,Code Black,US,2,4726,Marcia Gay Harden,1,True,Dr. Leanne Rorish,doctor,2016,9
+45,Code Black,US,2,40481,Luis Guzmán,2,True,Jesse Salander,doctor (probably),2016,9
+46,Code Black,US,2,77865,Benjamin Hollingsworth,2,True,Mario Savetti,doctor (probably),2016,9
+47,Code Black,US,2,1491582,Melanie Chandra,1,True,Malaya Pineda,doctor (probably),2016,9
+48,Code Black,US,2,1491583,Harry M. Ford,2,True,Angus Leighton,doctor (probably),2016,9
+49,Code Black,US,2,53087,William Allen Young,2,True,Dr. Rollie Guthrie,doctor,2016,9
+50,Code Black,US,2,118362,Jillian Murray,1,True,Heather Pinkney,doctor (probably),2016,9
+51,Code Black,US,2,180789,Tommy Dewey,2,True,Mike Leighton,doctor (probably),2016,9
+52,Code Black,US,2,80758,Boris Kodjoe,2,True,Dr. Will Campbell,doctor,2016,9
+53,Code Black,US,2,2879,Rob Lowe,2,True,Dr. Ethan Willis,doctor,2016,9
+54,Code Black,US,2,1532331,Nafessa Williams,1,False,Charlotte Piel,other,2016,9
+55,Code Black,US,2,1222219,Julie McNiven,1,False,Rose,other,2016,10
+56,Code Black,US,2,1260481,Greta Lee,1,False,Lucy,other,2016,10
+57,Code Black,US,2,200065,Chelsea Rendon,1,False,Anita,other,2016,10
+58,Code Black,US,2,1226076,Sherri Saum,1,False,Shawna,other,2016,10
+59,Code Black,US,2,1661677,Abigail Klein,1,False,,other,2016,10
+60,Code Black,US,2,1367840,Vedette Lim,1,False,Liz Harington,other,2016,11
+61,Code Black,US,2,49425,Annabeth Gish,1,False,Geraldine Lithwick,other,2016,11
+62,Code Black,US,2,211764,Jonna Walsh,1,False,Whitney Lithwick,other,2016,11
+63,Code Black,US,2,1642765,Kevin Jackson,2,False,Morty,other,2016,11
+64,Code Black,US,2,81197,Mark L. Young,2,False,Justin Keller,other,2016,11
+65,Code Black,US,2,46423,Olivia d'Abo,1,False,Ruth Goldman,other,2016,11
+66,Code Black,US,2,1772766,Sam Adegoke,2,False,Erick Hawkins,other,2016,11
+67,Code Black,US,2,37221,Penn Jillette,2,False,Johnny Prentiss,other,2016,11
+68,Code Black,US,2,1887533,Lexi Underwood,1,False,Emily Campbell,other,2016,12
+69,Code Black,US,2,1736,James Remar,2,False,General Hutch Hutchinson,other,2016,12
+70,Code Black,US,2,1371531,Jim Titus,2,False,Paramedic,medic,2017,1
+71,Code Black,US,2,1753369,Reece Cody,2,False,Jack Harris,other,2017,1
+72,Code Black,US,2,112742,Emily Alyn Lind,1,False,Ariel,other,2017,1
+73,Code Black,US,2,1825640,Adalgiza Chermont,1,False,Drunk lady,doctor,2017,1
+74,Code Black,US,2,1469128,Brec Bassinger,1,False,Emma,other,2017,1
+75,Code Black,US,3,4726,Marcia Gay Harden,1,True,Dr. Leanne Rorish,doctor,2018,4
+76,Code Black,US,3,40481,Luis Guzmán,2,True,Jesse Salander,doctor (probably),2018,4
+77,Code Black,US,3,77865,Benjamin Hollingsworth,2,True,Mario Savetti,doctor (probably),2018,4
+78,Code Black,US,3,1491583,Harry M. Ford,2,True,Angus Leighton,doctor (probably),2018,4
+79,Code Black,US,3,53087,William Allen Young,2,True,Dr. Rollie Guthrie,doctor,2018,4
+80,Code Black,US,3,112742,Emily Alyn Lind,1,True,Ariel,doctor (probably),2018,4
+81,Code Black,US,3,80758,Boris Kodjoe,2,True,Dr. Will Campbell,doctor,2018,4
+82,Code Black,US,3,56455,Moon Bloodgood,1,True,Rox Valenzuela,doctor (probably),2018,4
+83,Code Black,US,3,1429014,Emily Tyra,1,True,Dr. Noa Kean,doctor,2018,4
+84,Code Black,US,3,2879,Rob Lowe,2,True,Dr. Ethan Willis,doctor,2018,4
+85,Code Black,US,3,17302,Noah Gray-Cabey,2,True,Dr. Elliot Dixon,doctor,2018,4
+86,Code Black,US,3,1312970,Annie Heise,1,True,,doctor (probably),2018,4
+87,Code Black,US,3,2147927,Alex Lange,2,False,Max Edwards,other,2018,5
+88,Code Black,US,3,2537034,Sigrid Owen,1,False,Tina collins,other,2018,5
+89,Code Black,US,3,1371531,Jim Titus,2,False,Paramedic,medic,2018,6
+90,Code Black,US,3,1562503,Elizabeth McLaughlin,1,False,Lana,other,2018,6
+91,Code Black,US,3,2209617,Zac Badasci,2,False,Dash (uncredited),other,2018,6
+92,Code Black,US,3,78805,Laura Leighton,1,False,Sonya Finn,other,2018,6
+93,Code Black,US,3,66741,Taylor Handley,2,False,Robert,other,2018,7
+94,Code Black,US,3,2481460,Ezana Alem,2,False,Dillan,other,2018,7

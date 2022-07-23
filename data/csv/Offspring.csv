@@ -1,0 +1,91 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Offspring,AU,1,79089,Don Hany,2,True,,doctor (probably),2010,8
+1,Offspring,AU,1,125565,Asher Keddie,1,True,Nina Proudman,doctor (probably),2010,8
+2,Offspring,AU,1,228704,Deborah Mailman,1,True,,doctor (probably),2010,8
+3,Offspring,AU,1,75182,Kat Stewart,1,True,Billie Proudman,doctor (probably),2010,8
+4,Offspring,AU,1,1219994,Richard Davies,2,True,Jimmy Proudman,doctor (probably),2010,8
+5,Offspring,AU,1,61635,Linda Cropper,1,True,Geraldine Proudman,doctor (probably),2010,8
+6,Offspring,AU,1,209871,Jane Harber,1,True,Zara Perkich,doctor (probably),2010,8
+7,Offspring,AU,1,1344427,Alicia Gardiner,1,True,Kim Akerholt,doctor (probably),2010,8
+8,Offspring,AU,1,1180827,Eddie Perfect,2,True,Mick Holland,doctor (probably),2010,8
+9,Offspring,AU,1,1068123,John Waters,2,True,,doctor (probably),2010,8
+10,Offspring,AU,1,75488,Matthew Le Nevez,2,True,,doctor (probably),2010,8
+11,Offspring,AU,1,75122,Lachy Hulme,2,True,,doctor (probably),2010,8
+12,Offspring,AU,1,1252299,Clare Bowditch,1,True,Rosanna Harding,doctor (probably),2010,8
+13,Offspring,AU,1,1325836,Christopher Morris,2,False,,other,2010,8
+14,Offspring,AU,1,2116647,Scott Johnson,2,False,Tim,other,2010,8
+15,Offspring,AU,1,1531162,Sharni Page,1,False,Helen,other,2010,8
+16,Offspring,AU,1,80266,Kate Atkinson,1,False,Renee,other,2010,9
+17,Offspring,AU,1,1893675,Shannon Berry,1,False,Brody Jordan,other,2010,10
+18,Offspring,AU,2,79089,Don Hany,2,True,,doctor (probably),2011,5
+19,Offspring,AU,2,125565,Asher Keddie,1,True,Nina Proudman,doctor (probably),2011,5
+20,Offspring,AU,2,228704,Deborah Mailman,1,True,,doctor (probably),2011,5
+21,Offspring,AU,2,75182,Kat Stewart,1,True,Billie Proudman,doctor (probably),2011,5
+22,Offspring,AU,2,1219994,Richard Davies,2,True,Jimmy Proudman,doctor (probably),2011,5
+23,Offspring,AU,2,61635,Linda Cropper,1,True,Geraldine Proudman,doctor (probably),2011,5
+24,Offspring,AU,2,209871,Jane Harber,1,True,Zara Perkich,doctor (probably),2011,5
+25,Offspring,AU,2,1344427,Alicia Gardiner,1,True,Kim Akerholt,doctor (probably),2011,5
+26,Offspring,AU,2,1180827,Eddie Perfect,2,True,Mick Holland,doctor (probably),2011,5
+27,Offspring,AU,2,1068123,John Waters,2,True,,doctor (probably),2011,5
+28,Offspring,AU,2,75488,Matthew Le Nevez,2,True,,doctor (probably),2011,5
+29,Offspring,AU,2,75122,Lachy Hulme,2,True,,doctor (probably),2011,5
+30,Offspring,AU,2,1252299,Clare Bowditch,1,True,Rosanna Harding,doctor (probably),2011,5
+31,Offspring,AU,2,80266,Kate Atkinson,1,False,Renee,other,2011,5
+32,Offspring,AU,3,79089,Don Hany,2,True,,doctor (probably),2012,4
+33,Offspring,AU,3,125565,Asher Keddie,1,True,Nina Proudman,doctor (probably),2012,4
+34,Offspring,AU,3,228704,Deborah Mailman,1,True,,doctor (probably),2012,4
+35,Offspring,AU,3,75182,Kat Stewart,1,True,Billie Proudman,doctor (probably),2012,4
+36,Offspring,AU,3,1219994,Richard Davies,2,True,Jimmy Proudman,doctor (probably),2012,4
+37,Offspring,AU,3,61635,Linda Cropper,1,True,Geraldine Proudman,doctor (probably),2012,4
+38,Offspring,AU,3,209871,Jane Harber,1,True,Zara Perkich,doctor (probably),2012,4
+39,Offspring,AU,3,1344427,Alicia Gardiner,1,True,Kim Akerholt,doctor (probably),2012,4
+40,Offspring,AU,3,1180827,Eddie Perfect,2,True,Mick Holland,doctor (probably),2012,4
+41,Offspring,AU,3,1068123,John Waters,2,True,,doctor (probably),2012,4
+42,Offspring,AU,3,75488,Matthew Le Nevez,2,True,,doctor (probably),2012,4
+43,Offspring,AU,3,75122,Lachy Hulme,2,True,,doctor (probably),2012,4
+44,Offspring,AU,3,1252299,Clare Bowditch,1,True,Rosanna Harding,doctor (probably),2012,4
+45,Offspring,AU,3,80266,Kate Atkinson,1,False,Renee,other,2012,5
+46,Offspring,AU,4,79089,Don Hany,2,True,,doctor (probably),2013,5
+47,Offspring,AU,4,125565,Asher Keddie,1,True,Nina Proudman,doctor (probably),2013,5
+48,Offspring,AU,4,228704,Deborah Mailman,1,True,,doctor (probably),2013,5
+49,Offspring,AU,4,75182,Kat Stewart,1,True,Billie Proudman,doctor (probably),2013,5
+50,Offspring,AU,4,1219994,Richard Davies,2,True,Jimmy Proudman,doctor (probably),2013,5
+51,Offspring,AU,4,61635,Linda Cropper,1,True,Geraldine Proudman,doctor (probably),2013,5
+52,Offspring,AU,4,209871,Jane Harber,1,True,Zara Perkich,doctor (probably),2013,5
+53,Offspring,AU,4,1344427,Alicia Gardiner,1,True,Kim Akerholt,doctor (probably),2013,5
+54,Offspring,AU,4,1180827,Eddie Perfect,2,True,Mick Holland,doctor (probably),2013,5
+55,Offspring,AU,4,1068123,John Waters,2,True,,doctor (probably),2013,5
+56,Offspring,AU,4,75488,Matthew Le Nevez,2,True,,doctor (probably),2013,5
+57,Offspring,AU,4,75122,Lachy Hulme,2,True,,doctor (probably),2013,5
+58,Offspring,AU,4,1252299,Clare Bowditch,1,True,Rosanna Harding,doctor (probably),2013,5
+59,Offspring,AU,4,1382471,Madeleine Jevic,1,False,Michelle,other,2013,7
+60,Offspring,AU,4,2633775,Sylvie de Crespigny,1,False,Marketing Woman,other,2013,7
+61,Offspring,AU,5,125565,Asher Keddie,1,True,Nina Proudman,doctor (probably),2014,5
+62,Offspring,AU,5,75182,Kat Stewart,1,True,Billie Proudman,doctor (probably),2014,5
+63,Offspring,AU,5,1219994,Richard Davies,2,True,Jimmy Proudman,doctor (probably),2014,5
+64,Offspring,AU,5,61635,Linda Cropper,1,True,Geraldine Proudman,doctor (probably),2014,5
+65,Offspring,AU,5,209871,Jane Harber,1,True,Zara Perkich,doctor (probably),2014,5
+66,Offspring,AU,5,1344427,Alicia Gardiner,1,True,Kim Akerholt,doctor (probably),2014,5
+67,Offspring,AU,5,1180827,Eddie Perfect,2,True,Mick Holland,doctor (probably),2014,5
+68,Offspring,AU,5,2633771,Lily Constantine,1,False,Teegan,other,2014,7
+69,Offspring,AU,6,125565,Asher Keddie,1,True,Nina Proudman,doctor (probably),2016,6
+70,Offspring,AU,6,75182,Kat Stewart,1,True,Billie Proudman,doctor (probably),2016,6
+71,Offspring,AU,6,1219994,Richard Davies,2,True,Jimmy Proudman,doctor (probably),2016,6
+72,Offspring,AU,6,61635,Linda Cropper,1,True,Geraldine Proudman,doctor (probably),2016,6
+73,Offspring,AU,6,209871,Jane Harber,1,True,Zara Perkich,doctor (probably),2016,6
+74,Offspring,AU,6,1344427,Alicia Gardiner,1,True,Kim Akerholt,doctor (probably),2016,6
+75,Offspring,AU,6,1180827,Eddie Perfect,2,True,Mick Holland,doctor (probably),2016,6
+76,Offspring,AU,6,1707950,Shane Savage,2,False,Angus’s Intern,intern,2016,7
+77,Offspring,AU,6,1893675,Shannon Berry,1,False,Brody Jordan,other,2016,7
+78,Offspring,AU,6,1485486,Fiona Macleod,1,False,Spencer,other,2016,7
+79,Offspring,AU,6,1737111,Georgina Naidu,1,False,Linda Mason,other,2016,8
+80,Offspring,AU,7,125565,Asher Keddie,1,True,Nina Proudman,doctor (probably),2017,6
+81,Offspring,AU,7,75182,Kat Stewart,1,True,Billie Proudman,doctor (probably),2017,6
+82,Offspring,AU,7,1219994,Richard Davies,2,True,Jimmy Proudman,doctor (probably),2017,6
+83,Offspring,AU,7,61635,Linda Cropper,1,True,Geraldine Proudman,doctor (probably),2017,6
+84,Offspring,AU,7,209871,Jane Harber,1,True,Zara Perkich,doctor (probably),2017,6
+85,Offspring,AU,7,1344427,Alicia Gardiner,1,True,Kim Akerholt,doctor (probably),2017,6
+86,Offspring,AU,7,1180827,Eddie Perfect,2,True,Mick Holland,doctor (probably),2017,6
+87,Offspring,AU,7,1893675,Shannon Berry,1,False,Brody Jordan,other,2017,6
+88,Offspring,AU,7,127135,Robert Grubb,2,False,Julian Moody,other,2017,7
+89,Offspring,AU,7,1485486,Fiona Macleod,1,False,Spencer,other,2017,8

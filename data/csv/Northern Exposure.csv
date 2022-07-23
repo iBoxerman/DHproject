@@ -1,0 +1,104 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Northern Exposure,US,1,52602,Rob Morrow,2,True,Joel Fleischman,doctor (probably),1990,7
+1,Northern Exposure,US,1,51580,Janine Turner,1,True,Maggie O'Connell,doctor (probably),1990,7
+2,Northern Exposure,US,1,12852,Barry Corbin,2,True,Maurice Minnifield,doctor (probably),1990,7
+3,Northern Exposure,US,1,53085,John Cullum,2,True,Holling Vincoeur,doctor (probably),1990,7
+4,Northern Exposure,US,1,16428,Darren E. Burrows,2,True,Ed Chigliak,doctor (probably),1990,7
+5,Northern Exposure,US,1,38405,John Corbett,2,True,Chris Stevens,doctor (probably),1990,7
+6,Northern Exposure,US,1,162945,Cynthia Geary,1,True,Shelly Tambo,doctor (probably),1990,7
+7,Northern Exposure,US,1,1236658,Elaine Miles,1,False,Marilyn Whirlwind,other,1990,7
+8,Northern Exposure,US,1,1220700,Peg Phillips,1,False,Ruth-Anne Miller,other,1990,7
+9,Northern Exposure,US,1,1216954,Grant Goodeve,2,False,Rick Pederson,other,1990,7
+10,Northern Exposure,US,1,44792,Art LaFleur,2,False,Walter,other,1990,7
+11,Northern Exposure,US,1,1233188,Lois Foraker,1,False,Edna,other,1990,7
+12,Northern Exposure,US,1,162949,Robert Nadir,2,False,Pete Gilliam,other,1990,7
+13,Northern Exposure,US,1,2031952,Armenia Miles,1,False,Mrs. Whirlwind,other,1990,7
+14,Northern Exposure,US,1,212821,Christa Miller,1,False,,other,1990,7
+15,Northern Exposure,US,2,52602,Rob Morrow,2,True,Joel Fleischman,doctor (probably),1991,4
+16,Northern Exposure,US,2,51580,Janine Turner,1,True,Maggie O'Connell,doctor (probably),1991,4
+17,Northern Exposure,US,2,12852,Barry Corbin,2,True,Maurice Minnifield,doctor (probably),1991,4
+18,Northern Exposure,US,2,53085,John Cullum,2,True,Holling Vincoeur,doctor (probably),1991,4
+19,Northern Exposure,US,2,16428,Darren E. Burrows,2,True,Ed Chigliak,doctor (probably),1991,4
+20,Northern Exposure,US,2,38405,John Corbett,2,True,Chris Stevens,doctor (probably),1991,4
+21,Northern Exposure,US,2,162945,Cynthia Geary,1,True,Shelly Tambo,doctor (probably),1991,4
+22,Northern Exposure,US,2,1236658,Elaine Miles,1,True,Marilyn Whirlwind,doctor (probably),1991,4
+23,Northern Exposure,US,2,2368,Elya Baskin,2,False,,other,1991,5
+24,Northern Exposure,US,3,52602,Rob Morrow,2,True,Joel Fleischman,doctor (probably),1991,9
+25,Northern Exposure,US,3,51580,Janine Turner,1,True,Maggie O'Connell,doctor (probably),1991,9
+26,Northern Exposure,US,3,12852,Barry Corbin,2,True,Maurice Minnifield,doctor (probably),1991,9
+27,Northern Exposure,US,3,53085,John Cullum,2,True,Holling Vincoeur,doctor (probably),1991,9
+28,Northern Exposure,US,3,16428,Darren E. Burrows,2,True,Ed Chigliak,doctor (probably),1991,9
+29,Northern Exposure,US,3,38405,John Corbett,2,True,Chris Stevens,doctor (probably),1991,9
+30,Northern Exposure,US,3,162945,Cynthia Geary,1,True,Shelly Tambo,doctor (probably),1991,9
+31,Northern Exposure,US,3,1236658,Elaine Miles,1,True,Marilyn Whirlwind,doctor (probably),1991,9
+32,Northern Exposure,US,3,1220700,Peg Phillips,1,False,Ruth-Anne Miller,other,1991,9
+33,Northern Exposure,US,3,99351,Valerie Mahaffey,1,False,Eve,other,1991,9
+34,Northern Exposure,US,3,163013,Cathryn de Prume,1,False,Joanne,other,1991,9
+35,Northern Exposure,US,3,55257,Adam Arkin,2,False,Adam,other,1991,9
+36,Northern Exposure,US,3,1216954,Grant Goodeve,2,False,Rick Pederson,other,1991,9
+37,Northern Exposure,US,3,43859,Diane Delano,1,False,Officer Barbara Semanski,other,1991,9
+38,Northern Exposure,US,3,2275,Caitlin Clarke,1,False,Irene Rondenet,other,1991,9
+39,Northern Exposure,US,3,62551,Heidi Swedberg,1,False,Linda,other,1991,9
+40,Northern Exposure,US,3,95232,Denice Duff,1,False,Patti,other,1991,9
+41,Northern Exposure,US,3,51518,Allan Miller,2,False,,other,1991,11
+42,Northern Exposure,US,3,2031952,Armenia Miles,1,False,Mrs. Whirlwind,other,1991,12
+43,Northern Exposure,US,3,37600,Wendy Schaal,1,False,,other,1992,3
+44,Northern Exposure,US,3,47297,James Marsters,2,False,,other,1992,5
+45,Northern Exposure,US,3,158422,Jo Anderson,1,False,,other,1992,5
+46,Northern Exposure,US,4,52602,Rob Morrow,2,True,Joel Fleischman,doctor (probably),1992,9
+47,Northern Exposure,US,4,51580,Janine Turner,1,True,Maggie O'Connell,doctor (probably),1992,9
+48,Northern Exposure,US,4,12852,Barry Corbin,2,True,Maurice Minnifield,doctor (probably),1992,9
+49,Northern Exposure,US,4,53085,John Cullum,2,True,Holling Vincoeur,doctor (probably),1992,9
+50,Northern Exposure,US,4,16428,Darren E. Burrows,2,True,Ed Chigliak,doctor (probably),1992,9
+51,Northern Exposure,US,4,38405,John Corbett,2,True,Chris Stevens,doctor (probably),1992,9
+52,Northern Exposure,US,4,162945,Cynthia Geary,1,True,Shelly Tambo,doctor (probably),1992,9
+53,Northern Exposure,US,4,1236658,Elaine Miles,1,True,Marilyn Whirlwind,doctor (probably),1992,9
+54,Northern Exposure,US,4,1220700,Peg Phillips,1,True,Ruth-Anne Miller,doctor (probably),1992,9
+55,Northern Exposure,US,4,9657,Patrick Warburton,2,False,,other,1992,9
+56,Northern Exposure,US,4,2031952,Armenia Miles,1,False,Mrs. Whirlwind,other,1992,11
+57,Northern Exposure,US,4,17401,Stephen Root,2,False,,other,1993,1
+58,Northern Exposure,US,4,47297,James Marsters,2,False,,other,1993,2
+59,Northern Exposure,US,4,158422,Jo Anderson,1,False,,other,1993,2
+60,Northern Exposure,US,5,52602,Rob Morrow,2,True,Joel Fleischman,doctor (probably),1993,9
+61,Northern Exposure,US,5,51580,Janine Turner,1,True,Maggie O'Connell,doctor (probably),1993,9
+62,Northern Exposure,US,5,12852,Barry Corbin,2,True,Maurice Minnifield,doctor (probably),1993,9
+63,Northern Exposure,US,5,53085,John Cullum,2,True,Holling Vincoeur,doctor (probably),1993,9
+64,Northern Exposure,US,5,16428,Darren E. Burrows,2,True,Ed Chigliak,doctor (probably),1993,9
+65,Northern Exposure,US,5,38405,John Corbett,2,True,Chris Stevens,doctor (probably),1993,9
+66,Northern Exposure,US,5,162945,Cynthia Geary,1,True,Shelly Tambo,doctor (probably),1993,9
+67,Northern Exposure,US,5,1236658,Elaine Miles,1,True,Marilyn Whirlwind,doctor (probably),1993,9
+68,Northern Exposure,US,5,1220700,Peg Phillips,1,True,Ruth-Anne Miller,doctor (probably),1993,9
+69,Northern Exposure,US,5,152344,Bruce Baum,2,True,Border Guard,doctor (probably),1993,9
+70,Northern Exposure,US,5,6067,Jay O. Sanders,2,False,,other,1993,10
+71,Northern Exposure,US,5,95001,Simon Templeman,2,False,Cal Ingraham,other,1993,10
+72,Northern Exposure,US,5,11903,Joanna Merlin,1,False,,other,1993,11
+73,Northern Exposure,US,5,9788,Regina King,1,False,,other,1994,1
+74,Northern Exposure,US,5,53862,Kaley Cuoco,1,False,Miranda at Seven,other,1994,1
+75,Northern Exposure,US,5,230,Stephen McHattie,2,False,,other,1994,3
+76,Northern Exposure,US,5,157466,Fred Applegate,2,False,,other,1994,3
+77,Northern Exposure,US,5,1567432,David McSwain,2,False,Cliff Zweibel,other,1994,5
+78,Northern Exposure,US,5,15863,Don S. Davis,2,False,Lloyd Hillegas,other,1994,5
+79,Northern Exposure,US,6,52602,Rob Morrow,2,True,Joel Fleischman,doctor (probably),1994,9
+80,Northern Exposure,US,6,51580,Janine Turner,1,True,Maggie O'Connell,doctor (probably),1994,9
+81,Northern Exposure,US,6,12852,Barry Corbin,2,True,Maurice Minnifield,doctor (probably),1994,9
+82,Northern Exposure,US,6,53085,John Cullum,2,True,Holling Vincoeur,doctor (probably),1994,9
+83,Northern Exposure,US,6,16428,Darren E. Burrows,2,True,Ed Chigliak,doctor (probably),1994,9
+84,Northern Exposure,US,6,38405,John Corbett,2,True,Chris Stevens,doctor (probably),1994,9
+85,Northern Exposure,US,6,162945,Cynthia Geary,1,True,Shelly Tambo,doctor (probably),1994,9
+86,Northern Exposure,US,6,1236658,Elaine Miles,1,True,Marilyn Whirlwind,doctor (probably),1994,9
+87,Northern Exposure,US,6,1220700,Peg Phillips,1,True,Ruth-Anne Miller,doctor (probably),1994,9
+88,Northern Exposure,US,6,10399,Teri Polo,1,True,Michelle Schowdowski Capra,doctor (probably),1994,9
+89,Northern Exposure,US,6,83339,Paul Provenza,2,True,Phil Capra,doctor (probably),1994,9
+90,Northern Exposure,US,6,129724,Charmaine Craig,1,False,Heather Haines,other,1994,9
+91,Northern Exposure,US,6,8854,Bill Cobbs,2,False,,other,1994,10
+92,Northern Exposure,US,6,149770,Armand Reiser,2,False,State Trooper,other,1994,10
+93,Northern Exposure,US,6,27514,Shecky Greene,2,False,,other,1994,10
+94,Northern Exposure,US,6,11764,Ian Abercrombie,2,False,,other,1994,10
+95,Northern Exposure,US,6,95001,Simon Templeman,2,False,Cal Ingraham,other,1995,1
+96,Northern Exposure,US,6,104610,Clayton Norcross,2,False,,other,1995,2
+97,Northern Exposure,US,6,151606,Ralph Manza,2,False,,other,1995,3
+98,Northern Exposure,US,6,114471,Ashleigh Aston Moore,1,False,Tori Spencer,other,1995,7
+99,Northern Exposure,US,6,43859,Diane Delano,1,False,Officer Barbara Semanski,other,1995,7
+100,Northern Exposure,US,6,1227927,Moultrie Patten,0,False,Walt,other,1995,7
+101,Northern Exposure,US,6,2031951,James L. Dunn,2,False,Hayden Keyes,other,1995,7
+102,Northern Exposure,US,6,2031952,Armenia Miles,1,False,Mrs. Whirlwind,other,1995,7

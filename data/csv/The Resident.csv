@@ -1,0 +1,523 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,The Resident,US,1,55547,Matt Czuchry,2,True,Conrad Hawkins,doctor (probably),2018,1
+1,The Resident,US,1,964971,Manish Dayal,2,True,Devon Pravesh,doctor (probably),2018,1
+2,The Resident,US,1,1787399,Shaunette Renée Wilson,1,True,Mina Okafor,doctor (probably),2018,1
+3,The Resident,US,1,21089,Bruce Greenwood,2,True,Randolph Bell,doctor (probably),2018,1
+4,The Resident,US,1,25972,Melina Kanakaredes,1,True,Lane Hunter,doctor (probably),2018,1
+5,The Resident,US,1,84247,Emily VanCamp,1,True,Nicolette 'Nic' Nevin,doctor (probably),2018,1
+6,The Resident,US,1,84261,Moran Atias,1,True,Renata Morali,doctor (probably),2018,1
+7,The Resident,US,1,1214164,Merrin Dungey,1,True,Claire Thorpe,doctor (probably),2018,1
+8,The Resident,US,1,1515230,Violett Beane,1,False,Lily Ahn,other,2018,1
+9,The Resident,US,1,1518215,Michael Patrick Lane,2,False,Ross Evans,other,2018,1
+10,The Resident,US,1,1371546,Alexa Mansour,1,False,Chloe Goddard,other,2018,1
+11,The Resident,US,1,1650169,Coley Campany,0,False,Chloe's Mother,other,2018,1
+12,The Resident,US,1,1692774,Tequilla Whitfield,0,False,Cheryl Poole,other,2018,1
+13,The Resident,US,1,1718567,Elizabeth Faith Ludlow,1,False,Cara Ramirez,other,2018,1
+14,The Resident,US,1,1253194,Tasie Lawrence,1,False,Priya Nair,other,2018,1
+15,The Resident,US,1,1668533,Tasso Feldman,2,False,Irving Feldman,other,2018,1
+16,The Resident,US,1,1890583,Caroline Arapoglou,1,False,Noni Turner,other,2018,1
+17,The Resident,US,1,232525,Warren Christie,2,False,Jude Silva,other,2018,1
+18,The Resident,US,1,4734,Jenny O'Hara,1,False,Shirley Harris,other,2018,2
+19,The Resident,US,1,1795607,Jahi Di'Allo Winston,2,False,Trevor Conforth,other,2018,2
+20,The Resident,US,1,157085,Vernee Watson-Johnson,1,False,Mary Phillips,other,2018,3
+21,The Resident,US,1,43277,Joanne Kelly,1,False,Catherine Loy,other,2018,3
+22,The Resident,US,1,44578,Lana Young,1,False,Marie Osder,other,2018,3
+23,The Resident,US,1,1220755,Erika Slezak,1,False,Eileen Jacoby,other,2018,4
+24,The Resident,US,1,21629,Tzi Ma,2,False,Ted Zhou,other,2018,4
+25,The Resident,US,1,2010250,Chris Mayers,2,False,Steven Butler,other,2018,4
+26,The Resident,US,1,967944,Darla Delgado,1,False,Elena Olivera,other,2018,4
+27,The Resident,US,1,1610941,Lyman Chen,2,False,Bodyguard,other,2018,4
+28,The Resident,US,1,202691,Emil Beheshti,2,False,Arthur Franklin,other,2018,4
+29,The Resident,US,1,112562,Catherine Dyer,1,False,Alexis Stevens,other,2018,4
+30,The Resident,US,1,1718319,Jessica Miesel,1,False,Jessica Moore,other,2018,4
+31,The Resident,US,1,455033,Matt Shively,2,False,TJ Chioffi,other,2018,4
+32,The Resident,US,1,1198050,Brooke Butler,1,False,Julie Guilford,other,2018,4
+33,The Resident,US,1,21710,Michael O'Neill,2,False,Joshua Williams,other,2018,4
+34,The Resident,US,1,20088,Jolene Purdy,1,False,Olivia Tan,other,2018,4
+35,The Resident,US,1,1435965,April Parker-Jones,1,False,Jen Kars,other,2018,4
+36,The Resident,US,1,1300838,Barry Alan Levine,2,False,Russell Waters,other,2018,4
+37,The Resident,US,1,128207,Patricia French,1,False,Lorraine Gleason,other,2018,4
+38,The Resident,US,1,2016401,Gerard Catus,2,False,Austin Guzman,other,2018,4
+39,The Resident,US,1,1416332,Tara Jones,1,False,Angelica Barns,other,2018,4
+40,The Resident,US,1,2016402,Ariel Jones,2,False,Luca Barns,other,2018,4
+41,The Resident,US,1,2016404,Jade Fernandez,1,False,Ashley Garrity,other,2018,4
+42,The Resident,US,1,1536821,Charles Green,2,False,Leonard Langdon,other,2018,4
+43,The Resident,US,1,1391125,Al Mitchell,2,False,Wendal Mckee,other,2018,4
+44,The Resident,US,1,2016403,Bethany Geaber,1,False,Isabel Sharp,other,2018,4
+45,The Resident,US,1,2011389,Steven Reddington,2,False,Bradley Jenkins,other,2018,4
+46,The Resident,US,1,1497467,Vince Foster,2,False,Paul Chu,other,2018,4
+47,The Resident,US,1,1985574,Denitra Isler,1,False,Nurse Hundley,nurse,2018,4
+48,The Resident,US,1,40259,Malcolm-Jamal Warner,2,False,AJ Austin,other,2018,4
+49,The Resident,US,1,164114,Michael Hogan,2,False,Albert Nolan,other,2018,4
+50,The Resident,US,1,2021224,Hannah Alline,1,False,Alice Kirkton,other,2018,4
+51,The Resident,US,1,2021225,Tequila Whitfield,0,False,Cheryl Sullivan,other,2018,4
+52,The Resident,US,1,182136,Roger Floyd,2,False,Anthony Ewen,other,2018,4
+53,The Resident,US,1,1968775,Stephen Ruffin,2,False,Hal Woods,other,2018,4
+54,The Resident,US,1,2021227,Lenny Paul Jacobson,2,False,Steve Berman,other,2018,4
+55,The Resident,US,1,2021228,Rachel Harker,1,False,Joanne Jenkins,other,2018,4
+56,The Resident,US,1,42905,Bill Kelly,2,False,Charles Jenkins,other,2018,4
+57,The Resident,US,1,1635137,Patrick R. Walker,2,False,Micah Stevens,other,2018,5
+58,The Resident,US,2,55547,Matt Czuchry,2,True,Conrad Hawkins,doctor (probably),2018,9
+59,The Resident,US,2,964971,Manish Dayal,2,True,Devon Pravesh,doctor (probably),2018,9
+60,The Resident,US,2,1787399,Shaunette Renée Wilson,1,True,Mina Okafor,doctor (probably),2018,9
+61,The Resident,US,2,40259,Malcolm-Jamal Warner,2,True,AJ Austin,doctor (probably),2018,9
+62,The Resident,US,2,21089,Bruce Greenwood,2,True,Randolph Bell,doctor (probably),2018,9
+63,The Resident,US,2,84247,Emily VanCamp,1,True,Nicolette 'Nic' Nevin,doctor (probably),2018,9
+64,The Resident,US,2,1870724,Emily Tosta,1,False,Joplin Bird,other,2018,9
+65,The Resident,US,2,965205,Tate Ellington,2,False,Jason Thoms,other,2018,9
+66,The Resident,US,2,137437,Cyrina Fiallo,1,False,Rachel Bird,other,2018,9
+67,The Resident,US,2,2259126,Adrienne Whitney Papp,1,False,Melanie Thoms,other,2018,9
+68,The Resident,US,2,2751889,Devon Hales,1,False,Lisa Logan,other,2018,9
+69,The Resident,US,2,2414678,Michael Hogan,2,False,Albert Nolan,other,2018,9
+70,The Resident,US,2,1635137,Patrick R. Walker,2,False,Micah Stevens,other,2018,9
+71,The Resident,US,2,1497467,Vince Foster,2,False,Paul Chu,other,2018,9
+72,The Resident,US,2,1718319,Jessica Miesel,1,False,Jessica Moore,other,2018,9
+73,The Resident,US,2,1668533,Tasso Feldman,2,False,Irving Feldman,other,2018,9
+74,The Resident,US,2,1503930,Brooke Jaye Taylor,1,False,Mrs. Alderwood,other,2018,10
+75,The Resident,US,2,2414683,Bergman Freedman,2,False,Jack Alderwood,other,2018,10
+76,The Resident,US,2,19208,Matt Malloy,2,False,Jake McCrary,other,2018,10
+77,The Resident,US,2,1253194,Tasie Lawrence,1,False,Priya Nair,other,2018,10
+78,The Resident,US,2,20381,Jenna Dewan,1,False,Julian Booth,other,2018,10
+79,The Resident,US,2,1218131,Yaani King Mondschein,1,False,Brianna Candelora,other,2018,10
+80,The Resident,US,2,1214213,Chris Myers,2,False,John Candelora,other,2018,10
+81,The Resident,US,2,37823,Sonny Shroyer,2,False,Hugh Yokum,other,2018,10
+82,The Resident,US,2,1383480,Atkins Estimond,2,False,Dr. Casey Mitchell,doctor,2018,10
+83,The Resident,US,2,1766080,Nicholas Hayner,2,False,Big Dude,other,2018,10
+84,The Resident,US,2,60228,Colin Hay,2,False,Rhys Barrett,other,2018,10
+85,The Resident,US,2,191260,Tanc Sade,2,False,Josh Robinson,other,2018,10
+86,The Resident,US,2,202654,Malaya Rivera Drew,1,False,Naomi,other,2018,10
+87,The Resident,US,2,51381,Michael Weston,2,False,Gordon Page,other,2018,10
+88,The Resident,US,2,12797,Glenn Morshower,2,False,Marshall Winthrop,other,2018,10
+89,The Resident,US,2,156511,Emily Kuroda,1,False,Penny Oh,other,2018,10
+90,The Resident,US,2,1969888,Ravi Cabot-Conyers,2,False,Jasper Barnett,other,2018,10
+91,The Resident,US,2,59296,Daniella Alonso,1,False,Zoey Barnett,other,2018,10
+92,The Resident,US,2,2207391,Evan Whitten,2,False,Henry Barnett,other,2018,10
+93,The Resident,US,2,2011389,Steven Reddington,2,False,Bradley Jenkins,other,2018,10
+94,The Resident,US,2,1242776,Bailey Noble,1,False,Laurie Dante,other,2018,10
+95,The Resident,US,2,202691,Emil Beheshti,2,False,Arthur Franklin,other,2018,10
+96,The Resident,US,2,78430,Julianna Guill,1,False,Jessie Nevin,other,2018,10
+97,The Resident,US,2,19455,Julia Campbell,1,False,Vivian Betournay,other,2018,10
+98,The Resident,US,2,1684023,Radek Lord,2,False,Grayson Betournay,other,2018,10
+99,The Resident,US,2,1043304,Andy Milder,2,False,Stefan Kisic,other,2018,11
+100,The Resident,US,2,105646,Linda Park,1,False,Janine Levasseur,other,2018,11
+101,The Resident,US,2,164390,Joe Holt,2,False,Ernest Levasseur,other,2018,11
+102,The Resident,US,2,25972,Melina Kanakaredes,1,False,Lane Hunter,other,2018,11
+103,The Resident,US,2,76025,Paul Schackman,2,False,Todd Eckart,other,2018,11
+104,The Resident,US,2,1809782,Zenobia Shroff,1,False,Himaya Pravesh,other,2018,11
+105,The Resident,US,2,35518,Harry Groener,2,False,Bartholomew McGainn,other,2018,11
+106,The Resident,US,2,223124,Ellen Wroe,1,False,Rose Lapierre,other,2018,11
+107,The Resident,US,2,1447862,Elia Monte-Brown,1,False,Natalie Ramirez,other,2019,1
+108,The Resident,US,2,149824,Kevin Christy,2,False,Roger Stanley,other,2019,1
+109,The Resident,US,2,63676,Nikki SooHoo,1,False,Dr. Bai Liu,doctor,2019,1
+110,The Resident,US,2,1384670,Miles Gaston Villanueva,2,False,Dr. Alec Shaw,doctor,2019,1
+111,The Resident,US,2,1922617,Joy Rovaris,1,False,Aubrey,other,2019,1
+112,The Resident,US,2,95796,Dan Martin,2,False,Floyd Washington,other,2019,1
+113,The Resident,US,2,2190594,Melissa DuPrey,1,False,Marisol Garcia,other,2019,1
+114,The Resident,US,2,1320114,Ed Amatrudo,2,False,Ted Harris,other,2019,1
+115,The Resident,US,2,121276,Victor Love,2,False,Dr. Carleton Ward,doctor,2019,1
+116,The Resident,US,2,1081759,Annunziata Gianzero,1,False,Dr. Maya Turner,doctor,2019,1
+117,The Resident,US,2,1704663,Mary Shaw,1,False,Dr. Mary Bolton,doctor,2019,1
+118,The Resident,US,2,2463724,Christine Fuchs,1,False,Dr. Tanita Moser,doctor,2019,1
+119,The Resident,US,2,2461496,Nicole Sellars,1,False,Connie Klein,other,2019,1
+120,The Resident,US,2,65423,Mike Pniewski,2,False,Abe Benedict,other,2019,1
+121,The Resident,US,2,2231939,Tonia Jackson,1,False,Jane Diaz,other,2019,1
+122,The Resident,US,2,1219312,Dot-Marie Jones,1,False,Meg Mullins,other,2019,1
+123,The Resident,US,2,59177,Michael Rady,2,False,Sam,other,2019,1
+124,The Resident,US,2,450949,Greyson Chadwick,1,False,ND Patient #1,other,2019,1
+125,The Resident,US,2,1747720,Marianne Fraulo,1,False,Dina Basilico,other,2019,2
+126,The Resident,US,2,156828,Sharon Omi,1,False,Florence Camden,other,2019,2
+127,The Resident,US,2,78151,Ray Proscia,2,False,Terry Camden,other,2019,2
+128,The Resident,US,2,1920738,Chelsea Kurtz,1,False,Eloise Camden,other,2019,2
+129,The Resident,US,2,1212247,Carlos Lacámara,2,False,Andre,doctor,2019,2
+130,The Resident,US,2,180495,Ron Simons,2,False,Otto,other,2019,2
+131,The Resident,US,2,2348308,Paul Skye Lehrman,2,False,Chet Aiken,other,2019,2
+132,The Resident,US,2,553504,Shanley Caswell,1,False,Nora Mitchell,other,2019,2
+133,The Resident,US,2,1890583,Caroline Arapoglou,1,False,Noni Turner,other,2019,2
+134,The Resident,US,2,1691282,Alex Sgambati,1,False,Bella,other,2019,2
+135,The Resident,US,2,1758157,Amor Owens,1,False,Dr. Karin Cooper,doctor,2019,2
+136,The Resident,US,2,2008318,BettyLynn Allison,1,False,Gertie Burman,other,2019,2
+137,The Resident,US,2,2016403,Bethany Geaber,1,False,Isabel Sharp,other,2019,2
+138,The Resident,US,2,2460824,Jacobi Hollingshed,2,False,Paramedic,medic,2019,2
+139,The Resident,US,2,1848630,Sloane Warren,1,False,Social Worker,other,2019,2
+140,The Resident,US,2,2460828,Stephanie Wong,1,False,Student Meg Larue,other,2019,2
+141,The Resident,US,2,2460832,Satya Nikhil Polisetti,2,False,Student Sebastian Havis,other,2019,2
+142,The Resident,US,2,2405586,Ann Marie Gideon,1,False,Sylvie Pund,other,2019,2
+143,The Resident,US,2,16217,Lynn Whitfield,1,False,Josephine Okeke,other,2019,2
+144,The Resident,US,2,2460869,Robbie Rescigno,2,False,Brent Trainor,other,2019,2
+145,The Resident,US,2,2460871,Paul Rescigno,2,False,Milo Trainor,other,2019,2
+146,The Resident,US,2,1666472,Josh Henry,2,False,Doug Bailey,other,2019,2
+147,The Resident,US,2,1298787,Susan McPhail,1,False,Nadine Lebas,other,2019,2
+148,The Resident,US,2,2010763,Sara Antonio,1,False,Miss Louise Lafleur,other,2019,2
+149,The Resident,US,2,1274517,Erinn Westbrook,1,False,Adaku Eze,other,2019,2
+150,The Resident,US,2,44578,Lana Young,1,False,Marie Osder,other,2019,2
+151,The Resident,US,2,2460882,Jay Plyburn,2,False,Dale Holton,other,2019,2
+152,The Resident,US,2,1654872,Kelly Tippens,1,False,Nurse Linda Smith,nurse,2019,2
+153,The Resident,US,2,1985574,Denitra Isler,1,False,Nurse Hundley,nurse,2019,2
+154,The Resident,US,2,29774,Dan Lauria,2,False,Simon Ortiz,other,2019,3
+155,The Resident,US,2,1219924,Karly Rothenberg,1,False,Marilyn Spoelstra,other,2019,3
+156,The Resident,US,2,1684414,Rae Gray,1,False,Kay Spoelstra,other,2019,3
+157,The Resident,US,2,1374152,John Newberg,2,False,General Fulton,other,2019,3
+158,The Resident,US,2,1517847,Ian Gregg,2,False,Mason Buck,other,2019,3
+159,The Resident,US,2,951016,Henry Haggard,2,False,Board Member #1,other,2019,3
+160,The Resident,US,2,1502873,Susan Macke Miller,1,False,Board Member #2,other,2019,3
+161,The Resident,US,2,1763910,Jay DeVon Johnson,2,False,Board Member #3,other,2019,3
+162,The Resident,US,2,1528778,Grace McPhillips,1,False,QuoVadis Associate,other,2019,3
+163,The Resident,US,2,1945261,Shaun McMillan,2,False,QuoVadis Lawyer,other,2019,3
+164,The Resident,US,2,1520083,Akim Black,2,False,Security Guard #1,other,2019,3
+165,The Resident,US,2,2461512,Wes Kidd,2,False,Security Guard #3,other,2019,3
+166,The Resident,US,2,1784682,Rachael Thompson,1,False,VA Surgeon,doctor,2019,3
+167,The Resident,US,2,1502260,Mickey Cole Jr.,2,False,Cleaning Tech George,other,2019,3
+168,The Resident,US,2,1300712,Omar Maskati,2,False,Evan Weston,other,2019,3
+169,The Resident,US,2,1497921,Kimmy Shields,1,False,Sydney Schroeder,other,2019,3
+170,The Resident,US,2,1838518,Jermaine Rivers,2,False,Agent Banks,other,2019,3
+171,The Resident,US,2,2231953,Jared Simon,2,False,Loomis,other,2019,3
+172,The Resident,US,2,2461516,Tony Bravado,2,False,FBI Agent,other,2019,3
+173,The Resident,US,2,2461517,Lauren Bonetti,1,False,Nurse Sally Dunhill,nurse,2019,3
+174,The Resident,US,2,1505452,Tucker Meek,2,False,Teen Boy #1 (uncredited),other,2019,3
+175,The Resident,US,2,1352920,Genneya Walton,1,False,Valerie,other,2019,3
+176,The Resident,US,2,1705948,April McCullough,1,False,Redhead,other,2019,3
+177,The Resident,US,2,1922085,Jamie Miles,2,False,Heavyset Man,other,2019,3
+178,The Resident,US,2,955065,Peggy Sheffield,1,False,Sylvia Cooke,other,2019,3
+179,The Resident,US,2,2461545,Melissa Oulton Haas,1,False,Pathologist,other,2019,3
+180,The Resident,US,2,94570,Christopher B. Duncan,2,False,Brett Slater,other,2019,3
+181,The Resident,US,2,52951,Jane Leeves,1,False,Dr. Kit Voss,doctor,2019,3
+182,The Resident,US,2,21246,Corbin Bernsen,2,False,Kyle Nevin,other,2019,3
+183,The Resident,US,2,95469,Shannon Wilcox,1,False,Donna Jackson,other,2019,4
+184,The Resident,US,2,2461558,Jada Harris,1,False,Eva Garcia,other,2019,4
+185,The Resident,US,2,1234153,Adam Irigoyen,2,False,Eric Teter,other,2019,4
+186,The Resident,US,2,112562,Catherine Dyer,1,False,Alexis Stevens,other,2019,4
+187,The Resident,US,2,2170322,Peyton Jackson,2,False,Eli Garcia,other,2019,4
+188,The Resident,US,2,1102371,Walter Colson,2,False,Tony Garcia,other,2019,4
+189,The Resident,US,2,92282,Nathan Anderson,2,False,Paramedic John,medic,2019,4
+190,The Resident,US,2,157961,Michael Goodwin,2,False,Bob Tuttle,other,2019,4
+191,The Resident,US,2,2461589,Pam Smith,1,False,Anesthesiologist,medic,2019,4
+192,The Resident,US,2,2461591,Dena Sodano,1,False,Paramedic Angie,medic,2019,4
+193,The Resident,US,2,1848349,Kamal Angelo Bolden,2,False,Wade Davies,other,2019,4
+194,The Resident,US,2,1194140,Joel Johnstone,2,False,Gabriel Hendricks,doctor,2019,4
+195,The Resident,US,2,207582,Vinessa Antoine,1,False,Lea Jordan,other,2019,4
+196,The Resident,US,2,21722,John Billingsley,2,False,Dr. Stewart,doctor,2019,4
+197,The Resident,US,2,58957,Crista Flanagan,1,False,Nurse Sharon Colby,nurse,2019,4
+198,The Resident,US,2,2142576,Paxton Singleton,2,False,Danny Hendricks,doctor,2019,4
+199,The Resident,US,2,175583,Charlene Amoia,1,False,Bobbi Hendricks,doctor,2019,4
+200,The Resident,US,2,1741328,Mariana Novak,1,False,Entitled Mom,other,2019,4
+201,The Resident,US,2,2036137,Sharonne Lanier,1,False,Paramedic #2,medic,2019,4
+202,The Resident,US,2,2463680,'Ja'Miece' Mercedez McDowell,1,False,MICN (Nurse),nurse,2019,4
+203,The Resident,US,2,2463684,Asiyih N'Dobe,1,False,Rachel Davies,other,2019,4
+204,The Resident,US,2,1564917,Ethan Corn,2,False,John Akerman,other,2019,4
+205,The Resident,US,2,129661,Bob Clendenin,2,False,William Harper,other,2019,4
+206,The Resident,US,2,1594748,Patrick Davis Alarcón,2,False,Fritz Rawlins,other,2019,4
+207,The Resident,US,2,2463691,Ashritha Kancharla,1,False,Tech,other,2019,4
+208,The Resident,US,2,1731344,Andrea Laing,1,False,Coordinator,other,2019,4
+209,The Resident,US,2,2463692,Jibre Hordges,2,False,Monroe,other,2019,4
+210,The Resident,US,2,2248125,Riley Hough,2,False,Ralph,other,2019,4
+211,The Resident,US,2,1622087,Justin Randell Brooke,2,False,Receptionist,other,2019,4
+212,The Resident,US,2,1717236,Neva Howell,1,False,Sour Apple,other,2019,4
+213,The Resident,US,2,2463696,Sarah Girma,1,False,Nurse Eleanor Robert,nurse,2019,4
+214,The Resident,US,2,1009811,Stephanie Hunt,1,False,Shira Smook,other,2019,4
+215,The Resident,US,2,53492,Sam Huntington,2,False,Taylor Emigh,other,2019,4
+216,The Resident,US,2,1486807,Al Calderon,2,False,Diego Herrera,other,2019,4
+217,The Resident,US,2,1628087,Charmin Lee,1,False,Cardiologist,other,2019,4
+218,The Resident,US,2,1381,John Noble,2,False,Elliot Festervan,other,2019,4
+219,The Resident,US,2,1829330,Daniel Augustin,2,False,Ricky,other,2019,4
+220,The Resident,US,2,1999675,Jordan Blair Mangold Brown,1,False,Paige the Waitress,other,2019,4
+221,The Resident,US,2,2077404,Sunshine Bartell-Gbur,1,False,Scrub Nurse,nurse,2019,4
+222,The Resident,US,2,21142,Gregory Itzin,2,False,Sunflower,other,2019,5
+223,The Resident,US,2,1439204,Scott Takeda,2,False,Dr. Xavier Lee,doctor,2019,5
+224,The Resident,US,2,1381712,Antwan Mills,2,False,Officer Dylan Marker,other,2019,5
+225,The Resident,US,2,2463717,Camile Ervin,1,False,Jolene Landis,other,2019,5
+226,The Resident,US,2,1765948,Joseph Castillo-Midyett,2,False,Trent,other,2019,5
+227,The Resident,US,2,2463718,Victoria Scala,1,False,Volunteer,other,2019,5
+228,The Resident,US,2,169024,Melinda Page Hamilton,1,False,Emma O'Neil,other,2019,5
+229,The Resident,US,3,55547,Matt Czuchry,2,True,Conrad Hawkins,doctor (probably),2019,9
+230,The Resident,US,3,964971,Manish Dayal,2,True,Devon Pravesh,doctor (probably),2019,9
+231,The Resident,US,3,1787399,Shaunette Renée Wilson,1,True,Mina Okafor,doctor (probably),2019,9
+232,The Resident,US,3,40259,Malcolm-Jamal Warner,2,True,AJ Austin,doctor (probably),2019,9
+233,The Resident,US,3,21089,Bruce Greenwood,2,True,Randolph Bell,doctor (probably),2019,9
+234,The Resident,US,3,84247,Emily VanCamp,1,True,Nicolette 'Nic' Nevin,doctor (probably),2019,9
+235,The Resident,US,3,52951,Jane Leeves,1,False,Kit Voss,other,2019,9
+236,The Resident,US,3,78430,Julianna Guill,1,False,Jessie Nevin,other,2019,9
+237,The Resident,US,3,1920738,Chelsea Kurtz,1,False,Eloise Camden,other,2019,9
+238,The Resident,US,3,1127577,Cynthia Evans,1,False,Marie Albermerle,other,2019,9
+239,The Resident,US,3,2603973,Cole Eichenberger,2,False,Jonah Albermerle,other,2019,9
+240,The Resident,US,3,1666266,Kisa Willis,0,False,Fiona Gates,other,2019,9
+241,The Resident,US,3,2603977,Amanda Tavarez,1,False,Gallerista,other,2019,9
+242,The Resident,US,3,1088592,Claire Lanay,1,False,PICU Nurse,nurse,2019,9
+243,The Resident,US,3,169024,Melinda Page Hamilton,1,False,Emma O'Neil,other,2019,9
+244,The Resident,US,3,20005,Moira Kelly,1,False,Annie Diamonte,other,2019,9
+245,The Resident,US,3,1718319,Jessica Miesel,1,False,Jessica Moore,other,2019,9
+246,The Resident,US,3,1668533,Tasso Feldman,2,False,Irving Feldman,other,2019,9
+247,The Resident,US,3,21246,Corbin Bernsen,2,False,Kyle Nevin,other,2019,9
+248,The Resident,US,3,2405586,Ann Marie Gideon,1,False,Sylvie Pund,other,2019,9
+249,The Resident,US,3,1985574,Denitra Isler,1,False,Nurse Hundley,nurse,2019,9
+250,The Resident,US,3,2152613,Brandon Johnston,2,False,Reggie Watson,other,2019,10
+251,The Resident,US,3,58563,David Alan Grier,2,False,Lamar Broome,other,2019,10
+252,The Resident,US,3,1274517,Erinn Westbrook,1,False,Adaku Eze,other,2019,10
+253,The Resident,US,3,220038,Joanna Adler,1,False,Dawn Long,other,2019,10
+254,The Resident,US,3,9779,Morris Chestnut,2,False,Barrett Cain,other,2019,10
+255,The Resident,US,3,1719026,Brittney Level,1,False,Malia Long,other,2019,10
+256,The Resident,US,3,203801,Katie Gill,1,False,June Parks,other,2019,10
+257,The Resident,US,3,1494513,Demi Castro,2,False,Alvarado,other,2019,10
+258,The Resident,US,3,165284,Alimi Ballard,2,False,Al Raines,other,2019,10
+259,The Resident,US,3,19455,Julia Campbell,1,False,Vivian Betournay,other,2019,10
+260,The Resident,US,3,1163266,Trevor Long,2,False,Rob Spiro,other,2019,10
+261,The Resident,US,3,1684023,Radek Lord,2,False,Grayson Betournay,other,2019,10
+262,The Resident,US,3,2414678,Michael Hogan,2,False,Albert Nolan,other,2019,10
+263,The Resident,US,3,33271,Rasool J'Han,1,False,Dr. Kara Andrews,doctor,2019,10
+264,The Resident,US,3,67778,Jonathan Lipnicki,2,False,Remy Necco,other,2019,10
+265,The Resident,US,3,1400694,Zach Appelman,2,False,Hades / Doug Atwater,other,2019,10
+266,The Resident,US,3,112473,Samantha Boscarino,1,False,Bella,other,2019,10
+267,The Resident,US,3,211742,Drew Waters,2,False,Bryce,other,2019,11
+268,The Resident,US,3,23970,Denise Dowse,1,False,Carol Austin,other,2019,11
+269,The Resident,US,3,17355,Michael Paul Chan,2,False,Yee Austin,other,2019,11
+270,The Resident,US,3,952384,Mandy Levin,1,False,Wendy Jones,other,2019,11
+271,The Resident,US,3,99207,Amber Wallace,1,False,Rosie,other,2019,11
+272,The Resident,US,3,118595,Ric Reitz,2,False,Jim Deloach,other,2019,11
+273,The Resident,US,3,53260,Adriane Lenox,1,False,Bonnie Broome,other,2019,11
+274,The Resident,US,3,1196615,Scott Reeves,2,False,Vince McGill,other,2019,11
+275,The Resident,US,3,12797,Glenn Morshower,2,False,Marshall Winthrop,other,2019,11
+276,The Resident,US,3,1017302,Skyler Day,1,False,Nurse Clara Rasmussen,nurse,2019,11
+277,The Resident,US,3,207389,Rob Yang,2,False,Logan Kim,other,2019,11
+278,The Resident,US,3,2088480,Maurie A. Chandler,0,False,Nurse Cindy Washington,nurse,2019,11
+279,The Resident,US,3,2194594,Landon Brooks,2,False,EMT,medic,2019,11
+280,The Resident,US,3,1838225,Zach Cherry,2,False,Marcus Broome,other,2019,11
+281,The Resident,US,3,1472892,Alex Hernandez,2,False,Ed Torres,other,2019,11
+282,The Resident,US,3,565501,Teri Wyble,1,False,Sadie,other,2019,11
+283,The Resident,US,3,151363,Kate Hodge,1,False,Lynette Hughes,other,2019,12
+284,The Resident,US,3,2273342,Marco Guerrero,2,False,Vince Artinian,other,2019,12
+285,The Resident,US,3,1893361,Brian Brightman,2,False,Scott Wilson,other,2019,12
+286,The Resident,US,3,1767463,Shazi Raja,1,False,Nadine Suheimat,other,2019,12
+287,The Resident,US,3,1594165,Karis Campbell,1,False,Dr. Jackie Lin,doctor,2019,12
+288,The Resident,US,3,4741,Cayden Boyd,2,False,Tyler Warzel,other,2019,12
+289,The Resident,US,3,2024741,Barry Piacente,2,False,Moore,other,2019,12
+290,The Resident,US,3,154332,Megyn Price,1,False,Eline Harris,other,2020,1
+291,The Resident,US,3,944717,Geoffrey Cantor,2,False,Zip Betournay,other,2020,1
+292,The Resident,US,3,445918,Bridger Zadina,2,False,Finn Niver,other,2020,1
+293,The Resident,US,3,2222804,Lee Osorio,2,False,Odel De Silva,other,2020,1
+294,The Resident,US,3,1808981,Paden Fallis,2,False,Jake Winshine,other,2020,1
+295,The Resident,US,3,2822023,Hailey Elizabeth,1,False,Leslie Schrader,other,2020,1
+296,The Resident,US,3,2171467,Richard Garner,2,False,Dr. Ed Langford,doctor,2020,1
+297,The Resident,US,3,76544,Chris Ashworth,2,False,Reggie Perez,other,2020,1
+298,The Resident,US,3,2234520,Melanie Booth,1,False,Kimmy,other,2020,1
+299,The Resident,US,3,1303873,Jenna Kanell,1,False,Safety Coordinator,other,2020,1
+300,The Resident,US,3,1737507,Danielle Lyn,1,False,Jorani Wilson,other,2020,1
+301,The Resident,US,3,1799061,Candace West,1,False,Assistant,medic,2020,1
+302,The Resident,US,3,1570321,Eli Gelb,2,False,Ezra Dreyfuss,doctor,2020,1
+303,The Resident,US,3,2588227,Alicia Kelley,1,False,Phoebe Garrison,other,2020,1
+304,The Resident,US,3,1078184,Kearran Giovanni,1,False,Andrea Braydon,doctor,2020,1
+305,The Resident,US,3,2538229,Euseph Messiah,0,False,Nurse Clyde Cooper,nurse,2020,1
+306,The Resident,US,3,1497467,Vince Foster,2,False,Paul Chu,other,2020,1
+307,The Resident,US,3,1866571,Joy Nash,1,False,Bianca,other,2020,1
+308,The Resident,US,3,103832,Christie Lynn Smith,1,False,Joyce,other,2020,1
+309,The Resident,US,3,1517281,Karole Foreman,1,False,Adelaide Loggins,other,2020,1
+310,The Resident,US,3,1055929,Richard Holmes,2,False,Archer Loggins,other,2020,1
+311,The Resident,US,3,2132442,Kamran Shaikh,2,False,Robert,other,2020,1
+312,The Resident,US,3,1702316,Gunner Willis,2,False,Billy,other,2020,1
+313,The Resident,US,3,2189111,Kareem Lewis,2,False,Guy,other,2020,1
+314,The Resident,US,3,2822006,Tennessee Moore,2,False,Ballcap Dude,other,2020,1
+315,The Resident,US,3,2277859,Savanna Renee,1,False,Teen Girl,other,2020,1
+316,The Resident,US,3,2306593,Alycia Cooper,1,False,Southern Lady,other,2020,1
+317,The Resident,US,3,137750,Hal Ozsan,2,False,Nigel Sutton,other,2020,1
+318,The Resident,US,3,1476623,Chris Mason,2,False,Dax Ramsey,other,2020,1
+319,The Resident,US,3,2352453,Monica Garcia Bradley,1,False,Riley Jackson,other,2020,1
+320,The Resident,US,3,1056127,Charline St. Charles,1,False,Nurse Ingrid Nilsson,nurse,2020,1
+321,The Resident,US,3,15282,Matt Battaglia,2,False,Bill Landry,doctor,2020,1
+322,The Resident,US,3,156689,Jessica Tuck,1,False,Becky Copple,other,2020,1
+323,The Resident,US,3,17421,Wallace Langham,2,False,John Copple,other,2020,1
+324,The Resident,US,3,2669542,Jonathon Pawlowski,2,False,Paramedic #1,medic,2020,1
+325,The Resident,US,3,1905181,Tenaya Cleveland,1,False,Paramedic #2,medic,2020,1
+326,The Resident,US,3,1181296,Jaylen Moore,2,False,Raj Alizai,other,2020,1
+327,The Resident,US,3,2003356,Christina Marie Karis,1,False,Cynthia Fizdale,other,2020,1
+328,The Resident,US,3,84816,Greg Pitts,2,False,Doug Corson,other,2020,1
+329,The Resident,US,3,1654872,Kelly Tippens,1,False,Nurse Linda Smith,nurse,2020,1
+330,The Resident,US,3,55538,Tim Russ,2,False,Tyrone Griffiths,other,2020,2
+331,The Resident,US,3,1213328,Joseph C. Phillips,2,False,Dr. Jeffrey Pierce,doctor,2020,2
+332,The Resident,US,3,1320468,Lilli Birdsell,1,False,Publicist,other,2020,2
+333,The Resident,US,3,89819,Zachary Gordon,2,False,Aaron Meuser,other,2020,2
+334,The Resident,US,3,1696016,Chloe Coleman,1,False,Lucy Williams,other,2020,2
+335,The Resident,US,3,1502312,Zane Stephens,2,False,Anesthesiologist,medic,2020,2
+336,The Resident,US,3,1757689,Holly Morris,1,False,Female Nurse,nurse,2020,2
+337,The Resident,US,3,2818626,Aaron K Smalls,2,False,Male Nurse,nurse,2020,2
+338,The Resident,US,3,2818628,Jenny Hurlburt,1,False,Nurse,nurse,2020,2
+339,The Resident,US,3,1458990,Robert Larriviere,2,False,Producer,other,2020,2
+340,The Resident,US,3,1613974,Regina Ting Chen,1,False,Scrub Nurse,nurse,2020,2
+341,The Resident,US,3,1815372,Mike Forbs,2,False,Transpo Worker Harold,other,2020,2
+342,The Resident,US,3,1116145,Tony Mirrcandani,2,False,King Jabbaar,other,2020,3
+343,The Resident,US,3,1639686,Julie Zhan,1,False,Gemma Lin,other,2020,3
+344,The Resident,US,3,51384,Missy Yager,1,False,Susan Lawson,other,2020,3
+345,The Resident,US,3,105829,Connor Trinneer,2,False,Mark Lawson,other,2020,3
+346,The Resident,US,3,592319,Molly Kunz,1,False,Mary Lawson,other,2020,3
+347,The Resident,US,3,2821931,Britt Ryan,1,False,Dr. Hannah Thomas,doctor,2020,3
+348,The Resident,US,3,1425479,Valerie Sue Love,1,False,Nurse Erica,nurse,2020,3
+349,The Resident,US,3,1065754,Ruth Reynolds,1,False,Assistant #1,medic,2020,3
+350,The Resident,US,3,2726057,Kristina Arjona,1,False,ICU Nurse,nurse,2020,3
+351,The Resident,US,3,2821938,Ronald Joe Vasquez,2,False,Upscale Gala Guest,other,2020,3
+352,The Resident,US,3,2821930,Anita Sharma,1,False,Rupa Nour,other,2020,3
+353,The Resident,US,3,2821932,Tejas Krishnan,2,False,Salman Nour,other,2020,3
+354,The Resident,US,3,74135,Suehyla El-Attar,1,False,Nurse Laura,nurse,2020,3
+355,The Resident,US,3,1497461,Allie McCulloch,1,False,Dr. Gabbi Johnson,doctor,2020,3
+356,The Resident,US,3,59101,Todd Sherry,2,False,Doll E. Wood / Joseph Kinney,other,2020,3
+357,The Resident,US,3,60632,Rebecca Wisocky,1,False,Dr. Judith Brown,doctor,2020,3
+358,The Resident,US,3,211675,Jesse Luken,2,False,Marcus Thompson,other,2020,3
+359,The Resident,US,3,1253182,Desiree Ross,1,False,Yvette Barnes,other,2020,3
+360,The Resident,US,3,2825277,Edie Cheezburger,1,False,Emcee,other,2020,3
+361,The Resident,US,3,2825280,Shavonia Jones,1,False,Mom,other,2020,3
+362,The Resident,US,3,1181347,Chelsea Gilligan,1,False,Molly Ingrams,other,2020,3
+363,The Resident,US,3,1656179,Andrew Ridings,2,False,Derek Ingrams,other,2020,3
+364,The Resident,US,3,1907258,Scarlett Blum,1,False,Josie Ingrams,other,2020,3
+365,The Resident,US,3,4738,Connor Paolo,2,False,Isaac Morgan,other,2020,3
+366,The Resident,US,3,2011358,Kwajalyn Brown,1,False,Sophia Marino,other,2020,3
+367,The Resident,US,3,1372293,Helen Abell,1,False,Maddie,other,2020,3
+368,The Resident,US,3,2102768,Michelle Rivera,1,False,Respiratory Therapist,other,2020,3
+369,The Resident,US,3,102698,Enya Flack,1,False,Cheryl Whickford,other,2020,3
+370,The Resident,US,3,1215388,Philip Anthony-Rodriguez,2,False,Miguel,other,2020,4
+371,The Resident,US,3,1450772,Aisha Kabia,1,False,Justine Hunt,other,2020,4
+372,The Resident,US,3,2854368,Dianelz Rodriguez,1,False,Mercedes Montanaro,other,2020,4
+373,The Resident,US,3,1431398,Vince Pisani,2,False,Dr. Aaron Persopoulos,doctor,2020,4
+374,The Resident,US,3,2134807,Philip Covin,2,False,Ophthalmology Resident,other,2020,4
+375,The Resident,US,3,2854369,Neagheen Homaifar,1,False,Dr. Zeba Latif,doctor,2020,4
+376,The Resident,US,3,1952010,Nick Arapoglou,2,False,Jason Brooks,other,2020,4
+377,The Resident,US,3,2691161,Camille Robinson,1,False,ND Nurse,nurse,2020,4
+378,The Resident,US,3,2460882,Jay Plyburn,2,False,Dale Holton,other,2020,4
+379,The Resident,US,4,55547,Matt Czuchry,2,True,Conrad Hawkins,doctor (probably),2021,1
+380,The Resident,US,4,964971,Manish Dayal,2,True,Devon Pravesh,doctor (probably),2021,1
+381,The Resident,US,4,1787399,Shaunette Renée Wilson,1,True,Mina Okafor,doctor (probably),2021,1
+382,The Resident,US,4,40259,Malcolm-Jamal Warner,2,True,AJ Austin,doctor (probably),2021,1
+383,The Resident,US,4,21089,Bruce Greenwood,2,True,Randolph Bell,doctor (probably),2021,1
+384,The Resident,US,4,52951,Jane Leeves,1,True,Kit Voss,doctor (probably),2021,1
+385,The Resident,US,4,9779,Morris Chestnut,2,True,Barrett Cain,doctor (probably),2021,1
+386,The Resident,US,4,84247,Emily VanCamp,1,True,Nicolette 'Nic' Nevin,doctor (probably),2021,1
+387,The Resident,US,4,2486879,Aubriana Davis,0,False,Raylee,other,2021,1
+388,The Resident,US,4,3128774,Steven Serbones,2,False,Young Dad Borden,other,2021,1
+389,The Resident,US,4,3128775,John Randolph Hughes,2,False,Man,other,2021,1
+390,The Resident,US,4,1512182,Cory Scott Allen,2,False,Carter Wiggins,other,2021,1
+391,The Resident,US,4,3128776,Jordan Nelson,2,False,Chad,other,2021,1
+392,The Resident,US,4,3128777,Brittany Wilkerson,1,False,Doctor,doctor,2021,1
+393,The Resident,US,4,592274,Alexis Auffray,1,False,Lady Guest,other,2021,1
+394,The Resident,US,4,3128779,Minnie Rajguru,1,False,Woman,other,2021,1
+395,The Resident,US,4,3128780,Kendria Bailey,0,False,Backup Singer #1,other,2021,1
+396,The Resident,US,4,1820182,Wesley Cook,2,False,Backup Singer #2,other,2021,1
+397,The Resident,US,4,207389,Rob Yang,2,False,Logan Kim,other,2021,1
+398,The Resident,US,4,155030,Victor McCay,2,False,Ben Mullins,other,2021,1
+399,The Resident,US,4,2077404,Sunshine Bartell-Gbur,1,False,OR Nurse,nurse,2021,1
+400,The Resident,US,4,2414678,Michael Hogan,2,False,Dr. Albert Nolan,doctor,2021,1
+401,The Resident,US,4,1718319,Jessica Miesel,1,False,Jessica Moore,other,2021,1
+402,The Resident,US,4,1668533,Tasso Feldman,2,False,Irving Feldman,other,2021,1
+403,The Resident,US,4,12797,Glenn Morshower,2,False,Marshall Winthrop,other,2021,1
+404,The Resident,US,4,58511,Brian George,2,False,Tejan Pravesh,other,2021,1
+405,The Resident,US,4,1497467,Vince Foster,2,False,Dr. Paul Chu,doctor,2021,1
+406,The Resident,US,4,21246,Corbin Bernsen,2,False,Kyle Nevin,other,2021,1
+407,The Resident,US,4,2405586,Ann Marie Gideon,1,False,Sylvie Pund,other,2021,1
+408,The Resident,US,4,1985574,Denitra Isler,1,False,Nurse Hundley,nurse,2021,1
+409,The Resident,US,4,1444791,Conrad Ricamora,2,False,Jake Phillips / Dr. Jake Wong,doctor,2021,1
+410,The Resident,US,4,2524496,Chido Nwokocha,2,False,James Carroll,other,2021,1
+411,The Resident,US,4,2822894,Evelyn Lorena,1,False,Bianca / Alicia,other,2021,1
+412,The Resident,US,4,2613646,Jennifer Patino,1,False,Yorn's Assistant,medic,2021,1
+413,The Resident,US,4,3128786,Christy Baggett,1,False,Beverly Mullins,other,2021,1
+414,The Resident,US,4,43442,Kerr Smith,2,False,Jacob Yorn,other,2021,1
+415,The Resident,US,4,185694,Nichelle Hines,1,False,Nichelle Randall,other,2021,1
+416,The Resident,US,4,551462,Katie Parker,1,False,Eva Wolman,other,2021,1
+417,The Resident,US,4,1450785,Nathan Sutton,2,False,Darren Miller,other,2021,1
+418,The Resident,US,4,2277855,Don Stallings,2,False,Winston McCloud,other,2021,1
+419,The Resident,US,4,1766961,Isaiah Jarel,2,False,Emmett Mackey,other,2021,1
+420,The Resident,US,4,2538229,Euseph Messiah,0,False,Nurse Clyde Cooper,nurse,2021,1
+421,The Resident,US,4,1704672,David Shae,2,False,Terry Berndahl,other,2021,1
+422,The Resident,US,4,2823696,Sarafina King,1,False,Ariana McCloud,other,2021,1
+423,The Resident,US,4,1907261,Glenn Magee,2,False,Agent Brooks,other,2021,1
+424,The Resident,US,4,1515510,Melissa Saint-Amand,1,False,Alicia Nelson,other,2021,1
+425,The Resident,US,4,2123041,Michael Christopher Rodney,2,False,Brandon Davis,other,2021,1
+426,The Resident,US,4,1651960,Rajeev Jacob,2,False,Rocco Pilkington (Paramedic),medic,2021,1
+427,The Resident,US,4,3128788,Janee N. Mancia,0,False,Red Rock Executive Assistant,medic,2021,1
+428,The Resident,US,4,1905181,Tenaya Cleveland,1,False,Georgetta Chenault,other,2021,1
+429,The Resident,US,4,113567,Anna Khaja,1,False,Himaya Pravesh,other,2021,2
+430,The Resident,US,4,79997,Tijuana Ricks,1,False,Clementine Jolson,other,2021,2
+431,The Resident,US,4,1628686,Carlacia Grant,0,False,Trinity Jolson,other,2021,2
+432,The Resident,US,4,1437565,Taylor Rose,2,False,Fiona Myers,other,2021,2
+433,The Resident,US,4,2971912,Ramon Thomas,2,False,Guard,other,2021,2
+434,The Resident,US,4,1497461,Allie McCulloch,1,False,Dr. Gabbi Johnson,doctor,2021,2
+435,The Resident,US,4,87128,Kenneth Tigar,2,False,Henry Schultz,other,2021,2
+436,The Resident,US,4,2903642,Hannah Pniewski,1,False,Lab Tech Maria James,other,2021,2
+437,The Resident,US,4,3128769,Phil Franks,2,False,Mover,other,2021,2
+438,The Resident,US,4,3128770,Mala Bhattacharya,1,False,Administrator,other,2021,2
+439,The Resident,US,4,1473957,Michael Aaron Milligan,2,False,Jay Pickering,other,2021,2
+440,The Resident,US,4,1937733,Renato Powell,2,False,Liz,other,2021,2
+441,The Resident,US,4,51989,Jessica Lucas,1,False,Billie Sutton,other,2021,2
+442,The Resident,US,4,1352682,Jack Laufer,2,False,Norman Katz,other,2021,2
+443,The Resident,US,4,29021,Roxanne Hart,1,False,Estelle Katz,other,2021,2
+444,The Resident,US,4,3128789,Makai Dudeck,0,False,Andy,other,2021,2
+445,The Resident,US,4,1343525,Whitney Goin,1,False,Denise,other,2021,2
+446,The Resident,US,4,1088939,Kenny Alfonso,2,False,Dr. Daniel Lamas,doctor,2021,2
+447,The Resident,US,4,1309195,Michael Rene Walton,2,False,Dr. Charles Aronson,doctor,2021,2
+448,The Resident,US,4,1512748,Sharon Mae Wang,1,False,OB Tech Duval,other,2021,2
+449,The Resident,US,4,1992208,Leslie Sides,1,False,O.R. Tech,other,2021,2
+450,The Resident,US,4,27031,Tim Griffin,2,False,Nate Hill,other,2021,3
+451,The Resident,US,4,3064276,Nirvi Shah,1,False,Female Nurse,nurse,2021,3
+452,The Resident,US,4,3128790,Brett Schultz,2,False,Male Nurse,nurse,2021,3
+453,The Resident,US,4,3128791,Larry Herring,2,False,Anesthesiologist,medic,2021,3
+454,The Resident,US,4,1916840,Lauren Halperin,1,False,Perfusionist,other,2021,3
+455,The Resident,US,4,1460465,Deanna Pak,1,False,Scrub Nurse,nurse,2021,3
+456,The Resident,US,4,2381484,J. Barrett Cooper,0,False,Moises Knoll,other,2021,3
+457,The Resident,US,4,1357230,Cara Ricketts,1,False,Rose Williams,other,2021,3
+458,The Resident,US,4,1500115,Christopher J. Hanke,2,False,Gregg,other,2021,3
+459,The Resident,US,4,2404163,Anuja Joshi,1,False,Leela Devi,other,2021,3
+460,The Resident,US,4,1383719,Ceci Fernandez,0,False,Megan Cordeiro,other,2021,3
+461,The Resident,US,4,1673071,Daryn Kahn,0,False,Josko Novak,other,2021,3
+462,The Resident,US,4,1784682,Rachael Thompson,1,False,Therapist Tammy,other,2021,3
+463,The Resident,US,4,123169,Michelle Rose,1,False,Phlebotomist Lisa,other,2021,3
+464,The Resident,US,4,1367344,Eric Mendenhall,2,False,Seamus O'Reilly,other,2021,3
+465,The Resident,US,4,1853945,Kaleka,1,False,Volunteer,other,2021,3
+466,The Resident,US,4,2669542,Jonathon Pawlowski,2,False,Joe Daniels,other,2021,3
+467,The Resident,US,4,3128792,Markelle Gay,0,False,Panda Bear,other,2021,3
+468,The Resident,US,4,1767463,Shazi Raja,1,False,Nadine Suheimat,other,2021,3
+469,The Resident,US,4,62843,Meera Simhan,1,False,Myra Mattoo,other,2021,4
+470,The Resident,US,4,1783721,Maddie Nichols,1,False,Tina Miller,other,2021,4
+471,The Resident,US,4,1491257,Mark Rowe,2,False,Richard Miller,other,2021,4
+472,The Resident,US,4,2785390,Kim Winter Mako,1,False,Mary Miller,other,2021,4
+473,The Resident,US,4,2095680,Darryl W. Handy,2,False,Officiant,other,2021,4
+474,The Resident,US,4,17355,Michael Paul Chan,2,False,Yee Austin,other,2021,4
+475,The Resident,US,4,1543465,Summer Selby,1,False,Carol Austin,other,2021,4
+476,The Resident,US,4,2074532,Alie Urquhart,1,False,Lisa McBride,other,2021,4
+477,The Resident,US,4,223019,Carrie Walrond Hood,1,False,Patty McBride,other,2021,4
+478,The Resident,US,4,2463680,'Ja'Miece' Mercedez McDowell,1,False,Circulating Nurse #2,nurse,2021,4
+479,The Resident,US,4,3143724,Jennifer Chung,1,False,Lab Tech,other,2021,4
+480,The Resident,US,4,2460824,Jacobi Hollingshed,2,False,EMT,medic,2021,4
+481,The Resident,US,4,3143725,Michelle L. Williams,1,False,Nurse,nurse,2021,4
+482,The Resident,US,4,1344739,Chris Perfetti,2,False,Phillip Bondman,other,2021,4
+483,The Resident,US,4,159489,Elimu Nelson,2,False,Wes Gibson,other,2021,4
+484,The Resident,US,4,3143728,Allison Gabriel,1,False,Piper Scott,other,2021,4
+485,The Resident,US,4,1215817,Adam Donshik,2,False,Ken Ackerman,other,2021,4
+486,The Resident,US,4,223027,Tiffany Morgan,1,False,Gretchen Ackerman,other,2021,4
+487,The Resident,US,4,1388694,Robert Mello,2,False,Ted,other,2021,4
+488,The Resident,US,4,2787426,Chedi Chang,0,False,Sammie Ackerman,other,2021,4
+489,The Resident,US,4,118131,Gareth Williams,2,False,Pete Goldense,other,2021,5
+490,The Resident,US,4,2088480,Maurie A. Chandler,0,False,Nurse Cindy Washington,nurse,2021,5
+491,The Resident,US,4,1708834,Bill Murphey,2,False,Board Member #1,other,2021,5
+492,The Resident,US,4,1763910,Jay DeVon Johnson,2,False,Board Member #2,other,2021,5
+493,The Resident,US,4,2508560,Joshua Whichard,2,False,20-ish Dude,other,2021,5
+494,The Resident,US,4,74135,Suehyla El-Attar,1,False,Nurse Laura,nurse,2021,5
+495,The Resident,US,4,995451,Cynthia Barrett,1,False,Dr. Wylie,doctor,2021,5
+496,The Resident,US,4,208310,Cherise Boothe,1,False,Dr. Candace Oliver,doctor,2021,5
+497,The Resident,US,4,34840,Miguel Pérez,2,False,Doug Johnson,other,2021,5
+498,The Resident,US,4,3143736,Anny Jules,1,False,Young Mother,other,2021,5
+499,The Resident,US,4,1564917,Ethan Corn,2,False,John Akerman,other,2021,5
+500,The Resident,US,4,3143737,Terrence Pulliam,2,False,Boy,other,2021,5
+501,The Resident,US,4,1654872,Kelly Tippens,1,False,Nurse Linda Smith,nurse,2021,5
+502,The Resident,US,4,1381474,Briana Venskus,1,False,Astrid Chavez,other,2021,5
+503,The Resident,US,4,205440,Kim Estes,2,False,Roland Rawlins,other,2021,5
+504,The Resident,US,4,80616,Maria Howell,1,False,Judge Lola Rawlins,other,2021,5
+505,The Resident,US,4,3143741,Caleb J. Avery,2,False,Young AJ,other,2021,5
+506,The Resident,US,4,3143742,Tia L. Davis,1,False,Young Carol,other,2021,5
+507,The Resident,US,4,1832264,Carmela McNeal,1,False,Doreen,other,2021,5
+508,The Resident,US,4,1443006,Dean Cudworth,2,False,Mr. Hollister,other,2021,5
+509,The Resident,US,4,3143746,Andrew Dicostanzo,2,False,Young Man,other,2021,5
+510,The Resident,US,4,3143747,Babatunde Oyewo,2,False,Park Vistor,other,2021,5
+511,The Resident,US,5,55547,Matt Czuchry,2,True,Conrad Hawkins,doctor (probably),2021,9
+512,The Resident,US,5,964971,Manish Dayal,2,True,Devon Pravesh,doctor (probably),2021,9
+513,The Resident,US,5,40259,Malcolm-Jamal Warner,2,True,AJ Austin,doctor (probably),2021,9
+514,The Resident,US,5,51989,Jessica Lucas,1,True,Billie Sutton,doctor (probably),2021,9
+515,The Resident,US,5,2404163,Anuja Joshi,1,True,Leela Devi,doctor (probably),2021,9
+516,The Resident,US,5,21089,Bruce Greenwood,2,True,Randolph Bell,doctor (probably),2021,9
+517,The Resident,US,5,52951,Jane Leeves,1,True,Kit Voss,doctor (probably),2021,9
+518,The Resident,US,5,84247,Emily VanCamp,1,False,Nicolette 'Nic' Nevin,other,2021,9
+519,The Resident,US,6,55547,Matt Czuchry,2,True,Conrad Hawkins,doctor (probably),2022,9
+520,The Resident,US,6,964971,Manish Dayal,2,True,Devon Pravesh,doctor (probably),2022,9
+521,The Resident,US,6,21089,Bruce Greenwood,2,True,Randolph Bell,doctor (probably),2022,9

@@ -1,0 +1,236 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Die Rettungsflieger,DE,1,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),1997,2
+1,Die Rettungsflieger,DE,1,1270893,Ulrich Bähnk,2,True,Oberbootsmann Thomas Asmus,doctor (probably),1997,2
+2,Die Rettungsflieger,DE,1,48513,Gerit Kling,1,True,Dr. Maren Maibach,doctor,1997,2
+3,Die Rettungsflieger,DE,1,1127787,Frank Stieren,2,True,Max Westphal,doctor (probably),1997,2
+4,Die Rettungsflieger,DE,1,1494404,Kira von Maydell,1,False,Karin Berthold,other,1997,2
+5,Die Rettungsflieger,DE,1,1721114,Caroline Redl,1,False,Lisa Heitmann,other,1997,2
+6,Die Rettungsflieger,DE,1,49016,Guntbert Warns,2,False,Manfred Heitmann,other,1997,2
+7,Die Rettungsflieger,DE,1,1325638,Eva Maria Kerkhoff,1,False,Dorothea Karuhn,other,1997,2
+8,Die Rettungsflieger,DE,1,1831190,Vera Lohr,1,False,Krankenschwester,other,1997,2
+9,Die Rettungsflieger,DE,1,1133619,Siegfried Terpoorten,2,False,Boris Kruhl,other,1998,1
+10,Die Rettungsflieger,DE,1,36568,Jürgen Janza,2,False,Herr Kruhl,other,1998,1
+11,Die Rettungsflieger,DE,1,1391306,Ulrich Wiggers,2,False,Dr. Bernard Maibach,doctor,1998,2
+12,Die Rettungsflieger,DE,1,1831201,Wilfried Zander,2,False,Kapitän,other,1998,2
+13,Die Rettungsflieger,DE,1,1290232,Robert Zimmerling,2,False,Herr Goll,other,1998,2
+14,Die Rettungsflieger,DE,1,1831205,Natascha Graf,1,False,Ute Asmus,other,1998,2
+15,Die Rettungsflieger,DE,1,1831207,Petra Schoettler,1,False,Bibi,other,1998,2
+16,Die Rettungsflieger,DE,1,41776,Veit Stübner,2,False,Michael Packert,other,1998,2
+17,Die Rettungsflieger,DE,1,1831206,Tobias Pippig,2,False,Joschi Asmus,other,1998,2
+18,Die Rettungsflieger,DE,1,17405,Martin Feifel,2,False,Sportflieger,other,1997,2
+19,Die Rettungsflieger,DE,1,1011172,Barbara Focke,1,False,Mutter,other,1997,2
+20,Die Rettungsflieger,DE,1,1326736,Ursula Staack,1,False,Dr. Brauer,doctor,1997,2
+21,Die Rettungsflieger,DE,1,1826421,Ulli Lothmanns,2,False,Anstaltsarzt,other,1998,2
+22,Die Rettungsflieger,DE,1,1166748,Karina Marmann,1,False,Frau Mohr,other,1998,2
+23,Die Rettungsflieger,DE,1,50686,Luca Maric,2,False,Entführer,other,1998,2
+24,Die Rettungsflieger,DE,1,1831215,Vijak Bayani,0,False,Shirin,other,1998,3
+25,Die Rettungsflieger,DE,1,1117351,Hans-Dieter Brückner,0,False,Martin,other,1998,3
+26,Die Rettungsflieger,DE,1,146071,Henryk Nolewajka,2,False,Maschinist,other,1998,3
+27,Die Rettungsflieger,DE,1,1109972,J.J. Straub,2,False,Kapitän,other,1998,3
+28,Die Rettungsflieger,DE,2,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),1999,1
+29,Die Rettungsflieger,DE,2,48513,Gerit Kling,1,True,Dr. Maren Maibach,doctor,1999,1
+30,Die Rettungsflieger,DE,2,1127787,Frank Stieren,2,True,Max Westphal,doctor (probably),1999,1
+31,Die Rettungsflieger,DE,2,1326861,Oliver Hörner,2,True,Jan Wollcke,doctor (probably),1999,1
+32,Die Rettungsflieger,DE,2,16243,Rolf Becker,2,False,Bruno Schulz,other,1999,1
+33,Die Rettungsflieger,DE,2,1324913,Bojana Golenac,1,False,Amelie,other,1999,1
+34,Die Rettungsflieger,DE,2,1067178,Edda Leesch,1,False,Frau Guttschick,other,1999,1
+35,Die Rettungsflieger,DE,2,1831217,Cosima Alessa Grimm,1,False,Julia Guttschick,other,1999,1
+36,Die Rettungsflieger,DE,2,39305,Werner Eichhorn,2,False,Herr Meier,other,1999,1
+37,Die Rettungsflieger,DE,2,1459462,Günter Bothur,2,False,Herr Riedel,other,1999,1
+38,Die Rettungsflieger,DE,2,1569387,Monika Guthmann,1,False,Pia Marquardt,other,1999,1
+39,Die Rettungsflieger,DE,2,38850,Jockel Tschiersch,2,False,Hausmeister,other,1999,1
+40,Die Rettungsflieger,DE,2,1285288,Pierre Britz,2,False,Benny Talheim,other,1999,1
+41,Die Rettungsflieger,DE,2,1414508,Pierre René Müller,2,False,Gefreiter Homann,other,1999,1
+42,Die Rettungsflieger,DE,2,34302,Christoph Hagen Dittmann,2,False,,other,1999,1
+43,Die Rettungsflieger,DE,2,1138032,Claudio Maniscalco,2,False,Rammbow,other,1999,2
+44,Die Rettungsflieger,DE,2,1831207,Petra Schoettler,1,False,Polizistin,other,1999,2
+45,Die Rettungsflieger,DE,2,1305194,Beate Kiupel,1,False,Petra Horn,other,1999,2
+46,Die Rettungsflieger,DE,2,19884,Daniela Ziegler,1,False,Katja Talheim,other,1999,2
+47,Die Rettungsflieger,DE,2,1284172,Karen Friesicke,1,False,Manager,other,1999,2
+48,Die Rettungsflieger,DE,2,571170,Renate Geißler,1,False,Cashier,other,1999,2
+49,Die Rettungsflieger,DE,2,1831236,Martin Sukale,2,False,Mike,other,1999,2
+50,Die Rettungsflieger,DE,2,38300,Henning Baum,2,False,Doctor,doctor,1999,2
+51,Die Rettungsflieger,DE,2,1245168,Michael Trischan,2,False,Gerhard Röhring,other,1999,2
+52,Die Rettungsflieger,DE,2,1307364,Angela Hobrig,1,False,Sophia Röhring,other,1999,2
+53,Die Rettungsflieger,DE,2,3701,Frank Behnke,2,False,Anton Wollcke,other,1999,2
+54,Die Rettungsflieger,DE,2,588136,Andrea Lüdke,1,False,Kerstin,other,1999,2
+55,Die Rettungsflieger,DE,2,22189,Brigitte Janner,1,False,Birgit Schmitzke,other,1999,2
+56,Die Rettungsflieger,DE,2,1209737,Norbert Braun,2,False,Winfried Worms,other,1999,2
+57,Die Rettungsflieger,DE,2,23529,Katharina Eckerfeld,1,False,Bibi,other,1999,3
+58,Die Rettungsflieger,DE,2,1724721,Tilmar Kuhn,2,False,Chris,other,1999,3
+59,Die Rettungsflieger,DE,2,1831240,Udo Swann,2,False,Dr. Falck,doctor,1999,3
+60,Die Rettungsflieger,DE,2,1511201,Karin Heine,1,False,Vera Köhnke,other,1999,3
+61,Die Rettungsflieger,DE,2,1134350,Klaus-Jürgen Steinmann,2,False,Teichwirt Köhnke,other,1999,3
+62,Die Rettungsflieger,DE,2,1187103,Iris Böhm,1,False,Elke Kehding,other,1999,3
+63,Die Rettungsflieger,DE,3,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),2000,4
+64,Die Rettungsflieger,DE,3,1270893,Ulrich Bähnk,2,True,Oberbootsmann Thomas Asmus,doctor (probably),2000,4
+65,Die Rettungsflieger,DE,3,48513,Gerit Kling,1,True,Dr. Maren Maibach,doctor,2000,4
+66,Die Rettungsflieger,DE,3,1326861,Oliver Hörner,2,True,Jan Wollcke,doctor (probably),2000,4
+67,Die Rettungsflieger,DE,3,1079942,Kristin Derfler,1,False,Bärbel Grabowski,other,2000,4
+68,Die Rettungsflieger,DE,3,32859,Conrad F. Geier,2,False,Walter Grabowski,other,2000,4
+69,Die Rettungsflieger,DE,3,133264,Monika Anna Wojtyllo,1,False,Valerie Dietrich,other,2000,4
+70,Die Rettungsflieger,DE,3,16719,Josef Ostendorf,2,False,Frührentner,other,2000,4
+71,Die Rettungsflieger,DE,3,1639863,Björn Jung,2,False,Kalle,other,2000,4
+72,Die Rettungsflieger,DE,3,1187103,Iris Böhm,1,False,Elke Kehding,other,2000,4
+73,Die Rettungsflieger,DE,3,230043,Tanja Schumann,1,False,Isabell,other,2000,4
+74,Die Rettungsflieger,DE,3,57128,Cora Sabrina Grimm,1,False,Tina,other,2000,4
+75,Die Rettungsflieger,DE,3,1241202,Sven Thiemann,2,False,Jesko,other,2000,4
+76,Die Rettungsflieger,DE,3,1457785,Patrick Harzig,2,False,Philipp Nimburg,other,2000,4
+77,Die Rettungsflieger,DE,3,1306592,Petra Hinze,1,False,Marion Landeck,other,2000,4
+78,Die Rettungsflieger,DE,3,1467598,Karina Kraushaar,1,False,Iris Wollcke,other,2000,4
+79,Die Rettungsflieger,DE,3,1241186,Miriam Lahnstein,1,False,Ramona Zeller,other,2000,4
+80,Die Rettungsflieger,DE,3,1339472,Uwe Zerbe,2,False,Hermann Landeck,other,2000,4
+81,Die Rettungsflieger,DE,3,233791,Christian Tasche,2,False,Oberstarzt Dr. Norbert Kettwig,doctor,2000,5
+82,Die Rettungsflieger,DE,3,1831206,Tobias Pippig,2,False,Joschi Asmus,other,2000,5
+83,Die Rettungsflieger,DE,3,1344097,Dirk Mierau,2,False,Joe,other,2000,5
+84,Die Rettungsflieger,DE,3,1831241,Mario Pinkowski,2,False,Jörg,other,2000,5
+85,Die Rettungsflieger,DE,4,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),2000,9
+86,Die Rettungsflieger,DE,4,1270893,Ulrich Bähnk,2,True,Oberbootsmann Thomas Asmus,doctor (probably),2000,9
+87,Die Rettungsflieger,DE,4,48513,Gerit Kling,1,True,Dr. Maren Maibach,doctor,2000,9
+88,Die Rettungsflieger,DE,4,1326861,Oliver Hörner,2,True,Jan Wollcke,doctor (probably),2000,9
+89,Die Rettungsflieger,DE,4,1285290,Julia Heinemann,1,True,Dr. Ilona Müller,doctor,2000,9
+90,Die Rettungsflieger,DE,4,52639,Tom Wlaschiha,2,True,Torsten Biedenstedt,doctor (probably),2000,9
+91,Die Rettungsflieger,DE,4,1366619,Birgit Bockmann,1,False,Sabina,other,2000,9
+92,Die Rettungsflieger,DE,4,1133518,Tina Bordihn,1,False,Lilli,other,2000,9
+93,Die Rettungsflieger,DE,4,1831242,Henning Diedrich,2,False,Tobias,other,2000,9
+94,Die Rettungsflieger,DE,4,1831243,Dan Hembal,2,False,Harald,other,2000,9
+95,Die Rettungsflieger,DE,4,1827516,Stephan Schreck,2,False,Feuerwehr-Einsatzleiter,other,2000,9
+96,Die Rettungsflieger,DE,4,1825399,Katja Hoffmann,1,False,Sylvia,other,2000,9
+97,Die Rettungsflieger,DE,4,57587,Leon A. Kersten,2,False,Joachim,other,2000,9
+98,Die Rettungsflieger,DE,4,38460,Oliver Mommsen,2,False,Holger,other,2000,9
+99,Die Rettungsflieger,DE,4,41600,Gerhard Garbers,2,False,Generalmajor Müller,other,2000,10
+100,Die Rettungsflieger,DE,4,46216,Niels-Bruno Schmidt,2,False,Billy,other,2000,10
+101,Die Rettungsflieger,DE,4,9928,Ivan Desny,2,False,Dietrich,other,2000,10
+102,Die Rettungsflieger,DE,4,9930,Gisela Uhlen,1,False,Greta Paulsen,other,2000,10
+103,Die Rettungsflieger,DE,4,1301162,Anya Fischer,1,False,Antonia,other,2000,10
+104,Die Rettungsflieger,DE,4,23136,Heinz-Dieter Knaup,2,False,Hermann,other,2000,10
+105,Die Rettungsflieger,DE,4,49782,Judith Richter,1,False,Susanne,other,2000,10
+106,Die Rettungsflieger,DE,4,226588,Maximilian Grill,2,False,Pete Abgoreit,other,2000,10
+107,Die Rettungsflieger,DE,4,23345,Elisabeth Volkmann,1,False,Baronin Leonie von Stucken,other,2000,10
+108,Die Rettungsflieger,DE,4,582456,Wolfgang Winkler,2,False,Fiete,other,2000,10
+109,Die Rettungsflieger,DE,4,1084795,Stefan Gossler,2,False,Sascha,other,2000,10
+110,Die Rettungsflieger,DE,4,49062,Konstantin Graudus,2,False,Kalle,other,2000,10
+111,Die Rettungsflieger,DE,4,1307559,Nils Julius,2,False,Mimo,other,2000,10
+112,Die Rettungsflieger,DE,4,35387,Claus Dieter Clausnitzer,2,False,Albert Brödersen,other,2000,10
+113,Die Rettungsflieger,DE,4,1317691,Dominique Lorenz,1,False,Chantal,other,2000,10
+114,Die Rettungsflieger,DE,4,38850,Jockel Tschiersch,2,False,Siggi,other,2000,10
+115,Die Rettungsflieger,DE,4,588136,Andrea Lüdke,1,False,Kerstin,other,2000,11
+116,Die Rettungsflieger,DE,4,1825414,Anna Luise Kiss,1,False,Popel,other,2000,11
+117,Die Rettungsflieger,DE,4,1327820,Hans Heller,2,False,Jonathan,other,2000,11
+118,Die Rettungsflieger,DE,4,1826932,Karim Köster,2,False,Catcher,other,2000,11
+119,Die Rettungsflieger,DE,4,1318228,Eva Zlonitzky,1,False,Hulda Markmeier,other,2000,11
+120,Die Rettungsflieger,DE,4,1455970,Christian von Richthofen,2,False,Achim Wagner,other,2000,11
+121,Die Rettungsflieger,DE,4,1050916,Holger Handtke,2,False,Herr Jobst,other,2000,11
+122,Die Rettungsflieger,DE,5,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),2001,9
+123,Die Rettungsflieger,DE,5,1270893,Ulrich Bähnk,2,True,Oberbootsmann Thomas Asmus,doctor (probably),2001,9
+124,Die Rettungsflieger,DE,5,48513,Gerit Kling,1,True,Dr. Maren Maibach,doctor,2001,9
+125,Die Rettungsflieger,DE,5,1326861,Oliver Hörner,2,True,Jan Wollcke,doctor (probably),2001,9
+126,Die Rettungsflieger,DE,5,1285290,Julia Heinemann,1,True,Dr. Ilona Müller,doctor,2001,9
+127,Die Rettungsflieger,DE,5,52639,Tom Wlaschiha,2,True,Torsten Biedenstedt,doctor (probably),2001,9
+128,Die Rettungsflieger,DE,5,1414508,Pierre René Müller,2,True,Obergefreiter Homann,doctor (probably),2001,9
+129,Die Rettungsflieger,DE,5,1831411,Chris Dehler,2,False,Herr Suchantke,other,2001,9
+130,Die Rettungsflieger,DE,5,1831412,Sebastian Faust,2,False,Polizist,other,2001,9
+131,Die Rettungsflieger,DE,5,1320987,Manfred Gorr,2,False,Prof. Dr. Biedenstedt,doctor,2001,9
+132,Die Rettungsflieger,DE,5,1831414,Juana-Maria von Jascheroff,1,False,Henriette Tscherau,other,2001,9
+133,Die Rettungsflieger,DE,5,49160,Andreas Kaufmann,2,False,Lehrer Schmadtke,other,2001,9
+134,Die Rettungsflieger,DE,5,1350548,Frank Jordan,2,False,Sebastian,other,2001,9
+135,Die Rettungsflieger,DE,5,1821385,Jana Kozewa,1,False,Sabine,other,2001,9
+136,Die Rettungsflieger,DE,5,1831416,Julia Frankenberger,1,False,Marion Gabor,other,2001,10
+137,Die Rettungsflieger,DE,5,1246715,Stefan Franz,2,False,SEK-Einsatzleiter,other,2001,10
+138,Die Rettungsflieger,DE,5,1626176,Wolfgang Hartmann,2,False,Heinrich Gabor,other,2001,10
+139,Die Rettungsflieger,DE,5,1391629,Frank Jacobsen,2,False,Heiko Friesner,other,2001,10
+140,Die Rettungsflieger,DE,5,1490158,Rainer Laupichler,2,False,Joscha Friesner,other,2001,10
+141,Die Rettungsflieger,DE,5,1035848,Christiane Lemm,1,False,Mutter Biedenstedt,other,2001,10
+142,Die Rettungsflieger,DE,5,1831417,Niels Dreiser,2,False,Dieter,other,2001,10
+143,Die Rettungsflieger,DE,5,22511,Josef Heynert,2,False,Klaus,other,2001,10
+144,Die Rettungsflieger,DE,5,39915,Olga Kolb,1,False,Jeanette Dupont,other,2001,10
+145,Die Rettungsflieger,DE,5,1831418,Vivien Schnepel,1,False,Conny,other,2001,10
+146,Die Rettungsflieger,DE,5,1253804,Fabian Harloff,2,False,Buddy,other,2001,10
+147,Die Rettungsflieger,DE,5,213586,Helmut Zierl,2,False,Georg Schreiber,other,2001,10
+148,Die Rettungsflieger,DE,5,1477817,Jenny Marie Muck,1,False,Vera Schreiber,other,2001,10
+149,Die Rettungsflieger,DE,5,1166748,Karina Marmann,1,False,Katja,other,2001,11
+150,Die Rettungsflieger,DE,5,1831419,Gertrud Nothorn,1,False,Margot,other,2001,11
+151,Die Rettungsflieger,DE,5,26399,Giulia Follina,1,False,Dr. Baum,doctor,2001,11
+152,Die Rettungsflieger,DE,5,1325636,Harald Maack,2,False,Dr. Neumann,doctor,2001,11
+153,Die Rettungsflieger,DE,5,67423,Christoph Grunert,2,False,Ben Schlösser,other,2001,11
+154,Die Rettungsflieger,DE,5,1023792,Natalie Spinell,2,False,Andrea,doctor,2001,11
+155,Die Rettungsflieger,DE,5,1255206,Gerd Baltus,2,False,Hauptkommissar Schaller,other,2001,12
+156,Die Rettungsflieger,DE,5,1168828,Dirk Ossig,2,False,Zahnarzt,other,2001,12
+157,Die Rettungsflieger,DE,6,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),2002,4
+158,Die Rettungsflieger,DE,6,1270893,Ulrich Bähnk,2,True,Oberbootsmann Thomas Asmus,doctor (probably),2002,4
+159,Die Rettungsflieger,DE,6,1326861,Oliver Hörner,2,True,Jan Wollcke,doctor (probably),2002,4
+160,Die Rettungsflieger,DE,6,1285290,Julia Heinemann,1,True,Dr. Ilona Müller,doctor,2002,4
+161,Die Rettungsflieger,DE,6,22702,Nicolas König,2,True,Jens Blank,doctor (probably),2002,4
+162,Die Rettungsflieger,DE,6,1455672,Marlene Marlow,1,True,Dr. Sabine Petersen,doctor,2002,4
+163,Die Rettungsflieger,DE,6,1414508,Pierre René Müller,2,True,Obergefreiter Homann,doctor (probably),2002,4
+164,Die Rettungsflieger,DE,6,233979,Lutz Mackensy,2,False,Herr von Kramm,other,2002,4
+165,Die Rettungsflieger,DE,6,144345,Steffen Münster,2,False,Bernd Schöninger,other,2002,4
+166,Die Rettungsflieger,DE,6,1522894,Sven Riemann,2,False,Hans-Joachim Komann,other,2002,4
+167,Die Rettungsflieger,DE,6,1482405,Angelika Perdelwitz,1,False,Maria,other,2002,4
+168,Die Rettungsflieger,DE,6,1195049,Frank Vockroth,2,False,Herr Schmandke,other,2002,4
+169,Die Rettungsflieger,DE,6,1339472,Uwe Zerbe,2,False,Herr Kröber,other,2002,4
+170,Die Rettungsflieger,DE,6,1821404,Christin Baechler,1,False,Stefanie,other,2002,4
+171,Die Rettungsflieger,DE,6,1831420,Sophie Steiner,1,False,Melanie,other,2002,4
+172,Die Rettungsflieger,DE,6,51441,Ursula Heyer,1,False,Annemarie Petersen,other,2002,5
+173,Die Rettungsflieger,DE,6,1831215,Vijak Bayani,0,False,Astrid Behrmann,other,2002,5
+174,Die Rettungsflieger,DE,6,36326,Michael Schönborn,2,False,Herr Laukner,other,2002,5
+175,Die Rettungsflieger,DE,6,1645196,Esther Seibt,1,False,Diana,other,2002,5
+176,Die Rettungsflieger,DE,6,1391306,Ulrich Wiggers,2,False,Jobst Meurer,other,2002,5
+177,Die Rettungsflieger,DE,6,49167,Dieter Brandecker,2,False,Michael Hansen,other,2002,5
+178,Die Rettungsflieger,DE,6,1646150,Christine Kutschera,1,False,Pia Raabe,other,2002,5
+179,Die Rettungsflieger,DE,6,233701,Tayfun Bademsoy,2,False,Achmed,other,2002,5
+180,Die Rettungsflieger,DE,6,17565,Wilfried Dziallas,2,False,Ernst Hoffmann,other,2002,5
+181,Die Rettungsflieger,DE,6,43163,Ursula Karusseit,1,False,Ulrike Heinrichs,other,2002,5
+182,Die Rettungsflieger,DE,6,27071,Günter Schubert,2,False,Polier,other,2002,5
+183,Die Rettungsflieger,DE,7,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),2002,2
+184,Die Rettungsflieger,DE,7,1270893,Ulrich Bähnk,2,True,Oberbootsmann Thomas Asmus,doctor (probably),2002,2
+185,Die Rettungsflieger,DE,7,1326861,Oliver Hörner,2,True,Jan Wollcke,doctor (probably),2002,2
+186,Die Rettungsflieger,DE,7,22702,Nicolas König,2,True,Jens Blank,doctor (probably),2002,2
+187,Die Rettungsflieger,DE,7,1455672,Marlene Marlow,1,True,Dr. Sabine Petersen,doctor,2002,2
+188,Die Rettungsflieger,DE,7,40563,Rainer Sellien,2,True,Paul Reinders,doctor (probably),2002,2
+189,Die Rettungsflieger,DE,7,1414508,Pierre René Müller,2,True,Obergefreiter Homann,doctor (probably),2002,2
+190,Die Rettungsflieger,DE,7,582456,Wolfgang Winkler,2,False,Professor,other,2003,2
+191,Die Rettungsflieger,DE,7,2705809,Djamil Deininger,0,False,Yusseff,other,2003,2
+192,Die Rettungsflieger,DE,7,1325636,Harald Maack,2,False,Herr Stolle,other,2003,2
+193,Die Rettungsflieger,DE,7,49269,Christine Neubauer,1,False,Amelie Quandt,other,2003,2
+194,Die Rettungsflieger,DE,7,27625,Gesine Cukrowski,1,False,Helma Nöting,other,2003,3
+195,Die Rettungsflieger,DE,7,43494,Elisabeth Wiedemann,1,False,Else Fürbringer,other,2003,3
+196,Die Rettungsflieger,DE,8,1455674,Matthias Leja,2,True,Hauptmann Alexander Karuhn,doctor (probably),2004,9
+197,Die Rettungsflieger,DE,8,1326861,Oliver Hörner,2,True,Hauptfeldwebel Jan Wollcke,doctor (probably),2004,9
+198,Die Rettungsflieger,DE,8,52639,Tom Wlaschiha,2,True,Torsten Biedenstedt,doctor (probably),2004,9
+199,Die Rettungsflieger,DE,8,22702,Nicolas König,2,True,Jens Blank,doctor (probably),2004,9
+200,Die Rettungsflieger,DE,8,1455672,Marlene Marlow,1,True,Dr. Sabine Petersen,doctor,2004,9
+201,Die Rettungsflieger,DE,8,40563,Rainer Sellien,2,True,Paul Reinders,doctor (probably),2004,9
+202,Die Rettungsflieger,DE,8,1345749,Patrick Wolff,2,True,Johannes „Johnny“ von Storkow,doctor (probably),2004,9
+203,Die Rettungsflieger,DE,8,1414508,Pierre René Müller,2,True,Obergefreiter Homann,doctor (probably),2004,9
+204,Die Rettungsflieger,DE,8,213586,Helmut Zierl,2,False,Ralf Wannstedt,other,2004,9
+205,Die Rettungsflieger,DE,8,36856,Claus Wilcke,2,False,Herr von Storkow,other,2004,12
+206,Die Rettungsflieger,DE,8,8206,Hinnerk Schönemann,2,False,Matthias Bach,other,2004,12
+207,Die Rettungsflieger,DE,9,1326861,Oliver Hörner,2,True,Hauptfeldwebel Jan Wollcke,doctor (probably),2005,3
+208,Die Rettungsflieger,DE,9,22702,Nicolas König,2,True,Jens Blank,doctor (probably),2005,3
+209,Die Rettungsflieger,DE,9,1455672,Marlene Marlow,1,True,Dr. Sabine Petersen,doctor,2005,3
+210,Die Rettungsflieger,DE,9,1345749,Patrick Wolff,2,True,Johannes „Johnny“ von Storkow,doctor (probably),2005,3
+211,Die Rettungsflieger,DE,9,1414508,Pierre René Müller,2,True,Obergefreiter Homann,doctor (probably),2005,3
+212,Die Rettungsflieger,DE,9,1150979,Sabine Vitua,1,False,Oberfeldarzt Dr. Dietz,doctor,2005,3
+213,Die Rettungsflieger,DE,10,1326861,Oliver Hörner,2,True,Hauptfeldwebel Jan Wollcke,doctor (probably),2005,9
+214,Die Rettungsflieger,DE,10,22702,Nicolas König,2,True,Jens Blank,doctor (probably),2005,9
+215,Die Rettungsflieger,DE,10,1455672,Marlene Marlow,1,True,Dr. Sabine Petersen,doctor,2005,9
+216,Die Rettungsflieger,DE,10,1345749,Patrick Wolff,2,True,Johannes „Johnny“ von Storkow,doctor (probably),2005,9
+217,Die Rettungsflieger,DE,10,1414508,Pierre René Müller,2,True,Obergefreiter Homann,doctor (probably),2005,9
+218,Die Rettungsflieger,DE,10,5202,Kostja Ullmann,2,False,Martin,other,2005,11
+219,Die Rettungsflieger,DE,10,1169263,Maria Ketikidou,1,False,Lilo Uhlmann,other,2005,11
+220,Die Rettungsflieger,DE,11,22702,Nicolas König,2,True,Jens Blank,doctor (probably),2007,4
+221,Die Rettungsflieger,DE,11,1455672,Marlene Marlow,1,True,Dr. Sabine Petersen,doctor,2007,4
+222,Die Rettungsflieger,DE,11,1345749,Patrick Wolff,2,True,Johannes „Johnny“ von Storkow,doctor (probably),2007,4
+223,Die Rettungsflieger,DE,11,1414508,Pierre René Müller,2,True,Obergefreiter Homann,doctor (probably),2007,4
+224,Die Rettungsflieger,DE,11,50221,Claudia Rieschel,1,False,Sylvia Cordes,other,2007,4
+225,Die Rettungsflieger,DE,11,26499,Gernot Endemann,2,False,Karl Rottenberg,other,2007,4
+226,Die Rettungsflieger,DE,11,987550,Mathias Herrmann,2,False,Michael Helmcke,other,2007,4
+227,Die Rettungsflieger,DE,11,42879,Florentine Lahme,1,False,Jasmin,other,2007,5
+228,Die Rettungsflieger,DE,11,90548,Ursela Monn,1,False,Doris Wesendonk,other,2007,5
+229,Die Rettungsflieger,DE,11,36434,Uwe Friedrichsen,2,False,Heinrich Wesendonk,other,2007,5
+230,Die Rettungsflieger,DE,11,36767,Valerie Niehaus,1,False,Sarah Liebermann,other,2007,6
+231,Die Rettungsflieger,DE,11,49179,Annalena Duken,1,False,Ptsy,other,2007,6
+232,Die Rettungsflieger,DE,11,1645215,Kathrin Spielvogel,1,False,Rebecca Eggers,other,2007,7
+233,Die Rettungsflieger,DE,11,67193,Hansi Jochmann,1,False,Christa Brüggemann,other,2007,7
+234,Die Rettungsflieger,DE,11,7829,Uwe Rohde,2,False,Wolf Brüggemann,other,2007,7

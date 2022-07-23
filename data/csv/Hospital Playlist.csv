@@ -1,0 +1,41 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Hospital Playlist,KR,1,1223316,Cho Jung-seok,2,True,Lee Ik-jun,doctor (probably),2020,3
+1,Hospital Playlist,KR,1,1330423,Kim Dae-myung,2,True,Yang Seok-hyung,doctor (probably),2020,3
+2,Hospital Playlist,KR,1,79578,Jung Kyung-ho,2,True,Kim Jun-wan,doctor (probably),2020,3
+3,Hospital Playlist,KR,1,587675,Yoo Yeon-seok,2,True,Ahn Jung-won,doctor (probably),2020,3
+4,Hospital Playlist,KR,1,2539185,Jeon Mi-do,1,True,Chae Song-hwa,doctor (probably),2020,3
+5,Hospital Playlist,KR,1,93252,Kim Hae-sook,1,True,Jeong Ro-sa,doctor (probably),2020,3
+6,Hospital Playlist,KR,1,1254975,Shin Hyun-bin,1,True,Jang Gyeo-wool,doctor (probably),2020,3
+7,Hospital Playlist,KR,1,2039484,Jung Moon-sung,2,True,Do Jae-hak,doctor (probably),2020,3
+8,Hospital Playlist,KR,1,1222431,Kim Kap-soo,2,True,Ju Jong-su,doctor (probably),2020,3
+9,Hospital Playlist,KR,1,2377695,Bae Hyun-sung,2,True,Jang Hong-do,doctor (probably),2020,3
+10,Hospital Playlist,KR,1,2185341,Cho Yi-hyun,1,True,Jang Yoon-bok,doctor (probably),2020,3
+11,Hospital Playlist,KR,1,1659174,Kim Hye-In,1,True,Myung Eun-won,doctor (probably),2020,3
+12,Hospital Playlist,KR,1,1875711,Ahn Eun-jin,1,True,Chu Min-ha,doctor (probably),2020,3
+13,Hospital Playlist,KR,1,2054220,Kim Jun-han,2,True,An Chi-yong,doctor (probably),2020,3
+14,Hospital Playlist,KR,1,2943957,Kim Joon,2,True,Lee Woo-joo,doctor (probably),2020,3
+15,Hospital Playlist,KR,1,3118861,Moon Tae-Yoo,3,True,Yong Seok-Min,doctor (probably),2020,3
+16,Hospital Playlist,KR,1,2087239,Kwak Sun-young,1,True,Lee Ik-sun,doctor (probably),2020,3
+17,Hospital Playlist,KR,1,2663920,Choi Young-jun,2,True,Bong Kwang-Hyeon,doctor (probably),2020,3
+18,Hospital Playlist,KR,1,1579819,Ha Yoon-kyung,1,True,Heo Sun-Bin,doctor (probably),2020,3
+19,Hospital Playlist,KR,1,3465736,Park Han-sol,1,True,(ER Nurse),nurse,2020,3
+20,Hospital Playlist,KR,1,1091050,Go Ah-ra,1,False,Go Ah-ra,other,2020,4
+21,Hospital Playlist,KR,1,2643775,Yoon Geumseon-ah,1,False,Baby Jae-won's Mother,other,2020,5
+22,Hospital Playlist,KR,2,1223316,Cho Jung-seok,2,True,Lee Ik-jun,doctor (probably),2021,6
+23,Hospital Playlist,KR,2,1330423,Kim Dae-myung,2,True,Yang Seok-hyung,doctor (probably),2021,6
+24,Hospital Playlist,KR,2,79578,Jung Kyung-ho,2,True,Kim Jun-wan,doctor (probably),2021,6
+25,Hospital Playlist,KR,2,587675,Yoo Yeon-seok,2,True,Ahn Jung-won,doctor (probably),2021,6
+26,Hospital Playlist,KR,2,2539185,Jeon Mi-do,1,True,Chae Song-hwa,doctor (probably),2021,6
+27,Hospital Playlist,KR,2,93252,Kim Hae-sook,1,True,Jeong Ro-sa,doctor (probably),2021,6
+28,Hospital Playlist,KR,2,1254975,Shin Hyun-bin,1,True,Jang Gyeo-wool,doctor (probably),2021,6
+29,Hospital Playlist,KR,2,2039484,Jung Moon-sung,2,True,Do Jae-hak,doctor (probably),2021,6
+30,Hospital Playlist,KR,2,2185341,Cho Yi-hyun,1,True,Jang Yoon-bok,doctor (probably),2021,6
+31,Hospital Playlist,KR,2,1875711,Ahn Eun-jin,1,True,Chu Min-ha,doctor (probably),2021,6
+32,Hospital Playlist,KR,2,3118861,Moon Tae-Yoo,3,True,Yong Seok-Min,doctor (probably),2021,6
+33,Hospital Playlist,KR,2,2087239,Kwak Sun-young,1,True,Lee Ik-sun,doctor (probably),2021,6
+34,Hospital Playlist,KR,2,2663920,Choi Young-jun,2,True,Bong Kwang-Hyeon,doctor (probably),2021,6
+35,Hospital Playlist,KR,2,1579819,Ha Yoon-kyung,1,True,Heo Sun-Bin,doctor (probably),2021,6
+36,Hospital Playlist,KR,2,2078535,Park Ji-yeon,1,True,Yoon Shin-hye,doctor (probably),2021,6
+37,Hospital Playlist,KR,2,3465736,Park Han-sol,1,True,(ER Nurse),nurse,2021,6
+38,Hospital Playlist,KR,2,1020859,Sung Dong-il,2,False,,other,2021,7
+39,Hospital Playlist,KR,2,2377671,Park Jung-woo,2,False,Jang Ga-eul,other,2021,8

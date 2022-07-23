@@ -1,0 +1,491 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,St. Elsewhere,US,1,10775,William Daniels,2,True,Mark Craig,doctor (probably),1982,10
+1,St. Elsewhere,US,1,27237,G.W. Bailey,2,True,Hugh Beale,doctor (probably),1982,10
+2,St. Elsewhere,US,1,42157,Ed Begley Jr.,2,True,Victor Ehrlich,doctor (probably),1982,10
+3,St. Elsewhere,US,1,102714,Terence Knox,2,True,Peter White,doctor (probably),1982,10
+4,St. Elsewhere,US,1,77920,Howie Mandel,2,True,Wayne Fiscus,doctor (probably),1982,10
+5,St. Elsewhere,US,1,52,David Morse,2,True,Jack Morrison,doctor (probably),1982,10
+6,St. Elsewhere,US,1,70746,Ed Flanders,2,True,Donald Westphall,doctor (probably),1982,10
+7,St. Elsewhere,US,1,94978,Christina Pickles,1,True,Helen Rosenthal,doctor (probably),1982,10
+8,St. Elsewhere,US,1,20913,David Birney,2,True,Ben Samuels,doctor (probably),1982,10
+9,St. Elsewhere,US,1,111710,Kavi Raz,2,True,Vijay Kochar,doctor (probably),1982,10
+10,St. Elsewhere,US,1,96765,Cynthia Sikes,1,True,Annie Cavanero,doctor (probably),1982,10
+11,St. Elsewhere,US,1,5292,Denzel Washington,2,True,Philip Chandler,doctor (probably),1982,10
+12,St. Elsewhere,US,1,5145,Jack Murdock,2,False,,other,1982,10
+13,St. Elsewhere,US,1,10084,Dominique Dunne,1,False,,other,1982,10
+14,St. Elsewhere,US,1,69415,Ernie Sabella,2,False,,other,1982,10
+15,St. Elsewhere,US,1,115858,Cotter Smith,2,False,,other,1982,10
+16,St. Elsewhere,US,1,1211982,James O'Sullivan,2,False,,other,1982,10
+17,St. Elsewhere,US,1,129492,Rafael Campos,2,False,,other,1982,10
+18,St. Elsewhere,US,1,70782,Richard Marcus,2,False,,other,1982,10
+19,St. Elsewhere,US,1,170093,Heather McAdam,1,False,,other,1982,10
+20,St. Elsewhere,US,1,1070,Frances Lee McCain,1,False,,other,1982,11
+21,St. Elsewhere,US,1,35159,Laraine Newman,1,False,,other,1982,11
+22,St. Elsewhere,US,1,504,Tim Robbins,2,False,,other,1982,11
+23,St. Elsewhere,US,1,157641,Jack Bannon,2,False,,other,1982,11
+24,St. Elsewhere,US,1,15415,Peter Maloney,2,False,,other,1982,11
+25,St. Elsewhere,US,1,33492,Robert Costanzo,2,False,,other,1982,11
+26,St. Elsewhere,US,1,134242,Deborah White,1,False,,other,1982,11
+27,St. Elsewhere,US,1,57138,Tony Bill,2,False,,other,1982,11
+28,St. Elsewhere,US,1,124435,Thomas Hill,2,False,,other,1982,11
+29,St. Elsewhere,US,1,1211987,John Walter Davis,2,False,,other,1982,11
+30,St. Elsewhere,US,1,87714,Lionel Mark Smith,2,False,,other,1982,11
+31,St. Elsewhere,US,1,41220,James Coco,2,False,,other,1982,11
+32,St. Elsewhere,US,1,1211989,Anne Gerety,1,False,,other,1982,11
+33,St. Elsewhere,US,1,33623,Michael Saucedo,2,False,,other,1982,11
+34,St. Elsewhere,US,1,12851,Ally Sheedy,1,False,,other,1982,11
+35,St. Elsewhere,US,1,81445,Rudy Ramos,2,False,,other,1982,11
+36,St. Elsewhere,US,1,275862,Jeremy Licht,2,False,Robbie Durant,other,1982,11
+37,St. Elsewhere,US,1,13524,Christopher Guest,2,False,,other,1982,12
+38,St. Elsewhere,US,1,31363,Candace Cameron Bure,1,False,,other,1982,12
+39,St. Elsewhere,US,1,12692,Albert Salmi,2,False,,other,1982,12
+40,St. Elsewhere,US,1,98555,Matthew Faison,2,False,,other,1982,12
+41,St. Elsewhere,US,1,86542,David Packer,2,False,,other,1982,12
+42,St. Elsewhere,US,1,16213,Lance Guest,2,False,,other,1982,12
+43,St. Elsewhere,US,1,54586,Molly Cheek,1,False,,other,1982,12
+44,St. Elsewhere,US,1,87039,Nan Martin,1,False,,other,1982,12
+45,St. Elsewhere,US,1,11477,Ray Liotta,2,False,,other,1983,1
+46,St. Elsewhere,US,1,39017,George Morfogen,2,False,,other,1983,1
+47,St. Elsewhere,US,1,1909,Conchata Ferrell,1,False,,other,1983,1
+48,St. Elsewhere,US,1,51550,Dorothy Fielding,1,False,,other,1983,1
+49,St. Elsewhere,US,1,123722,Peter Hobbs,2,False,,other,1983,1
+50,St. Elsewhere,US,1,7866,Robert Pastorelli,2,False,,other,1983,1
+51,St. Elsewhere,US,1,6772,Julius Harris,2,False,,other,1983,1
+52,St. Elsewhere,US,1,27725,Jane Kaczmarek,1,False,,other,1983,1
+53,St. Elsewhere,US,1,20904,James Hong,2,False,,other,1983,1
+54,St. Elsewhere,US,1,3999,Tom Hulce,2,False,,other,1983,1
+55,St. Elsewhere,US,1,56122,Marc Hayashi,2,False,,other,1983,1
+56,St. Elsewhere,US,1,52883,Pat Corley,2,False,,other,1983,2
+57,St. Elsewhere,US,1,14106,Alice Hirson,1,False,,other,1983,2
+58,St. Elsewhere,US,1,4966,Keenan Wynn,2,False,,other,1983,2
+59,St. Elsewhere,US,1,159555,Frank Campanella,2,False,,other,1983,2
+60,St. Elsewhere,US,1,147,Michael Madsen,2,False,,other,1983,2
+61,St. Elsewhere,US,1,1211994,"Stacy Keach, Sr.",2,False,,other,1983,2
+62,St. Elsewhere,US,1,84659,Janis Paige,1,False,,other,1983,2
+63,St. Elsewhere,US,1,14835,Dick O'Neill,2,False,,other,1983,2
+64,St. Elsewhere,US,1,33322,Melody Anderson,1,False,,other,1983,2
+65,St. Elsewhere,US,1,1211995,Mark Casella,2,False,,other,1983,2
+66,St. Elsewhere,US,1,13312,Rae Dawn Chong,1,False,,other,1983,3
+67,St. Elsewhere,US,1,20906,Peter Michael Goetz,2,False,,other,1983,3
+68,St. Elsewhere,US,1,1211997,Liz Sheridan,1,False,,other,1983,3
+69,St. Elsewhere,US,1,43859,Diane Delano,1,False,,other,1983,3
+70,St. Elsewhere,US,1,1106,Richard Chaves,2,False,,other,1983,3
+71,St. Elsewhere,US,1,9633,Richard Hamilton,2,False,,other,1983,3
+72,St. Elsewhere,US,1,3798,Pat Hingle,2,False,,other,1983,3
+73,St. Elsewhere,US,1,24320,Alan Oppenheimer,2,False,,other,1983,3
+74,St. Elsewhere,US,1,80415,Judith Light,1,False,,other,1983,3
+75,St. Elsewhere,US,1,21523,Ed Lauter,2,False,Stan Morgen,other,1983,4
+76,St. Elsewhere,US,1,147942,James Sutorius,2,False,,other,1983,4
+77,St. Elsewhere,US,1,52141,Robert Jayne,2,False,,other,1983,4
+78,St. Elsewhere,US,1,19414,Tom Tully,2,False,,other,1983,4
+79,St. Elsewhere,US,1,94402,Walter Brooke,2,False,,other,1983,4
+80,St. Elsewhere,US,1,168320,Louis Giambalvo,2,False,,other,1983,4
+81,St. Elsewhere,US,1,1211999,Laurie Kennedy,1,False,,other,1983,4
+82,St. Elsewhere,US,1,1212000,Jose Flores,2,False,,other,1983,4
+83,St. Elsewhere,US,1,21202,Micole Mercurio,1,False,,other,1983,4
+84,St. Elsewhere,US,1,48810,Scott Paulin,2,False,,other,1983,5
+85,St. Elsewhere,US,1,44846,Howard Duff,2,False,,other,1983,5
+86,St. Elsewhere,US,1,77588,Howard George,2,False,,other,1983,5
+87,St. Elsewhere,US,1,58494,Tom McFadden,2,False,,other,1983,5
+88,St. Elsewhere,US,2,10775,William Daniels,2,True,Mark Craig,doctor (probably),1983,10
+89,St. Elsewhere,US,2,2698,Norman Lloyd,2,True,Daniel Auschlander,doctor (probably),1983,10
+90,St. Elsewhere,US,2,1216952,Ellen Bry,1,True,Shirley Daniels,doctor (probably),1983,10
+91,St. Elsewhere,US,2,42157,Ed Begley Jr.,2,True,Victor Ehrlich,doctor (probably),1983,10
+92,St. Elsewhere,US,2,19728,Mark Harmon,2,True,Robert Caldwell,doctor (probably),1983,10
+93,St. Elsewhere,US,2,102714,Terence Knox,2,True,Peter White,doctor (probably),1983,10
+94,St. Elsewhere,US,2,77920,Howie Mandel,2,True,Wayne Fiscus,doctor (probably),1983,10
+95,St. Elsewhere,US,2,56182,Kim Miyori,1,True,Wendy Armstrong,doctor (probably),1983,10
+96,St. Elsewhere,US,2,52,David Morse,2,True,Jack Morrison,doctor (probably),1983,10
+97,St. Elsewhere,US,2,70746,Ed Flanders,2,True,Donald Westphall,doctor (probably),1983,10
+98,St. Elsewhere,US,2,94978,Christina Pickles,1,True,Helen Rosenthal,doctor (probably),1983,10
+99,St. Elsewhere,US,2,111710,Kavi Raz,2,True,Vijay Kochar,doctor (probably),1983,10
+100,St. Elsewhere,US,2,96765,Cynthia Sikes,1,True,Annie Cavanero,doctor (probably),1983,10
+101,St. Elsewhere,US,2,156266,Nancy Stafford,1,True,Joan Halloran,doctor (probably),1983,10
+102,St. Elsewhere,US,2,5292,Denzel Washington,2,True,Philip Chandler,doctor (probably),1983,10
+103,St. Elsewhere,US,2,1903,Alan Arkin,2,False,,other,1983,10
+104,St. Elsewhere,US,2,1212053,Jean Bruce Scott,1,False,,other,1983,10
+105,St. Elsewhere,US,2,6721,Piper Laurie,1,False,,other,1983,10
+106,St. Elsewhere,US,2,47902,Marian Mercer,1,False,,other,1983,10
+107,St. Elsewhere,US,2,1212054,Arnold F. Turner,2,False,,other,1983,10
+108,St. Elsewhere,US,2,44810,Cassandra Peterson,1,False,,other,1983,10
+109,St. Elsewhere,US,2,44990,Peter Horton,2,False,,other,1983,11
+110,St. Elsewhere,US,2,51189,Peggy McCay,1,False,,other,1983,11
+111,St. Elsewhere,US,2,107308,Paul Linke,2,False,,other,1983,11
+112,St. Elsewhere,US,2,5945,Bruce Gray,2,False,,other,1983,11
+113,St. Elsewhere,US,2,134242,Deborah White,1,False,,other,1983,11
+114,St. Elsewhere,US,2,1212055,Allan Lurie,2,False,,other,1983,11
+115,St. Elsewhere,US,2,2842,Jeannetta Arnette,1,False,,other,1983,11
+116,St. Elsewhere,US,2,1196540,Jonathan Goldsmith,2,False,,other,1983,11
+117,St. Elsewhere,US,2,1212056,Gretchen Wyler,1,False,,other,1983,11
+118,St. Elsewhere,US,2,45000,Sarah Lilly,1,False,,other,1983,11
+119,St. Elsewhere,US,2,78416,Paul Sand,2,False,,other,1983,11
+120,St. Elsewhere,US,2,7036,Eric Stoltz,2,False,,other,1983,11
+121,St. Elsewhere,US,2,6168,Austin Pendleton,2,False,,other,1983,11
+122,St. Elsewhere,US,2,3232,Lisa Bonet,1,False,,other,1983,12
+123,St. Elsewhere,US,2,9980,K.C. Martel,2,False,,other,1983,12
+124,St. Elsewhere,US,2,31391,Barbara Tarbuck,1,False,,other,1983,12
+125,St. Elsewhere,US,2,8903,Dody Goodman,1,False,,other,1983,12
+126,St. Elsewhere,US,2,22437,Philip Sterling,2,False,,other,1983,12
+127,St. Elsewhere,US,2,91302,Chad Allen,2,False,,other,1983,12
+128,St. Elsewhere,US,2,132874,Joan Hotchkis,1,False,,other,1983,12
+129,St. Elsewhere,US,2,158833,Sydney Penny,1,False,,other,1983,12
+130,St. Elsewhere,US,2,13312,Rae Dawn Chong,1,False,,other,1983,12
+131,St. Elsewhere,US,2,131814,Michael Brandon,2,False,,other,1983,12
+132,St. Elsewhere,US,2,1212058,Linda Carlson,1,False,Janet Dalton,other,1984,1
+133,St. Elsewhere,US,2,2716,Earl Boen,2,False,,other,1984,1
+134,St. Elsewhere,US,2,152943,Macon McCalman,2,False,,other,1984,1
+135,St. Elsewhere,US,2,83782,Bruce Wright,2,False,,other,1984,1
+136,St. Elsewhere,US,2,94490,André Gower,2,False,,other,1984,1
+137,St. Elsewhere,US,2,14789,Ruth Kobart,1,False,,other,1984,1
+138,St. Elsewhere,US,2,21522,Joe Regalbuto,2,False,,other,1984,2
+139,St. Elsewhere,US,2,19403,Conrad Janis,2,False,,other,1984,2
+140,St. Elsewhere,US,2,66194,Raymond Singer,2,False,,other,1984,2
+141,St. Elsewhere,US,2,9565,Louise Lasser,1,False,,other,1984,2
+142,St. Elsewhere,US,2,11793,Priscilla Pointer,1,False,,other,1984,2
+143,St. Elsewhere,US,2,8499,William Windom,2,False,,other,1984,2
+144,St. Elsewhere,US,2,83812,Ford Rainey,2,False,,other,1984,2
+145,St. Elsewhere,US,2,109539,John Fox,2,False,,other,1984,2
+146,St. Elsewhere,US,2,168292,Stan Ivar,2,False,,other,1984,2
+147,St. Elsewhere,US,2,19781,Lurene Tuttle,1,False,,other,1984,2
+148,St. Elsewhere,US,2,92280,Kevin Scannell,2,False,,other,1984,2
+149,St. Elsewhere,US,2,1212067,Teddi Siddall,1,False,,other,1984,2
+150,St. Elsewhere,US,2,11718,Anne Haney,1,False,,other,1984,2
+151,St. Elsewhere,US,2,76382,Allyn Ann McLerie,1,False,,other,1984,2
+152,St. Elsewhere,US,2,4734,Jenny O'Hara,1,False,,other,1984,2
+153,St. Elsewhere,US,2,50807,Michael Richards,2,False,,other,1984,2
+154,St. Elsewhere,US,2,84870,Rosanne Katon,1,False,,other,1984,2
+155,St. Elsewhere,US,2,175037,Leigh French,1,False,,other,1984,2
+156,St. Elsewhere,US,2,30226,Geraldine Fitzgerald,1,False,,other,1984,2
+157,St. Elsewhere,US,2,6486,Dan Hedaya,2,False,,other,1984,2
+158,St. Elsewhere,US,2,95857,Elizabeth Ruscio,1,False,,other,1984,2
+159,St. Elsewhere,US,2,116913,Amy Resnick,1,False,,other,1984,2
+160,St. Elsewhere,US,2,31363,Candace Cameron Bure,1,False,,other,1984,2
+161,St. Elsewhere,US,2,111872,Helen Martin,1,False,,other,1984,2
+162,St. Elsewhere,US,2,37254,Al Ruscio,2,False,,other,1984,3
+163,St. Elsewhere,US,2,1212010,Reid Shelton,2,False,,other,1984,3
+164,St. Elsewhere,US,2,1193702,Chris Hebert,2,False,,other,1984,3
+165,St. Elsewhere,US,2,34119,Lyle Talbot,2,False,,other,1984,3
+166,St. Elsewhere,US,2,43125,Rob Paulsen,2,False,,other,1984,3
+167,St. Elsewhere,US,2,112939,Christopher Michael Moore,2,False,,other,1984,3
+168,St. Elsewhere,US,2,20626,Joseph Maher,2,False,,other,1984,3
+169,St. Elsewhere,US,2,60698,Tracy Nelson,1,False,,other,1984,3
+170,St. Elsewhere,US,2,30585,Brenda Vaccaro,1,False,,other,1984,3
+171,St. Elsewhere,US,2,1212070,Eva Le Gallienne,1,False,,other,1984,3
+172,St. Elsewhere,US,2,10401,Blythe Danner,1,False,,other,1984,3
+173,St. Elsewhere,US,2,1080265,Michael Ensign,2,False,,other,1984,5
+174,St. Elsewhere,US,2,75465,Lewis Arquette,2,False,,other,1984,5
+175,St. Elsewhere,US,2,63790,Joey Aresco,2,False,,other,1984,5
+176,St. Elsewhere,US,2,1212043,Dee Hoty,1,False,,other,1984,5
+177,St. Elsewhere,US,2,48810,Scott Paulin,2,False,,other,1984,5
+178,St. Elsewhere,US,2,122830,Christina Kokubo,1,False,,other,1984,5
+179,St. Elsewhere,US,2,1212007,Byron Stewart,2,False,,other,1984,5
+180,St. Elsewhere,US,2,9994,Helen Hunt,1,False,,other,1984,5
+181,St. Elsewhere,US,2,10362,Roberta Maxwell,1,False,,other,1984,5
+182,St. Elsewhere,US,2,19454,Michael Laskin,2,False,,other,1984,5
+183,St. Elsewhere,US,3,10775,William Daniels,2,True,Mark Craig,doctor (probably),1984,9
+184,St. Elsewhere,US,3,2698,Norman Lloyd,2,True,Daniel Auschlander,doctor (probably),1984,9
+185,St. Elsewhere,US,3,1216952,Ellen Bry,1,True,Shirley Daniels,doctor (probably),1984,9
+186,St. Elsewhere,US,3,42157,Ed Begley Jr.,2,True,Victor Ehrlich,doctor (probably),1984,9
+187,St. Elsewhere,US,3,19728,Mark Harmon,2,True,Robert Caldwell,doctor (probably),1984,9
+188,St. Elsewhere,US,3,52304,Stephen Furst,2,True,Elliot Axelrod,doctor (probably),1984,9
+189,St. Elsewhere,US,3,102714,Terence Knox,2,True,Peter White,doctor (probably),1984,9
+190,St. Elsewhere,US,3,77920,Howie Mandel,2,True,Wayne Fiscus,doctor (probably),1984,9
+191,St. Elsewhere,US,3,52,David Morse,2,True,Jack Morrison,doctor (probably),1984,9
+192,St. Elsewhere,US,3,70746,Ed Flanders,2,True,Donald Westphall,doctor (probably),1984,9
+193,St. Elsewhere,US,3,94978,Christina Pickles,1,True,Helen Rosenthal,doctor (probably),1984,9
+194,St. Elsewhere,US,3,96765,Cynthia Sikes,1,True,Annie Cavanero,doctor (probably),1984,9
+195,St. Elsewhere,US,3,5292,Denzel Washington,2,True,Philip Chandler,doctor (probably),1984,9
+196,St. Elsewhere,US,3,8874,Ernie Hudson,2,False,,other,1984,9
+197,St. Elsewhere,US,3,786,Stephen Elliott,2,False,,other,1984,9
+198,St. Elsewhere,US,3,122830,Christina Kokubo,1,False,,other,1984,9
+199,St. Elsewhere,US,3,1212007,Byron Stewart,2,False,,other,1984,9
+200,St. Elsewhere,US,3,65101,Michael Learned,1,False,,other,1984,9
+201,St. Elsewhere,US,3,9994,Helen Hunt,1,False,,other,1984,9
+202,St. Elsewhere,US,3,1212031,Priscilla Morrill,1,False,,other,1984,9
+203,St. Elsewhere,US,3,16060,Brian Tochi,2,False,,other,1984,9
+204,St. Elsewhere,US,3,1079993,John Hammond,2,False,,other,1984,9
+205,St. Elsewhere,US,3,19548,Susan Blu,1,False,,other,1984,9
+206,St. Elsewhere,US,3,63998,Tammy Grimes,1,False,,other,1984,9
+207,St. Elsewhere,US,3,31117,Philip Bruns,2,False,,other,1984,9
+208,St. Elsewhere,US,3,1212032,Bette Ford,1,False,Pat Kroll,other,1984,9
+209,St. Elsewhere,US,3,14832,Herb Edelman,2,False,,other,1984,9
+210,St. Elsewhere,US,3,1212033,Florence Halop,1,False,,other,1984,9
+211,St. Elsewhere,US,3,18978,David Faustino,2,False,,other,1984,10
+212,St. Elsewhere,US,3,14103,Mark Blum,2,False,,other,1984,10
+213,St. Elsewhere,US,3,91302,Chad Allen,2,False,,other,1984,10
+214,St. Elsewhere,US,3,1212034,Barney Martin,2,False,,other,1984,10
+215,St. Elsewhere,US,3,1212035,Susan Blackstone,1,False,,other,1984,10
+216,St. Elsewhere,US,3,1212036,Heather McNair,1,False,,other,1984,10
+217,St. Elsewhere,US,3,37254,Al Ruscio,2,False,,other,1984,10
+218,St. Elsewhere,US,3,20752,Alex Rocco,2,False,,other,1984,10
+219,St. Elsewhere,US,3,9276,Steve Eastin,2,False,,other,1984,10
+220,St. Elsewhere,US,3,2977,Jamey Sheridan,2,False,,other,1984,10
+221,St. Elsewhere,US,3,175051,Nathan Purdee,2,False,,other,1984,10
+222,St. Elsewhere,US,3,31363,Candace Cameron Bure,1,False,,other,1984,10
+223,St. Elsewhere,US,3,102718,Rosalind Allen,1,False,,other,1984,10
+224,St. Elsewhere,US,3,18292,Beverly Todd,1,False,,other,1984,10
+225,St. Elsewhere,US,3,114272,Alex Henteloff,2,False,,other,1984,10
+226,St. Elsewhere,US,3,1212039,Jerry Supiran,2,False,,other,1984,11
+227,St. Elsewhere,US,3,19133,Mari Gorman,1,False,,other,1984,11
+228,St. Elsewhere,US,3,15418,Joel Polis,2,False,,other,1984,11
+229,St. Elsewhere,US,3,37713,Taliesin Jaffe,2,False,,other,1984,11
+230,St. Elsewhere,US,3,50807,Michael Richards,2,False,,other,1984,11
+231,St. Elsewhere,US,3,101657,Jeana Keough,1,False,,other,1984,11
+232,St. Elsewhere,US,3,80626,Carol Arthur,1,False,,other,1984,11
+233,St. Elsewhere,US,3,88450,Chuck McCann,2,False,,other,1984,11
+234,St. Elsewhere,US,3,17695,Bill Macy,2,False,,other,1984,11
+235,St. Elsewhere,US,3,14833,Harold Gould,2,False,,other,1984,11
+236,St. Elsewhere,US,3,24046,John Schuck,2,False,,other,1984,11
+237,St. Elsewhere,US,3,38226,Caroline McWilliams,1,False,,other,1984,11
+238,St. Elsewhere,US,3,105991,Beverly Sanders,1,False,,other,1984,11
+239,St. Elsewhere,US,3,32774,Beah Richards,1,False,,other,1984,11
+240,St. Elsewhere,US,3,91495,Mimi Kennedy,1,False,,other,1984,12
+241,St. Elsewhere,US,3,1953,Casey Siemaszko,2,False,,other,1984,12
+242,St. Elsewhere,US,3,80990,Virginia Capers,1,False,,other,1984,12
+243,St. Elsewhere,US,3,9986,Anne-Marie Martin,1,False,,other,1984,12
+244,St. Elsewhere,US,3,49353,Jack Dodson,2,False,,other,1984,12
+245,St. Elsewhere,US,3,14831,David Wayne,2,False,,other,1984,12
+246,St. Elsewhere,US,3,97418,Cady McClain,1,False,,other,1984,12
+247,St. Elsewhere,US,3,89452,Jeannie Elias,1,False,,other,1984,12
+248,St. Elsewhere,US,3,67893,Larry B. Scott,2,False,,other,1984,12
+249,St. Elsewhere,US,3,157169,Christopher Allport,2,False,,other,1984,12
+250,St. Elsewhere,US,3,16086,Liam Sullivan,2,False,,other,1984,12
+251,St. Elsewhere,US,3,81316,Reid Scott,2,False,,other,1984,12
+252,St. Elsewhere,US,3,84066,Ilene Graff,1,False,,other,1985,1
+253,St. Elsewhere,US,3,13312,Rae Dawn Chong,1,False,,other,1985,1
+254,St. Elsewhere,US,3,70868,Jay Tarses,2,False,,other,1985,1
+255,St. Elsewhere,US,3,1212042,David Ruprecht,2,False,,other,1985,1
+256,St. Elsewhere,US,3,117536,Michael Dukakis,2,False,,other,1985,1
+257,St. Elsewhere,US,3,91387,Keone Young,2,False,,other,1985,1
+258,St. Elsewhere,US,3,1212043,Dee Hoty,1,False,,other,1985,1
+259,St. Elsewhere,US,3,30489,Karen Austin,1,False,,other,1985,1
+260,St. Elsewhere,US,3,14319,Lycia Naff,1,False,,other,1985,1
+261,St. Elsewhere,US,3,20631,Ann Hearn,1,False,,other,1985,1
+262,St. Elsewhere,US,3,1196540,Jonathan Goldsmith,2,False,,other,1985,1
+263,St. Elsewhere,US,3,83782,Bruce Wright,2,False,,other,1985,1
+264,St. Elsewhere,US,3,1212027,Jeff Allin,2,False,,other,1985,1
+265,St. Elsewhere,US,3,124131,Alan Fudge,2,False,,other,1985,2
+266,St. Elsewhere,US,3,1212047,David Sage,2,False,,other,1985,2
+267,St. Elsewhere,US,3,71727,Betty White,1,False,,other,1985,2
+268,St. Elsewhere,US,3,1212048,Rhetta Greene,0,False,,other,1985,2
+269,St. Elsewhere,US,3,81898,Jo De Winter,1,False,,other,1985,2
+270,St. Elsewhere,US,3,1212049,Robert Krimmer,2,False,,other,1985,2
+271,St. Elsewhere,US,3,17494,Dennis Dugan,2,False,,other,1985,3
+272,St. Elsewhere,US,3,156818,Gina Hecht,1,False,,other,1985,3
+273,St. Elsewhere,US,3,51230,Michael Fox,2,False,,other,1985,3
+274,St. Elsewhere,US,3,102858,Jane Merrow,1,False,,other,1985,3
+275,St. Elsewhere,US,3,4679,John Furlong,2,False,,other,1985,3
+276,St. Elsewhere,US,3,165827,Jim Lau,2,False,,other,1985,3
+277,St. Elsewhere,US,3,120257,Joe D'Angerio,2,False,,other,1985,3
+278,St. Elsewhere,US,3,24203,Rhea Perlman,1,False,,other,1985,3
+279,St. Elsewhere,US,3,148655,Aaron Lohr,2,False,,other,1985,3
+280,St. Elsewhere,US,3,29313,Dean Jagger,2,False,,other,1985,3
+281,St. Elsewhere,US,3,23708,Lou Jacobi,2,False,,other,1985,3
+282,St. Elsewhere,US,3,10090,Richard Lawson,2,False,,other,1985,3
+283,St. Elsewhere,US,3,66606,George Wendt,2,False,,other,1985,3
+284,St. Elsewhere,US,3,7907,John Ratzenberger,2,False,,other,1985,3
+285,St. Elsewhere,US,3,9786,Jessie Lawrence Ferguson,2,False,,other,1985,3
+286,St. Elsewhere,US,3,162039,Jaclyn Bernstein,1,False,,other,1985,3
+287,St. Elsewhere,US,4,10775,William Daniels,2,True,Mark Craig,doctor (probably),1985,9
+288,St. Elsewhere,US,4,2698,Norman Lloyd,2,True,Daniel Auschlander,doctor (probably),1985,9
+289,St. Elsewhere,US,4,42157,Ed Begley Jr.,2,True,Victor Ehrlich,doctor (probably),1985,9
+290,St. Elsewhere,US,4,19728,Mark Harmon,2,True,Robert Caldwell,doctor (probably),1985,9
+291,St. Elsewhere,US,4,52304,Stephen Furst,2,True,Elliot Axelrod,doctor (probably),1985,9
+292,St. Elsewhere,US,4,77920,Howie Mandel,2,True,Wayne Fiscus,doctor (probably),1985,9
+293,St. Elsewhere,US,4,52,David Morse,2,True,Jack Morrison,doctor (probably),1985,9
+294,St. Elsewhere,US,4,70746,Ed Flanders,2,True,Donald Westphall,doctor (probably),1985,9
+295,St. Elsewhere,US,4,94978,Christina Pickles,1,True,Helen Rosenthal,doctor (probably),1985,9
+296,St. Elsewhere,US,4,5292,Denzel Washington,2,True,Philip Chandler,doctor (probably),1985,9
+297,St. Elsewhere,US,4,84915,Oliver Clark,2,False,,other,1985,9
+298,St. Elsewhere,US,4,1018859,George DelHoyo,2,False,,other,1985,9
+299,St. Elsewhere,US,4,15998,Joseph Ruskin,2,False,,other,1985,9
+300,St. Elsewhere,US,4,22437,Philip Sterling,2,False,,other,1985,9
+301,St. Elsewhere,US,4,1212003,Ricky Paull Goldin,2,False,,other,1985,9
+302,St. Elsewhere,US,4,48810,Scott Paulin,2,False,,other,1985,9
+303,St. Elsewhere,US,4,155754,Melanie Chartoff,1,False,,other,1985,9
+304,St. Elsewhere,US,4,148635,Todd Susman,2,False,,other,1985,9
+305,St. Elsewhere,US,4,91302,Chad Allen,2,False,,other,1985,9
+306,St. Elsewhere,US,4,55257,Adam Arkin,2,False,,other,1985,9
+307,St. Elsewhere,US,4,80241,Linda Kelsey,1,False,,other,1985,10
+308,St. Elsewhere,US,4,89452,Jeannie Elias,1,False,,other,1985,10
+309,St. Elsewhere,US,4,154625,Pamela Dunlap,1,False,,other,1985,10
+310,St. Elsewhere,US,4,1273694,George Wallace,2,False,,other,1985,10
+311,St. Elsewhere,US,4,1212007,Byron Stewart,2,False,,other,1985,10
+312,St. Elsewhere,US,4,101396,Brenda Strong,1,False,,other,1985,10
+313,St. Elsewhere,US,4,49353,Jack Dodson,2,False,,other,1985,10
+314,St. Elsewhere,US,4,33492,Robert Costanzo,2,False,,other,1985,10
+315,St. Elsewhere,US,4,1212008,Tanya Berezin,1,False,,other,1985,10
+316,St. Elsewhere,US,4,1212010,Reid Shelton,2,False,,other,1985,11
+317,St. Elsewhere,US,4,41729,K Callan,1,False,,other,1985,11
+318,St. Elsewhere,US,4,13656,Amanda Wyss,1,False,,other,1985,11
+319,St. Elsewhere,US,4,127966,David Ackroyd,2,False,,other,1985,11
+320,St. Elsewhere,US,4,83052,Linda Thorson,1,False,,other,1985,11
+321,St. Elsewhere,US,4,16148,Rebecca Forstadt,1,False,,other,1985,11
+322,St. Elsewhere,US,4,33060,Ramon Bieri,2,False,,other,1985,11
+323,St. Elsewhere,US,4,62590,Jack Riley,2,False,,other,1985,11
+324,St. Elsewhere,US,4,71727,Betty White,1,False,,other,1985,11
+325,St. Elsewhere,US,4,102633,Gary Bayer,2,False,,other,1985,11
+326,St. Elsewhere,US,4,154361,Lew Horn,2,False,,other,1985,12
+327,St. Elsewhere,US,4,1211995,Mark Casella,2,False,,other,1985,12
+328,St. Elsewhere,US,4,114809,Leah Ayres,1,False,,other,1985,12
+329,St. Elsewhere,US,4,42169,Richard Gilliland,2,False,,other,1985,12
+330,St. Elsewhere,US,4,65334,Michael Des Barres,2,False,,other,1985,12
+331,St. Elsewhere,US,4,1212013,Gary Armagnac,2,False,,other,1985,12
+332,St. Elsewhere,US,4,1212015,Alan Baltes,2,False,,other,1985,12
+333,St. Elsewhere,US,4,1212016,Alison Sweeney,1,False,,other,1985,12
+334,St. Elsewhere,US,4,1953,Casey Siemaszko,2,False,,other,1985,12
+335,St. Elsewhere,US,4,77033,Judyann Elder,1,False,,other,1985,12
+336,St. Elsewhere,US,4,122830,Christina Kokubo,1,False,,other,1986,1
+337,St. Elsewhere,US,4,175087,Carrie Nye,1,False,,other,1986,1
+338,St. Elsewhere,US,4,53010,John McIntire,2,False,,other,1986,1
+339,St. Elsewhere,US,4,1212018,Fran Bennett,1,False,,other,1986,1
+340,St. Elsewhere,US,4,7520,Jeanette Nolan,1,False,,other,1986,1
+341,St. Elsewhere,US,4,160245,Diana Canova,1,False,,other,1986,1
+342,St. Elsewhere,US,4,24815,Dorothy McGuire,1,False,,other,1986,1
+343,St. Elsewhere,US,4,6354,Charles Cioffi,2,False,,other,1986,1
+344,St. Elsewhere,US,4,9994,Helen Hunt,1,False,,other,1986,1
+345,St. Elsewhere,US,4,15992,William Schallert,2,False,,other,1986,1
+346,St. Elsewhere,US,4,27238,Brian McNamara,2,False,,other,1986,1
+347,St. Elsewhere,US,4,161566,Millie Slavin,1,False,Maggie,other,1986,1
+348,St. Elsewhere,US,4,1140287,Melissa Francis,1,False,,other,1986,2
+349,St. Elsewhere,US,4,27110,Malcolm Stewart,2,False,,other,1986,2
+350,St. Elsewhere,US,4,75353,Adam Rich,2,False,,other,1986,2
+351,St. Elsewhere,US,4,50464,Brian Kerwin,2,False,,other,1986,2
+352,St. Elsewhere,US,4,10195,Norman Burton,2,False,,other,1986,2
+353,St. Elsewhere,US,4,35317,Kate Mulgrew,1,False,,other,1986,2
+354,St. Elsewhere,US,4,20974,Anita Gillette,1,False,,other,1986,2
+355,St. Elsewhere,US,4,52995,Edward Herrmann,2,False,,other,1986,2
+356,St. Elsewhere,US,4,829,William Russ,2,False,,other,1986,2
+357,St. Elsewhere,US,4,1212024,William Long Jr.,2,False,,other,1986,2
+358,St. Elsewhere,US,4,55278,Jackie Cooper,2,False,,other,1986,2
+359,St. Elsewhere,US,4,154307,R.J. Williams,2,False,,other,1986,2
+360,St. Elsewhere,US,4,75022,Alan Autry,2,False,,other,1986,2
+361,St. Elsewhere,US,4,92558,Peggy Pope,1,False,,other,1986,2
+362,St. Elsewhere,US,4,1212026,Dan Frischman,2,False,,other,1986,3
+363,St. Elsewhere,US,4,1212027,Jeff Allin,2,False,,other,1986,3
+364,St. Elsewhere,US,4,4976,Eric Christmas,2,False,,other,1986,3
+365,St. Elsewhere,US,4,13028,Nicholas Pryor,2,False,,other,1986,3
+366,St. Elsewhere,US,4,157439,Paula Kelly,1,False,,other,1986,3
+367,St. Elsewhere,US,4,13308,Akosua Busia,1,False,,other,1986,3
+368,St. Elsewhere,US,4,84081,Earl Houston Bullock,2,False,,other,1986,3
+369,St. Elsewhere,US,4,19178,Dick Shawn,2,False,,other,1986,4
+370,St. Elsewhere,US,4,14832,Herb Edelman,2,False,,other,1986,4
+371,St. Elsewhere,US,4,80615,Juanita Jennings,1,False,,other,1986,4
+372,St. Elsewhere,US,4,2021,Jane Wyatt,1,False,,other,1986,5
+373,St. Elsewhere,US,5,10775,William Daniels,2,True,Mark Craig,doctor (probably),1986,9
+374,St. Elsewhere,US,5,2698,Norman Lloyd,2,True,Daniel Auschlander,doctor (probably),1986,9
+375,St. Elsewhere,US,5,32479,Bonnie Bartlett,1,True,Ellen Craig,doctor (probably),1986,9
+376,St. Elsewhere,US,5,42157,Ed Begley Jr.,2,True,Victor Ehrlich,doctor (probably),1986,9
+377,St. Elsewhere,US,5,52304,Stephen Furst,2,True,Elliot Axelrod,doctor (probably),1986,9
+378,St. Elsewhere,US,5,21089,Bruce Greenwood,2,True,Seth Griffin,doctor (probably),1986,9
+379,St. Elsewhere,US,5,77920,Howie Mandel,2,True,Wayne Fiscus,doctor (probably),1986,9
+380,St. Elsewhere,US,5,74276,Cindy Pickett,1,True,Carol Novino,doctor (probably),1986,9
+381,St. Elsewhere,US,5,52,David Morse,2,True,Jack Morrison,doctor (probably),1986,9
+382,St. Elsewhere,US,5,70746,Ed Flanders,2,True,Donald Westphall,doctor (probably),1986,9
+383,St. Elsewhere,US,5,94978,Christina Pickles,1,True,Helen Rosenthal,doctor (probably),1986,9
+384,St. Elsewhere,US,5,5292,Denzel Washington,2,True,Philip Chandler,doctor (probably),1986,9
+385,St. Elsewhere,US,5,161310,Bruce Solomon,2,False,,other,1986,9
+386,St. Elsewhere,US,5,33487,Patricia Wettig,1,False,Joanne,other,1986,9
+387,St. Elsewhere,US,5,52995,Edward Herrmann,2,False,,other,1986,9
+388,St. Elsewhere,US,5,84112,Brandon Call,2,False,,other,1986,10
+389,St. Elsewhere,US,5,84915,Oliver Clark,2,False,,other,1986,10
+390,St. Elsewhere,US,5,1212078,Stephen Shortridge,2,False,,other,1986,10
+391,St. Elsewhere,US,5,105086,Ray Girardin,2,False,,other,1986,10
+392,St. Elsewhere,US,5,96880,Jamie Rose,1,False,,other,1986,10
+393,St. Elsewhere,US,5,74506,Curt Lowens,2,False,,other,1986,10
+394,St. Elsewhere,US,5,107308,Paul Linke,2,False,,other,1986,10
+395,St. Elsewhere,US,5,1212079,Helen Page Camp,1,False,,other,1986,10
+396,St. Elsewhere,US,5,30273,Rosemary DeCamp,1,False,,other,1986,10
+397,St. Elsewhere,US,5,17844,Elke Sommer,1,False,,other,1986,10
+398,St. Elsewhere,US,5,75312,Sasha Mitchell,2,False,,other,1986,10
+399,St. Elsewhere,US,5,74954,Corinne Bohrer,1,False,,other,1986,10
+400,St. Elsewhere,US,5,163537,Steven Eckholdt,2,False,,other,1986,10
+401,St. Elsewhere,US,5,23532,Jason Bateman,2,False,,other,1986,10
+402,St. Elsewhere,US,5,121041,Julie Cobb,1,False,,other,1986,10
+403,St. Elsewhere,US,5,91302,Chad Allen,2,False,,other,1986,10
+404,St. Elsewhere,US,5,74073,Rosalind Chao,1,False,,other,1986,11
+405,St. Elsewhere,US,5,1212081,Jeff McCracken,2,False,,other,1986,11
+406,St. Elsewhere,US,5,1212007,Byron Stewart,2,False,,other,1986,11
+407,St. Elsewhere,US,5,8534,Kathy Bates,1,False,,other,1986,11
+408,St. Elsewhere,US,5,100552,Mary Woronov,1,False,,other,1986,11
+409,St. Elsewhere,US,5,3033,Wil Wheaton,2,False,Owen Drimmer,doctor,1986,11
+410,St. Elsewhere,US,5,105704,Melinda Culea,1,False,McPhail,other,1986,11
+411,St. Elsewhere,US,5,161439,Bibi Osterwald,1,False,,other,1986,11
+412,St. Elsewhere,US,5,1233188,Lois Foraker,1,False,Masha,other,1986,11
+413,St. Elsewhere,US,5,1987322,Paula Hoffman,1,False,Caitlin McFadden,other,1986,11
+414,St. Elsewhere,US,5,85869,John Dennis Johnston,2,False,Nick Moats,other,1986,11
+415,St. Elsewhere,US,5,47902,Marian Mercer,1,False,,other,1986,11
+416,St. Elsewhere,US,5,70782,Richard Marcus,2,False,,other,1986,11
+417,St. Elsewhere,US,5,94847,Bill Dana,2,False,,other,1986,12
+418,St. Elsewhere,US,5,101901,Milton Selzer,2,False,,other,1986,12
+419,St. Elsewhere,US,5,148635,Todd Susman,2,False,,other,1986,12
+420,St. Elsewhere,US,5,47137,Milo O’Shea,2,False,,other,1986,12
+421,St. Elsewhere,US,5,145173,Bettye Ackerman,1,False,,other,1986,12
+422,St. Elsewhere,US,5,21142,Gregory Itzin,2,False,,other,1986,12
+423,St. Elsewhere,US,5,119475,Joe Seely,2,False,,other,1986,12
+424,St. Elsewhere,US,5,2368,Elya Baskin,2,False,,other,1987,1
+425,St. Elsewhere,US,5,26283,Gerrit Graham,2,False,,other,1987,1
+426,St. Elsewhere,US,5,14832,Herb Edelman,2,False,,other,1987,1
+427,St. Elsewhere,US,5,45001,Steve Allen,2,False,,other,1987,1
+428,St. Elsewhere,US,5,19415,Jayne Meadows,1,False,,other,1987,1
+429,St. Elsewhere,US,5,66661,Ron Fassler,2,False,,other,1987,1
+430,St. Elsewhere,US,5,41230,John Astin,2,False,,other,1987,1
+431,St. Elsewhere,US,5,96850,Don DeFore,2,False,,other,1987,1
+432,St. Elsewhere,US,5,49353,Jack Dodson,2,False,,other,1987,1
+433,St. Elsewhere,US,5,7174,Ray Charles,2,False,,other,1987,2
+434,St. Elsewhere,US,5,122830,Christina Kokubo,1,False,,other,1987,2
+435,St. Elsewhere,US,5,30226,Geraldine Fitzgerald,1,False,,other,1987,2
+436,St. Elsewhere,US,5,937883,Ji-Tu Cumbuka,2,False,,other,1987,2
+437,St. Elsewhere,US,5,3417,Tony Goldwyn,2,False,,other,1987,2
+438,St. Elsewhere,US,5,64224,Cyril O'Reilly,2,False,,other,1987,2
+439,St. Elsewhere,US,5,89452,Jeannie Elias,1,False,,other,1987,2
+440,St. Elsewhere,US,5,35518,Harry Groener,2,False,,other,1987,2
+441,St. Elsewhere,US,5,170543,Louis Nye,2,False,,other,1987,2
+442,St. Elsewhere,US,5,66071,Charlotte Rae,1,False,,other,1987,2
+443,St. Elsewhere,US,5,77015,William Frankfather,2,False,,other,1987,2
+444,St. Elsewhere,US,5,14312,Mitchell Ryan,2,False,,other,1987,2
+445,St. Elsewhere,US,5,1212086,Christian Hoff,2,False,,other,1987,2
+446,St. Elsewhere,US,5,31506,Gerald Hiken,2,False,,other,1987,3
+447,St. Elsewhere,US,5,29712,Tim Thomerson,2,False,,other,1987,5
+448,St. Elsewhere,US,5,7074,Peter Brocco,2,False,,other,1987,5
+449,St. Elsewhere,US,5,33060,Ramon Bieri,2,False,,other,1987,5
+450,St. Elsewhere,US,5,98963,Irene Tedrow,1,False,,other,1987,5
+451,St. Elsewhere,US,6,10775,William Daniels,2,True,Mark Craig,doctor (probably),1987,9
+452,St. Elsewhere,US,6,2698,Norman Lloyd,2,True,Daniel Auschlander,doctor (probably),1987,9
+453,St. Elsewhere,US,6,780,Ronny Cox,2,True,John Gideon,doctor (probably),1987,9
+454,St. Elsewhere,US,6,32479,Bonnie Bartlett,1,True,Ellen Craig,doctor (probably),1987,9
+455,St. Elsewhere,US,6,42157,Ed Begley Jr.,2,True,Victor Ehrlich,doctor (probably),1987,9
+456,St. Elsewhere,US,6,52304,Stephen Furst,2,True,Elliot Axelrod,doctor (probably),1987,9
+457,St. Elsewhere,US,6,21089,Bruce Greenwood,2,True,Seth Griffin,doctor (probably),1987,9
+458,St. Elsewhere,US,6,1937736,Sagan Lewis,0,True,Jacqueline Wade,doctor (probably),1987,9
+459,St. Elsewhere,US,6,77920,Howie Mandel,2,True,Wayne Fiscus,doctor (probably),1987,9
+460,St. Elsewhere,US,6,74276,Cindy Pickett,1,True,Carol Novino,doctor (probably),1987,9
+461,St. Elsewhere,US,6,52,David Morse,2,True,Jack Morrison,doctor (probably),1987,9
+462,St. Elsewhere,US,6,16096,France Nuyen,1,True,Paulette Kiem,doctor (probably),1987,9
+463,St. Elsewhere,US,6,94978,Christina Pickles,1,True,Helen Rosenthal,doctor (probably),1987,9
+464,St. Elsewhere,US,6,28165,Jennifer Savidge,1,True,Lucy Papandrao,doctor,1987,9
+465,St. Elsewhere,US,6,5292,Denzel Washington,2,True,Philip Chandler,doctor (probably),1987,9
+466,St. Elsewhere,US,6,19547,Gregg Berger,2,False,,other,1987,9
+467,St. Elsewhere,US,6,84112,Brandon Call,2,False,,other,1987,9
+468,St. Elsewhere,US,6,33487,Patricia Wettig,1,False,Joanne,other,1987,9
+469,St. Elsewhere,US,6,1212072,Fredric Cook,2,False,,other,1987,9
+470,St. Elsewhere,US,6,49353,Jack Dodson,2,False,,other,1987,9
+471,St. Elsewhere,US,6,100600,Deborah Harmon,1,False,,other,1987,9
+472,St. Elsewhere,US,6,53647,Lainie Kazan,1,False,,other,1987,9
+473,St. Elsewhere,US,6,134768,Dennis Patrick,2,False,,other,1987,9
+474,St. Elsewhere,US,6,40258,Kyle Secor,2,False,,other,1987,9
+475,St. Elsewhere,US,6,97065,Richard Kline,2,False,,other,1987,9
+476,St. Elsewhere,US,6,11794,Frances Bay,1,False,,other,1987,10
+477,St. Elsewhere,US,6,33479,Henry Beckman,2,False,,other,1987,10
+478,St. Elsewhere,US,6,95082,Leo Gordon,2,False,,other,1987,10
+479,St. Elsewhere,US,6,14698,Penelope Ann Miller,1,False,,other,1987,10
+480,St. Elsewhere,US,6,111214,Hector Elias,2,False,,other,1987,10
+481,St. Elsewhere,US,6,105671,Kim Johnston Ulrich,1,False,,other,1987,11
+482,St. Elsewhere,US,6,29579,Charles Lane,2,False,,other,1987,12
+483,St. Elsewhere,US,6,15993,Michael Pataki,2,False,,other,1987,12
+484,St. Elsewhere,US,6,21874,Alan Young,2,False,,other,1987,12
+485,St. Elsewhere,US,6,9631,Carel Struycken,2,False,,other,1988,2
+486,St. Elsewhere,US,6,33492,Robert Costanzo,2,False,,other,1988,2
+487,St. Elsewhere,US,6,89452,Jeannie Elias,1,False,,other,1988,4
+488,St. Elsewhere,US,6,2021,Jane Wyatt,1,False,,other,1988,5
+489,St. Elsewhere,US,6,71728,Tom Poston,2,False,,other,1988,5

@@ -1,0 +1,172 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Virgin River,US,1,58369,Alexandra Breckenridge,1,True,Melinda Monroe,doctor (probably),2019,12
+1,Virgin River,US,1,26291,Martin Henderson,2,True,Jack Sheridan,doctor (probably),2019,12
+2,Virgin River,US,1,37696,Colin Lawrence,2,True,"John ""Preacher"" Middleton",doctor (probably),2019,12
+3,Virgin River,US,1,1628691,Lauren Hammersley,1,True,Charmaine Roberts,doctor (probably),2019,12
+4,Virgin River,US,1,21561,Tim Matheson,2,True,"Vernon ""Doc"" Mullins",doctor,2019,12
+5,Virgin River,US,1,77865,Benjamin Hollingsworth,2,True,Dan Brady,doctor (probably),2019,12
+6,Virgin River,US,1,1734,Annette O'Toole,1,True,Hope McCrea,doctor (probably),2019,12
+7,Virgin River,US,1,1111852,Jenny Cooper,1,True,Joey Barnes,doctor (probably),2019,12
+8,Virgin River,US,1,2802842,Kate Williamson,1,False,Polly,other,2019,12
+9,Virgin River,US,1,2118115,Julien Durant,2,False,Guy,other,2019,12
+10,Virgin River,US,1,1782220,Grayson Maxwell Gurnsey,2,False,Ricky,other,2019,12
+11,Virgin River,US,1,69574,Lexa Doig,1,False,Paige Lassiter,other,2019,12
+12,Virgin River,US,1,44296,Gwynyth Walsh,1,False,Jo Ellen,other,2019,12
+13,Virgin River,US,1,19154,Daniel Gillies,2,False,Mark Monroe,other,2019,12
+14,Virgin River,US,1,2802846,Julien Bruce,2,False,Barista,other,2019,12
+15,Virgin River,US,1,2511338,Emma Oliver,1,False,Younger Mel,other,2019,12
+16,Virgin River,US,1,1832985,Alexandra Perry,1,False,Younger Joey,other,2019,12
+17,Virgin River,US,1,20188,Lynda Boyd,1,False,Lilly,other,2019,12
+18,Virgin River,US,1,25386,Ian Tracey,2,False,Jimmy,other,2019,12
+19,Virgin River,US,1,74678,Chad Rook,2,False,Spencer,other,2019,12
+20,Virgin River,US,1,86528,Nicola Cavendish,1,False,Connie,other,2019,12
+21,Virgin River,US,1,112639,Patrick Keating,2,False,Charlie,other,2019,12
+22,Virgin River,US,1,2802836,Chase Petriw,2,False,Christopher,other,2019,12
+23,Virgin River,US,1,27110,Malcolm Stewart,2,False,Dr. Grewe,doctor,2019,12
+24,Virgin River,US,1,184571,Lossen Chambers,1,False,Terry,other,2019,12
+25,Virgin River,US,1,1050300,Therese Plummer,1,False,Caroline,other,2019,12
+26,Virgin River,US,1,1636553,Wolsey Brooks,2,False,Medic,medic,2019,12
+27,Virgin River,US,1,155282,David Cubitt,2,False,Calvin,other,2019,12
+28,Virgin River,US,1,1632954,Trevor Lerner,2,False,Bert Gordon,other,2019,12
+29,Virgin River,US,1,2391937,Nicolette Pearse,1,False,Maxine,other,2019,12
+30,Virgin River,US,1,2650064,Evan Ferraton,2,False,Man with Rifle,other,2019,12
+31,Virgin River,US,1,98411,Donal Thoms-Cappello,2,False,Tourist #1,other,2019,12
+32,Virgin River,US,1,1196041,Rohan Campbell,2,False,Lonergan,other,2019,12
+33,Virgin River,US,1,26086,Michael Shanks,2,False,Wes,other,2019,12
+34,Virgin River,US,1,114898,Marc-Anthony Massiah,2,False,DJ,other,2019,12
+35,Virgin River,US,1,51800,Teryl Rothery,1,False,Muriel,other,2019,12
+36,Virgin River,US,1,158587,Christina Jastrzembska,1,False,Lydie,other,2019,12
+37,Virgin River,US,1,1366865,Nicole Anthony,1,False,Nurse Konjek,nurse,2019,12
+38,Virgin River,US,1,1422012,Jason Tremblay,2,False,Paramedic,medic,2019,12
+39,Virgin River,US,1,2802816,Rachel Mazz,1,False,Grieving Mother,other,2019,12
+40,Virgin River,US,1,105900,Holly Dignard,1,False,Pauline,other,2019,12
+41,Virgin River,US,1,2802844,Jayne Trimble,1,False,Delores,other,2019,12
+42,Virgin River,US,1,1937100,Áine Sunderland,1,False,Annabelle,other,2019,12
+43,Virgin River,US,1,1475809,Michael Meneer,2,False,ER Doctor,doctor,2019,12
+44,Virgin River,US,1,2802848,Tamara Ballard,1,False,Fertility Doctor,doctor,2019,12
+45,Virgin River,US,1,2802849,Ruth Bidner,1,False,Crying Mother,other,2019,12
+46,Virgin River,US,1,2313871,Charlie Nesbitt,2,False,Comforting Husband,other,2019,12
+47,Virgin River,US,1,2802851,Dominic Fugere,2,False,Grieving Father,other,2019,12
+48,Virgin River,US,1,2640836,David Parent,2,False,GVH Doctor,doctor,2019,12
+49,Virgin River,US,1,3158422,Ben Perry,2,False,Ben,other,2019,12
+50,Virgin River,US,1,113930,Sandy Robson,2,False,Jeb,other,2019,12
+51,Virgin River,US,1,1708443,Vivian Lanko,1,False,Sadie,other,2019,12
+52,Virgin River,US,2,58369,Alexandra Breckenridge,1,True,Melinda Monroe,doctor (probably),2020,11
+53,Virgin River,US,2,26291,Martin Henderson,2,True,Jack Sheridan,doctor (probably),2020,11
+54,Virgin River,US,2,37696,Colin Lawrence,2,True,"John ""Preacher"" Middleton",doctor (probably),2020,11
+55,Virgin River,US,2,1628691,Lauren Hammersley,1,True,Charmaine Roberts,doctor (probably),2020,11
+56,Virgin River,US,2,21561,Tim Matheson,2,True,"Vernon ""Doc"" Mullins",doctor,2020,11
+57,Virgin River,US,2,77865,Benjamin Hollingsworth,2,True,Dan Brady,doctor (probably),2020,11
+58,Virgin River,US,2,1782220,Grayson Maxwell Gurnsey,2,True,Ricky,doctor (probably),2020,11
+59,Virgin River,US,2,1734,Annette O'Toole,1,True,Hope McCrea,doctor (probably),2020,11
+60,Virgin River,US,2,69574,Lexa Doig,1,False,Paige Lassiter,other,2020,11
+61,Virgin River,US,2,33355,Steve Bacic,2,False,Wes,other,2020,11
+62,Virgin River,US,2,2048719,Thomas Nicholson,2,False,Leo Cavanagh,other,2020,11
+63,Virgin River,US,2,86528,Nicola Cavendish,1,False,Connie,other,2020,11
+64,Virgin River,US,2,51800,Teryl Rothery,1,False,Muriel,other,2020,11
+65,Virgin River,US,2,239021,Keith MacKechnie,2,False,Nick,other,2020,11
+66,Virgin River,US,2,2802836,Chase Petriw,2,False,Christopher,other,2020,11
+67,Virgin River,US,2,1068259,Marco Grazzini,2,False,Mike Valenzuela,other,2020,11
+68,Virgin River,US,2,2830696,Cecilly Day,1,False,Beverly,other,2020,11
+69,Virgin River,US,2,44296,Gwynyth Walsh,1,False,Jo Ellen,other,2020,11
+70,Virgin River,US,2,1498646,Sarah Dugdale,1,False,Lizzie,other,2020,11
+71,Virgin River,US,2,1111852,Jenny Cooper,1,False,Joey Barnes,other,2020,11
+72,Virgin River,US,2,25386,Ian Tracey,2,False,Jimmy,other,2020,11
+73,Virgin River,US,2,155282,David Cubitt,2,False,Calvin,other,2020,11
+74,Virgin River,US,2,3156647,Dave Santana,2,False,Mr. Hamilton,other,2020,11
+75,Virgin River,US,2,1507856,Gwenda Lorenzetti,1,False,Mrs. Hamilton,other,2020,11
+76,Virgin River,US,2,1229703,Melinda Dahl,1,False,Stacie,other,2020,11
+77,Virgin River,US,2,20188,Lynda Boyd,1,False,Lilly,other,2020,11
+78,Virgin River,US,2,1392937,Carmel Amit,1,False,Jamie,other,2020,11
+79,Virgin River,US,2,158587,Christina Jastrzembska,1,False,Lydie,other,2020,11
+80,Virgin River,US,2,1947446,Alec Santos,2,False,Antoine,other,2020,11
+81,Virgin River,US,2,1196041,Rohan Campbell,2,False,Lonergan,other,2020,11
+82,Virgin River,US,2,91404,Eric Breker,2,False,Josh,other,2020,11
+83,Virgin River,US,2,62709,Garfield Wilson,2,False,Zeke,other,2020,11
+84,Virgin River,US,2,1140565,Andrew Zachar,2,False,Tom,other,2020,11
+85,Virgin River,US,2,1885198,Donald Heng,2,False,George,other,2020,11
+86,Virgin River,US,2,1632954,Trevor Lerner,2,False,Bert,other,2020,11
+87,Virgin River,US,2,19154,Daniel Gillies,2,False,Mark Monroe,other,2020,11
+88,Virgin River,US,2,1110009,Lane Edwards,2,False,Sheriff Duncan,other,2020,11
+89,Virgin River,US,2,1881528,Lissa Neptuno,1,False,Anne,other,2020,11
+90,Virgin River,US,2,1101412,Mike Kovac,2,False,Jeff,other,2020,11
+91,Virgin River,US,2,74678,Chad Rook,2,False,Spencer,other,2020,11
+92,Virgin River,US,2,113930,Sandy Robson,2,False,Jeb,other,2020,11
+93,Virgin River,US,2,1331278,Javier Lacroix,2,False,Carlos,other,2020,11
+94,Virgin River,US,2,112639,Patrick Keating,2,False,Charlie,other,2020,11
+95,Virgin River,US,2,1436302,Greg Delmage,2,False,Deputy Howard,other,2020,11
+96,Virgin River,US,2,2641324,Jana Benoit,1,False,Sally,other,2020,11
+97,Virgin River,US,3,58369,Alexandra Breckenridge,1,True,Melinda Monroe,doctor (probably),2021,7
+98,Virgin River,US,3,26291,Martin Henderson,2,True,Jack Sheridan,doctor (probably),2021,7
+99,Virgin River,US,3,37696,Colin Lawrence,2,True,"John ""Preacher"" Middleton",doctor (probably),2021,7
+100,Virgin River,US,3,1628691,Lauren Hammersley,1,True,Charmaine Roberts,doctor (probably),2021,7
+101,Virgin River,US,3,21561,Tim Matheson,2,True,"Vernon ""Doc"" Mullins",doctor,2021,7
+102,Virgin River,US,3,77865,Benjamin Hollingsworth,2,True,Dan Brady,doctor (probably),2021,7
+103,Virgin River,US,3,1782220,Grayson Maxwell Gurnsey,2,True,Ricky,doctor (probably),2021,7
+104,Virgin River,US,3,1498646,Sarah Dugdale,1,True,Lizzie,doctor (probably),2021,7
+105,Virgin River,US,3,1068259,Marco Grazzini,2,True,Mike Valenzuela,doctor (probably),2021,7
+106,Virgin River,US,3,204239,Zibby Allen,1,True,Brie Sheridan,doctor (probably),2021,7
+107,Virgin River,US,3,1661009,Donna Soares,1,False,ER Doc #1,doctor,2021,7
+108,Virgin River,US,3,2859099,Kerën Burkett,1,False,ER Nurse #1,nurse,2021,7
+109,Virgin River,US,3,159660,Aaron Joseph,2,False,EMT #1,medic,2021,7
+110,Virgin River,US,3,2448913,Nicco Del Rio,2,False,Jesse,other,2021,7
+111,Virgin River,US,3,39360,Lucia Walters,1,False,Julia,other,2021,7
+112,Virgin River,US,3,60723,Kevan Ohtsji,2,False,Dr. Petersen,doctor,2021,7
+113,Virgin River,US,3,20188,Lynda Boyd,1,False,Lilly,other,2021,7
+114,Virgin River,US,3,1111852,Jenny Cooper,1,False,Joey Barnes,other,2021,7
+115,Virgin River,US,3,102742,Patrick Sabongui,2,False,Todd Masry,other,2021,7
+116,Virgin River,US,3,86528,Nicola Cavendish,1,False,Connie,other,2021,7
+117,Virgin River,US,3,155282,David Cubitt,2,False,Calvin,other,2021,7
+118,Virgin River,US,3,44296,Gwynyth Walsh,1,False,Jo Ellen,other,2021,7
+119,Virgin River,US,3,51800,Teryl Rothery,1,False,Muriel,other,2021,7
+120,Virgin River,US,3,19154,Daniel Gillies,2,False,Mark Monroe,other,2021,7
+121,Virgin River,US,3,158587,Christina Jastrzembska,1,False,Lydie,other,2021,7
+122,Virgin River,US,3,239021,Keith MacKechnie,2,False,Nick,other,2021,7
+123,Virgin River,US,3,1632954,Trevor Lerner,2,False,Bert,other,2021,7
+124,Virgin River,US,3,2802836,Chase Petriw,2,False,Christopher,other,2021,7
+125,Virgin River,US,3,2675250,Ryan Mah,2,False,Peter,other,2021,7
+126,Virgin River,US,3,2675220,Kamyar Pazandeh,0,False,Matt,other,2021,7
+127,Virgin River,US,3,1951527,Taz VanRassel,0,False,Paul,other,2021,7
+128,Virgin River,US,3,2641561,Lana Jalissa,1,False,Server,other,2021,7
+129,Virgin River,US,3,2059588,Janet Walmsley,1,False,Mrs. Gardener,other,2021,7
+130,Virgin River,US,3,113930,Sandy Robson,2,False,Jeb,other,2021,7
+131,Virgin River,US,3,197336,Stacey Farber,1,False,Tara,other,2021,7
+132,Virgin River,US,3,1825645,Janet Glassford,1,False,June,other,2021,7
+133,Virgin River,US,3,112639,Patrick Keating,2,False,Charlie,other,2021,7
+134,Virgin River,US,3,1617701,Markian Tarasiuk,2,False,Parker,other,2021,7
+135,Virgin River,US,3,60614,Chad Riley,2,False,Sgt. Gomez,other,2021,7
+136,Virgin River,US,3,2385472,Jasmine Vega,1,False,Stella,other,2021,7
+137,Virgin River,US,3,1734,Annette O'Toole,1,False,Hope McCrea,other,2021,7
+138,Virgin River,US,3,25386,Ian Tracey,2,False,Jimmy,other,2021,7
+139,Virgin River,US,3,1436302,Greg Delmage,2,False,Deputy Howard,other,2021,7
+140,Virgin River,US,3,1834752,Julie Lynn-Mortensen,1,False,Dr. Hansen,doctor,2021,7
+141,Virgin River,US,3,1369073,Tristan Jensen,2,False,Curtis,other,2021,7
+142,Virgin River,US,3,1327457,Arpad Balogh,2,False,Harry,other,2021,7
+143,Virgin River,US,3,2641481,Jacqueline Breakwell,1,False,Annie,other,2021,7
+144,Virgin River,US,3,2205032,Michelle Lefler,1,False,Molly,other,2021,7
+145,Virgin River,US,3,3157908,Ben James,2,False,Cooper,other,2021,7
+146,Virgin River,US,3,3157910,Kassandra Le Mercier,1,False,Trap Shooter,other,2021,7
+147,Virgin River,US,3,114898,Marc-Anthony Massiah,2,False,Gary,other,2021,7
+148,Virgin River,US,3,3158353,Oliver Hua,2,False,Owen,other,2021,7
+149,Virgin River,US,3,59185,Kendall Cross,1,False,Valerie,other,2021,7
+150,Virgin River,US,3,3158356,Sophie Drever,1,False,Kid #1,other,2021,7
+151,Virgin River,US,3,3158358,Kia Peters,1,False,Kid #2,other,2021,7
+152,Virgin River,US,3,2852352,Joe Munroe,2,False,Granger,other,2021,7
+153,Virgin River,US,3,2428786,Shaun Morse,2,False,Sergeant Major,other,2021,7
+154,Virgin River,US,3,1561510,Lorna Rose Harris,1,False,Nurse,nurse,2021,7
+155,Virgin River,US,3,3159029,Susanne De Pensier,1,False,Kathleen,other,2021,7
+156,Virgin River,US,3,1265674,Eric Pollins,2,False,Thomas Blair,other,2021,7
+157,Virgin River,US,3,2913765,Nikita Arora,2,False,Nicole,other,2021,7
+158,Virgin River,US,3,3159034,J.J. Harris,0,False,Tess,other,2021,7
+159,Virgin River,US,3,1110009,Lane Edwards,2,False,Sheriff Duncan,other,2021,7
+160,Virgin River,US,3,33355,Steve Bacic,2,False,Vince,other,2021,7
+161,Virgin River,US,3,1819800,Kai Bradbury,2,False,Denny,other,2021,7
+162,Virgin River,US,3,2641324,Jana Benoit,1,False,Sally,other,2021,7
+163,Virgin River,US,3,63563,Veena Sood,1,False,Dr. Singh,doctor,2021,7
+164,Virgin River,US,3,1498652,Clare Filipow,1,False,Hannah,other,2021,7
+165,Virgin River,US,4,58369,Alexandra Breckenridge,1,True,Melinda Monroe,doctor (probably),2022,7
+166,Virgin River,US,4,26291,Martin Henderson,2,True,Jack Sheridan,doctor (probably),2022,7
+167,Virgin River,US,4,37696,Colin Lawrence,2,True,"John ""Preacher"" Middleton",doctor (probably),2022,7
+168,Virgin River,US,4,1628691,Lauren Hammersley,1,True,Charmaine Roberts,doctor (probably),2022,7
+169,Virgin River,US,4,21561,Tim Matheson,2,True,"Vernon ""Doc"" Mullins",doctor,2022,7
+170,Virgin River,US,4,77865,Benjamin Hollingsworth,2,True,Dan Brady,doctor (probably),2022,7

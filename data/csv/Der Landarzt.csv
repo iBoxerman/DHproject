@@ -1,0 +1,676 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Der Landarzt,DE,1,1231908,Christian Quadflieg,2,True,Karsten Mattiesen,doctor (probably),1987,2
+1,Der Landarzt,DE,1,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1987,2
+2,Der Landarzt,DE,1,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1987,2
+3,Der Landarzt,DE,1,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1987,2
+4,Der Landarzt,DE,1,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1987,2
+5,Der Landarzt,DE,1,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1987,2
+6,Der Landarzt,DE,1,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1987,2
+7,Der Landarzt,DE,1,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1987,2
+8,Der Landarzt,DE,1,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1987,2
+9,Der Landarzt,DE,1,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1987,2
+10,Der Landarzt,DE,1,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1987,2
+11,Der Landarzt,DE,1,42400,Gila von Weitershausen,1,True,Annemarie Mattiesen,doctor (probably),1987,2
+12,Der Landarzt,DE,1,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1987,2
+13,Der Landarzt,DE,1,1183603,Volker Brandt,2,True,Lasse Grünberg,doctor (probably),1987,2
+14,Der Landarzt,DE,1,548160,Hendrik Martz,2,True,Eike Mattiesen,doctor (probably),1987,2
+15,Der Landarzt,DE,1,1370724,Katharina Köhntopp,1,True,Gudrun Helgert,doctor,1987,2
+16,Der Landarzt,DE,1,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),1987,2
+17,Der Landarzt,DE,1,41683,Evelyn Hamann,1,True,Thea Knoll,doctor (probably),1987,2
+18,Der Landarzt,DE,1,233979,Lutz Mackensy,2,True,Hagen Dröge,doctor,1987,2
+19,Der Landarzt,DE,1,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1987,2
+20,Der Landarzt,DE,1,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1987,2
+21,Der Landarzt,DE,1,64020,Beatrice Kessler,1,True,Corinna Grünberg,doctor (probably),1987,2
+22,Der Landarzt,DE,1,221095,Peter Heinrich Brix,2,True,Albert,doctor (probably),1987,2
+23,Der Landarzt,DE,1,1332833,Joseline Gassen,1,True,Grete Hinnerksen,doctor (probably),1987,2
+24,Der Landarzt,DE,1,10625,Andrea Schober,1,True,Inken,doctor (probably),1987,2
+25,Der Landarzt,DE,1,1799541,Regine Lamster,1,False,Frau Buschmann-Ratjen,other,1987,2
+26,Der Landarzt,DE,1,26332,Friedrich Schütter,2,False,Herr Sellmann,other,1987,2
+27,Der Landarzt,DE,1,1179180,Ursula Diestel,1,False,Frau am Aufzug,other,1987,2
+28,Der Landarzt,DE,1,48988,Almut Eggert,1,False,Antje,other,1987,2
+29,Der Landarzt,DE,1,25487,Edgar Hoppe,2,False,Herr Larsen,other,1987,2
+30,Der Landarzt,DE,1,5232,Martin May,2,False,Mann auf Brücke,other,1987,2
+31,Der Landarzt,DE,1,1357410,Sönke Schütt,2,False,Polizist,other,1987,2
+32,Der Landarzt,DE,1,1556186,Wolfram Schaerf,2,False,Verleger Wilhelm Fletsch,other,1987,2
+33,Der Landarzt,DE,1,1168622,Petra Verena Milchert,1,False,Astrid,other,1987,2
+34,Der Landarzt,DE,1,1348768,Nikolaus Schilling,2,False,Apotheker Janssen,other,1987,2
+35,Der Landarzt,DE,1,234386,Hans Häckermann,2,False,Bürgermeister,other,1987,2
+36,Der Landarzt,DE,1,27613,Eckart Dux,2,False,Familienrichter Klissmann,other,1987,2
+37,Der Landarzt,DE,1,1168172,Peter Fricke,2,False,Dr. Michael Petersen,doctor,1987,2
+38,Der Landarzt,DE,1,1869522,Werner Berndt,2,False,Knut Schintz,other,1987,2
+39,Der Landarzt,DE,1,1253652,Barbara Czerwinski,1,False,Dorothy,other,1987,2
+40,Der Landarzt,DE,1,36568,Jürgen Janza,2,False,Herr Wölk,other,1987,2
+41,Der Landarzt,DE,1,1198620,Marco Kröger,1,False,Kellner,other,1987,2
+42,Der Landarzt,DE,1,36686,H.H. Müller,2,False,Dr. Kremp,doctor,1987,2
+43,Der Landarzt,DE,1,1058551,Horst Schön,2,False,Oberkommissar Fritz Karlsen,other,1987,2
+44,Der Landarzt,DE,1,2037472,Peter Wagenbreth,2,False,Pit Melsen,other,1987,2
+45,Der Landarzt,DE,1,36377,Hans Hessling,2,False,Gustav Plötsch,other,1987,2
+46,Der Landarzt,DE,1,34391,Katharina Matz,1,False,Ingrid Plötsch,other,1987,2
+47,Der Landarzt,DE,1,1305180,Karl-Heinz Kreienbaum,2,False,Karl Zeidler,other,1987,2
+48,Der Landarzt,DE,1,1316435,Gerda-Maria Jürgens,1,False,Edith Zeidler,other,1987,2
+49,Der Landarzt,DE,1,1117161,Ulrich Faulhaber,2,False,Paul,other,1987,2
+50,Der Landarzt,DE,1,28649,Micaela Kreißler,1,False,Dieters Mutter,other,1987,2
+51,Der Landarzt,DE,1,2037476,Helga Bammert,1,False,Margarete,other,1987,2
+52,Der Landarzt,DE,1,1766777,Thomas Naumann,2,False,Holger Petersen,other,1987,2
+53,Der Landarzt,DE,1,1187526,Uwe Hacker,2,False,Patient,other,1987,2
+54,Der Landarzt,DE,1,1139998,Willy Bartelsen,2,False,Heiner Plötsch,other,1987,2
+55,Der Landarzt,DE,1,2037483,Lore Moor,1,False,Frau Nölting,other,1987,2
+56,Der Landarzt,DE,1,26430,Joachim Richert,2,False,Hans,other,1987,2
+57,Der Landarzt,DE,1,2037484,Rosemarie Wohlbauer,1,False,Hilke Nölting,other,1987,2
+58,Der Landarzt,DE,1,1183602,Karin Eckhold,1,False,Olafs Mutter,other,1987,2
+59,Der Landarzt,DE,1,5801,Henning Schlüter,2,False,Herr Nölting,other,1987,2
+60,Der Landarzt,DE,1,27604,Else Quecke,1,False,Adele Kleinschmidt,other,1987,2
+61,Der Landarzt,DE,1,2037485,Hannelore Wüst,1,False,Schwester Veronika,other,1987,2
+62,Der Landarzt,DE,1,1824455,Florian Philip Huth,2,False,Thorsten Nölting,other,1987,2
+63,Der Landarzt,DE,1,36369,Günter Lüdke,2,False,Herr Sonntag,other,1987,3
+64,Der Landarzt,DE,1,583984,Erich Bar,2,False,Einbrecher,other,1987,3
+65,Der Landarzt,DE,1,1499592,Gerty Molzen,1,False,Frau Hinnerksen,other,1987,3
+66,Der Landarzt,DE,1,11932,Jane Tilden,1,False,Annemaries Mutter,other,1987,3
+67,Der Landarzt,DE,1,49017,Siegfried W. Kernen,2,False,Gerold Bössel,other,1987,3
+68,Der Landarzt,DE,1,50566,Joachim Wolff,2,False,Bäcker Ehlers,other,1987,3
+69,Der Landarzt,DE,1,46541,Ulli Kinalzik,2,False,Horst Ratjen,other,1987,3
+70,Der Landarzt,DE,1,2037511,Regina Pressler,1,False,Lisa Bössel,other,1987,3
+71,Der Landarzt,DE,1,2037513,Patrick Wehrend,2,False,Olaf,other,1987,3
+72,Der Landarzt,DE,1,2037510,Niko Koslowski,2,False,Hartmut 'Molli' Ehlers,other,1987,3
+73,Der Landarzt,DE,1,1320722,Carolin van Bergen,1,False,Doris,other,1987,3
+74,Der Landarzt,DE,1,41602,Werner Schwuchow,2,False,Karl 'Kalle' Freesen,other,1987,3
+75,Der Landarzt,DE,1,47191,Ursula Sieg,1,False,Anna Freesen,other,1987,3
+76,Der Landarzt,DE,1,3225213,Ernst-Erich Buder,2,False,Herr Manninger,other,1987,3
+77,Der Landarzt,DE,1,41596,Neithardt Riedel,2,False,Dr. Körner,doctor,1987,3
+78,Der Landarzt,DE,1,37190,Philipp Moog,2,False,Edgar Bernhard,other,1987,4
+79,Der Landarzt,DE,1,1486064,Kerstin Draeger,1,False,Evi,other,1987,4
+80,Der Landarzt,DE,1,1829384,Karl-Friedrich Gerster,2,False,Dr. Werner,doctor,1987,4
+81,Der Landarzt,DE,1,2037523,Anne-Mylene Biehl,0,False,Susi Weber,other,1987,4
+82,Der Landarzt,DE,1,2037525,Anne Schermutzki,1,False,Krankenschwester,other,1987,4
+83,Der Landarzt,DE,1,2551238,Cyrill Berndt,2,False,Lukas Arndt,other,1987,4
+84,Der Landarzt,DE,1,2265897,Michael Grimm,2,False,Vogelforscher,other,1987,4
+85,Der Landarzt,DE,1,2037527,Otto Sawicki,2,False,Fritz Hellgard,other,1987,4
+86,Der Landarzt,DE,1,46542,Renate Schubert,1,False,Nina Hellgard,other,1987,4
+87,Der Landarzt,DE,1,39585,Katharina Brauren,1,False,Frau Kemper,other,1987,4
+88,Der Landarzt,DE,1,3843,Wolfgang Kaven,2,False,Herr Steinert,other,1987,4
+89,Der Landarzt,DE,1,2037528,Wolf-Dieter Pencik,0,False,Geschäftsmann,other,1987,4
+90,Der Landarzt,DE,1,46843,Ernst von Klipstein,2,False,Opa Schindler,other,1987,4
+91,Der Landarzt,DE,1,1350536,Volker Bogdan,2,False,Alwin Schindler,other,1987,4
+92,Der Landarzt,DE,1,1412027,Brigitte Schacht,1,False,Ursula Schindler,other,1987,4
+93,Der Landarzt,DE,1,37327,Kurt Ackermann,2,False,Vorarbeiter,other,1987,4
+94,Der Landarzt,DE,1,2037535,Juliane Melchthal,1,False,Isabella,other,1987,4
+95,Der Landarzt,DE,1,48990,Heidi Mahler,1,False,Ilona Kern,other,1987,4
+96,Der Landarzt,DE,1,1350534,Michael von Rospatt,2,False,Szinka,other,1987,4
+97,Der Landarzt,DE,1,5235,Jan Fedder,2,False,Herr Stendal,other,1987,4
+98,Der Landarzt,DE,1,50564,Gertrud Prey,1,False,Vermieterin,other,1987,4
+99,Der Landarzt,DE,2,1231908,Christian Quadflieg,2,True,Karsten Mattiesen,doctor (probably),1989,1
+100,Der Landarzt,DE,2,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1989,1
+101,Der Landarzt,DE,2,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1989,1
+102,Der Landarzt,DE,2,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1989,1
+103,Der Landarzt,DE,2,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1989,1
+104,Der Landarzt,DE,2,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1989,1
+105,Der Landarzt,DE,2,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1989,1
+106,Der Landarzt,DE,2,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1989,1
+107,Der Landarzt,DE,2,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1989,1
+108,Der Landarzt,DE,2,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1989,1
+109,Der Landarzt,DE,2,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1989,1
+110,Der Landarzt,DE,2,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1989,1
+111,Der Landarzt,DE,2,42400,Gila von Weitershausen,1,True,Annemarie Mattiesen,doctor (probably),1989,1
+112,Der Landarzt,DE,2,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1989,1
+113,Der Landarzt,DE,2,1183603,Volker Brandt,2,True,Lasse Grünberg,doctor (probably),1989,1
+114,Der Landarzt,DE,2,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1989,1
+115,Der Landarzt,DE,2,548160,Hendrik Martz,2,True,Eike Mattiesen,doctor (probably),1989,1
+116,Der Landarzt,DE,2,1370724,Katharina Köhntopp,1,True,Gudrun Helgert,doctor,1989,1
+117,Der Landarzt,DE,2,26245,Dieter Eppler,2,True,Hugo Cornelsen,doctor (probably),1989,1
+118,Der Landarzt,DE,2,41683,Evelyn Hamann,1,True,Thea Knoll,doctor (probably),1989,1
+119,Der Landarzt,DE,2,233979,Lutz Mackensy,2,True,Hagen Dröge,doctor,1989,1
+120,Der Landarzt,DE,2,5230,Hubertus Bengsch,2,True,Peter Detlefsen,doctor (probably),1989,1
+121,Der Landarzt,DE,2,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1989,1
+122,Der Landarzt,DE,2,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1989,1
+123,Der Landarzt,DE,2,221095,Peter Heinrich Brix,2,True,Albert,doctor (probably),1989,1
+124,Der Landarzt,DE,2,1178323,Marianne Kehlau,1,True,Anna Detlefsen,doctor (probably),1989,1
+125,Der Landarzt,DE,2,1332833,Joseline Gassen,1,True,Grete Hinnerksen,doctor (probably),1989,1
+126,Der Landarzt,DE,2,64020,Beatrice Kessler,1,True,Corinna Grünberg,doctor (probably),1989,1
+127,Der Landarzt,DE,2,10625,Andrea Schober,1,True,Inken,doctor (probably),1989,1
+128,Der Landarzt,DE,2,1826421,Ulli Lothmanns,2,False,Lars,other,1989,1
+129,Der Landarzt,DE,2,1330947,Brigitte Böttrich,1,False,Öko-Bäuerin,other,1989,1
+130,Der Landarzt,DE,2,1290232,Robert Zimmerling,2,False,Öko-Bauer Oskar,other,1989,1
+131,Der Landarzt,DE,2,1831420,Sophie Steiner,1,False,Steffi,other,1989,1
+132,Der Landarzt,DE,2,234112,Svenja Pages,1,False,Hilke,other,1989,1
+133,Der Landarzt,DE,2,14633,Ben Becker,2,False,Fritz,other,1989,1
+134,Der Landarzt,DE,2,1584587,Reinhard Krökel,2,False,Öko-Bauer Hannes,other,1989,1
+135,Der Landarzt,DE,2,4923,Diether Krebs,2,False,Kassierer,other,1989,1
+136,Der Landarzt,DE,2,1838809,Astrid Meyer-Gossler,1,False,Dr. Timpe,doctor,1989,1
+137,Der Landarzt,DE,2,1185815,Christine Merthan,1,False,Frau Thomsen,other,1989,1
+138,Der Landarzt,DE,2,1692060,Benno Hattesen,2,False,Prof. Schnittker,other,1989,1
+139,Der Landarzt,DE,2,36749,Hans-Peter Korff,2,False,,other,1989,1
+140,Der Landarzt,DE,2,1867761,Harald Pages,2,False,Grafferts Vorgesetzter,other,1989,1
+141,Der Landarzt,DE,2,143481,Katharina Schubert,1,False,Gabi Sörensen,other,1989,1
+142,Der Landarzt,DE,2,559490,Heinz Lieven,2,False,Dr. Barsch,doctor,1989,2
+143,Der Landarzt,DE,2,36873,Friedhelm Lehmann,2,False,Oberarzt,other,1989,2
+144,Der Landarzt,DE,2,965857,Uli Krohm,2,False,'Fusel-Fiete',other,1989,2
+145,Der Landarzt,DE,2,13541,Andreas Mannkopff,2,False,Justizhauptsekretär Clausen,other,1989,2
+146,Der Landarzt,DE,2,1297621,Jürgen Pooch,2,False,Herr Schippke,other,1989,2
+147,Der Landarzt,DE,2,100095,Horst Janson,2,False,Felix Spöri,other,1989,2
+148,Der Landarzt,DE,2,1320722,Carolin van Bergen,1,False,Doris,other,1989,3
+149,Der Landarzt,DE,2,43490,Jörg Pleva,2,False,Barkeeper,other,1989,3
+150,Der Landarzt,DE,2,123242,Klaus Münster,2,False,Staatsanwalt,other,1989,3
+151,Der Landarzt,DE,2,26499,Gernot Endemann,2,False,Staatsanwalt,other,1989,3
+152,Der Landarzt,DE,2,19524,Tilly Lauenstein,1,False,Frau Ploog,other,1989,3
+153,Der Landarzt,DE,2,1838806,Renate Reger,1,False,Ina Eckholm gesch. Albers,other,1989,3
+154,Der Landarzt,DE,2,1119022,Harald Effenberg,2,False,Herr Bosch,other,1989,3
+155,Der Landarzt,DE,2,36897,Hans Clarin,2,False,Hermann 'Männchen' Krisch,other,1989,3
+156,Der Landarzt,DE,2,48779,Beatrice Richter,1,False,Erna,other,1989,3
+157,Der Landarzt,DE,2,36532,Horst Michael Neutze,2,False,Johann Kröger,other,1989,3
+158,Der Landarzt,DE,2,1305928,Eva Brumby,1,False,Agnes Kröger geb. Karlsen,other,1989,3
+159,Der Landarzt,DE,2,1041573,Peter Matic,2,False,Prof. John Brendon,other,1989,3
+160,Der Landarzt,DE,2,2726,Brigitte Mira,1,False,Lilli Merz,other,1989,3
+161,Der Landarzt,DE,2,26426,Balduin Baas,2,False,Herr Hinz,other,1989,3
+162,Der Landarzt,DE,2,26251,Eva Christian,1,False,Pauline Brendon,other,1989,3
+163,Der Landarzt,DE,2,1270226,Herlinde Latzko,1,False,Ella Merz,other,1989,3
+164,Der Landarzt,DE,2,26617,Manfred Lehmann,2,False,Gundolf Merz,other,1989,3
+165,Der Landarzt,DE,2,51012,Erna Haffner,1,False,Gemeindeschwester,other,1989,4
+166,Der Landarzt,DE,2,559590,Renate Delfs,1,False,Sophie Mill,other,1989,4
+167,Der Landarzt,DE,3,1231908,Christian Quadflieg,2,True,Karsten Mattiesen,doctor (probably),1990,10
+168,Der Landarzt,DE,3,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1990,10
+169,Der Landarzt,DE,3,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1990,10
+170,Der Landarzt,DE,3,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1990,10
+171,Der Landarzt,DE,3,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1990,10
+172,Der Landarzt,DE,3,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1990,10
+173,Der Landarzt,DE,3,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1990,10
+174,Der Landarzt,DE,3,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1990,10
+175,Der Landarzt,DE,3,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1990,10
+176,Der Landarzt,DE,3,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1990,10
+177,Der Landarzt,DE,3,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1990,10
+178,Der Landarzt,DE,3,42400,Gila von Weitershausen,1,True,Annemarie Mattiesen,doctor (probably),1990,10
+179,Der Landarzt,DE,3,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1990,10
+180,Der Landarzt,DE,3,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1990,10
+181,Der Landarzt,DE,3,548160,Hendrik Martz,2,True,Eike Mattiesen,doctor (probably),1990,10
+182,Der Landarzt,DE,3,26245,Dieter Eppler,2,True,Hugo Cornelsen,doctor (probably),1990,10
+183,Der Landarzt,DE,3,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),1990,10
+184,Der Landarzt,DE,3,233979,Lutz Mackensy,2,True,Hagen Dröge,doctor,1990,10
+185,Der Landarzt,DE,3,5230,Hubertus Bengsch,2,True,Peter Detlefsen,doctor (probably),1990,10
+186,Der Landarzt,DE,3,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1990,10
+187,Der Landarzt,DE,3,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1990,10
+188,Der Landarzt,DE,3,221095,Peter Heinrich Brix,2,True,Albert,doctor (probably),1990,10
+189,Der Landarzt,DE,3,1178323,Marianne Kehlau,1,True,Anna Detlefsen,doctor (probably),1990,10
+190,Der Landarzt,DE,3,1332833,Joseline Gassen,1,True,Grete Hinnerksen,doctor (probably),1990,10
+191,Der Landarzt,DE,3,1492792,Jürgen Pruschanski,2,False,Egon Kobbenkötter,other,1990,10
+192,Der Landarzt,DE,3,1495571,Peter Maertens,2,False,Herr Schollwer,other,1990,10
+193,Der Landarzt,DE,3,38015,Harald Dietl,2,False,Sigi,other,1990,11
+194,Der Landarzt,DE,3,1713942,Linde Fulda,1,False,Gundula,other,1990,11
+195,Der Landarzt,DE,3,2088155,Mila Mladek,1,False,Thorstens Verlobte,other,1990,11
+196,Der Landarzt,DE,3,1827180,Edie Samland,1,False,Frau Pomack,other,1990,11
+197,Der Landarzt,DE,3,1073550,Tamara Rohloff,1,False,Susanne 'Blümchen' Blume,other,1990,11
+198,Der Landarzt,DE,3,1320204,Marek Erhardt,2,False,Helfer,other,1990,11
+199,Der Landarzt,DE,3,49089,Senta Sommerfeld,1,False,Mathilde Kolk,other,1990,11
+200,Der Landarzt,DE,3,231018,Dietrich Mattausch,2,False,Studienrat Dr. Schneider,doctor,1990,11
+201,Der Landarzt,DE,3,67509,Torsten Münchow,2,False,Trainer,other,1990,11
+202,Der Landarzt,DE,3,1464465,Franz Josef Steffens,2,False,Fiete' Jürgens,other,1990,11
+203,Der Landarzt,DE,3,46658,Gerlach Fiedler,2,False,Herr Kempe,other,1990,11
+204,Der Landarzt,DE,3,1831420,Sophie Steiner,1,False,Stefanie 'Steffi' Albers,other,1990,12
+205,Der Landarzt,DE,3,25487,Edgar Hoppe,2,False,Beamter,other,1990,12
+206,Der Landarzt,DE,3,26429,Jürgen Lier,2,False,,other,1990,12
+207,Der Landarzt,DE,3,1370775,Günter Hörner,2,False,,other,1990,12
+208,Der Landarzt,DE,3,3225607,Sven Dahlem,2,False,Wachmann,other,1990,12
+209,Der Landarzt,DE,3,1826721,Stephanie Bahr,1,False,Sekretärin,other,1990,12
+210,Der Landarzt,DE,3,34299,Charlie Rinn,2,False,Pförtner Jens Balwien,other,1990,12
+211,Der Landarzt,DE,3,234386,Hans Häckermann,2,False,Karl Schultes,other,1990,12
+212,Der Landarzt,DE,3,28766,Holger Mahlich,2,False,Willi Wenz,other,1990,12
+213,Der Landarzt,DE,4,1231908,Christian Quadflieg,2,True,Karsten Mattiesen,doctor (probably),1992,1
+214,Der Landarzt,DE,4,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),1992,1
+215,Der Landarzt,DE,4,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1992,1
+216,Der Landarzt,DE,4,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1992,1
+217,Der Landarzt,DE,4,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1992,1
+218,Der Landarzt,DE,4,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1992,1
+219,Der Landarzt,DE,4,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1992,1
+220,Der Landarzt,DE,4,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1992,1
+221,Der Landarzt,DE,4,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1992,1
+222,Der Landarzt,DE,4,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1992,1
+223,Der Landarzt,DE,4,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1992,1
+224,Der Landarzt,DE,4,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1992,1
+225,Der Landarzt,DE,4,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1992,1
+226,Der Landarzt,DE,4,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),1992,1
+227,Der Landarzt,DE,4,42400,Gila von Weitershausen,1,True,Annemarie Mattiesen,doctor (probably),1992,1
+228,Der Landarzt,DE,4,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1992,1
+229,Der Landarzt,DE,4,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1992,1
+230,Der Landarzt,DE,4,548160,Hendrik Martz,2,True,Eike Mattiesen,doctor (probably),1992,1
+231,Der Landarzt,DE,4,26245,Dieter Eppler,2,True,Hugo Cornelsen,doctor (probably),1992,1
+232,Der Landarzt,DE,4,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),1992,1
+233,Der Landarzt,DE,4,233979,Lutz Mackensy,2,True,Hagen Dröge,doctor,1992,1
+234,Der Landarzt,DE,4,5230,Hubertus Bengsch,2,True,Peter Detlefsen,doctor (probably),1992,1
+235,Der Landarzt,DE,4,1866,Muriel Baumeister,1,True,Franziska,doctor (probably),1992,1
+236,Der Landarzt,DE,4,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1992,1
+237,Der Landarzt,DE,4,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1992,1
+238,Der Landarzt,DE,4,221095,Peter Heinrich Brix,2,True,Albert,doctor (probably),1992,1
+239,Der Landarzt,DE,4,1178323,Marianne Kehlau,1,True,Anna Detlefsen,doctor (probably),1992,1
+240,Der Landarzt,DE,4,1332833,Joseline Gassen,1,True,Grete Hinnerksen,doctor (probably),1992,1
+241,Der Landarzt,DE,4,70593,Herbert Herrmann,2,True,Dr. Helmut Berner,doctor,1992,1
+242,Der Landarzt,DE,4,10625,Andrea Schober,1,True,Inken,doctor (probably),1992,1
+243,Der Landarzt,DE,4,36028,Michael Hinz,2,False,Gerhard Albers,other,1992,1
+244,Der Landarzt,DE,4,33510,Antonio Wannek,2,False,Klaus' Bruder,other,1992,1
+245,Der Landarzt,DE,4,1370733,Nikolaus Gröbe,2,False,,other,1992,1
+246,Der Landarzt,DE,4,1325713,Britta Schmeling,1,False,Helga,other,1992,1
+247,Der Landarzt,DE,4,10236,Jörg Schüttauf,2,False,Bernhard 'Benni' Worms,other,1992,1
+248,Der Landarzt,DE,4,26817,Anita Lochner,1,False,Frau Christiansen,other,1992,1
+249,Der Landarzt,DE,4,1464927,Frank Kirschgens,2,False,Polly,other,1992,1
+250,Der Landarzt,DE,4,38839,Corinna Drews,1,False,Gerda Lepsien,other,1992,1
+251,Der Landarzt,DE,4,1253940,Julia Biedermann,1,False,Yvonne Teschner,other,1992,2
+252,Der Landarzt,DE,4,1019911,Nino Korda,2,False,Kurschatten,other,1992,2
+253,Der Landarzt,DE,4,50892,Karin Hardt,1,False,Frau Berner,other,1992,2
+254,Der Landarzt,DE,4,40974,Christiane Maybach,1,False,Frau Monk,other,1992,2
+255,Der Landarzt,DE,4,224769,Günter Kütemeyer,2,False,Olaf,other,1992,2
+256,Der Landarzt,DE,4,22983,Monika Woytowicz,1,False,Elsa Teschner,other,1992,2
+257,Der Landarzt,DE,4,36987,Trude Breitschopf,1,False,Ida,other,1992,3
+258,Der Landarzt,DE,4,36342,Herbert Weißbach,2,False,Idas Mann,other,1992,3
+259,Der Landarzt,DE,4,22594,Fred Delmare,2,False,Herr Riffke,other,1992,3
+260,Der Landarzt,DE,4,1305928,Eva Brumby,1,False,Marinas Mutter,other,1992,3
+261,Der Landarzt,DE,4,32526,Hellmut Lange,2,False,Wallys Begleiter,other,1992,3
+262,Der Landarzt,DE,4,9930,Gisela Uhlen,1,False,Frau Hanusch,other,1992,3
+263,Der Landarzt,DE,4,46541,Ulli Kinalzik,2,False,Herr Franzeck,other,1992,4
+264,Der Landarzt,DE,5,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),1993,1
+265,Der Landarzt,DE,5,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1993,1
+266,Der Landarzt,DE,5,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1993,1
+267,Der Landarzt,DE,5,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1993,1
+268,Der Landarzt,DE,5,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1993,1
+269,Der Landarzt,DE,5,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1993,1
+270,Der Landarzt,DE,5,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1993,1
+271,Der Landarzt,DE,5,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1993,1
+272,Der Landarzt,DE,5,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1993,1
+273,Der Landarzt,DE,5,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1993,1
+274,Der Landarzt,DE,5,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1993,1
+275,Der Landarzt,DE,5,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1993,1
+276,Der Landarzt,DE,5,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),1993,1
+277,Der Landarzt,DE,5,42400,Gila von Weitershausen,1,True,Annemarie Mattiesen,doctor (probably),1993,1
+278,Der Landarzt,DE,5,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1993,1
+279,Der Landarzt,DE,5,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1993,1
+280,Der Landarzt,DE,5,548160,Hendrik Martz,2,True,Eike Mattiesen,doctor (probably),1993,1
+281,Der Landarzt,DE,5,26245,Dieter Eppler,2,True,Hugo Cornelsen,doctor (probably),1993,1
+282,Der Landarzt,DE,5,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),1993,1
+283,Der Landarzt,DE,5,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),1993,1
+284,Der Landarzt,DE,5,233979,Lutz Mackensy,2,True,Hagen Dröge,doctor,1993,1
+285,Der Landarzt,DE,5,1866,Muriel Baumeister,1,True,Franziska,doctor (probably),1993,1
+286,Der Landarzt,DE,5,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1993,1
+287,Der Landarzt,DE,5,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1993,1
+288,Der Landarzt,DE,5,1332833,Joseline Gassen,1,True,Grete Hinnerksen,doctor (probably),1993,1
+289,Der Landarzt,DE,5,70593,Herbert Herrmann,2,True,Dr. Helmut Berner,doctor,1993,1
+290,Der Landarzt,DE,5,10625,Andrea Schober,1,True,Inken,doctor (probably),1993,1
+291,Der Landarzt,DE,5,1799541,Regine Lamster,1,False,Lotte Franzeck,other,1993,1
+292,Der Landarzt,DE,5,46541,Ulli Kinalzik,2,False,Erwin Franzeck,other,1993,1
+293,Der Landarzt,DE,5,10236,Jörg Schüttauf,2,False,Dr. Manfred Kanitz,doctor,1993,1
+294,Der Landarzt,DE,5,48513,Gerit Kling,1,False,Frau Jansen,other,1993,1
+295,Der Landarzt,DE,5,233409,Klaus Mikoleit,2,False,Studiendirektor Olpe,other,1993,1
+296,Der Landarzt,DE,5,32527,Horst Keitel,2,False,Oberschulrat Burlitz,other,1993,2
+297,Der Landarzt,DE,5,583527,Heide Kipp,1,False,Frau Barth,other,1993,2
+298,Der Landarzt,DE,5,9930,Gisela Uhlen,1,False,Saskia Hanusch,other,1993,2
+299,Der Landarzt,DE,5,27071,Günter Schubert,2,False,Karl-Heinz Frohner,other,1993,2
+300,Der Landarzt,DE,5,1222984,Dietmar Huhn,2,False,Herr Messmann,other,1993,2
+301,Der Landarzt,DE,5,50446,Anja Kling,1,False,Frau Torst,other,1993,3
+302,Der Landarzt,DE,5,49410,Rainer Luxem,2,False,Finanzberater Olsen,other,1993,3
+303,Der Landarzt,DE,5,1311549,Ingrid von Bothmer,1,False,Frau Larsen,other,1993,3
+304,Der Landarzt,DE,5,1244903,Andreas Schmidt-Schaller,2,False,Herr Larsen,other,1993,3
+305,Der Landarzt,DE,5,49331,Alexander May,2,False,Kammersänger Eltschick,other,1993,3
+306,Der Landarzt,DE,5,1325734,Uta Stammer,1,False,Frau Oppelsen,other,1993,3
+307,Der Landarzt,DE,5,27270,Johannes Brandrup,2,False,Jonny,other,1993,4
+308,Der Landarzt,DE,5,1139998,Willy Bartelsen,2,False,Feuerwehrmann,other,1993,4
+309,Der Landarzt,DE,6,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),1995,11
+310,Der Landarzt,DE,6,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1995,11
+311,Der Landarzt,DE,6,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1995,11
+312,Der Landarzt,DE,6,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1995,11
+313,Der Landarzt,DE,6,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1995,11
+314,Der Landarzt,DE,6,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1995,11
+315,Der Landarzt,DE,6,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1995,11
+316,Der Landarzt,DE,6,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1995,11
+317,Der Landarzt,DE,6,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1995,11
+318,Der Landarzt,DE,6,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1995,11
+319,Der Landarzt,DE,6,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1995,11
+320,Der Landarzt,DE,6,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1995,11
+321,Der Landarzt,DE,6,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),1995,11
+322,Der Landarzt,DE,6,42400,Gila von Weitershausen,1,True,Annemarie Mattiesen,doctor (probably),1995,11
+323,Der Landarzt,DE,6,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1995,11
+324,Der Landarzt,DE,6,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1995,11
+325,Der Landarzt,DE,6,118433,Karin Düwel,1,True,Dr. Lilli Schwarzenberg,doctor,1995,11
+326,Der Landarzt,DE,6,26245,Dieter Eppler,2,True,Hugo Cornelsen,doctor (probably),1995,11
+327,Der Landarzt,DE,6,233411,Katja Woywood,1,True,Paula Huber,doctor (probably),1995,11
+328,Der Landarzt,DE,6,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),1995,11
+329,Der Landarzt,DE,6,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1995,11
+330,Der Landarzt,DE,6,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1995,11
+331,Der Landarzt,DE,6,1244348,Katerina Jacob,1,True,Elke Hinnerksen,doctor (probably),1995,11
+332,Der Landarzt,DE,6,10625,Andrea Schober,1,True,Inken,doctor (probably),1995,11
+333,Der Landarzt,DE,6,22633,Ingrid van Bergen,1,False,Edelgard,other,1995,12
+334,Der Landarzt,DE,6,22719,Marga Legal,1,False,Frau Johannsen,other,1995,12
+335,Der Landarzt,DE,6,18966,Horst Frank,2,False,Lars Johannsen,other,1995,12
+336,Der Landarzt,DE,6,213586,Helmut Zierl,2,False,Andreas Kroll,doctor,1996,1
+337,Der Landarzt,DE,6,1117161,Ulrich Faulhaber,2,False,Hans Harmsen,other,1996,1
+338,Der Landarzt,DE,7,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),1996,2
+339,Der Landarzt,DE,7,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1996,2
+340,Der Landarzt,DE,7,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1996,2
+341,Der Landarzt,DE,7,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1996,2
+342,Der Landarzt,DE,7,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1996,2
+343,Der Landarzt,DE,7,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1996,2
+344,Der Landarzt,DE,7,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1996,2
+345,Der Landarzt,DE,7,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1996,2
+346,Der Landarzt,DE,7,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1996,2
+347,Der Landarzt,DE,7,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1996,2
+348,Der Landarzt,DE,7,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1996,2
+349,Der Landarzt,DE,7,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1996,2
+350,Der Landarzt,DE,7,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1996,2
+351,Der Landarzt,DE,7,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1996,2
+352,Der Landarzt,DE,7,118433,Karin Düwel,1,True,Dr. Lilli Schwarzenberg,doctor,1996,2
+353,Der Landarzt,DE,7,26245,Dieter Eppler,2,True,Hugo Cornelsen,doctor (probably),1996,2
+354,Der Landarzt,DE,7,233411,Katja Woywood,1,True,Paula Huber,doctor (probably),1996,2
+355,Der Landarzt,DE,7,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),1996,2
+356,Der Landarzt,DE,7,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1996,2
+357,Der Landarzt,DE,7,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1996,2
+358,Der Landarzt,DE,7,1244348,Katerina Jacob,1,True,Elke Hinnerksen,doctor (probably),1996,2
+359,Der Landarzt,DE,7,10625,Andrea Schober,1,True,Inken,doctor (probably),1996,2
+360,Der Landarzt,DE,7,34039,Ellen Schwiers,1,False,Frau Habersaat,other,1996,3
+361,Der Landarzt,DE,7,51209,René Steinke,2,False,Andreas Krempel,doctor,1996,3
+362,Der Landarzt,DE,7,1307386,Ingeborg Krabbe,1,False,Frau Prodösel,other,1996,3
+363,Der Landarzt,DE,7,102139,Katja Bienert,1,False,Marion,other,1996,3
+364,Der Landarzt,DE,7,100095,Horst Janson,2,False,Jesper Jensen,other,1996,3
+365,Der Landarzt,DE,8,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),1999,1
+366,Der Landarzt,DE,8,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1999,1
+367,Der Landarzt,DE,8,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1999,1
+368,Der Landarzt,DE,8,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1999,1
+369,Der Landarzt,DE,8,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1999,1
+370,Der Landarzt,DE,8,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1999,1
+371,Der Landarzt,DE,8,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1999,1
+372,Der Landarzt,DE,8,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1999,1
+373,Der Landarzt,DE,8,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1999,1
+374,Der Landarzt,DE,8,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1999,1
+375,Der Landarzt,DE,8,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1999,1
+376,Der Landarzt,DE,8,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1999,1
+377,Der Landarzt,DE,8,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),1999,1
+378,Der Landarzt,DE,8,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1999,1
+379,Der Landarzt,DE,8,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1999,1
+380,Der Landarzt,DE,8,118433,Karin Düwel,1,True,Dr. Lilli Schwarzenberg,doctor,1999,1
+381,Der Landarzt,DE,8,26245,Dieter Eppler,2,True,Hugo Cornelsen,doctor (probably),1999,1
+382,Der Landarzt,DE,8,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1999,1
+383,Der Landarzt,DE,8,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1999,1
+384,Der Landarzt,DE,8,1244348,Katerina Jacob,1,True,Elke Hinnerksen,doctor (probably),1999,1
+385,Der Landarzt,DE,8,10625,Andrea Schober,1,True,Inken,doctor (probably),1999,1
+386,Der Landarzt,DE,8,1032959,Beate Finckh,1,False,Frau Reschke,other,1999,1
+387,Der Landarzt,DE,8,22792,Lissy Tempelhof,1,False,Frau Kuss,other,1999,1
+388,Der Landarzt,DE,8,38176,Edgar Bessen,2,False,Rechtsanwalt Brodersen,other,1999,1
+389,Der Landarzt,DE,8,1759601,Gwendolyn von Ambesser,1,False,Frau Drach,doctor,1999,1
+390,Der Landarzt,DE,8,1557544,Nana Spier,1,False,Frl. Mollenhauer,other,1999,2
+391,Der Landarzt,DE,8,11952,Gudrun Okras,1,False,Frau Jansen,other,1999,2
+392,Der Landarzt,DE,8,1311647,Friedhelm Ptok,2,False,Rudolph Rudolphsen,other,1999,3
+393,Der Landarzt,DE,8,22849,Barbara Dittus,1,False,Frau Kranz,other,1999,3
+394,Der Landarzt,DE,9,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),1999,4
+395,Der Landarzt,DE,9,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),1999,4
+396,Der Landarzt,DE,9,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),1999,4
+397,Der Landarzt,DE,9,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),1999,4
+398,Der Landarzt,DE,9,1090603,Antje Weisgerber,1,True,Olga Mattiesen,doctor (probably),1999,4
+399,Der Landarzt,DE,9,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),1999,4
+400,Der Landarzt,DE,9,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),1999,4
+401,Der Landarzt,DE,9,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),1999,4
+402,Der Landarzt,DE,9,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),1999,4
+403,Der Landarzt,DE,9,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),1999,4
+404,Der Landarzt,DE,9,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),1999,4
+405,Der Landarzt,DE,9,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),1999,4
+406,Der Landarzt,DE,9,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),1999,4
+407,Der Landarzt,DE,9,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),1999,4
+408,Der Landarzt,DE,9,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),1999,4
+409,Der Landarzt,DE,9,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),1999,4
+410,Der Landarzt,DE,9,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),1999,4
+411,Der Landarzt,DE,9,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),1999,4
+412,Der Landarzt,DE,9,1244348,Katerina Jacob,1,True,Elke Hinnerksen,doctor (probably),1999,4
+413,Der Landarzt,DE,9,44641,Timothy Peach,2,True,Dr.Jens Kasperski,doctor,1999,4
+414,Der Landarzt,DE,9,10625,Andrea Schober,1,True,Inken,doctor (probably),1999,4
+415,Der Landarzt,DE,9,23112,Günter Junghans,2,False,Jim Fraiser,other,1999,4
+416,Der Landarzt,DE,9,43163,Ursula Karusseit,1,False,Jessica Fraiser,other,1999,4
+417,Der Landarzt,DE,9,1557544,Nana Spier,1,False,Bettina Mollenhauer,other,1999,4
+418,Der Landarzt,DE,9,90548,Ursela Monn,1,False,Evelin Sundermann,other,1999,4
+419,Der Landarzt,DE,9,1565704,Jennipher Antoni,1,False,Hanna Petersen,other,1999,4
+420,Der Landarzt,DE,9,22856,Jaecki Schwarz,2,False,Herr Petersen,other,1999,4
+421,Der Landarzt,DE,10,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2001,9
+422,Der Landarzt,DE,10,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2001,9
+423,Der Landarzt,DE,10,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2001,9
+424,Der Landarzt,DE,10,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2001,9
+425,Der Landarzt,DE,10,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2001,9
+426,Der Landarzt,DE,10,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),2001,9
+427,Der Landarzt,DE,10,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),2001,9
+428,Der Landarzt,DE,10,1258581,Katharina Lehmann,1,True,Kerstin Mattiesen,doctor (probably),2001,9
+429,Der Landarzt,DE,10,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2001,9
+430,Der Landarzt,DE,10,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),2001,9
+431,Der Landarzt,DE,10,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2001,9
+432,Der Landarzt,DE,10,1175732,Fritz Hollenbeck,2,True,Fritz Asmussen,doctor (probably),2001,9
+433,Der Landarzt,DE,10,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2001,9
+434,Der Landarzt,DE,10,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),2001,9
+435,Der Landarzt,DE,10,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),2001,9
+436,Der Landarzt,DE,10,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),2001,9
+437,Der Landarzt,DE,10,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2001,9
+438,Der Landarzt,DE,10,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2001,9
+439,Der Landarzt,DE,10,1244348,Katerina Jacob,1,True,Elke Hinnerksen,doctor (probably),2001,9
+440,Der Landarzt,DE,10,44641,Timothy Peach,2,True,Dr. Jens Kasperski,doctor,2001,9
+441,Der Landarzt,DE,10,10625,Andrea Schober,1,True,Inken,doctor (probably),2001,9
+442,Der Landarzt,DE,10,16720,Bernd Stegemann,2,False,Herr Schaarschmidt,other,2001,9
+443,Der Landarzt,DE,10,234099,Marina Krogull,1,False,Freundin,other,2001,10
+444,Der Landarzt,DE,10,50221,Claudia Rieschel,1,False,Frau Schulz,other,2001,10
+445,Der Landarzt,DE,10,36463,Arndt Schwering-Sohnrey,2,False,Herr Aschenbach,other,2001,10
+446,Der Landarzt,DE,10,44474,Klausjürgen Wussow,2,False,Eginhard 'Egi' Kremmel,other,2001,10
+447,Der Landarzt,DE,10,11952,Gudrun Okras,1,False,Frau Jansen,other,2001,11
+448,Der Landarzt,DE,10,47345,Gerd Silberbauer,2,False,Prof. Herbert Roßwein,other,2001,12
+449,Der Landarzt,DE,11,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2001,12
+450,Der Landarzt,DE,11,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2001,12
+451,Der Landarzt,DE,11,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2001,12
+452,Der Landarzt,DE,11,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2001,12
+453,Der Landarzt,DE,11,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2001,12
+454,Der Landarzt,DE,11,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),2001,12
+455,Der Landarzt,DE,11,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),2001,12
+456,Der Landarzt,DE,11,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2001,12
+457,Der Landarzt,DE,11,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),2001,12
+458,Der Landarzt,DE,11,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2001,12
+459,Der Landarzt,DE,11,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2001,12
+460,Der Landarzt,DE,11,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),2001,12
+461,Der Landarzt,DE,11,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),2001,12
+462,Der Landarzt,DE,11,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),2001,12
+463,Der Landarzt,DE,11,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2001,12
+464,Der Landarzt,DE,11,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2001,12
+465,Der Landarzt,DE,11,43169,Christian Schmidt,2,True,Moritz Roßwein,doctor (probably),2001,12
+466,Der Landarzt,DE,11,10625,Andrea Schober,1,True,Inken,doctor (probably),2001,12
+467,Der Landarzt,DE,11,228902,Janina Hartwig,1,False,Frau Schröder,other,2001,12
+468,Der Landarzt,DE,11,47345,Gerd Silberbauer,2,False,Prof. Herbert Roßwein,other,2001,12
+469,Der Landarzt,DE,11,47765,Ulli Philipp,1,False,Frau Gustafsen,other,2002,1
+470,Der Landarzt,DE,11,28345,Mark Zak,2,False,Ossip Abulaze,other,2002,1
+471,Der Landarzt,DE,11,67529,Fritzi Eichhorn,1,False,Pia,other,2002,1
+472,Der Landarzt,DE,11,30726,Daniel Krauss,2,False,Pit,other,2002,1
+473,Der Landarzt,DE,11,36500,Udo Thomer,2,False,Fährmann Patzner,other,2002,1
+474,Der Landarzt,DE,11,1167136,Mariella Ahrens,1,False,Frau Lange,other,2002,1
+475,Der Landarzt,DE,11,1311549,Ingrid von Bothmer,1,False,Lina Alschweig,other,2002,1
+476,Der Landarzt,DE,11,1187349,Hartmut Schreier,2,False,Herr Lange,other,2002,1
+477,Der Landarzt,DE,11,48400,Marion Kracht,1,False,Jana Wegener,other,2002,2
+478,Der Landarzt,DE,11,582456,Wolfgang Winkler,2,False,Peter Wolfsen,other,2002,3
+479,Der Landarzt,DE,12,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2003,10
+480,Der Landarzt,DE,12,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2003,10
+481,Der Landarzt,DE,12,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2003,10
+482,Der Landarzt,DE,12,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2003,10
+483,Der Landarzt,DE,12,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2003,10
+484,Der Landarzt,DE,12,26911,Gert Haucke,2,True,Bruno Hanusch,doctor (probably),2003,10
+485,Der Landarzt,DE,12,1320445,Jens Scheiblich,2,True,Karl Heitmann,doctor (probably),2003,10
+486,Der Landarzt,DE,12,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2003,10
+487,Der Landarzt,DE,12,1310540,Gerda Gmelin,1,True,Berta Rogalla,doctor (probably),2003,10
+488,Der Landarzt,DE,12,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2003,10
+489,Der Landarzt,DE,12,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2003,10
+490,Der Landarzt,DE,12,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),2003,10
+491,Der Landarzt,DE,12,71460,Angelika Milster,1,True,Barbara Hanusch,doctor (probably),2003,10
+492,Der Landarzt,DE,12,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),2003,10
+493,Der Landarzt,DE,12,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2003,10
+494,Der Landarzt,DE,12,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2003,10
+495,Der Landarzt,DE,12,43169,Christian Schmidt,2,True,Moritz Roßwein,doctor (probably),2003,10
+496,Der Landarzt,DE,12,10625,Andrea Schober,1,True,Inken,doctor (probably),2003,10
+497,Der Landarzt,DE,12,38015,Harald Dietl,2,False,Herr van Hylsen,other,2003,10
+498,Der Landarzt,DE,12,1069240,Karin Eickelbaum,1,False,Marietheres Sabel,other,2003,10
+499,Der Landarzt,DE,13,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2004,1
+500,Der Landarzt,DE,13,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2004,1
+501,Der Landarzt,DE,13,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2004,1
+502,Der Landarzt,DE,13,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2004,1
+503,Der Landarzt,DE,13,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2004,1
+504,Der Landarzt,DE,13,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2004,1
+505,Der Landarzt,DE,13,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2004,1
+506,Der Landarzt,DE,13,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2004,1
+507,Der Landarzt,DE,13,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),2004,1
+508,Der Landarzt,DE,13,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),2004,1
+509,Der Landarzt,DE,13,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2004,1
+510,Der Landarzt,DE,13,48423,Wolf-Dietrich Berg,2,True,Anton Fletsch,doctor (probably),2004,1
+511,Der Landarzt,DE,13,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2004,1
+512,Der Landarzt,DE,13,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2004,1
+513,Der Landarzt,DE,13,43169,Christian Schmidt,2,True,Moritz Roßwein,doctor (probably),2004,1
+514,Der Landarzt,DE,13,10625,Andrea Schober,1,True,Inken,doctor (probably),2004,1
+515,Der Landarzt,DE,13,1270893,Ulrich Bähnk,2,True,Dieter Paetz,doctor (probably),2004,1
+516,Der Landarzt,DE,13,25924,Tatjana Clasing,1,False,Frau Rath,other,2004,3
+517,Der Landarzt,DE,14,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2005,10
+518,Der Landarzt,DE,14,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2005,10
+519,Der Landarzt,DE,14,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2005,10
+520,Der Landarzt,DE,14,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2005,10
+521,Der Landarzt,DE,14,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2005,10
+522,Der Landarzt,DE,14,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2005,10
+523,Der Landarzt,DE,14,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2005,10
+524,Der Landarzt,DE,14,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2005,10
+525,Der Landarzt,DE,14,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),2005,10
+526,Der Landarzt,DE,14,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),2005,10
+527,Der Landarzt,DE,14,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2005,10
+528,Der Landarzt,DE,14,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2005,10
+529,Der Landarzt,DE,14,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2005,10
+530,Der Landarzt,DE,14,43169,Christian Schmidt,2,True,Moritz Roßwein,doctor (probably),2005,10
+531,Der Landarzt,DE,14,10625,Andrea Schober,1,True,Inken,doctor (probably),2005,10
+532,Der Landarzt,DE,14,1967966,Victoria Sturm,1,True,Floriane Habersaat,doctor (probably),2005,10
+533,Der Landarzt,DE,14,1270893,Ulrich Bähnk,2,True,Dieter Paetz,doctor (probably),2005,10
+534,Der Landarzt,DE,14,38621,Eleonore Weisgerber,1,False,Gisela Roßwein,other,2005,10
+535,Der Landarzt,DE,14,53028,Eva Kryll,1,False,Dr. Katrin Husemann,doctor,2005,12
+536,Der Landarzt,DE,15,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2006,1
+537,Der Landarzt,DE,15,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2006,1
+538,Der Landarzt,DE,15,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2006,1
+539,Der Landarzt,DE,15,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2006,1
+540,Der Landarzt,DE,15,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2006,1
+541,Der Landarzt,DE,15,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2006,1
+542,Der Landarzt,DE,15,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2006,1
+543,Der Landarzt,DE,15,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2006,1
+544,Der Landarzt,DE,15,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),2006,1
+545,Der Landarzt,DE,15,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2006,1
+546,Der Landarzt,DE,15,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2006,1
+547,Der Landarzt,DE,15,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2006,1
+548,Der Landarzt,DE,15,43169,Christian Schmidt,2,True,Moritz Roßwein,doctor (probably),2006,1
+549,Der Landarzt,DE,15,10625,Andrea Schober,1,True,Inken,doctor (probably),2006,1
+550,Der Landarzt,DE,15,1967966,Victoria Sturm,1,True,Floriane Habersaat,doctor (probably),2006,1
+551,Der Landarzt,DE,15,11609,Floriane Daniel,1,False,Beate,other,2006,2
+552,Der Landarzt,DE,15,36928,Horst Krause,2,False,Herr Breitner,other,2006,3
+553,Der Landarzt,DE,16,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2007,9
+554,Der Landarzt,DE,16,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2007,9
+555,Der Landarzt,DE,16,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2007,9
+556,Der Landarzt,DE,16,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2007,9
+557,Der Landarzt,DE,16,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2007,9
+558,Der Landarzt,DE,16,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2007,9
+559,Der Landarzt,DE,16,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2007,9
+560,Der Landarzt,DE,16,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2007,9
+561,Der Landarzt,DE,16,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),2007,9
+562,Der Landarzt,DE,16,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),2007,9
+563,Der Landarzt,DE,16,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2007,9
+564,Der Landarzt,DE,16,46208,Gerhart Lippert,2,True,Gunnar Wintersdorf,doctor (probably),2007,9
+565,Der Landarzt,DE,16,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2007,9
+566,Der Landarzt,DE,16,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2007,9
+567,Der Landarzt,DE,16,10625,Andrea Schober,1,True,Inken,doctor (probably),2007,9
+568,Der Landarzt,DE,16,1149825,Caroline Scholze,1,True,Maren Jantzen,doctor (probably),2007,9
+569,Der Landarzt,DE,16,1320204,Marek Erhardt,2,False,Michael Fischbach,other,2007,9
+570,Der Landarzt,DE,16,1194755,Maike Bollow,1,False,Birte Schachtelmann,other,2007,9
+571,Der Landarzt,DE,16,3742,Heinrich Schafmeister,2,False,Volker Schachtelmann,other,2007,9
+572,Der Landarzt,DE,16,37798,Friedrich Schoenfelder,2,False,Friedrich Schornfeld,doctor,2007,12
+573,Der Landarzt,DE,16,233746,Renate Schroeter,1,False,Gabriele Wintersdorf,other,2007,12
+574,Der Landarzt,DE,17,1307363,Walter Plathe,2,True,Uli Teschner,doctor (probably),2008,9
+575,Der Landarzt,DE,17,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2008,9
+576,Der Landarzt,DE,17,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2008,9
+577,Der Landarzt,DE,17,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2008,9
+578,Der Landarzt,DE,17,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2008,9
+579,Der Landarzt,DE,17,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2008,9
+580,Der Landarzt,DE,17,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2008,9
+581,Der Landarzt,DE,17,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2008,9
+582,Der Landarzt,DE,17,19525,Gisela Trowe,1,True,Bea Cornelsen,doctor (probably),2008,9
+583,Der Landarzt,DE,17,36501,Karin Thaler,1,True,Veronika 'Vroni',doctor (probably),2008,9
+584,Der Landarzt,DE,17,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2008,9
+585,Der Landarzt,DE,17,46208,Gerhart Lippert,2,True,Gunnar Wintersdorf,doctor (probably),2008,9
+586,Der Landarzt,DE,17,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2008,9
+587,Der Landarzt,DE,17,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2008,9
+588,Der Landarzt,DE,17,10625,Andrea Schober,1,True,Inken,doctor (probably),2008,9
+589,Der Landarzt,DE,17,1149825,Caroline Scholze,1,True,Maren Jantzen,doctor (probably),2008,9
+590,Der Landarzt,DE,17,52400,Dirk Martens,2,False,Thorsten Grasser,other,2008,10
+591,Der Landarzt,DE,17,41692,Dagmar Biener,1,False,Oberschwester,other,2008,10
+592,Der Landarzt,DE,17,1240314,Patrick Bach,2,False,Rüdiger Kalm,other,2008,11
+593,Der Landarzt,DE,17,8205,Marie Gruber,1,False,Frau Simon,other,2008,11
+594,Der Landarzt,DE,17,1381042,Ralph Kretschmar,2,False,Rene,other,2008,11
+595,Der Landarzt,DE,17,38841,Mike Krüger,2,False,,other,2008,12
+596,Der Landarzt,DE,17,36494,Robert Giggenbach,2,False,Dr. Obermüller,doctor,2009,1
+597,Der Landarzt,DE,17,4618,Steffi Kühnert,1,False,Gerda Breeker,other,2009,1
+598,Der Landarzt,DE,18,1181828,Wayne Carpendale,2,True,Jan Bergmann,doctor (probably),2009,1
+599,Der Landarzt,DE,18,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2009,1
+600,Der Landarzt,DE,18,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2009,1
+601,Der Landarzt,DE,18,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2009,1
+602,Der Landarzt,DE,18,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2009,1
+603,Der Landarzt,DE,18,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2009,1
+604,Der Landarzt,DE,18,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2009,1
+605,Der Landarzt,DE,18,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2009,1
+606,Der Landarzt,DE,18,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2009,1
+607,Der Landarzt,DE,18,46208,Gerhart Lippert,2,True,Gunnar Wintersdorf,doctor (probably),2009,1
+608,Der Landarzt,DE,18,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2009,1
+609,Der Landarzt,DE,18,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2009,1
+610,Der Landarzt,DE,18,10625,Andrea Schober,1,True,Inken,doctor (probably),2009,1
+611,Der Landarzt,DE,18,36767,Valerie Niehaus,1,False,Constanze,other,2009,1
+612,Der Landarzt,DE,18,13539,Erika Skrotzki,1,False,Frau Jantzen,other,2009,1
+613,Der Landarzt,DE,18,37245,Oona-Devi Liebich,1,False,Lea Kolbe,other,2009,1
+614,Der Landarzt,DE,18,17565,Wilfried Dziallas,2,False,Herbert Lutz,other,2009,1
+615,Der Landarzt,DE,18,21750,Petra Kelling,1,False,Carmen Lutz,other,2009,1
+616,Der Landarzt,DE,18,234039,Antje Lewald,1,False,Inge Koschinski,other,2009,1
+617,Der Landarzt,DE,18,19929,Uwe Fellensiek,2,False,Theo Koschinski,other,2009,1
+618,Der Landarzt,DE,18,36755,Peter Prager,2,False,Prof. Dr. Osterloh,doctor,2009,2
+619,Der Landarzt,DE,18,23942,Dietrich Adam,2,False,Meinolf Linden,other,2009,2
+620,Der Landarzt,DE,18,573981,Sarah Alles,1,False,Sonja Linden,other,2009,2
+621,Der Landarzt,DE,19,1181828,Wayne Carpendale,2,True,Jan Bergmann,doctor (probably),2010,9
+622,Der Landarzt,DE,19,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2010,9
+623,Der Landarzt,DE,19,38053,Heinz Reincke,2,True,Albert Eckholm,doctor (probably),2010,9
+624,Der Landarzt,DE,19,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2010,9
+625,Der Landarzt,DE,19,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2010,9
+626,Der Landarzt,DE,19,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2010,9
+627,Der Landarzt,DE,19,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2010,9
+628,Der Landarzt,DE,19,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2010,9
+629,Der Landarzt,DE,19,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2010,9
+630,Der Landarzt,DE,19,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2010,9
+631,Der Landarzt,DE,19,10625,Andrea Schober,1,True,Inken,doctor (probably),2010,9
+632,Der Landarzt,DE,19,23962,Christian Kohlund,2,False,Dr. Max Bergmann,doctor,2010,9
+633,Der Landarzt,DE,19,1088,Ludger Pistor,2,False,Pastor Hannes Kolbe,other,2010,11
+634,Der Landarzt,DE,20,1181828,Wayne Carpendale,2,True,Jan Bergmann,doctor (probably),2012,6
+635,Der Landarzt,DE,20,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2012,6
+636,Der Landarzt,DE,20,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2012,6
+637,Der Landarzt,DE,20,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2012,6
+638,Der Landarzt,DE,20,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2012,6
+639,Der Landarzt,DE,20,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2012,6
+640,Der Landarzt,DE,20,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2012,6
+641,Der Landarzt,DE,20,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2012,6
+642,Der Landarzt,DE,20,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2012,6
+643,Der Landarzt,DE,20,52059,Konstantin Wecker,2,False,Dr. Matthias Lenz,doctor,2012,6
+644,Der Landarzt,DE,20,8790,Meret Becker,1,False,Nadjeschda Voronin,other,2012,6
+645,Der Landarzt,DE,20,17544,Dieter Landuris,2,False,Herr von Kampenhausen,other,2011,2
+646,Der Landarzt,DE,20,39587,Jessica Kosmalla,1,False,Frau von Kampenhausen,other,2011,2
+647,Der Landarzt,DE,20,45903,Nina Hoger,1,False,Brigitte Davis,other,2011,4
+648,Der Landarzt,DE,21,1181828,Wayne Carpendale,2,True,Jan Bergmann,doctor (probably),2012,9
+649,Der Landarzt,DE,21,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2012,9
+650,Der Landarzt,DE,21,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2012,9
+651,Der Landarzt,DE,21,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2012,9
+652,Der Landarzt,DE,21,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2012,9
+653,Der Landarzt,DE,21,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2012,9
+654,Der Landarzt,DE,21,1310664,Till Demtrøder,2,True,Wanja Teschner,doctor (probably),2012,9
+655,Der Landarzt,DE,21,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2012,9
+656,Der Landarzt,DE,21,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2012,9
+657,Der Landarzt,DE,21,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2012,9
+658,Der Landarzt,DE,21,10625,Andrea Schober,1,True,Inken,doctor (probably),2012,9
+659,Der Landarzt,DE,21,114594,Proschat Madani,1,False,Frederike von Saalfeld,other,2012,9
+660,Der Landarzt,DE,21,1108268,Max Herbrechter,2,False,Kurt Steyer,other,2012,9
+661,Der Landarzt,DE,21,34297,Ingo Naujoks,2,False,Ulf Kretschmann,other,2012,9
+662,Der Landarzt,DE,21,13812,Tilo Prückner,2,False,,other,2012,11
+663,Der Landarzt,DE,21,38772,Adrian Topol,2,False,,other,2012,11
+664,Der Landarzt,DE,22,1181828,Wayne Carpendale,2,True,Jan Bergmann,doctor (probably),2013,2
+665,Der Landarzt,DE,22,19235,Gerhard Olschewski,2,True,Hinnerk Alfred Hinnerksen,doctor (probably),2013,2
+666,Der Landarzt,DE,22,1293,Franziska Troegner,1,True,Gertrud Hinnerksen,doctor (probably),2013,2
+667,Der Landarzt,DE,22,1350884,Edith Behleit,1,True,Hildegard Else Jürgens,doctor (probably),2013,2
+668,Der Landarzt,DE,22,37386,Hans Georg Panczak,2,True,Mark Bohm,doctor (probably),2013,2
+669,Der Landarzt,DE,22,1183601,Eva Maria Bauer,1,True,Charlotte Sellmann,doctor (probably),2013,2
+670,Der Landarzt,DE,22,553005,Katrin Pollitt,1,True,Carola Wiesner,doctor (probably),2013,2
+671,Der Landarzt,DE,22,1324601,Karina Thayenthal,1,True,Jutta Wegener,doctor (probably),2013,2
+672,Der Landarzt,DE,22,38297,Luise Bähr,1,True,Ramona Merkel,doctor (probably),2013,2
+673,Der Landarzt,DE,22,34296,Anja Knauer,1,False,Cathrin Peters,other,2013,2
+674,Der Landarzt,DE,22,49028,Clelia Sarto,1,False,Dr. Leticia Garcia,doctor,2013,2

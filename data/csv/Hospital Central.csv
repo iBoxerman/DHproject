@@ -1,0 +1,300 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Hospital Central,ES,1,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2000,4
+1,Hospital Central,ES,1,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2000,4
+2,Hospital Central,ES,1,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2000,4
+3,Hospital Central,ES,1,1124384,Chusa Barbero,1,True,Susana Cortés,doctor (probably),2000,4
+4,Hospital Central,ES,1,967160,Lola Casamayor,1,True,Cecilia Shuman,doctor (probably),2000,4
+5,Hospital Central,ES,1,1031567,Diana Lázaro,1,True,Leonor Vázquez,doctor (probably),2000,4
+6,Hospital Central,ES,1,1012192,Rosa Mariscal,1,True,Andrea Valverde,doctor,2000,4
+7,Hospital Central,ES,1,1198226,Jesús Cabrero,2,True,Mario Quiroga,doctor (probably),2000,4
+8,Hospital Central,ES,1,549833,Sergi Mateu,2,True,Santiago Bernal,doctor (probably),2000,4
+9,Hospital Central,ES,1,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2000,4
+10,Hospital Central,ES,1,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2000,4
+11,Hospital Central,ES,1,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2000,4
+12,Hospital Central,ES,1,472547,Antonio Barroso,2,False,Repartidor,other,2000,5
+13,Hospital Central,ES,2,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2001,1
+14,Hospital Central,ES,2,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2001,1
+15,Hospital Central,ES,2,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2001,1
+16,Hospital Central,ES,2,967160,Lola Casamayor,1,True,Cecilia Shuman,doctor (probably),2001,1
+17,Hospital Central,ES,2,1044336,Lola Marceli,1,True,Paula Herrero,doctor (probably),2001,1
+18,Hospital Central,ES,2,1031567,Diana Lázaro,1,True,Leonor Vázquez,doctor (probably),2001,1
+19,Hospital Central,ES,2,1012192,Rosa Mariscal,1,True,Andrea Valverde,doctor,2001,1
+20,Hospital Central,ES,2,1198226,Jesús Cabrero,2,True,Mario Quiroga,doctor (probably),2001,1
+21,Hospital Central,ES,2,549833,Sergi Mateu,2,True,Santiago Bernal,doctor (probably),2001,1
+22,Hospital Central,ES,2,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2001,1
+23,Hospital Central,ES,2,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2001,1
+24,Hospital Central,ES,2,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2001,1
+25,Hospital Central,ES,3,72674,Paulina Gálvez,1,True,Ana Ortiz,doctor (probably),2002,1
+26,Hospital Central,ES,3,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2002,1
+27,Hospital Central,ES,3,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2002,1
+28,Hospital Central,ES,3,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2002,1
+29,Hospital Central,ES,3,1012192,Rosa Mariscal,1,True,Andrea Valverde,doctor,2002,1
+30,Hospital Central,ES,3,1198226,Jesús Cabrero,2,True,Mario Quiroga,doctor (probably),2002,1
+31,Hospital Central,ES,3,549833,Sergi Mateu,2,True,Santiago Bernal,doctor (probably),2002,1
+32,Hospital Central,ES,3,1446716,Amaia Lizarralde,1,True,Cristina Laguna,doctor (probably),2002,1
+33,Hospital Central,ES,3,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2002,1
+34,Hospital Central,ES,3,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2002,1
+35,Hospital Central,ES,3,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2002,1
+36,Hospital Central,ES,3,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2002,1
+37,Hospital Central,ES,3,3188333,Kevin Estiz,2,False,Quique,other,2002,1
+38,Hospital Central,ES,3,1340020,Álvaro Morte,2,False,Buzo,other,2002,1
+39,Hospital Central,ES,3,130259,Biel Duran,2,False,Ángel,other,2002,2
+40,Hospital Central,ES,3,1240547,Jorge Jurado,2,False,Niño,other,2002,4
+41,Hospital Central,ES,4,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2002,9
+42,Hospital Central,ES,4,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2002,9
+43,Hospital Central,ES,4,3651,Fernando Guillén,2,True,Germán Prada,doctor (probably),2002,9
+44,Hospital Central,ES,4,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2002,9
+45,Hospital Central,ES,4,1012192,Rosa Mariscal,1,True,Andrea Valverde,doctor,2002,9
+46,Hospital Central,ES,4,549833,Sergi Mateu,2,True,Santiago Bernal,doctor (probably),2002,9
+47,Hospital Central,ES,4,1446716,Amaia Lizarralde,1,True,Cristina Laguna,doctor (probably),2002,9
+48,Hospital Central,ES,4,587099,Armando del Río,2,True,Fran Crespo,doctor (probably),2002,9
+49,Hospital Central,ES,4,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2002,9
+50,Hospital Central,ES,4,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2002,9
+51,Hospital Central,ES,4,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2002,9
+52,Hospital Central,ES,4,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2002,9
+53,Hospital Central,ES,4,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2002,9
+54,Hospital Central,ES,4,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2002,9
+55,Hospital Central,ES,4,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2002,9
+56,Hospital Central,ES,4,1340020,Álvaro Morte,2,False,Bombero,other,2002,10
+57,Hospital Central,ES,4,1206196,Jaime Ordóñez,2,False,,other,2002,11
+58,Hospital Central,ES,5,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2003,1
+59,Hospital Central,ES,5,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2003,1
+60,Hospital Central,ES,5,3651,Fernando Guillén,2,True,Germán Prada,doctor (probably),2003,1
+61,Hospital Central,ES,5,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2003,1
+62,Hospital Central,ES,5,1012192,Rosa Mariscal,1,True,Andrea Valverde,doctor,2003,1
+63,Hospital Central,ES,5,549833,Sergi Mateu,2,True,Santiago Bernal,doctor (probably),2003,1
+64,Hospital Central,ES,5,1446716,Amaia Lizarralde,1,True,Cristina Laguna,doctor (probably),2003,1
+65,Hospital Central,ES,5,587099,Armando del Río,2,True,Fran Crespo,doctor (probably),2003,1
+66,Hospital Central,ES,5,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2003,1
+67,Hospital Central,ES,5,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2003,1
+68,Hospital Central,ES,5,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2003,1
+69,Hospital Central,ES,5,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2003,1
+70,Hospital Central,ES,5,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2003,1
+71,Hospital Central,ES,5,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2003,1
+72,Hospital Central,ES,5,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2003,1
+73,Hospital Central,ES,5,1062017,Òscar Rabadán,2,False,Álvaro,other,2003,2
+74,Hospital Central,ES,5,4363,Carlos Blanco Vila,2,False,Franco Siminiani,other,2003,2
+75,Hospital Central,ES,6,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2003,9
+76,Hospital Central,ES,6,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2003,9
+77,Hospital Central,ES,6,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2003,9
+78,Hospital Central,ES,6,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2003,9
+79,Hospital Central,ES,6,1012192,Rosa Mariscal,1,True,Andrea Valverde,doctor,2003,9
+80,Hospital Central,ES,6,549833,Sergi Mateu,2,True,Santiago Bernal,doctor (probably),2003,9
+81,Hospital Central,ES,6,1446716,Amaia Lizarralde,1,True,Cristina Laguna,doctor (probably),2003,9
+82,Hospital Central,ES,6,587099,Armando del Río,2,True,Fran Crespo,doctor (probably),2003,9
+83,Hospital Central,ES,6,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2003,9
+84,Hospital Central,ES,6,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2003,9
+85,Hospital Central,ES,6,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2003,9
+86,Hospital Central,ES,6,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2003,9
+87,Hospital Central,ES,6,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2003,9
+88,Hospital Central,ES,6,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2003,9
+89,Hospital Central,ES,6,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2003,9
+90,Hospital Central,ES,6,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2003,9
+91,Hospital Central,ES,6,1206196,Jaime Ordóñez,2,False,,other,2003,10
+92,Hospital Central,ES,6,3042426,Germán Marina,2,False,Fidel,other,2003,10
+93,Hospital Central,ES,7,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2004,4
+94,Hospital Central,ES,7,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2004,4
+95,Hospital Central,ES,7,45060,Leticia Dolera,1,True,Miriam,doctor (probably),2004,4
+96,Hospital Central,ES,7,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2004,4
+97,Hospital Central,ES,7,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2004,4
+98,Hospital Central,ES,7,1446716,Amaia Lizarralde,1,True,Cristina Laguna,doctor (probably),2004,4
+99,Hospital Central,ES,7,587099,Armando del Río,2,True,Fran Crespo,doctor (probably),2004,4
+100,Hospital Central,ES,7,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2004,4
+101,Hospital Central,ES,7,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2004,4
+102,Hospital Central,ES,7,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2004,4
+103,Hospital Central,ES,7,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2004,4
+104,Hospital Central,ES,7,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2004,4
+105,Hospital Central,ES,7,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2004,4
+106,Hospital Central,ES,7,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2004,4
+107,Hospital Central,ES,7,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2004,4
+108,Hospital Central,ES,7,1295215,Sandra Blázquez,1,False,Chica discoteca,other,2004,6
+109,Hospital Central,ES,8,140089,María Casal,1,True,Elisa Sánchez,doctor (probably),2004,9
+110,Hospital Central,ES,8,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2004,9
+111,Hospital Central,ES,8,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2004,9
+112,Hospital Central,ES,8,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2004,9
+113,Hospital Central,ES,8,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2004,9
+114,Hospital Central,ES,8,1446716,Amaia Lizarralde,1,True,Cristina Laguna,doctor (probably),2004,9
+115,Hospital Central,ES,8,587099,Armando del Río,2,True,Fran Crespo,doctor (probably),2004,9
+116,Hospital Central,ES,8,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2004,9
+117,Hospital Central,ES,8,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2004,9
+118,Hospital Central,ES,8,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2004,9
+119,Hospital Central,ES,8,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2004,9
+120,Hospital Central,ES,8,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2004,9
+121,Hospital Central,ES,8,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2004,9
+122,Hospital Central,ES,8,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2004,9
+123,Hospital Central,ES,8,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2004,9
+124,Hospital Central,ES,8,2824127,Lidia Otón,1,False,Lucía,other,2004,11
+125,Hospital Central,ES,9,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2005,5
+126,Hospital Central,ES,9,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2005,5
+127,Hospital Central,ES,9,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2005,5
+128,Hospital Central,ES,9,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2005,5
+129,Hospital Central,ES,9,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2005,5
+130,Hospital Central,ES,9,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2005,5
+131,Hospital Central,ES,9,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2005,5
+132,Hospital Central,ES,9,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2005,5
+133,Hospital Central,ES,9,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2005,5
+134,Hospital Central,ES,9,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2005,5
+135,Hospital Central,ES,9,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2005,5
+136,Hospital Central,ES,9,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2005,5
+137,Hospital Central,ES,9,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2005,5
+138,Hospital Central,ES,9,230210,Mercè Llorens,1,True,Begoña García,doctor (probably),2005,5
+139,Hospital Central,ES,9,1295215,Sandra Blázquez,1,False,Verónica,other,2005,5
+140,Hospital Central,ES,10,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2005,9
+141,Hospital Central,ES,10,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2005,9
+142,Hospital Central,ES,10,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2005,9
+143,Hospital Central,ES,10,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2005,9
+144,Hospital Central,ES,10,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2005,9
+145,Hospital Central,ES,10,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2005,9
+146,Hospital Central,ES,10,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2005,9
+147,Hospital Central,ES,10,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2005,9
+148,Hospital Central,ES,10,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2005,9
+149,Hospital Central,ES,10,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2005,9
+150,Hospital Central,ES,10,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2005,9
+151,Hospital Central,ES,10,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2005,9
+152,Hospital Central,ES,10,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2005,9
+153,Hospital Central,ES,10,230210,Mercè Llorens,1,True,Begoña García,doctor (probably),2005,9
+154,Hospital Central,ES,11,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2006,3
+155,Hospital Central,ES,11,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2006,3
+156,Hospital Central,ES,11,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2006,3
+157,Hospital Central,ES,11,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2006,3
+158,Hospital Central,ES,11,1061915,Ángel Pardo,2,True,"Isidro ""Rusti"" Gálvez",doctor,2006,3
+159,Hospital Central,ES,11,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2006,3
+160,Hospital Central,ES,11,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2006,3
+161,Hospital Central,ES,11,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2006,3
+162,Hospital Central,ES,11,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2006,3
+163,Hospital Central,ES,11,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2006,3
+164,Hospital Central,ES,11,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2006,3
+165,Hospital Central,ES,11,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2006,3
+166,Hospital Central,ES,11,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2006,3
+167,Hospital Central,ES,11,230210,Mercè Llorens,1,True,Begoña García,doctor (probably),2006,3
+168,Hospital Central,ES,12,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2006,9
+169,Hospital Central,ES,12,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2006,9
+170,Hospital Central,ES,12,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2006,9
+171,Hospital Central,ES,12,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2006,9
+172,Hospital Central,ES,12,1396657,Alicia Bogo,1,True,Eva Méndez,doctor (probably),2006,9
+173,Hospital Central,ES,12,1149059,Lluís Marco,2,True,Antonio Dávila,doctor (probably),2006,9
+174,Hospital Central,ES,12,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2006,9
+175,Hospital Central,ES,12,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2006,9
+176,Hospital Central,ES,12,19823,Bea Segura,1,True,Mónica de la Fuente,doctor (probably),2006,9
+177,Hospital Central,ES,12,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2006,9
+178,Hospital Central,ES,12,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2006,9
+179,Hospital Central,ES,12,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2006,9
+180,Hospital Central,ES,12,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2006,9
+181,Hospital Central,ES,12,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2006,9
+182,Hospital Central,ES,12,81160,Belén Fabra,1,False,Elisa,other,0,0
+183,Hospital Central,ES,12,227073,Laura Pamplona,1,False,Ágata Monasterio,other,0,0
+184,Hospital Central,ES,13,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2007,4
+185,Hospital Central,ES,13,25132,Alicia Borrachero,1,True,Cruz Gándara,doctor (probably),2007,4
+186,Hospital Central,ES,13,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2007,4
+187,Hospital Central,ES,13,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2007,4
+188,Hospital Central,ES,13,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2007,4
+189,Hospital Central,ES,13,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2007,4
+190,Hospital Central,ES,13,19823,Bea Segura,1,True,Mónica de la Fuente,doctor (probably),2007,4
+191,Hospital Central,ES,13,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2007,4
+192,Hospital Central,ES,13,990817,Elia Galera,1,True,Claudia Castilla,doctor (probably),2007,4
+193,Hospital Central,ES,13,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2007,4
+194,Hospital Central,ES,13,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2007,4
+195,Hospital Central,ES,13,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2007,4
+196,Hospital Central,ES,13,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2007,4
+197,Hospital Central,ES,13,1295215,Sandra Blázquez,1,False,Novia de Maurice,other,2007,4
+198,Hospital Central,ES,14,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2007,9
+199,Hospital Central,ES,14,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2007,9
+200,Hospital Central,ES,14,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2007,9
+201,Hospital Central,ES,14,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2007,9
+202,Hospital Central,ES,14,19823,Bea Segura,1,True,Mónica de la Fuente,doctor (probably),2007,9
+203,Hospital Central,ES,14,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2007,9
+204,Hospital Central,ES,14,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2007,9
+205,Hospital Central,ES,14,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2007,9
+206,Hospital Central,ES,14,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2007,9
+207,Hospital Central,ES,14,1294750,Carles Francino,2,True,"Raimundo ""Rai"" Ibáñez",doctor (probably),2007,9
+208,Hospital Central,ES,14,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2007,9
+209,Hospital Central,ES,14,592476,Marian Álvarez,1,True,Lola Sanz,doctor (probably),2007,9
+210,Hospital Central,ES,14,1446765,Carolina Cerezuela,1,True,Veronica Solé,doctor (probably),2007,9
+211,Hospital Central,ES,14,1446766,Bárbara Muñoz,1,True,Alicia Monasterio,doctor (probably),2007,9
+212,Hospital Central,ES,14,587931,María León,1,False,Mabel,other,0,0
+213,Hospital Central,ES,15,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2008,4
+214,Hospital Central,ES,15,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2008,4
+215,Hospital Central,ES,15,1030528,Diana Palazón,1,True,Laura Llano,doctor (probably),2008,4
+216,Hospital Central,ES,15,961990,Nacho Fresneda,2,True,Manuel Aimé,doctor (probably),2008,4
+217,Hospital Central,ES,15,19823,Bea Segura,1,True,Mónica de la Fuente,doctor (probably),2008,4
+218,Hospital Central,ES,15,227071,Pedro Casablanc,2,True,Fernando Mora,doctor (probably),2008,4
+219,Hospital Central,ES,15,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2008,4
+220,Hospital Central,ES,15,990817,Elia Galera,1,True,Claudia Castilla,doctor (probably),2008,4
+221,Hospital Central,ES,15,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2008,4
+222,Hospital Central,ES,15,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2008,4
+223,Hospital Central,ES,15,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2008,4
+224,Hospital Central,ES,15,225008,Fran Perea,2,True,Enrique Trujillo,doctor (probably),2008,4
+225,Hospital Central,ES,15,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2008,4
+226,Hospital Central,ES,15,592476,Marian Álvarez,1,True,Lola Sanz,doctor (probably),2008,4
+227,Hospital Central,ES,15,1294750,Carles Francino,2,True,"Raimundo ""Rai"" Ibáñez",doctor (probably),2008,4
+228,Hospital Central,ES,15,1128383,Juana Acosta,1,True,Sofía Carrillo,doctor (probably),2008,4
+229,Hospital Central,ES,15,1446765,Carolina Cerezuela,1,True,Veronica Solé,doctor (probably),2008,4
+230,Hospital Central,ES,15,1446766,Bárbara Muñoz,1,True,Alicia Monasterio,doctor (probably),2008,4
+231,Hospital Central,ES,15,59134,Núria Gago,1,False,Dra. Gloria Calatayud,doctor,2008,7
+232,Hospital Central,ES,16,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2008,9
+233,Hospital Central,ES,16,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2008,9
+234,Hospital Central,ES,16,19823,Bea Segura,1,True,Mónica de la Fuente,doctor (probably),2008,9
+235,Hospital Central,ES,16,227071,Pedro Casablanc,2,True,Fernando Mora,doctor (probably),2008,9
+236,Hospital Central,ES,16,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2008,9
+237,Hospital Central,ES,16,990817,Elia Galera,1,True,Claudia Castilla,doctor (probably),2008,9
+238,Hospital Central,ES,16,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2008,9
+239,Hospital Central,ES,16,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2008,9
+240,Hospital Central,ES,16,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2008,9
+241,Hospital Central,ES,16,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2008,9
+242,Hospital Central,ES,16,1294750,Carles Francino,2,True,"Raimundo ""Rai"" Ibáñez",doctor (probably),2008,9
+243,Hospital Central,ES,16,592476,Marian Álvarez,1,True,Lola Sanz,doctor (probably),2008,9
+244,Hospital Central,ES,16,1128383,Juana Acosta,1,True,Sofía Carrillo,doctor (probably),2008,9
+245,Hospital Central,ES,16,1446765,Carolina Cerezuela,1,True,Veronica Solé,doctor (probably),2008,9
+246,Hospital Central,ES,16,1446766,Bárbara Muñoz,1,True,Alicia Monasterio,doctor (probably),2008,9
+247,Hospital Central,ES,17,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2009,3
+248,Hospital Central,ES,17,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2009,3
+249,Hospital Central,ES,17,227071,Pedro Casablanc,2,True,Fernando Mora,doctor (probably),2009,3
+250,Hospital Central,ES,17,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2009,3
+251,Hospital Central,ES,17,990817,Elia Galera,1,True,Claudia Castilla,doctor (probably),2009,3
+252,Hospital Central,ES,17,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2009,3
+253,Hospital Central,ES,17,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2009,3
+254,Hospital Central,ES,17,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2009,3
+255,Hospital Central,ES,17,1294750,Carles Francino,2,True,"Raimundo ""Rai"" Ibáñez",doctor (probably),2009,3
+256,Hospital Central,ES,17,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2009,3
+257,Hospital Central,ES,17,1115129,Sara Casasnovas,1,True,José Velasco,doctor (probably),2009,3
+258,Hospital Central,ES,17,1128383,Juana Acosta,1,True,Sofía Carrillo,doctor (probably),2009,3
+259,Hospital Central,ES,17,1446765,Carolina Cerezuela,1,True,Veronica Solé,doctor (probably),2009,3
+260,Hospital Central,ES,17,1071541,Begoña Maestre,1,True,Raquel Castaño,doctor (probably),2009,3
+261,Hospital Central,ES,17,119593,Pablo Carbonell,2,True,David Gimeno,doctor (probably),2009,3
+262,Hospital Central,ES,17,1446766,Bárbara Muñoz,1,True,Alicia Monasterio,doctor (probably),2009,3
+263,Hospital Central,ES,18,1243743,Patricia Vico,1,True,"Macarena ""Maca"" Fernández",doctor (probably),2009,10
+264,Hospital Central,ES,18,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2009,10
+265,Hospital Central,ES,18,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2009,10
+266,Hospital Central,ES,18,227071,Pedro Casablanc,2,True,Fernando Mora,doctor (probably),2009,10
+267,Hospital Central,ES,18,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2009,10
+268,Hospital Central,ES,18,990817,Elia Galera,1,True,Claudia Castilla,doctor (probably),2009,10
+269,Hospital Central,ES,18,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2009,10
+270,Hospital Central,ES,18,1446725,Fátima Baeza,1,True,Esther García,doctor (probably),2009,10
+271,Hospital Central,ES,18,1378380,Jesús Olmedo,2,True,Carlos Granados,doctor (probably),2009,10
+272,Hospital Central,ES,18,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2009,10
+273,Hospital Central,ES,18,1071541,Begoña Maestre,1,True,Raquel Castaño,doctor (probably),2009,10
+274,Hospital Central,ES,18,119593,Pablo Carbonell,2,True,David Gimeno,doctor (probably),2009,10
+275,Hospital Central,ES,18,1446766,Bárbara Muñoz,1,True,Alicia Monasterio,doctor (probably),2009,10
+276,Hospital Central,ES,18,1168427,Mónica Estarreado,1,True,Valeria Peralta,doctor (probably),2009,10
+277,Hospital Central,ES,19,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2011,1
+278,Hospital Central,ES,19,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2011,1
+279,Hospital Central,ES,19,227071,Pedro Casablanc,2,True,Fernando Mora,doctor (probably),2011,1
+280,Hospital Central,ES,19,1446732,Marisol Rolandi,1,True,Teresa Montoro,doctor (probably),2011,1
+281,Hospital Central,ES,19,990817,Elia Galera,1,True,Claudia Castilla,doctor (probably),2011,1
+282,Hospital Central,ES,19,1446742,Roberto Drago,2,True,Héctor Béjar,doctor (probably),2011,1
+283,Hospital Central,ES,19,1251336,Iván Sánchez,2,True,Raúl Lara,doctor (probably),2011,1
+284,Hospital Central,ES,19,119593,Pablo Carbonell,2,True,David Gimeno,doctor (probably),2011,1
+285,Hospital Central,ES,19,1446766,Bárbara Muñoz,1,True,Alicia Monasterio,doctor (probably),2011,1
+286,Hospital Central,ES,19,1168427,Mónica Estarreado,1,True,Valeria Peralta,doctor (probably),2011,1
+287,Hospital Central,ES,19,1446798,Adriana Torrebejano,1,True,Irene Valencia,doctor (probably),2011,1
+288,Hospital Central,ES,19,1071541,Begoña Maestre,1,True,Raquel Castaño,doctor (probably),2011,1
+289,Hospital Central,ES,20,1207948,Jordi Rebellón,2,True,Rodolfo Vilches,doctor (probably),2012,5
+290,Hospital Central,ES,20,1080942,Antonio Zabálburu,2,True,Javier Sotomayor,doctor (probably),2012,5
+291,Hospital Central,ES,20,78999,Mar Regueras,1,True,Manuela Rubio,doctor (probably),2012,5
+292,Hospital Central,ES,20,1438824,Nani Jiménez,1,True,Ariadna Rubio,doctor (probably),2012,5
+293,Hospital Central,ES,20,1071541,Begoña Maestre,1,True,Raquel Castaño,doctor (probably),2012,5
+294,Hospital Central,ES,20,119593,Pablo Carbonell,2,True,David Gimeno,doctor (probably),2012,5
+295,Hospital Central,ES,20,1446766,Bárbara Muñoz,1,True,Alicia Monasterio,doctor (probably),2012,5
+296,Hospital Central,ES,20,1168427,Mónica Estarreado,1,True,Valeria Peralta,doctor (probably),2012,5
+297,Hospital Central,ES,20,1334532,José Lamuño,2,True,Gorka Betaina,doctor (probably),2012,5
+298,Hospital Central,ES,20,1092527,Mar Ulldemolins,1,False,Marga,other,2012,5

@@ -1,0 +1,699 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,Der Bergdoktor,AT,1,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2008,2
+1,Der Bergdoktor,AT,1,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2008,2
+2,Der Bergdoktor,AT,1,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2008,2
+3,Der Bergdoktor,AT,1,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2008,2
+4,Der Bergdoktor,AT,1,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2008,2
+5,Der Bergdoktor,AT,1,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2008,2
+6,Der Bergdoktor,AT,1,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2008,2
+7,Der Bergdoktor,AT,1,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2008,2
+8,Der Bergdoktor,AT,1,44641,Timothy Peach,2,False,Peter Meinrad,other,2008,2
+9,Der Bergdoktor,AT,1,36759,Peter Weiß,2,False,Anton Lechner,other,2008,2
+10,Der Bergdoktor,AT,1,1188461,Angela Ascher,1,False,Claudia Meinrad,other,2008,2
+11,Der Bergdoktor,AT,1,2525547,Lukas Lobis,2,False,Anästhesist,other,2008,2
+12,Der Bergdoktor,AT,1,1114391,Mareike Fell,1,False,Christina Pagel,other,2008,2
+13,Der Bergdoktor,AT,1,46661,Hermann Giefer,2,False,Franz,other,2008,2
+14,Der Bergdoktor,AT,1,2517765,Jörn Hinrichs,2,False,Günther,other,2008,2
+15,Der Bergdoktor,AT,1,1405125,Severin Sonntag,2,False,Lorenz,other,2008,2
+16,Der Bergdoktor,AT,1,1323750,Barbara Bauer,1,False,Karin,other,2008,2
+17,Der Bergdoktor,AT,1,1167136,Mariella Ahrens,1,False,Julia Denson,other,2008,2
+18,Der Bergdoktor,AT,1,562654,Miroslav Nemec,2,False,Marcus Wendt,other,2008,2
+19,Der Bergdoktor,AT,1,50041,Leopold Hornung,2,False,Henryk Wendt,other,2008,2
+20,Der Bergdoktor,AT,1,2368472,Günther Götsch,2,False,Sponsor,other,2008,2
+21,Der Bergdoktor,AT,1,47345,Gerd Silberbauer,2,False,Julius Hofmeister,other,2008,2
+22,Der Bergdoktor,AT,1,49273,Reinhard Forcher,2,False,Gemeinderat Hintermeier,other,2008,2
+23,Der Bergdoktor,AT,1,2082394,Reinhard Exenberger,2,False,Gemeinderat Beisitzer 1,other,2008,2
+24,Der Bergdoktor,AT,1,1675274,Lea Faßbender,1,False,Frani,other,2008,3
+25,Der Bergdoktor,AT,1,5207,Marlon Kittel,2,False,Tobias,other,2008,3
+26,Der Bergdoktor,AT,1,34646,Alexander Radszun,2,False,Militärpolizist 1,other,2008,3
+27,Der Bergdoktor,AT,1,1819628,Markus Ertelt,2,False,Militärpolizist 2,other,2008,3
+28,Der Bergdoktor,AT,1,36028,Michael Hinz,2,False,Xaver Prechtl,other,2008,3
+29,Der Bergdoktor,AT,1,11611,Laura Tonke,1,False,Andrea,doctor,2008,3
+30,Der Bergdoktor,AT,1,1825414,Anna Luise Kiss,1,False,Ina,other,2008,3
+31,Der Bergdoktor,AT,1,1193800,David Zimmerschied,2,False,Christopher,other,2008,3
+32,Der Bergdoktor,AT,1,38970,Thomas Balou Martin,2,False,,other,2008,3
+33,Der Bergdoktor,AT,1,1345994,Luise Deschauer,1,False,Elfriede Wörndl,other,2008,3
+34,Der Bergdoktor,AT,1,19913,Andreas Guenther,2,False,Udo,other,2008,3
+35,Der Bergdoktor,AT,1,1244894,Joram Voelklein,2,False,Rainer,other,2008,3
+36,Der Bergdoktor,AT,1,233792,Daniel Wiemer,2,False,Simon,other,2008,3
+37,Der Bergdoktor,AT,1,1820125,Michael Vogtmann,2,False,,other,2008,3
+38,Der Bergdoktor,AT,1,36501,Karin Thaler,1,False,Tanja Grünert,other,2008,4
+39,Der Bergdoktor,AT,1,1076585,Siemen Rühaak,2,False,Carsten Grünert,other,2008,4
+40,Der Bergdoktor,AT,1,1815844,Romana Pollak,1,False,,other,2008,4
+41,Der Bergdoktor,AT,1,49062,Konstantin Graudus,2,False,Jörg Dreiseitl,doctor,2008,4
+42,Der Bergdoktor,AT,2,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2009,1
+43,Der Bergdoktor,AT,2,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2009,1
+44,Der Bergdoktor,AT,2,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2009,1
+45,Der Bergdoktor,AT,2,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2009,1
+46,Der Bergdoktor,AT,2,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2009,1
+47,Der Bergdoktor,AT,2,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2009,1
+48,Der Bergdoktor,AT,2,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2009,1
+49,Der Bergdoktor,AT,2,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2009,1
+50,Der Bergdoktor,AT,2,1824151,Ines Lutz,1,True,Anne Meierling,doctor (probably),2009,1
+51,Der Bergdoktor,AT,2,49200,Denise Zich,1,False,Marja Otto,other,2009,1
+52,Der Bergdoktor,AT,2,1195040,Leander Lichti,2,False,Sebastian Wegner,other,2009,1
+53,Der Bergdoktor,AT,2,3119822,Kristin Sikder,1,False,Saskia,other,2009,1
+54,Der Bergdoktor,AT,2,1435924,Jonas Lovis Kemmler,2,False,Paul,other,2009,1
+55,Der Bergdoktor,AT,2,149127,Andreas Thiele,2,False,Tom,other,2009,1
+56,Der Bergdoktor,AT,2,49062,Konstantin Graudus,2,False,Jörg Dreiseitl,doctor,2009,1
+57,Der Bergdoktor,AT,2,10237,Julia Jäger,1,False,Sabine Lofer,other,2009,1
+58,Der Bergdoktor,AT,2,34297,Ingo Naujoks,2,False,Michael Lofer,other,2009,1
+59,Der Bergdoktor,AT,2,2435658,Thomas Winter,2,False,Herr Lammers,other,2009,1
+60,Der Bergdoktor,AT,2,2493187,Otto Beckmann,2,False,,other,2009,1
+61,Der Bergdoktor,AT,2,32254,Steffen Wink,2,False,,other,2009,1
+62,Der Bergdoktor,AT,2,1096775,Zsolt Bács,2,False,Erwin Niedermeier,other,2009,1
+63,Der Bergdoktor,AT,2,1161827,Andreas Bahr,2,False,Fritz Unger,other,2009,1
+64,Der Bergdoktor,AT,2,38907,Michael König,2,False,Wolfgang Kahnweiler,other,2009,1
+65,Der Bergdoktor,AT,2,1313854,Johanna Liebeneiner,1,False,Marianne Hunzinger,other,2009,1
+66,Der Bergdoktor,AT,2,1823693,Sonja Beck,1,False,Johanna,other,2009,1
+67,Der Bergdoktor,AT,2,233746,Renate Schroeter,1,False,Veronika Ohlmüller,other,2009,1
+68,Der Bergdoktor,AT,2,1167136,Mariella Ahrens,1,False,Julia Denson,other,2009,2
+69,Der Bergdoktor,AT,2,1974961,Eva-Maria Gintsberg,1,False,Frau Nussbaum,other,2009,2
+70,Der Bergdoktor,AT,2,67193,Hansi Jochmann,1,False,Monika Schneider,other,2009,2
+71,Der Bergdoktor,AT,2,48904,Nike Fuhrmann,1,False,Klara Hoffmann,other,2009,2
+72,Der Bergdoktor,AT,2,573981,Sarah Alles,1,False,Pia Hofer,other,2009,2
+73,Der Bergdoktor,AT,2,1329145,Michael Wenninger,2,False,Dirk Hofer,other,2009,2
+74,Der Bergdoktor,AT,2,1318917,Alexander Pelz,2,False,Prof. Müller,other,2009,2
+75,Der Bergdoktor,AT,2,1122730,Max Kupfer,2,False,Jan,other,2009,2
+76,Der Bergdoktor,AT,2,48426,Philipp Danne,2,False,Tim,other,2009,2
+77,Der Bergdoktor,AT,2,36863,Oliver Wnuk,2,False,René,other,2009,2
+78,Der Bergdoktor,AT,2,3701,Frank Behnke,2,False,Carsten Happe,other,2009,2
+79,Der Bergdoktor,AT,2,1837155,Ursula Maria Rehm,1,False,Barbara Lenz,other,2009,2
+80,Der Bergdoktor,AT,2,18940,Julia Heinze,1,False,Nina,other,2009,2
+81,Der Bergdoktor,AT,2,20020,Sven Martinek,2,False,Richard Beisel,other,2009,3
+82,Der Bergdoktor,AT,2,1023790,Christian Polito,2,False,Klaus Schneider,other,2009,3
+83,Der Bergdoktor,AT,2,23794,Horst Kummeth,2,False,Gustav Klopp,other,2009,3
+84,Der Bergdoktor,AT,2,1233228,Tessa Mittelstaedt,1,False,Dr. Andrea Junginger,doctor,2009,3
+85,Der Bergdoktor,AT,2,1205355,Maria Hartmann,1,False,Erika Klopp,other,2009,3
+86,Der Bergdoktor,AT,2,1140120,Rhon Diels,2,False,Thomas Klopp,other,2009,3
+87,Der Bergdoktor,AT,2,1286402,Susanne Michel,1,False,Lena Balzer,other,2009,3
+88,Der Bergdoktor,AT,2,4536,Hansa Czypionka,2,False,Ferdinand Balzer,other,2009,3
+89,Der Bergdoktor,AT,2,1180687,Wowo Habdank,2,False,Max Gundolf,other,2009,3
+90,Der Bergdoktor,AT,2,1391460,Hans Kitzbichler,2,False,Arzt,other,2009,3
+91,Der Bergdoktor,AT,2,1902084,Karolin Oesterling,1,False,Katja Stadler,other,2009,4
+92,Der Bergdoktor,AT,2,1857353,Anne Mühlmeier,1,False,Anna Güttel,other,2009,4
+93,Der Bergdoktor,AT,2,1295213,Christoph von Friedl,2,False,Oliver Mertens,other,2009,4
+94,Der Bergdoktor,AT,2,1833640,Katja Keller,1,False,Stefanie Brunner,other,2009,4
+95,Der Bergdoktor,AT,2,1044555,Christian Goebel,2,False,Michael Brunner,other,2009,4
+96,Der Bergdoktor,AT,2,50039,Rafael Haider,2,False,Timo,other,2009,4
+97,Der Bergdoktor,AT,2,39589,Dietmar Mössmer,2,False,,other,2009,4
+98,Der Bergdoktor,AT,2,19884,Daniela Ziegler,1,False,,other,2009,4
+99,Der Bergdoktor,AT,3,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2010,1
+100,Der Bergdoktor,AT,3,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2010,1
+101,Der Bergdoktor,AT,3,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2010,1
+102,Der Bergdoktor,AT,3,142654,Sophia Thomalla,1,True,Nicole Schneider,doctor (probably),2010,1
+103,Der Bergdoktor,AT,3,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2010,1
+104,Der Bergdoktor,AT,3,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2010,1
+105,Der Bergdoktor,AT,3,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2010,1
+106,Der Bergdoktor,AT,3,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2010,1
+107,Der Bergdoktor,AT,3,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2010,1
+108,Der Bergdoktor,AT,3,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2010,1
+109,Der Bergdoktor,AT,3,1824151,Ines Lutz,1,True,Anne Meierling,doctor (probably),2010,1
+110,Der Bergdoktor,AT,3,49095,Katja Weitzenböck,1,False,Dr. Fischer,doctor,2010,1
+111,Der Bergdoktor,AT,3,1091375,Hansi Kraus,2,False,Toni,other,2010,1
+112,Der Bergdoktor,AT,3,525439,Patrick Mölleken,2,False,Lars Wiesdorf,other,2010,1
+113,Der Bergdoktor,AT,3,47026,Adele Neuhauser,1,False,Schwester Editha,other,2010,1
+114,Der Bergdoktor,AT,3,1327322,Petra Einhoff,1,False,Frau Hölzl,other,2010,1
+115,Der Bergdoktor,AT,3,1249928,Mats Reinhardt,2,False,Dieter Reinert,other,2010,1
+116,Der Bergdoktor,AT,3,23171,Ferdinand Schmidt-Modrow,2,False,Basti,other,2010,1
+117,Der Bergdoktor,AT,3,18948,Kathrin von Steinburg,1,False,Angelika Bachmann,other,2010,1
+118,Der Bergdoktor,AT,3,1961737,Daria Trenkwalder,1,False,,other,2010,1
+119,Der Bergdoktor,AT,3,55646,Stephanie Stumph,1,False,Jana Feldermann,other,2010,1
+120,Der Bergdoktor,AT,3,1103788,Jochen Schropp,2,False,Michael Funke,other,2010,1
+121,Der Bergdoktor,AT,3,17405,Martin Feifel,2,False,Arthur Distelmeier,other,2010,1
+122,Der Bergdoktor,AT,3,20262,Tino Mewes,2,False,Christian Hamberger,other,2010,1
+123,Der Bergdoktor,AT,3,67556,Matthias Walter,2,False,Kai Hamberger,other,2010,1
+124,Der Bergdoktor,AT,3,55882,Jytte-Merle Böhrnsen,1,False,Franka Röskau,other,2010,1
+125,Der Bergdoktor,AT,3,2810684,Manuel Boecker,2,False,Staatsanwalt Pfaffenberg,other,2010,1
+126,Der Bergdoktor,AT,3,1478084,Maximilian Held,2,False,Niklas,other,2010,1
+127,Der Bergdoktor,AT,3,1102181,Saskia Valencia,1,False,Adele Neugebauer,other,2010,1
+128,Der Bergdoktor,AT,3,213586,Helmut Zierl,2,False,Max Neugebauer,other,2010,1
+129,Der Bergdoktor,AT,3,1105783,Joanna Ferkic,1,False,Lisa,other,2010,1
+130,Der Bergdoktor,AT,3,1825256,Sebastian D. Fischer,2,False,Markus Sattler,other,2010,2
+131,Der Bergdoktor,AT,3,36494,Robert Giggenbach,2,False,Georg Sattler,other,2010,2
+132,Der Bergdoktor,AT,3,588377,Pascal Breuer,2,False,Hoteldirektor,other,2010,2
+133,Der Bergdoktor,AT,3,48400,Marion Kracht,1,False,Karin Lohmann,other,2010,3
+134,Der Bergdoktor,AT,3,146716,Katharina Müller-Elmau,1,False,Anita Wiesner,other,2010,3
+135,Der Bergdoktor,AT,3,1552849,Robert Köhler,2,False,Sebastian Lech,other,2010,3
+136,Der Bergdoktor,AT,3,1483357,Maja-Celiné Probst,0,False,Pia Wiesner,other,2010,3
+137,Der Bergdoktor,AT,3,2082393,Stefanie Robotka,1,False,Christina Lohmann,other,2010,3
+138,Der Bergdoktor,AT,3,1833389,Karl Jürgen Sihler,2,False,Karl Wiesner,other,2010,3
+139,Der Bergdoktor,AT,3,1079922,Wolfgang Maria Bauer,2,False,Wieland Grahammer,other,2010,3
+140,Der Bergdoktor,AT,3,18728,Franz Xaver Brückner,2,False,Cedric Biller,doctor,2010,3
+141,Der Bergdoktor,AT,3,929097,Katrin Weisser,1,False,Marlies Grahammer,other,2010,3
+142,Der Bergdoktor,AT,3,1240314,Patrick Bach,2,False,Stefan Wedekind,other,2010,3
+143,Der Bergdoktor,AT,3,1310664,Till Demtrøder,2,False,Klaus Hellmann,other,2010,3
+144,Der Bergdoktor,AT,3,1814633,Katrin Lux,1,False,Melanie Wedekind,other,2010,3
+145,Der Bergdoktor,AT,3,1814606,Nina Brandhoff,1,False,Melanie Ellert,other,2010,3
+146,Der Bergdoktor,AT,3,67423,Christoph Grunert,2,False,Erik,other,2010,3
+147,Der Bergdoktor,AT,3,47344,Kristina Sprenger,1,False,Alex,other,2010,3
+148,Der Bergdoktor,AT,3,112241,Christian Heiner Wolf,2,False,Jürgen Ellert,other,2010,3
+149,Der Bergdoktor,AT,3,1329236,Brigitte Jaufenthaler,1,False,Frau Messner,other,2010,4
+150,Der Bergdoktor,AT,3,1327195,Henning Nöhren,2,False,Basti Weigert,other,2010,4
+151,Der Bergdoktor,AT,3,1864594,Stefanie Poljakoff,1,False,Anna Ziegler,other,2010,4
+152,Der Bergdoktor,AT,3,52011,Jan Sosniok,2,False,Urs Rensing,other,2010,4
+153,Der Bergdoktor,AT,3,28111,Liane Forestieri,1,False,Miriam Rensing,other,2010,4
+154,Der Bergdoktor,AT,3,44460,Stefan Gubser,2,False,Helmut Stenjak,other,2010,4
+155,Der Bergdoktor,AT,3,1745534,Jeremias Meyer,2,False,Nico Rensing,other,2010,4
+156,Der Bergdoktor,AT,3,573984,Jens Atzorn,2,False,Florian Bärlacher,other,2010,4
+157,Der Bergdoktor,AT,3,23181,Stefan Murr,2,False,Dennis Kruppke,other,2010,4
+158,Der Bergdoktor,AT,3,52460,Rike Schmid,1,False,Lisa Eberle,other,2010,4
+159,Der Bergdoktor,AT,3,32955,Stefan Reck,2,False,Tobias Volker,other,2010,4
+160,Der Bergdoktor,AT,3,45904,Susanne Schäfer,1,False,Nadine Volker,other,2010,4
+161,Der Bergdoktor,AT,3,1866,Muriel Baumeister,1,False,Ulrike Sperling,other,2010,5
+162,Der Bergdoktor,AT,3,1402431,Conny Glogger,1,False,Marianne Lugner,other,2010,5
+163,Der Bergdoktor,AT,3,1408440,Michelle Monballijn,1,False,Jasmin,other,2010,5
+164,Der Bergdoktor,AT,3,1863,Tobias Schenke,2,False,Simon Lugner,other,2010,5
+165,Der Bergdoktor,AT,3,38488,Martin Walch,2,False,Dr. Loer,doctor,2010,5
+166,Der Bergdoktor,AT,3,35542,Peer Jäger,2,False,Helmut Wagner,other,2010,5
+167,Der Bergdoktor,AT,3,1197330,Karl Knaup,2,False,Kanzlei-Chef,other,2010,5
+168,Der Bergdoktor,AT,3,6644,Wanja Mues,2,False,Bernd Ruff,other,2010,5
+169,Der Bergdoktor,AT,3,233411,Katja Woywood,1,False,Katja Wagne,other,2010,5
+170,Der Bergdoktor,AT,4,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2011,1
+171,Der Bergdoktor,AT,4,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2011,1
+172,Der Bergdoktor,AT,4,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2011,1
+173,Der Bergdoktor,AT,4,142654,Sophia Thomalla,1,True,Nicole Schneider,doctor (probably),2011,1
+174,Der Bergdoktor,AT,4,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2011,1
+175,Der Bergdoktor,AT,4,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2011,1
+176,Der Bergdoktor,AT,4,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2011,1
+177,Der Bergdoktor,AT,4,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2011,1
+178,Der Bergdoktor,AT,4,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2011,1
+179,Der Bergdoktor,AT,4,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2011,1
+180,Der Bergdoktor,AT,4,1286400,Pia Baresch,1,False,Dr. Lena Imhoff,doctor,2011,1
+181,Der Bergdoktor,AT,4,18937,Oliver Bürgin,2,False,Matthias Meinert,other,2011,1
+182,Der Bergdoktor,AT,4,47346,Julia Cencig,1,False,Bianca Seidl,other,2011,1
+183,Der Bergdoktor,AT,4,1477298,Aline Hochscheid,1,False,Anja Meinert,other,2011,1
+184,Der Bergdoktor,AT,4,27406,Florian Fitz,2,False,Peter Hoffmann,other,2011,1
+185,Der Bergdoktor,AT,4,1320433,Winfried Frey,2,False,Toni,other,2011,1
+186,Der Bergdoktor,AT,4,39906,Luise Berndt,1,False,Sylvia Seibold,other,2011,1
+187,Der Bergdoktor,AT,4,48895,Oliver Bootz,2,False,Nikolas Deisenberg,other,2011,1
+188,Der Bergdoktor,AT,4,1156631,Daniela Eck,1,False,Luisa,other,2011,1
+189,Der Bergdoktor,AT,4,1153460,Arthur Klemt,2,False,Ralf Seidl,other,2011,1
+190,Der Bergdoktor,AT,4,1813000,Maik van Epple,2,False,Sven,other,2011,1
+191,Der Bergdoktor,AT,4,1171673,Carolyn Genzkow,1,False,Barbara Jentsch,other,2011,1
+192,Der Bergdoktor,AT,4,1833668,Isabel Mergl,1,False,Marlies Jentsch,other,2011,1
+193,Der Bergdoktor,AT,4,1244771,Raphaël Vogt,2,False,Markus Ludwig,other,2011,1
+194,Der Bergdoktor,AT,4,38486,Michael Brandner,2,False,Jochen Meierling,other,2011,2
+195,Der Bergdoktor,AT,4,1054831,Sophie Wepper,1,False,Marion Schilling,other,2011,2
+196,Der Bergdoktor,AT,4,1536269,Tobias Kulzer,2,False,Thilo Schilling,other,2011,2
+197,Der Bergdoktor,AT,4,145466,Tobias Licht,2,False,Tobias Schilling,other,2011,2
+198,Der Bergdoktor,AT,4,44566,Diane Willems,1,False,Stefanie Tannenberg,other,2011,2
+199,Der Bergdoktor,AT,4,556732,Daniel Roesner,2,False,Michael Köni,other,2011,2
+200,Der Bergdoktor,AT,4,7815,Nicki von Tempelhoff,2,False,Wolfgang Tannenberg,other,2011,2
+201,Der Bergdoktor,AT,4,34296,Anja Knauer,1,False,Ute Eisenbacher,other,2011,2
+202,Der Bergdoktor,AT,4,1071706,Kai Schumann,2,False,Reinhold Eisenbacher,other,2011,2
+203,Der Bergdoktor,AT,4,18933,Patricia Aulitzky,1,False,Nora Rahn,other,2011,2
+204,Der Bergdoktor,AT,4,52914,Ole Puppe,2,False,Daniel Rahn,other,2011,2
+205,Der Bergdoktor,AT,4,37190,Philipp Moog,2,False,Richard Leißner,other,2011,3
+206,Der Bergdoktor,AT,4,23937,Katja Studt,1,False,Hanna Leißner,other,2011,3
+207,Der Bergdoktor,AT,4,114034,Christian Oliver,2,False,Peter Leißner,other,2011,3
+208,Der Bergdoktor,AT,4,17405,Martin Feifel,2,False,Arthur Distelmeier,other,2011,3
+209,Der Bergdoktor,AT,4,1378911,Joanna Kitzl,1,False,Nina,other,2011,3
+210,Der Bergdoktor,AT,4,1106520,Marc Benjamin Puch,2,False,Andreas,doctor,2011,3
+211,Der Bergdoktor,AT,4,1961736,Benjamin Ulbrich,2,False,OP-Arzt,other,2011,3
+212,Der Bergdoktor,AT,4,1084794,Christian Wolff,2,False,,other,2011,3
+213,Der Bergdoktor,AT,4,27270,Johannes Brandrup,2,False,,other,2011,3
+214,Der Bergdoktor,AT,4,1011172,Barbara Focke,1,False,Juliane Behrendt,other,2011,3
+215,Der Bergdoktor,AT,4,141658,Anne Kasprik,1,False,Petra Schallenberg,other,2011,3
+216,Der Bergdoktor,AT,4,1333876,Sarah Beck,1,False,Maja,other,2011,3
+217,Der Bergdoktor,AT,4,33042,Felix Eitner,2,False,Dirk Amann,other,2011,3
+218,Der Bergdoktor,AT,4,1961506,Konrad Hochgruber,2,False,,other,2011,3
+219,Der Bergdoktor,AT,4,1478076,Dominik Nowak,2,False,Mario,other,2011,3
+220,Der Bergdoktor,AT,4,1284244,Anne Schäfer,1,False,Kerstin Eberl,other,2011,3
+221,Der Bergdoktor,AT,4,567514,Martin Stührk,2,False,Lukas Buresch,other,2011,3
+222,Der Bergdoktor,AT,4,52105,Heio von Stetten,2,False,Ralf Grailing,other,2011,4
+223,Der Bergdoktor,AT,4,1244897,Claudia-Sofie Jelinek,1,False,Frau Reinhard,other,2011,4
+224,Der Bergdoktor,AT,4,110978,Hanna Schwamborn,1,False,Jenni Grailing,other,2011,4
+225,Der Bergdoktor,AT,4,36856,Claus Wilcke,2,False,Richard Bauer,other,2011,4
+226,Der Bergdoktor,AT,4,1238974,Wilfried Klaus,2,False,Helmut Laumann,other,2011,4
+227,Der Bergdoktor,AT,4,38966,Kathi Leitner,1,False,Erika Laumann,other,2011,4
+228,Der Bergdoktor,AT,4,1826193,Sara Sommerfeldt,1,False,,other,2011,4
+229,Der Bergdoktor,AT,5,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2012,1
+230,Der Bergdoktor,AT,5,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2012,1
+231,Der Bergdoktor,AT,5,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2012,1
+232,Der Bergdoktor,AT,5,142654,Sophia Thomalla,1,True,Nicole Schneider,doctor (probably),2012,1
+233,Der Bergdoktor,AT,5,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2012,1
+234,Der Bergdoktor,AT,5,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2012,1
+235,Der Bergdoktor,AT,5,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2012,1
+236,Der Bergdoktor,AT,5,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2012,1
+237,Der Bergdoktor,AT,5,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2012,1
+238,Der Bergdoktor,AT,5,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2012,1
+239,Der Bergdoktor,AT,5,6269,Elena Uhlig,1,False,Maria Lechner,other,2012,1
+240,Der Bergdoktor,AT,5,52400,Dirk Martens,2,False,Steuerprüfer Meyer,other,2012,1
+241,Der Bergdoktor,AT,5,1320433,Winfried Frey,2,False,Toni,other,2012,1
+242,Der Bergdoktor,AT,5,1884658,Mona-Leen Schuller,0,False,Jasmin Seitz,other,2012,1
+243,Der Bergdoktor,AT,5,1796821,Thamara Barth,1,False,Vera Seitz,other,2012,1
+244,Der Bergdoktor,AT,5,18941,Felix Hellmann,2,False,Werner Gramml,other,2012,1
+245,Der Bergdoktor,AT,5,1502486,Eva-Maria Reichert,1,False,Lisa,other,2012,1
+246,Der Bergdoktor,AT,5,234776,Bernhard Piesk,2,False,Lukas Tucher,other,2012,2
+247,Der Bergdoktor,AT,5,1228288,Joachim Raaf,2,False,Robert Tucher,other,2012,2
+248,Der Bergdoktor,AT,5,45857,Martin Lindow,2,False,Klaus Weiler,other,2012,2
+249,Der Bergdoktor,AT,5,1017194,Janina Flieger,1,False,,other,2012,2
+250,Der Bergdoktor,AT,5,5499,Regula Grauwiller,1,False,,other,2012,2
+251,Der Bergdoktor,AT,5,28343,Karl Kranzkowski,2,False,Rainer Brandl,other,2012,3
+252,Der Bergdoktor,AT,5,38144,Michaela May,1,False,Monika Buchleitner,other,2012,3
+253,Der Bergdoktor,AT,5,46964,Constantin Gastmann,2,False,Simon Brandl,other,2012,3
+254,Der Bergdoktor,AT,5,1048354,Michael Greiling,2,False,Thomas Rösler,other,2012,3
+255,Der Bergdoktor,AT,5,70880,Manuel Witting,2,False,Christoph Berner,other,2012,3
+256,Der Bergdoktor,AT,5,987286,Johanna Klante,1,False,Sarah Berner,other,2012,3
+257,Der Bergdoktor,AT,5,44636,Jochen Horst,2,False,Professor Thielen,other,2012,3
+258,Der Bergdoktor,AT,5,1645216,Beate Pfeiffer,1,False,Eva Rössler,other,2012,3
+259,Der Bergdoktor,AT,5,2248279,Laszlo Somogyi,2,False,Andreas Becker,doctor,2012,3
+260,Der Bergdoktor,AT,5,1467307,Christina Rainer,1,False,Anne Gottlieb,other,2012,3
+261,Der Bergdoktor,AT,5,18944,Thomas Limpinsel,2,False,Jochen Gottlieb,other,2012,3
+262,Der Bergdoktor,AT,5,1819348,Chiara von Galli,1,False,Nina Gottlieb,other,2012,3
+263,Der Bergdoktor,AT,5,1332049,Catherine Bode,1,False,Ute Janning,other,2012,3
+264,Der Bergdoktor,AT,5,1010162,Michael Härle,2,False,Christoph Reitling,other,2012,3
+265,Der Bergdoktor,AT,5,48703,Sabine Orléans,1,False,Dr. Leißner,doctor,2012,3
+266,Der Bergdoktor,AT,5,49174,Daniela Preuß,1,False,Simone Reitling,other,2012,3
+267,Der Bergdoktor,AT,5,1175685,Gabriel Raab,2,False,Peter Jochner,other,2012,3
+268,Der Bergdoktor,AT,5,25435,Michael Grimm,2,False,Markus Leitner,other,2012,3
+269,Der Bergdoktor,AT,5,36320,Elke Winkens,1,False,Julia Leitner,other,2012,3
+270,Der Bergdoktor,AT,5,1525368,Maximilian Allgeier,2,False,Sebastian,other,2012,3
+271,Der Bergdoktor,AT,5,18157,Sascha Göpel,2,False,Steffen Bichler,other,2012,3
+272,Der Bergdoktor,AT,5,1168352,Tanja Petrovsky,1,False,Vio Diesinger,other,2012,3
+273,Der Bergdoktor,AT,5,1446845,Laura Graser,1,False,Franzi Bichler,other,2012,3
+274,Der Bergdoktor,AT,5,1446847,Tamara Graser,1,False,Franzi Bichler,other,2012,3
+275,Der Bergdoktor,AT,5,1192537,Constanze Wächter,1,False,Emma Bierbichler,other,2012,3
+276,Der Bergdoktor,AT,5,1168333,Max Woelky,2,False,Leon Vogt,other,2012,3
+277,Der Bergdoktor,AT,5,543973,Herbert Trattnigg,2,False,Gerd Bierbichler,other,2012,3
+278,Der Bergdoktor,AT,5,562655,Patricia Hirschbichler,1,False,Luise Bierbichler,other,2012,3
+279,Der Bergdoktor,AT,5,18732,Klaus Steinbacher,2,False,Ludwig,other,2012,3
+280,Der Bergdoktor,AT,5,1079453,Anne Brendler,1,False,Carola Denning,other,2012,3
+281,Der Bergdoktor,AT,5,3190746,Sena Lou Niebling,1,False,Hanna Denning,other,2012,3
+282,Der Bergdoktor,AT,5,65252,Katharina Meinecke,1,False,Frau Peters,other,2012,3
+283,Der Bergdoktor,AT,6,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2013,11
+284,Der Bergdoktor,AT,6,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2013,11
+285,Der Bergdoktor,AT,6,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2013,11
+286,Der Bergdoktor,AT,6,142654,Sophia Thomalla,1,True,Nicole Schneider,doctor (probably),2013,11
+287,Der Bergdoktor,AT,6,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2013,11
+288,Der Bergdoktor,AT,6,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2013,11
+289,Der Bergdoktor,AT,6,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2013,11
+290,Der Bergdoktor,AT,6,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2013,11
+291,Der Bergdoktor,AT,6,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2013,11
+292,Der Bergdoktor,AT,6,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2013,11
+293,Der Bergdoktor,AT,6,1487982,Rebecca Rudolph,1,False,Pia Ritter,other,2013,11
+294,Der Bergdoktor,AT,6,17405,Martin Feifel,2,False,Arthur Distelmeier,other,2013,11
+295,Der Bergdoktor,AT,6,1327600,Silke Franz,1,False,Jule,other,2013,11
+296,Der Bergdoktor,AT,6,2082398,Dominik Mariacher,2,False,Kai,other,2013,11
+297,Der Bergdoktor,AT,6,147881,Andreas Tobias,2,False,Tobias Kirchleitner,other,2013,11
+298,Der Bergdoktor,AT,6,3046355,Ava Montgomery,1,False,Lea Keutner,other,2013,11
+299,Der Bergdoktor,AT,6,234008,Thomas Landl,2,False,Hoteldirektor Peters,other,2013,11
+300,Der Bergdoktor,AT,6,1840689,Gloria Nefzger,1,False,Sabine,other,2013,11
+301,Der Bergdoktor,AT,6,44342,Florian Jahr,2,False,Michael Danner,other,2013,11
+302,Der Bergdoktor,AT,6,39988,Paula Schramm,1,False,Jana Keutner,other,2013,11
+303,Der Bergdoktor,AT,6,583865,Hannes Liebmann,2,False,Notar,other,2013,11
+304,Der Bergdoktor,AT,6,1469781,Andrea Sihler,1,False,Direktorin Seifert,other,2013,11
+305,Der Bergdoktor,AT,6,1254958,Timmi Trinks,2,False,Carsten,other,2013,11
+306,Der Bergdoktor,AT,6,23120,Teresa Weißbach,1,False,Cora Rudolf,other,2013,11
+307,Der Bergdoktor,AT,6,25415,Axel Schreiber,2,False,Sebastian Kämmerling,other,2013,11
+308,Der Bergdoktor,AT,6,39586,Christian Hoening,2,False,Rainer Brandl,other,2013,11
+309,Der Bergdoktor,AT,6,1834161,David Scholz,2,False,Gleitschirm-Mitarbeiter,other,2013,11
+310,Der Bergdoktor,AT,6,1053733,Andreas Geiss,2,False,Mechaniker,other,2013,11
+311,Der Bergdoktor,AT,6,1464146,Anna Ewelina,1,False,Schwester,other,2013,11
+312,Der Bergdoktor,AT,6,27320,Christoph M. Ohrt,2,False,Dr. Richard Meißner,doctor,2013,12
+313,Der Bergdoktor,AT,6,55990,Janna Striebeck,1,False,Karin Meißner,other,2013,12
+314,Der Bergdoktor,AT,6,1728564,Marc-Philipp Kochendörfer,2,False,Organisator,other,2013,12
+315,Der Bergdoktor,AT,6,1895186,Thomas Birnstiel,2,False,Assistenzarzt,other,2013,12
+316,Der Bergdoktor,AT,6,3190756,Alejandra Beltran Cuevas,1,False,Inge,other,2013,12
+317,Der Bergdoktor,AT,6,42879,Florentine Lahme,1,False,Kathrin Löffler,other,2013,12
+318,Der Bergdoktor,AT,6,28116,Michael Lott,2,False,Bernd Löffler,other,2013,12
+319,Der Bergdoktor,AT,6,1134540,Sarah Tkotsch,1,False,Lisa Löffler,other,2013,12
+320,Der Bergdoktor,AT,6,1823915,Irina Kurbanova,1,False,Kira Löffler,other,2013,12
+321,Der Bergdoktor,AT,6,48391,Lambert Hamel,2,False,Prof. Fendrich,doctor,2013,12
+322,Der Bergdoktor,AT,6,28112,Marco Girnth,2,False,Thomas Weidler,other,2013,12
+323,Der Bergdoktor,AT,6,234040,Dana Golombek,1,False,Hanna Weidler,other,2013,12
+324,Der Bergdoktor,AT,6,1327000,Matthias Komm,2,False,Roland Angermann,other,2013,12
+325,Der Bergdoktor,AT,6,1197330,Karl Knaup,2,False,Direktor Runhoff,other,2013,12
+326,Der Bergdoktor,AT,6,1405520,Titus Horst,2,False,Klavierbauer,other,2013,12
+327,Der Bergdoktor,AT,6,1314380,Karl Friedrich,2,False,Herr Prechtl,other,2013,12
+328,Der Bergdoktor,AT,6,1405518,Samira El Ouassil,1,False,Pflegeschwester,other,2013,12
+329,Der Bergdoktor,AT,6,1344298,Johanna Baumann,1,False,Ältere Frau,other,2013,12
+330,Der Bergdoktor,AT,6,1819095,Ella Zirzow,1,False,Marie Weidler,other,2013,12
+331,Der Bergdoktor,AT,7,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2014,1
+332,Der Bergdoktor,AT,7,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2014,1
+333,Der Bergdoktor,AT,7,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2014,1
+334,Der Bergdoktor,AT,7,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2014,1
+335,Der Bergdoktor,AT,7,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2014,1
+336,Der Bergdoktor,AT,7,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2014,1
+337,Der Bergdoktor,AT,7,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2014,1
+338,Der Bergdoktor,AT,7,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2014,1
+339,Der Bergdoktor,AT,7,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2014,1
+340,Der Bergdoktor,AT,7,70457,Peter Kremer,2,False,Klaus Hochstätter,other,2014,1
+341,Der Bergdoktor,AT,7,1365853,Lena Meyer,1,False,Annika Hochstätter,other,2014,1
+342,Der Bergdoktor,AT,7,55989,Tino Hillebrand,2,False,Sebastian Hochstätter,other,2014,1
+343,Der Bergdoktor,AT,7,1299730,Stefanie Schmid,1,False,Caro,other,2014,1
+344,Der Bergdoktor,AT,7,2082394,Reinhard Exenberger,2,False,,other,2014,1
+345,Der Bergdoktor,AT,7,134476,Nicole Beutler,1,False,Irena Bornholm,other,2014,1
+346,Der Bergdoktor,AT,7,36325,Christian Näthe,2,False,Georg Mühltal,other,2014,1
+347,Der Bergdoktor,AT,7,146814,Hilde Dalik,1,False,Ina Mühltal,other,2014,1
+348,Der Bergdoktor,AT,7,4796,Alexander Beyer,2,False,Michael Koller,other,2014,1
+349,Der Bergdoktor,AT,7,28439,Victoria Mayer,1,False,Johanna Koller,other,2014,1
+350,Der Bergdoktor,AT,7,48391,Lambert Hamel,2,False,Prof. Fendrich,doctor,2014,1
+351,Der Bergdoktor,AT,7,1321211,Benedikt Blašković,2,False,,other,2014,1
+352,Der Bergdoktor,AT,7,18152,Mirko Lang,2,False,Bruno Licht,other,2014,1
+353,Der Bergdoktor,AT,7,36096,Sabrina Reiter,1,False,Lydia Seibert,other,2014,1
+354,Der Bergdoktor,AT,7,1290304,Elisabeth Baulitz,1,False,Mia Thalbach,other,2014,1
+355,Der Bergdoktor,AT,7,1320071,Sebastian Gerold,2,False,,other,2014,1
+356,Der Bergdoktor,AT,7,2925837,Claudia Koreck,1,False,,other,2014,1
+357,Der Bergdoktor,AT,7,1271591,Dennis Mojen,2,False,Karl Grünfeld,other,2014,1
+358,Der Bergdoktor,AT,7,36097,Laurence Rupp,2,False,Vincent Braun,other,2014,1
+359,Der Bergdoktor,AT,7,49016,Guntbert Warns,2,False,Ludwig Grünfeld,other,2014,1
+360,Der Bergdoktor,AT,7,32860,Anna Hausburg,1,False,Lena Grünfeld,other,2014,1
+361,Der Bergdoktor,AT,7,1271590,Franziska Brandmeier,1,False,Stefanie Bichler,other,2014,1
+362,Der Bergdoktor,AT,7,22186,Jophi Ries,2,False,Rolf Bichler,other,2014,1
+363,Der Bergdoktor,AT,7,48690,Carin C. Tietze,1,False,Angelika Bichler,other,2014,1
+364,Der Bergdoktor,AT,7,685,Nina Kronjäger,1,False,Irene Bäumler,other,2014,2
+365,Der Bergdoktor,AT,7,37190,Philipp Moog,2,False,Peter Bäumler,other,2014,2
+366,Der Bergdoktor,AT,7,1467606,Barbara Sotelsek,1,False,Lea,other,2014,2
+367,Der Bergdoktor,AT,7,1415270,Marie Bendig,1,False,Maren Bäumler,other,2014,2
+368,Der Bergdoktor,AT,7,1721983,Marinus Hohmann,2,False,,other,2014,2
+369,Der Bergdoktor,AT,7,1243669,Verena Zimmermann,1,False,,other,2014,2
+370,Der Bergdoktor,AT,7,1163292,Picco von Groote,1,False,Marie Kirchner,other,2014,2
+371,Der Bergdoktor,AT,7,225232,Gregor Seberg,2,False,Georg Ittermann,other,2014,2
+372,Der Bergdoktor,AT,7,1296228,Susanne Czepl,1,False,Johanna Kirchner,other,2014,2
+373,Der Bergdoktor,AT,8,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2014,12
+374,Der Bergdoktor,AT,8,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2014,12
+375,Der Bergdoktor,AT,8,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2014,12
+376,Der Bergdoktor,AT,8,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2014,12
+377,Der Bergdoktor,AT,8,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2014,12
+378,Der Bergdoktor,AT,8,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2014,12
+379,Der Bergdoktor,AT,8,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2014,12
+380,Der Bergdoktor,AT,8,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2014,12
+381,Der Bergdoktor,AT,8,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2014,12
+382,Der Bergdoktor,AT,8,56699,Franziska Weisz,1,False,Greta Leitner,other,2014,12
+383,Der Bergdoktor,AT,8,47025,Ursula Strauss,1,False,Kathrin Leitner,other,2014,12
+384,Der Bergdoktor,AT,8,78233,Andreas Lust,2,False,Thomas Schaller,other,2014,12
+385,Der Bergdoktor,AT,8,2210294,Paul Sundheim,2,False,Lukas Schaller,other,2014,12
+386,Der Bergdoktor,AT,8,225233,Wolfgang Hübsch,2,False,Dr. Ahrend,doctor,2014,12
+387,Der Bergdoktor,AT,8,1391161,Lena Meckel,1,False,Sarah Bäumer,other,2014,12
+388,Der Bergdoktor,AT,8,40563,Rainer Sellien,2,False,Peter Bäumer,other,2014,12
+389,Der Bergdoktor,AT,8,1857346,Eva Wittenzellner,1,False,Monika Bäumer,other,2014,12
+390,Der Bergdoktor,AT,8,1818263,Sarah Zaharanski,1,False,Lena Strickler,other,2015,1
+391,Der Bergdoktor,AT,8,1346750,Carolin Fink,1,False,Frau Sonneborn,other,2015,1
+392,Der Bergdoktor,AT,8,19913,Andreas Guenther,2,False,Tobias,other,2015,1
+393,Der Bergdoktor,AT,8,1522729,Bernhard Bozian,2,False,Felix,other,2015,1
+394,Der Bergdoktor,AT,8,1181864,Friederike Linke,1,False,Luisa Fischer,other,2015,1
+395,Der Bergdoktor,AT,8,576093,Bert Tischendorf,2,False,Michael Fischer,other,2015,1
+396,Der Bergdoktor,AT,8,1667330,Robert Kuchenbuch,2,False,Hannes Finke,other,2015,1
+397,Der Bergdoktor,AT,8,1535443,Ayana Ledl,1,False,Emma Finke,other,2015,1
+398,Der Bergdoktor,AT,8,210596,Marie Rönnebeck,1,False,Olivia Weigert,other,2015,1
+399,Der Bergdoktor,AT,8,1817090,Sarah Strelocke,1,False,Lydia Weigert,other,2015,1
+400,Der Bergdoktor,AT,8,590440,Marie-Christine Friedrich,1,False,Marie Wiesgott,other,2015,1
+401,Der Bergdoktor,AT,8,1060276,Maresa Hörbiger,1,False,Johanna Wiesgott,other,2015,1
+402,Der Bergdoktor,AT,8,2095272,Philomena Köbele,1,False,Jenni Wiesgott,other,2015,1
+403,Der Bergdoktor,AT,8,37478,Wolfram Berger,2,False,Karl Riedel,other,2015,1
+404,Der Bergdoktor,AT,8,1585349,Stephanie Lexer,1,False,Verkäuferin,other,2015,1
+405,Der Bergdoktor,AT,8,65876,Johannes Franke,2,False,Paul Ebert,other,2015,2
+406,Der Bergdoktor,AT,8,10237,Julia Jäger,1,False,Kathrin Ebert,other,2015,2
+407,Der Bergdoktor,AT,8,20020,Sven Martinek,2,False,,other,2015,2
+408,Der Bergdoktor,AT,8,1825430,Lukas Kieback,2,False,,other,2015,2
+409,Der Bergdoktor,AT,8,27625,Gesine Cukrowski,1,False,Caro Sürth,other,2015,2
+410,Der Bergdoktor,AT,8,1291933,Kerstin De Ahna,1,False,Elisabeth Richter,other,2015,2
+411,Der Bergdoktor,AT,8,43156,Deborah Kaufmann,1,False,Saskia Diekhaus,other,2015,2
+412,Der Bergdoktor,AT,8,1149823,Jana Klinge,1,False,Nicole Jenninger,other,2015,2
+413,Der Bergdoktor,AT,8,223772,Matthias Kupfer,2,False,Anwalt,other,2015,2
+414,Der Bergdoktor,AT,8,1525368,Maximilian Allgeier,2,False,Riccardo,other,2015,2
+415,Der Bergdoktor,AT,8,573984,Jens Atzorn,2,False,Jan Griebel,other,2015,2
+416,Der Bergdoktor,AT,8,1114171,Georg Blumreiter,2,False,Joachim Bruckner,other,2015,2
+417,Der Bergdoktor,AT,8,1152352,Matthi Faust,2,False,Max Griebel,other,2015,2
+418,Der Bergdoktor,AT,8,233997,Julia-Maria Köhler,0,False,Ina Griebel,other,2015,2
+419,Der Bergdoktor,AT,8,1243670,Vanessa Jung,1,False,Natascha,other,2015,3
+420,Der Bergdoktor,AT,8,1317743,Ulli Maier,2,False,Gabriele Jenning,other,2015,3
+421,Der Bergdoktor,AT,8,52914,Ole Puppe,2,False,Sebastian Höffner,other,2015,3
+422,Der Bergdoktor,AT,8,1326797,Margrit Sartorius,1,False,Michaela Höffner,other,2015,3
+423,Der Bergdoktor,AT,8,1427830,Franz Weichenberger,2,False,Pfarrer,other,2015,3
+424,Der Bergdoktor,AT,9,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2015,12
+425,Der Bergdoktor,AT,9,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2015,12
+426,Der Bergdoktor,AT,9,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2015,12
+427,Der Bergdoktor,AT,9,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2015,12
+428,Der Bergdoktor,AT,9,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2015,12
+429,Der Bergdoktor,AT,9,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2015,12
+430,Der Bergdoktor,AT,9,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2015,12
+431,Der Bergdoktor,AT,9,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2015,12
+432,Der Bergdoktor,AT,9,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2015,12
+433,Der Bergdoktor,AT,9,56970,Tim Bergmann,2,False,Markus Hausmann,other,2015,12
+434,Der Bergdoktor,AT,9,18728,Franz Xaver Brückner,2,False,Nico,other,2015,12
+435,Der Bergdoktor,AT,9,1277598,Sinja Dieks,1,False,Julia Berneis,other,2015,12
+436,Der Bergdoktor,AT,9,1745033,Joscha Kiefer,2,False,Felix,other,2015,12
+437,Der Bergdoktor,AT,9,1640501,Laura Maire,1,False,,other,2015,12
+438,Der Bergdoktor,AT,9,18948,Kathrin von Steinburg,1,False,Marlies Leitner,other,2015,12
+439,Der Bergdoktor,AT,9,1870936,Christina Athenstädt,1,False,Henriette Geis,other,2016,1
+440,Der Bergdoktor,AT,9,1332048,Tillbert Strahl,2,False,Dr. Kilian,doctor,2016,1
+441,Der Bergdoktor,AT,9,1272985,Matthias Ziesing,2,False,Peter Geis,other,2016,1
+442,Der Bergdoktor,AT,9,5499,Regula Grauwiller,1,False,Rike Jäger,other,2016,1
+443,Der Bergdoktor,AT,9,1199402,Birte Hanusrichter,1,False,Bille,other,2016,1
+444,Der Bergdoktor,AT,9,1326909,Alessija Lause,1,False,Katharina Selig,other,2016,1
+445,Der Bergdoktor,AT,9,45907,Eckhard Preuß,2,False,Karl Stappner,other,2016,1
+446,Der Bergdoktor,AT,9,38216,Kai Scheve,2,False,Robert Selig,other,2016,1
+447,Der Bergdoktor,AT,9,36463,Arndt Schwering-Sohnrey,2,False,Lenni Rödel,other,2016,1
+448,Der Bergdoktor,AT,9,11609,Floriane Daniel,1,False,Katja Grainer,other,2016,1
+449,Der Bergdoktor,AT,9,1722520,Hedda Erlebach,1,False,Emma Grainer,other,2016,1
+450,Der Bergdoktor,AT,9,1180738,Johann Nikolussi,2,False,,other,2016,1
+451,Der Bergdoktor,AT,9,1472649,Thomas Reisinger,2,False,Prof. Brückner,other,2016,1
+452,Der Bergdoktor,AT,9,7804,Oliver Stokowski,2,False,Wolfgang Fuchs,other,2016,1
+453,Der Bergdoktor,AT,9,1751995,Anton Andreew,2,False,Lukas Jäger,other,2016,1
+454,Der Bergdoktor,AT,9,1817266,Kristina Bangert,1,False,Sabine Schröder,other,2016,1
+455,Der Bergdoktor,AT,9,1405518,Samira El Ouassil,1,False,,other,2016,1
+456,Der Bergdoktor,AT,9,1327000,Matthias Komm,2,False,,other,2016,1
+457,Der Bergdoktor,AT,9,1221647,Michael Rotschopf,2,False,Dr. Jakob Rensing,doctor,2016,1
+458,Der Bergdoktor,AT,9,38392,Julia Thurnau,1,False,Dr. Kerstin Rensing / Johanna Hofer,doctor,2016,1
+459,Der Bergdoktor,AT,9,72215,Sina Tkotsch,1,False,Marie Dorfner,other,2016,2
+460,Der Bergdoktor,AT,9,1306431,Björn von der Wellen,2,False,Thomas Lambert,other,2016,2
+461,Der Bergdoktor,AT,9,583374,Anne Werner,1,False,Kara Lambert,other,2016,2
+462,Der Bergdoktor,AT,9,1385357,Jonathan Berlin,2,False,David Richter,other,2016,2
+463,Der Bergdoktor,AT,9,570756,Silvina Buchbauer,1,False,Claudia Richter,other,2016,2
+464,Der Bergdoktor,AT,9,1404414,Fanny Krausz,1,False,Lisa Lehnhoff,other,2016,2
+465,Der Bergdoktor,AT,9,1187354,Christian Lex,2,False,Notar,other,2016,2
+466,Der Bergdoktor,AT,9,1714754,Martin Muliar,2,False,Klaus Lehnhoff,other,2016,2
+467,Der Bergdoktor,AT,9,49743,Robert Schupp,2,False,Michael Richter,other,2016,2
+468,Der Bergdoktor,AT,10,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2017,1
+469,Der Bergdoktor,AT,10,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2017,1
+470,Der Bergdoktor,AT,10,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2017,1
+471,Der Bergdoktor,AT,10,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2017,1
+472,Der Bergdoktor,AT,10,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2017,1
+473,Der Bergdoktor,AT,10,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2017,1
+474,Der Bergdoktor,AT,10,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2017,1
+475,Der Bergdoktor,AT,10,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2017,1
+476,Der Bergdoktor,AT,10,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2017,1
+477,Der Bergdoktor,AT,10,45947,Ann-Kathrin Kramer,1,False,Lisa Richthofen,other,2017,1
+478,Der Bergdoktor,AT,10,32823,Gedeon Burkhard,2,False,Leon Richthofen,other,2017,1
+479,Der Bergdoktor,AT,10,228902,Janina Hartwig,1,False,Sabine Moser,other,2017,1
+480,Der Bergdoktor,AT,10,2778748,Lenius Jung,0,False,Karl Moser,other,2017,1
+481,Der Bergdoktor,AT,10,1556777,Katharina Schlothauer,1,False,Hanna Hofer,other,2017,1
+482,Der Bergdoktor,AT,10,30726,Daniel Krauss,2,False,Michael Lanzinger,other,2017,1
+483,Der Bergdoktor,AT,10,51652,Ben Braun,2,False,Tim Petersen,other,2017,1
+484,Der Bergdoktor,AT,10,557955,Nele Mueller-Stöfen,1,False,Sabine Wimmer,other,2017,1
+485,Der Bergdoktor,AT,10,1437333,Harald Windisch,2,False,Jakob Wimmer,other,2017,1
+486,Der Bergdoktor,AT,10,1103840,Cosima Lehninger,1,False,Kathi Wimmer,other,2017,1
+487,Der Bergdoktor,AT,10,1504195,Sebastian Fräsdorf,2,False,Tobias Ritter,other,2017,1
+488,Der Bergdoktor,AT,10,1838579,Sophie Melbinger,1,False,Katja Weiss,other,2017,1
+489,Der Bergdoktor,AT,10,1330947,Brigitte Böttrich,1,False,,other,2017,1
+490,Der Bergdoktor,AT,10,52400,Dirk Martens,2,False,Sebastian Lechner,other,2017,1
+491,Der Bergdoktor,AT,10,1589785,Emilia Bernsdorf,1,False,Alina Förster,other,2017,2
+492,Der Bergdoktor,AT,10,72214,Patrick von Blume,2,False,Daniel Förster,other,2017,2
+493,Der Bergdoktor,AT,10,233747,Theresa Scholze,1,False,Petra Förster,other,2017,2
+494,Der Bergdoktor,AT,10,1910950,Arian Montgomery,2,False,Finn Förster,other,2017,2
+495,Der Bergdoktor,AT,10,36437,Roman Knizka,2,False,Dr. Thomas Mannfeld,doctor,2017,2
+496,Der Bergdoktor,AT,10,1767026,Merle Collet,1,False,Lisa Unger,other,2017,2
+497,Der Bergdoktor,AT,10,23180,Johanna Bittenbinder,1,False,,other,2017,2
+498,Der Bergdoktor,AT,10,18733,Heinz-Josef Braun,2,False,Johann Unger,other,2017,2
+499,Der Bergdoktor,AT,10,1783597,Luis Immanuel Rost,2,False,Jens Torben Schmidt,other,2017,2
+500,Der Bergdoktor,AT,10,1000975,Angelina Häntsch,1,False,Pia Sattler,other,2017,2
+501,Der Bergdoktor,AT,10,23181,Stefan Murr,2,False,Jan Hoffmann,other,2017,2
+502,Der Bergdoktor,AT,10,1221642,Daniel Aichinger,2,False,Peter Hoffmann,other,2017,2
+503,Der Bergdoktor,AT,10,1080991,Marlene Morreis,1,False,Emma Dittmer,other,2017,3
+504,Der Bergdoktor,AT,10,5860,Stephan Grossmann,2,False,Frank Dittmer,other,2017,3
+505,Der Bergdoktor,AT,10,1502486,Eva-Maria Reichert,1,False,Eva Berger,other,2017,3
+506,Der Bergdoktor,AT,10,1291449,Harry Täschner,2,False,Hubert Tauber,other,2017,3
+507,Der Bergdoktor,AT,10,17719,Julian Weigend,2,False,Dr. Michael Stamm,doctor,2017,3
+508,Der Bergdoktor,AT,11,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2018,1
+509,Der Bergdoktor,AT,11,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2018,1
+510,Der Bergdoktor,AT,11,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2018,1
+511,Der Bergdoktor,AT,11,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2018,1
+512,Der Bergdoktor,AT,11,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2018,1
+513,Der Bergdoktor,AT,11,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2018,1
+514,Der Bergdoktor,AT,11,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2018,1
+515,Der Bergdoktor,AT,11,35826,Siegfried Rauch,2,True,Roman Melchinger,doctor (probably),2018,1
+516,Der Bergdoktor,AT,11,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2018,1
+517,Der Bergdoktor,AT,11,1034302,Henriette Richter-Röhl,1,False,Lisa Koch,other,2018,1
+518,Der Bergdoktor,AT,11,32426,Maximilian von Pufendorf,2,False,Christian Tamm,other,2018,1
+519,Der Bergdoktor,AT,11,14636,Michaela Rosen,1,False,Elisabeth Tamm,other,2018,1
+520,Der Bergdoktor,AT,11,38477,Andreas Borcherding,2,False,Dr. Hartmann,doctor,2018,1
+521,Der Bergdoktor,AT,11,554722,Lucas Zolgar,2,False,Skifahrer,other,2018,1
+522,Der Bergdoktor,AT,11,1201370,Anna von Haebler,1,False,Maja Maiwald,other,2018,1
+523,Der Bergdoktor,AT,11,1824167,Tom Radisch,2,False,Carsten Maiwald,other,2018,1
+524,Der Bergdoktor,AT,11,23962,Christian Kohlund,2,False,Ludwig Gruber,other,2018,1
+525,Der Bergdoktor,AT,11,25673,Wolfgang Müller,2,False,Toni Neureuther,other,2018,1
+526,Der Bergdoktor,AT,11,35534,Simone Hanselmann,1,False,Franziska Hochstetter,other,2018,1
+527,Der Bergdoktor,AT,11,8802,Michael Mendl,2,False,Richard Bäumler,other,2018,1
+528,Der Bergdoktor,AT,11,448048,Henriette Müller,2,False,Nina Bäumler,other,2018,1
+529,Der Bergdoktor,AT,11,44533,Ludwig Trepte,2,False,Thomas Bäumler,other,2018,1
+530,Der Bergdoktor,AT,11,34296,Anja Knauer,1,False,Sandra Lennart,doctor,2018,1
+531,Der Bergdoktor,AT,11,590259,Walter Sachers,2,False,Patient,other,2018,1
+532,Der Bergdoktor,AT,11,1365860,Morgane Ferru,1,False,Christina Lennart,other,2018,1
+533,Der Bergdoktor,AT,11,1833406,Margaretha Baumgartner,1,False,Frau Zöllner,other,2018,1
+534,Der Bergdoktor,AT,11,3167491,Louise Sophie Arnold,1,False,Lena,other,2018,2
+535,Der Bergdoktor,AT,11,1800858,Sarah Bauerett,1,False,Natascha Weigand,other,2018,2
+536,Der Bergdoktor,AT,11,1818242,Laura Heich,1,False,Carola Kerschbaumer,other,2018,2
+537,Der Bergdoktor,AT,11,1330405,Isabel Thierauch,1,False,Katharina Winkler,other,2018,2
+538,Der Bergdoktor,AT,11,235175,Isabell Gerschke,1,False,Katrin Gaubinger,other,2018,3
+539,Der Bergdoktor,AT,11,2267350,Marion Krawitz,1,False,Schwester Marion,other,2018,3
+540,Der Bergdoktor,AT,11,2022231,Bjarne Meisel,2,False,Lukas Bohringer,other,2018,3
+541,Der Bergdoktor,AT,11,6090,Janek Rieke,2,False,Jannek Gaubinger,other,2018,3
+542,Der Bergdoktor,AT,11,2857156,Leonie Rainer,1,False,Anna Hambichle,other,2018,3
+543,Der Bergdoktor,AT,11,226588,Maximilian Grill,2,False,Michael Rösler,other,2018,3
+544,Der Bergdoktor,AT,11,1446305,Katrin Heß,1,False,Sabine 'Bine' Görner,other,2018,3
+545,Der Bergdoktor,AT,11,2672641,Isabell Stern,1,False,Krankenschwester,other,2018,3
+546,Der Bergdoktor,AT,11,48557,Anja Antonowicz,1,False,Erianna Kolas,other,2018,3
+547,Der Bergdoktor,AT,11,1708921,Johanna Hens,1,False,Larissa Neuwirth,other,2018,3
+548,Der Bergdoktor,AT,11,22738,Monika Lennartz,1,False,Frau Lösner,other,2018,3
+549,Der Bergdoktor,AT,11,3046355,Ava Montgomery,1,False,Mara Kolas,other,2018,3
+550,Der Bergdoktor,AT,11,225959,Nico Rogner,2,False,Thomas Häberle,other,2018,3
+551,Der Bergdoktor,AT,12,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2019,1
+552,Der Bergdoktor,AT,12,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2019,1
+553,Der Bergdoktor,AT,12,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2019,1
+554,Der Bergdoktor,AT,12,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2019,1
+555,Der Bergdoktor,AT,12,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2019,1
+556,Der Bergdoktor,AT,12,1478075,Fabian Elias Huber,2,True,Jonas Ellert,doctor (probably),2019,1
+557,Der Bergdoktor,AT,12,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2019,1
+558,Der Bergdoktor,AT,12,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2019,1
+559,Der Bergdoktor,AT,12,22185,Nadeshda Brennicke,1,False,Hermine Stubben,other,2019,1
+560,Der Bergdoktor,AT,12,4541,Stephan Kampwirth,2,False,Heiko Stubben,other,2019,1
+561,Der Bergdoktor,AT,12,72215,Sina Tkotsch,1,False,Nina Harting,other,2019,1
+562,Der Bergdoktor,AT,12,1799935,Frederik Götz,2,False,Tom Ostermaier,other,2019,1
+563,Der Bergdoktor,AT,12,1853330,Sarah Born,1,False,Charlotte,other,2019,1
+564,Der Bergdoktor,AT,12,36323,Leonie Brill,1,False,Nina Weigand,other,2019,1
+565,Der Bergdoktor,AT,12,3191134,Jakob Englmaier,2,False,Nico Metzinger,other,2019,1
+566,Der Bergdoktor,AT,12,36327,Patrick Finger,2,False,Thomas Heisig,other,2019,1
+567,Der Bergdoktor,AT,12,1818225,Aaron Friesz,2,False,Chris Weigand,other,2019,1
+568,Der Bergdoktor,AT,12,36767,Valerie Niehaus,1,False,Theresa Metzinger,other,2019,1
+569,Der Bergdoktor,AT,12,1228288,Joachim Raaf,2,False,Robert Metzinger,other,2019,1
+570,Der Bergdoktor,AT,12,1091140,Sebastian Achilles,2,False,Christian Aumüller,other,2019,1
+571,Der Bergdoktor,AT,12,1809278,Eve Marie Gleißner,1,False,Finja Aumüller,other,2019,1
+572,Der Bergdoktor,AT,12,3191140,Benjamin Hirt,2,False,Trainer,other,2019,1
+573,Der Bergdoktor,AT,12,2933491,Julienne Pfeil,1,False,Tina Bode,other,2019,1
+574,Der Bergdoktor,AT,12,1816886,Wolfram Rupperti,2,False,Markus Ohlmüller,other,2019,1
+575,Der Bergdoktor,AT,12,1853583,Cordula Zielonka,1,False,Kim / Lena Aumüller,other,2019,1
+576,Der Bergdoktor,AT,12,1525121,Andrea Gerhard,1,False,Linn Kemper,other,2019,1
+577,Der Bergdoktor,AT,12,65054,Rainer Bock,2,False,Ulrich Kretschmar,other,2019,1
+578,Der Bergdoktor,AT,12,1591550,Amelie Elisa Klein,1,False,Greta Breithaupt,other,2019,1
+579,Der Bergdoktor,AT,12,1313854,Johanna Liebeneiner,1,False,Barbara Kretschmar,other,2019,1
+580,Der Bergdoktor,AT,12,1175685,Gabriel Raab,2,False,Lennart Breithaupt,other,2019,1
+581,Der Bergdoktor,AT,12,118528,Katrin Filzen,1,False,Mona Kapplinger,other,2019,1
+582,Der Bergdoktor,AT,12,570756,Silvina Buchbauer,1,False,Ricarda Burggrabe,other,2019,1
+583,Der Bergdoktor,AT,12,2415831,Stephan Buschmann,2,False,Dr. Haslberger,doctor,2019,1
+584,Der Bergdoktor,AT,12,1618862,Barbara Herschbach,1,False,Lisbeth (jung),other,2019,1
+585,Der Bergdoktor,AT,12,1324916,Aaron Karl,2,False,Jonas Koller,other,2019,1
+586,Der Bergdoktor,AT,12,146507,Pierre Kiwitt,2,False,Ludwig (jung),other,2019,1
+587,Der Bergdoktor,AT,12,1824101,Lucas Englander,2,False,Arno Moosbach,other,2019,2
+588,Der Bergdoktor,AT,12,1309013,Annika Olbrich,1,False,Tanja Dremmler,doctor,2019,2
+589,Der Bergdoktor,AT,12,32822,Dominic Raacke,2,False,Arno Moosbach,other,2019,2
+590,Der Bergdoktor,AT,12,1221640,Angela Roy,1,False,Katrin Dremmler,doctor,2019,2
+591,Der Bergdoktor,AT,12,1870936,Christina Athenstädt,1,False,Charlotte Angerer,other,2019,2
+592,Der Bergdoktor,AT,12,20262,Tino Mewes,2,False,Philipp Meixner,other,2019,2
+593,Der Bergdoktor,AT,12,7156,Nicholas Reinke,2,False,Mario Angerer,other,2019,2
+594,Der Bergdoktor,AT,12,65876,Johannes Franke,2,False,Anton Brugger,other,2019,2
+595,Der Bergdoktor,AT,12,1197330,Karl Knaup,2,False,Standesbeamter,other,2019,2
+596,Der Bergdoktor,AT,12,1083842,Constantin Lücke,2,False,Markus Säbner,other,2019,2
+597,Der Bergdoktor,AT,12,545024,Claudia Messner,1,False,Angelika Brugger,other,2019,2
+598,Der Bergdoktor,AT,12,1359222,Katharina Nesytowa,1,False,Jana Niemeier,other,2019,2
+599,Der Bergdoktor,AT,13,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2020,1
+600,Der Bergdoktor,AT,13,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2020,1
+601,Der Bergdoktor,AT,13,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2020,1
+602,Der Bergdoktor,AT,13,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2020,1
+603,Der Bergdoktor,AT,13,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2020,1
+604,Der Bergdoktor,AT,13,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2020,1
+605,Der Bergdoktor,AT,13,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2020,1
+606,Der Bergdoktor,AT,13,1104730,Simon Böer,2,False,Hannes Brandt,other,2020,1
+607,Der Bergdoktor,AT,13,1589785,Emilia Bernsdorf,1,False,Nathalie Brandt,other,2020,1
+608,Der Bergdoktor,AT,13,1357877,Lennart Betzgen,2,False,Tim Sager,other,2020,1
+609,Der Bergdoktor,AT,13,16799,Ines Honsel,1,False,Corinna Sager,other,2020,1
+610,Der Bergdoktor,AT,13,5206,Miriam Morgenstern,1,False,Pilotin,other,2020,1
+611,Der Bergdoktor,AT,13,3191242,Robinson von Lindenschmit,2,False,Sprengmeister,other,2020,1
+612,Der Bergdoktor,AT,13,1961946,Cai Cohrs,2,False,Lukas Tannhofer,other,2020,1
+613,Der Bergdoktor,AT,13,49705,Wolfgang Pregler,2,False,Dr. Feininger,doctor,2020,1
+614,Der Bergdoktor,AT,13,1289254,Teresa Rizos,1,False,Lene Tannhofer,other,2020,1
+615,Der Bergdoktor,AT,13,1545560,Bijan Zamani,2,False,Jochen Widmer,other,2020,1
+616,Der Bergdoktor,AT,13,44637,Anian Zollner,2,False,Bernd Tannhofer,other,2020,1
+617,Der Bergdoktor,AT,13,1247454,Gabriel Merz,2,False,Gregor Schachner,other,2020,1
+618,Der Bergdoktor,AT,13,543328,Sabine Bach,1,False,Katrin Lenbach,other,2020,1
+619,Der Bergdoktor,AT,13,1424470,Nicole Gerdon,1,False,Karla Riegert,other,2020,1
+620,Der Bergdoktor,AT,13,1347172,Anna Herrmann,1,False,Hanna Lenbach,other,2020,1
+621,Der Bergdoktor,AT,13,1378940,Pablo Sprungala,2,False,Kai Riegert,other,2020,1
+622,Der Bergdoktor,AT,13,17053,Annika Blendl,1,False,Theresa Haas,other,2020,1
+623,Der Bergdoktor,AT,13,55882,Jytte-Merle Böhrnsen,1,False,Greta Wagner,other,2020,1
+624,Der Bergdoktor,AT,13,1916632,Stefanie Elias,1,False,Lisa,other,2020,1
+625,Der Bergdoktor,AT,13,19913,Andreas Guenther,2,False,Thomas Haas,other,2020,1
+626,Der Bergdoktor,AT,13,1408951,Tobias Ofenbauer,2,False,Almwirt Wieser,other,2020,1
+627,Der Bergdoktor,AT,13,1423277,Esther Maria Pietsch,1,False,Esther,other,2020,1
+628,Der Bergdoktor,AT,13,1306595,Claudia Wenzel,1,False,Thea Hochstetter,other,2020,1
+629,Der Bergdoktor,AT,13,1323750,Barbara Bauer,1,False,Traudel Angermaier,other,2020,2
+630,Der Bergdoktor,AT,13,52967,Amelie Kiefer,1,False,Maike Schlüter,other,2020,2
+631,Der Bergdoktor,AT,13,1325224,Lasse Myhr,2,False,Max Koller,other,2020,2
+632,Der Bergdoktor,AT,13,1374406,Matthias Ransberger,2,False,Tom,other,2020,2
+633,Der Bergdoktor,AT,13,1330405,Isabel Thierauch,1,False,Suse Koller,other,2020,2
+634,Der Bergdoktor,AT,13,1372163,Beate Maes,1,False,Veronika Griesbach,other,2020,2
+635,Der Bergdoktor,AT,13,1334662,Sabine Petzl,1,False,Marlies Hoffmann,other,2020,2
+636,Der Bergdoktor,AT,13,52460,Rike Schmid,1,False,Eva Sattler,other,2020,2
+637,Der Bergdoktor,AT,13,49053,Roland Silbernagl,2,False,Thomas Brunner,other,2020,2
+638,Der Bergdoktor,AT,13,2870749,Stan Steinbichler,2,False,Daniel Griesbach,other,2020,2
+639,Der Bergdoktor,AT,13,28114,Oliver Stritzel,2,False,Herbert Sattler,other,2020,2
+640,Der Bergdoktor,AT,13,1762495,Riccardo Angelini,2,False,Florian Althammer,other,2020,2
+641,Der Bergdoktor,AT,13,932217,Janina Fautz,1,False,Maja Körner,other,2020,2
+642,Der Bergdoktor,AT,13,48711,Uwe Kockisch,2,False,Johann Eichholz,other,2020,2
+643,Der Bergdoktor,AT,13,1783597,Luis Immanuel Rost,2,False,Jens-Torben,other,2020,2
+644,Der Bergdoktor,AT,13,1083826,Katharina Schwarz,1,False,Heike Körner,other,2020,2
+645,Der Bergdoktor,AT,13,1451378,Carolin Garnier,1,False,Kara Bühler,other,2020,3
+646,Der Bergdoktor,AT,13,22186,Jophi Ries,2,False,Thomas Bühler,other,2020,3
+647,Der Bergdoktor,AT,13,1266065,Olivia Silhavy,1,False,Ingrid Janninger,other,2020,3
+648,Der Bergdoktor,AT,13,23937,Katja Studt,1,False,Tine Bühler,other,2020,3
+649,Der Bergdoktor,AT,14,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2021,1
+650,Der Bergdoktor,AT,14,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2021,1
+651,Der Bergdoktor,AT,14,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2021,1
+652,Der Bergdoktor,AT,14,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2021,1
+653,Der Bergdoktor,AT,14,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2021,1
+654,Der Bergdoktor,AT,14,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2021,1
+655,Der Bergdoktor,AT,14,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2021,1
+656,Der Bergdoktor,AT,14,1783569,Lenny Den Dooven,2,False,Jannek Bannert,other,2021,1
+657,Der Bergdoktor,AT,14,23122,Annika Kuhl,1,False,Katja Bannert,other,2021,1
+658,Der Bergdoktor,AT,14,38460,Oliver Mommsen,2,False,Tim Hauser,other,2021,1
+659,Der Bergdoktor,AT,14,1051596,Max Urlacher,2,False,Christian Bannert,other,2021,1
+660,Der Bergdoktor,AT,14,2591833,Benjamin Weygand,2,False,Lukas Bannert,other,2021,1
+661,Der Bergdoktor,AT,14,1521843,Jeanne Goursaud,1,False,Luisa Sturm,other,2021,1
+662,Der Bergdoktor,AT,14,124698,Joshua Grothe,2,False,Jan Behringer,other,2021,1
+663,Der Bergdoktor,AT,14,1895232,Maria Helgath,1,False,Ramona Lindner,other,2021,1
+664,Der Bergdoktor,AT,14,36492,Michael Roll,2,False,Rainer Lindner,other,2021,1
+665,Der Bergdoktor,AT,14,45904,Susanne Schäfer,1,False,Karola Lindner,other,2021,1
+666,Der Bergdoktor,AT,14,1197378,Dagny Dewath,1,False,Miriam Brandstetter,other,2021,1
+667,Der Bergdoktor,AT,14,40634,Florian Panzner,2,False,Holger Brandstetter,other,2021,1
+668,Der Bergdoktor,AT,14,2122448,Mona Vojacek Koper,1,False,Rudertrainerin,other,2021,1
+669,Der Bergdoktor,AT,14,1320071,Sebastian Gerold,2,False,Erich Schmitt,other,2021,2
+670,Der Bergdoktor,AT,14,71607,Aurel Manthei,2,False,Andreas Kloser,doctor,2021,2
+671,Der Bergdoktor,AT,14,1746463,Kim Riedle,1,False,Nicole Nadler,other,2021,2
+672,Der Bergdoktor,AT,14,1921221,Timon Ballenberger,2,False,Robert Schwarz,other,2021,2
+673,Der Bergdoktor,AT,14,1672908,Julian Looman,2,False,Jan Wöhlert,other,2021,2
+674,Der Bergdoktor,AT,14,37190,Philipp Moog,2,False,Richard Wöhlert,other,2021,2
+675,Der Bergdoktor,AT,14,2848704,Fabian Schiffkorn,2,False,Lennart Wöhlert,other,2021,2
+676,Der Bergdoktor,AT,14,1556777,Katharina Schlothauer,1,False,Lara Wöhlert,other,2021,2
+677,Der Bergdoktor,AT,14,38299,Antje Schmidt,1,False,Regina Wöhlert,other,2021,2
+678,Der Bergdoktor,AT,14,118528,Katrin Filzen,1,False,Mona Kapplinger,other,2021,2
+679,Der Bergdoktor,AT,14,28531,Alma Leiberg,1,False,Annette Tauber,other,2021,2
+680,Der Bergdoktor,AT,14,1833174,Jeremy Miliker,2,False,Max Tauber,other,2021,2
+681,Der Bergdoktor,AT,14,2047139,Linda Stockfleth,1,False,Nina Tauber,other,2021,2
+682,Der Bergdoktor,AT,14,175269,Tatjana Alexander,1,False,Annegret Winter,other,2021,2
+683,Der Bergdoktor,AT,14,18728,Franz Xaver Brückner,2,False,Thomas Köhler,other,2021,2
+684,Der Bergdoktor,AT,14,1910268,Magdalena Höfner,1,False,Sandra Wagner,doctor,2021,2
+685,Der Bergdoktor,AT,14,1824010,Claudia Plöckl,1,False,Bibo Haller,other,2021,2
+686,Der Bergdoktor,AT,14,2184717,Lena Reinhold,1,False,Eva Winter,other,2021,2
+687,Der Bergdoktor,AT,14,1079922,Wolfgang Maria Bauer,2,False,Rudolf Gantner,other,2021,3
+688,Der Bergdoktor,AT,14,1153437,Naomi Krauss,1,False,Michaela Gantner,other,2021,3
+689,Der Bergdoktor,AT,14,1404414,Fanny Krausz,1,False,Katharina Bachmann,other,2021,3
+690,Der Bergdoktor,AT,14,1418496,Ben Münchow,2,False,Simon Gantner,other,2021,3
+691,Der Bergdoktor,AT,15,233992,Hans Sigl,2,True,Martin Gruber,doctor (probably),2022,1
+692,Der Bergdoktor,AT,15,36490,Monika Baumgartner,1,True,Elisabeth Gruber,doctor (probably),2022,1
+693,Der Bergdoktor,AT,15,21831,Mark Keller,2,True,Alexander Kahnweiler,doctor (probably),2022,1
+694,Der Bergdoktor,AT,15,1478072,Heiko Ruprecht,2,True,Hans Gruber,doctor (probably),2022,1
+695,Der Bergdoktor,AT,15,1478073,Natalie O'Hara,1,True,Susanne Dreiseitl,doctor,2022,1
+696,Der Bergdoktor,AT,15,49195,Ronja Forcher,1,True,Lilli Gruber,doctor (probably),2022,1
+697,Der Bergdoktor,AT,15,48240,Rebecca Immanuel,1,True,Vera Fendrich,doctor,2022,1

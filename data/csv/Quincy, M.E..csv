@@ -1,0 +1,772 @@
+,show_name,origin,season_number,actor_id,actor_name,gender,main_cast,character_name,character_occupation,year,month
+0,"Quincy, M.E.",US,1,5250,Jack Klugman,2,True,Quincy,doctor (probably),1976,10
+1,"Quincy, M.E.",US,1,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1976,10
+2,"Quincy, M.E.",US,1,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1976,10
+3,"Quincy, M.E.",US,1,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1976,10
+4,"Quincy, M.E.",US,1,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1976,10
+5,"Quincy, M.E.",US,1,44686,Henry Darrow,2,False,,other,1976,10
+6,"Quincy, M.E.",US,1,1220923,Dimitra Arliss,1,False,,other,1976,10
+7,"Quincy, M.E.",US,1,4679,John Furlong,2,False,,other,1976,10
+8,"Quincy, M.E.",US,1,70425,Denny Miller,2,False,,other,1976,10
+9,"Quincy, M.E.",US,1,55197,Martha Smith,1,False,,other,1976,10
+10,"Quincy, M.E.",US,1,13263,Woodrow Parfrey,2,False,,other,1976,10
+11,"Quincy, M.E.",US,1,98797,Hari Rhodes,2,False,,other,1976,10
+12,"Quincy, M.E.",US,1,165553,Phyllis Newman,1,False,,other,1976,10
+13,"Quincy, M.E.",US,1,9806,Roger Bowen,2,False,,other,1976,10
+14,"Quincy, M.E.",US,1,20163,Richard Libertini,2,False,,other,1976,10
+15,"Quincy, M.E.",US,1,58414,Dina Merrill,1,False,,other,1976,10
+16,"Quincy, M.E.",US,1,7504,Carol Lynley,1,False,,other,1976,10
+17,"Quincy, M.E.",US,1,14506,Joanna Barnes,1,False,,other,1976,10
+18,"Quincy, M.E.",US,1,50234,Donna Mills,1,False,,other,1976,11
+19,"Quincy, M.E.",US,1,10775,William Daniels,2,False,,other,1976,11
+20,"Quincy, M.E.",US,1,93696,Dick Wesson,2,False,,other,1976,11
+21,"Quincy, M.E.",US,1,98611,Peter Palmer,2,False,,other,1976,11
+22,"Quincy, M.E.",US,1,1219270,Frank Marth,2,False,,other,1976,11
+23,"Quincy, M.E.",US,1,13997,June Lockhart,1,False,,other,1976,11
+24,"Quincy, M.E.",US,1,26396,Wolf Roth,2,False,,other,1977,1
+25,"Quincy, M.E.",US,1,29282,Fernando Lamas,2,False,,other,1977,1
+26,"Quincy, M.E.",US,1,95732,Robert Alda,2,False,,other,1977,1
+27,"Quincy, M.E.",US,1,15659,Marianna Hill,1,False,,other,1977,1
+28,"Quincy, M.E.",US,1,15668,Andrew Prine,2,False,,other,1977,1
+29,"Quincy, M.E.",US,1,38761,Stuart Whitman,2,False,,other,1977,1
+30,"Quincy, M.E.",US,2,5250,Jack Klugman,2,True,Quincy,doctor (probably),1977,2
+31,"Quincy, M.E.",US,2,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1977,2
+32,"Quincy, M.E.",US,2,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1977,2
+33,"Quincy, M.E.",US,2,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1977,2
+34,"Quincy, M.E.",US,2,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1977,2
+35,"Quincy, M.E.",US,2,1221570,Sammy Jackson,2,False,,other,1977,2
+36,"Quincy, M.E.",US,2,37446,Van Johnson,2,False,,other,1977,2
+37,"Quincy, M.E.",US,2,94848,Joey Forman,2,False,,other,1977,2
+38,"Quincy, M.E.",US,2,3014,Val Avery,2,False,,other,1977,2
+39,"Quincy, M.E.",US,2,67393,Buddy Hackett,2,False,,other,1977,2
+40,"Quincy, M.E.",US,2,94784,Milt Kamen,2,False,,other,1977,2
+41,"Quincy, M.E.",US,2,100632,Frank Converse,2,False,,other,1977,2
+42,"Quincy, M.E.",US,2,100561,Fred Grandy,2,False,,other,1977,2
+43,"Quincy, M.E.",US,2,32786,John Davis Chandler,2,False,,other,1977,2
+44,"Quincy, M.E.",US,2,80241,Linda Kelsey,1,False,,other,1977,2
+45,"Quincy, M.E.",US,2,27540,Harold Sylvester,2,False,,other,1977,2
+46,"Quincy, M.E.",US,2,41274,Stephen Macht,2,False,,other,1977,2
+47,"Quincy, M.E.",US,2,3339,Elisha Cook Jr.,2,False,,other,1977,2
+48,"Quincy, M.E.",US,2,157641,Jack Bannon,2,False,,other,1977,2
+49,"Quincy, M.E.",US,2,153646,Tina Andrews,1,False,,other,1977,2
+50,"Quincy, M.E.",US,2,247,William Sylvester,2,False,,other,1977,2
+51,"Quincy, M.E.",US,2,129048,Roger Davis,2,False,,other,1977,2
+52,"Quincy, M.E.",US,2,98520,Pernell Roberts,2,False,,other,1977,2
+53,"Quincy, M.E.",US,2,40433,Barry Sullivan,2,False,,other,1977,2
+54,"Quincy, M.E.",US,2,30928,Michael Callan,2,False,,other,1977,2
+55,"Quincy, M.E.",US,2,1220866,Suzanne Rogers,1,False,,other,1977,2
+56,"Quincy, M.E.",US,2,93799,Carl Betz,2,False,,other,1977,3
+57,"Quincy, M.E.",US,2,19139,Jack Colvin,2,False,,other,1977,3
+58,"Quincy, M.E.",US,2,156869,Bob Minor,2,False,,other,1977,3
+59,"Quincy, M.E.",US,2,108984,Bob Crane,2,False,,other,1977,3
+60,"Quincy, M.E.",US,2,1229722,Frank Parker,2,False,,other,1977,3
+61,"Quincy, M.E.",US,2,93664,Jesse White,2,False,,other,1977,3
+62,"Quincy, M.E.",US,2,14507,Paul Lambert,2,False,,other,1977,3
+63,"Quincy, M.E.",US,2,87520,Yuki Shimoda,2,False,,other,1977,3
+64,"Quincy, M.E.",US,2,127260,Louise Sorel,1,False,,other,1977,3
+65,"Quincy, M.E.",US,2,15635,Stewart Moss,2,False,,other,1977,3
+66,"Quincy, M.E.",US,2,120306,Gloria DeHaven,1,False,,other,1977,4
+67,"Quincy, M.E.",US,2,96348,Monica Lewis,1,False,,other,1977,4
+68,"Quincy, M.E.",US,2,1213158,Allen Case,2,False,,other,1977,4
+69,"Quincy, M.E.",US,2,8497,Collin Wilcox Paxton,1,False,,other,1977,4
+70,"Quincy, M.E.",US,2,15746,Barbara Babcock,1,False,,other,1977,4
+71,"Quincy, M.E.",US,2,12850,Dabney Coleman,2,False,,other,1977,4
+72,"Quincy, M.E.",US,2,1217165,Joshua Shelley,2,False,,other,1977,4
+73,"Quincy, M.E.",US,2,70775,Hal Williams,2,False,,other,1977,4
+74,"Quincy, M.E.",US,2,8499,William Windom,2,False,,other,1977,4
+75,"Quincy, M.E.",US,2,45290,Marianne McAndrew,1,False,,other,1977,4
+76,"Quincy, M.E.",US,2,197303,Melinda O. Fee,1,False,,other,1977,4
+77,"Quincy, M.E.",US,2,83435,Joby Baker,2,False,,other,1977,4
+78,"Quincy, M.E.",US,2,103955,Jerry Douglas,2,False,,other,1977,4
+79,"Quincy, M.E.",US,2,16418,Casey Kasem,2,False,,other,1977,4
+80,"Quincy, M.E.",US,2,133853,Carmine Caridi,2,False,,other,1977,4
+81,"Quincy, M.E.",US,2,38226,Caroline McWilliams,1,False,,other,1977,5
+82,"Quincy, M.E.",US,2,121144,Joseph Campanella,2,False,,other,1977,5
+83,"Quincy, M.E.",US,2,97748,E.J. Peaker,1,False,,other,1977,5
+84,"Quincy, M.E.",US,2,16089,Jason Evers,2,False,,other,1977,5
+85,"Quincy, M.E.",US,2,19109,Carolyn Jones,1,False,,other,1977,5
+86,"Quincy, M.E.",US,2,5255,Robert Webber,2,False,,other,1977,5
+87,"Quincy, M.E.",US,2,30687,Anthony Eisley,2,False,,other,1977,5
+88,"Quincy, M.E.",US,2,103455,Ben Frank,2,False,,other,1977,5
+89,"Quincy, M.E.",US,2,8962,Luke Askew,2,False,,other,1977,5
+90,"Quincy, M.E.",US,2,2109,Kim Cattrall,1,False,,other,1977,5
+91,"Quincy, M.E.",US,2,11782,Adrienne Barbeau,1,False,,other,1977,5
+92,"Quincy, M.E.",US,2,34686,Corey Fischer,2,False,,other,1977,5
+93,"Quincy, M.E.",US,3,5250,Jack Klugman,2,True,Quincy,doctor (probably),1977,9
+94,"Quincy, M.E.",US,3,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1977,9
+95,"Quincy, M.E.",US,3,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1977,9
+96,"Quincy, M.E.",US,3,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1977,9
+97,"Quincy, M.E.",US,3,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1977,9
+98,"Quincy, M.E.",US,3,107309,Elaine Joyce,1,False,,other,1977,9
+99,"Quincy, M.E.",US,3,1219267,Mary Frann,1,False,,other,1977,9
+100,"Quincy, M.E.",US,3,16133,Harry Landers,2,False,,other,1977,9
+101,"Quincy, M.E.",US,3,10195,Norman Burton,2,False,,other,1977,9
+102,"Quincy, M.E.",US,3,103455,Ben Frank,2,False,,other,1977,9
+103,"Quincy, M.E.",US,3,13027,Keene Curtis,2,False,,other,1977,9
+104,"Quincy, M.E.",US,3,52590,Paul Mantee,2,False,,other,1977,9
+105,"Quincy, M.E.",US,3,159491,Susan Tolsky,1,False,,other,1977,9
+106,"Quincy, M.E.",US,3,24809,Ina Balin,1,False,,other,1977,9
+107,"Quincy, M.E.",US,3,85177,Creed Bratton,2,False,Young Man,other,1977,9
+108,"Quincy, M.E.",US,3,83362,Dennis Burkley,2,False,,other,1977,9
+109,"Quincy, M.E.",US,3,120698,Carlene Watkins,1,False,,other,1977,9
+110,"Quincy, M.E.",US,3,130334,Henry Slate,2,False,,other,1977,9
+111,"Quincy, M.E.",US,3,1221913,Joe Louis,2,False,Joe Louis,other,1977,9
+112,"Quincy, M.E.",US,3,16643,Gene LeBell,2,False,,other,1977,9
+113,"Quincy, M.E.",US,3,3160,Nehemiah Persoff,2,False,,other,1977,9
+114,"Quincy, M.E.",US,3,6561,Moses Gunn,2,False,,other,1977,9
+115,"Quincy, M.E.",US,3,47460,Lynne Moody,1,False,,other,1977,9
+116,"Quincy, M.E.",US,3,7139,Norman Alden,2,False,,other,1977,9
+117,"Quincy, M.E.",US,3,3143,Rudy Bond,2,False,,other,1977,9
+118,"Quincy, M.E.",US,3,1215007,Joseph Gallison,2,False,,other,1977,9
+119,"Quincy, M.E.",US,3,9806,Roger Bowen,2,False,,other,1977,9
+120,"Quincy, M.E.",US,3,35516,Howard Hesseman,2,False,,other,1977,9
+121,"Quincy, M.E.",US,3,938767,Ron Gans,2,False,,other,1977,9
+122,"Quincy, M.E.",US,3,12850,Dabney Coleman,2,False,,other,1977,9
+123,"Quincy, M.E.",US,3,184736,Nora Heflin,1,False,,other,1977,9
+124,"Quincy, M.E.",US,3,13401,Peter Mark Richman,2,False,,other,1977,10
+125,"Quincy, M.E.",US,3,98963,Irene Tedrow,1,False,,other,1977,10
+126,"Quincy, M.E.",US,3,123722,Peter Hobbs,2,False,,other,1977,10
+127,"Quincy, M.E.",US,3,153611,Sandra Giles,1,False,,other,1977,10
+128,"Quincy, M.E.",US,3,14732,James Gregory,2,False,,other,1977,10
+129,"Quincy, M.E.",US,3,69027,Don Diamond,2,False,,other,1977,10
+130,"Quincy, M.E.",US,3,84240,Joaquín Martínez,2,False,,other,1977,10
+131,"Quincy, M.E.",US,3,40554,Lenka Peterson,1,False,,other,1977,10
+132,"Quincy, M.E.",US,3,179397,Ralph Taeger,2,False,,other,1977,10
+133,"Quincy, M.E.",US,3,71391,Stephen W. Burns,2,False,,other,1977,10
+134,"Quincy, M.E.",US,3,19968,Royal Dano,2,False,,other,1977,10
+135,"Quincy, M.E.",US,3,84327,Ivor Francis,1,False,,other,1977,10
+136,"Quincy, M.E.",US,3,16580,George Cheung,2,False,,other,1977,10
+137,"Quincy, M.E.",US,3,119485,Gerald S. O'Loughlin,2,False,,other,1977,11
+138,"Quincy, M.E.",US,3,118756,Madison Mason,2,False,,other,1977,11
+139,"Quincy, M.E.",US,3,3433,Phil Leeds,2,False,,other,1977,11
+140,"Quincy, M.E.",US,3,157971,Leslie Ackerman,1,False,,other,1977,11
+141,"Quincy, M.E.",US,3,35370,Eugene Roche,2,False,,other,1977,11
+142,"Quincy, M.E.",US,3,31169,Julie Adams,1,False,,other,1977,11
+143,"Quincy, M.E.",US,3,94127,Peter Brown,2,False,,other,1977,11
+144,"Quincy, M.E.",US,3,15626,Robert Walker Jr.,2,False,,other,1977,11
+145,"Quincy, M.E.",US,3,82189,Judson Pratt,2,False,,other,1977,11
+146,"Quincy, M.E.",US,3,1221564,Shelly Novack,1,False,,other,1977,11
+147,"Quincy, M.E.",US,3,107980,Bill Quinn,2,False,,other,1977,11
+148,"Quincy, M.E.",US,3,36058,Bruce Weitz,2,False,,other,1977,11
+149,"Quincy, M.E.",US,3,133853,Carmine Caridi,2,False,,other,1977,11
+150,"Quincy, M.E.",US,3,87038,Joanna Kerns,1,False,,other,1977,12
+151,"Quincy, M.E.",US,3,16103,Keye Luke,2,False,,other,1977,12
+152,"Quincy, M.E.",US,3,9911,Harold Sakata,2,False,,other,1977,12
+153,"Quincy, M.E.",US,3,105390,Booth Colman,2,False,,other,1977,12
+154,"Quincy, M.E.",US,3,10134,Mako,2,False,,other,1977,12
+155,"Quincy, M.E.",US,3,995587,Chao Li Chi,2,False,,other,1977,12
+156,"Quincy, M.E.",US,3,47505,Richard Narita,2,False,,other,1977,12
+157,"Quincy, M.E.",US,3,32596,Shizuko Hoshi,1,False,,other,1977,12
+158,"Quincy, M.E.",US,3,93655,Guy Stockwell,2,False,,other,1977,12
+159,"Quincy, M.E.",US,3,1213935,Judy Farrell,1,False,,other,1977,12
+160,"Quincy, M.E.",US,3,1214007,Katherine Moffat,1,False,,other,1977,12
+161,"Quincy, M.E.",US,3,1216598,Ted Eccles,2,False,,other,1977,12
+162,"Quincy, M.E.",US,3,3339,Elisha Cook Jr.,2,False,,other,1977,12
+163,"Quincy, M.E.",US,3,44728,Cameron Mitchell,2,False,,other,1977,12
+164,"Quincy, M.E.",US,3,19109,Carolyn Jones,1,False,,other,1977,12
+165,"Quincy, M.E.",US,3,19111,John Anderson,2,False,,other,1977,12
+166,"Quincy, M.E.",US,3,15411,T.K. Carter,2,False,,other,1978,1
+167,"Quincy, M.E.",US,3,161612,Joe Warfield,2,False,,other,1978,1
+168,"Quincy, M.E.",US,3,101429,Rosey Grier,0,False,,other,1978,1
+169,"Quincy, M.E.",US,3,17759,Frank Faylen,2,False,,other,1978,1
+170,"Quincy, M.E.",US,3,101901,Milton Selzer,2,False,,other,1978,1
+171,"Quincy, M.E.",US,3,22602,J. Pat O'Malley,2,False,,other,1978,1
+172,"Quincy, M.E.",US,3,166055,Sarah Rush,1,False,,other,1978,1
+173,"Quincy, M.E.",US,3,94402,Walter Brooke,2,False,,other,1978,1
+174,"Quincy, M.E.",US,3,113726,Argentina Brunetti,1,False,,other,1978,1
+175,"Quincy, M.E.",US,3,18648,Natalie Trundy,1,False,,other,1978,1
+176,"Quincy, M.E.",US,3,1263061,William Benedict,2,False,,other,1978,1
+177,"Quincy, M.E.",US,3,33479,Henry Beckman,2,False,,other,1978,1
+178,"Quincy, M.E.",US,3,5247,John Fiedler,2,False,,other,1978,1
+179,"Quincy, M.E.",US,3,54682,Neva Patterson,1,False,,other,1978,1
+180,"Quincy, M.E.",US,3,15650,Michael Strong,2,False,,other,1978,1
+181,"Quincy, M.E.",US,3,16126,Phillip Pine,2,False,,other,1978,1
+182,"Quincy, M.E.",US,3,94777,Frank Maxwell,2,False,,other,1978,1
+183,"Quincy, M.E.",US,3,14063,Simon Oakland,2,False,,other,1978,1
+184,"Quincy, M.E.",US,3,79731,Zohra Lampert,1,False,,other,1978,1
+185,"Quincy, M.E.",US,3,83812,Ford Rainey,2,False,,other,1978,2
+186,"Quincy, M.E.",US,3,151482,Byron Morrow,2,False,,other,1978,2
+187,"Quincy, M.E.",US,3,105296,Belinda Montgomery,1,False,,other,1978,2
+188,"Quincy, M.E.",US,3,105725,Robert Colbert,2,False,,other,1978,2
+189,"Quincy, M.E.",US,3,1212614,Chevi Colton,0,False,,other,1978,2
+190,"Quincy, M.E.",US,3,74351,Simone Griffeth,1,False,,other,1978,2
+191,"Quincy, M.E.",US,3,1220,Judith Baldwin,1,False,,other,1978,2
+192,"Quincy, M.E.",US,3,107332,John Fink,2,False,,other,1978,2
+193,"Quincy, M.E.",US,3,144604,Larry D. Mann,2,False,,other,1978,2
+194,"Quincy, M.E.",US,3,153620,Janice Lynde,1,False,,other,1978,2
+195,"Quincy, M.E.",US,3,101947,Joan Van Ark,1,False,,other,1978,2
+196,"Quincy, M.E.",US,3,33060,Ramon Bieri,2,False,,other,1978,2
+197,"Quincy, M.E.",US,3,15765,John Colicos,2,False,,other,1978,2
+198,"Quincy, M.E.",US,3,129994,Patricia Smith,1,False,,other,1978,2
+199,"Quincy, M.E.",US,3,1214009,Joy Garrett,1,False,,other,1978,3
+200,"Quincy, M.E.",US,3,117627,Lara Parker,1,False,,other,1978,3
+201,"Quincy, M.E.",US,3,112253,Leonard Frey,2,False,,other,1978,3
+202,"Quincy, M.E.",US,3,14669,George Wyner,2,False,,other,1978,3
+203,"Quincy, M.E.",US,3,1214019,Joseph V. Perry,2,False,,other,1978,3
+204,"Quincy, M.E.",US,3,159555,Frank Campanella,2,False,,other,1978,3
+205,"Quincy, M.E.",US,3,34973,Bob Hastings,2,False,,other,1978,3
+206,"Quincy, M.E.",US,3,104037,Larry Gelman,2,False,,other,1978,3
+207,"Quincy, M.E.",US,3,85409,Max Showalter,2,False,,other,1978,3
+208,"Quincy, M.E.",US,3,3014,Val Avery,2,False,,other,1978,3
+209,"Quincy, M.E.",US,3,17580,John Vernon,2,False,,other,1978,3
+210,"Quincy, M.E.",US,3,2311825,Terri Lynn Wood,1,False,Lisa DiNardi,other,1978,3
+211,"Quincy, M.E.",US,4,5250,Jack Klugman,2,True,Quincy,doctor (probably),1978,9
+212,"Quincy, M.E.",US,4,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1978,9
+213,"Quincy, M.E.",US,4,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1978,9
+214,"Quincy, M.E.",US,4,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1978,9
+215,"Quincy, M.E.",US,4,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1978,9
+216,"Quincy, M.E.",US,4,131274,Sharon Acker,1,False,,other,1978,9
+217,"Quincy, M.E.",US,4,25578,Evelyn Guerrero,1,False,,other,1978,9
+218,"Quincy, M.E.",US,4,747,Alex Hyde-White,2,False,,other,1978,9
+219,"Quincy, M.E.",US,4,15628,Paul Carr,2,False,,other,1978,9
+220,"Quincy, M.E.",US,4,19111,John Anderson,2,False,,other,1978,9
+221,"Quincy, M.E.",US,4,52590,Paul Mantee,2,False,,other,1978,9
+222,"Quincy, M.E.",US,4,78087,Len Lesser,2,False,,other,1978,9
+223,"Quincy, M.E.",US,4,105176,Scott Marlowe,2,False,,other,1978,9
+224,"Quincy, M.E.",US,4,47457,Cassie Yates,1,False,,other,1978,10
+225,"Quincy, M.E.",US,4,1229722,Frank Parker,2,False,,other,1978,10
+226,"Quincy, M.E.",US,4,14063,Simon Oakland,2,False,,other,1978,10
+227,"Quincy, M.E.",US,4,162168,Eugene Robert Glazer,2,False,,other,1978,10
+228,"Quincy, M.E.",US,4,166176,Sam Groom,2,False,,other,1978,10
+229,"Quincy, M.E.",US,4,92086,Tracey Gold,1,False,,other,1978,10
+230,"Quincy, M.E.",US,4,19411,Lloyd Nolan,2,False,,other,1978,10
+231,"Quincy, M.E.",US,4,94764,Philip Abbott,2,False,,other,1978,10
+232,"Quincy, M.E.",US,4,5732,Henry Jones,2,False,,other,1978,10
+233,"Quincy, M.E.",US,4,30615,Robert DoQui,2,False,,other,1978,10
+234,"Quincy, M.E.",US,4,98520,Pernell Roberts,2,False,,other,1978,10
+235,"Quincy, M.E.",US,4,138255,Roger Robinson,2,False,,other,1978,10
+236,"Quincy, M.E.",US,4,2112,Brock Peters,2,False,,other,1978,10
+237,"Quincy, M.E.",US,4,124740,Doris Singleton,1,False,,other,1978,10
+238,"Quincy, M.E.",US,4,98797,Hari Rhodes,2,False,,other,1978,10
+239,"Quincy, M.E.",US,4,172280,Elsa Raven,1,False,,other,1978,10
+240,"Quincy, M.E.",US,4,13786,Whit Bissell,2,False,,other,1978,11
+241,"Quincy, M.E.",US,4,2647,Robert Ellenstein,2,False,,other,1978,11
+242,"Quincy, M.E.",US,4,41232,Jessica Walter,1,False,,other,1978,11
+243,"Quincy, M.E.",US,4,159799,Jack Hogan,2,False,,other,1978,11
+244,"Quincy, M.E.",US,4,51189,Peggy McCay,1,False,,other,1978,11
+245,"Quincy, M.E.",US,4,16106,David Hurst,2,False,,other,1978,11
+246,"Quincy, M.E.",US,4,19107,Harry Townes,2,False,,other,1978,11
+247,"Quincy, M.E.",US,4,16133,Harry Landers,2,False,,other,1978,11
+248,"Quincy, M.E.",US,4,11793,Priscilla Pointer,1,False,,other,1978,11
+249,"Quincy, M.E.",US,4,1219270,Frank Marth,2,False,,other,1978,11
+250,"Quincy, M.E.",US,4,1229725,Nicholas Georgiade,2,False,,other,1978,11
+251,"Quincy, M.E.",US,4,83782,Bruce Wright,2,False,,other,1978,11
+252,"Quincy, M.E.",US,4,160736,Sheila Larken,1,False,Dr. Rivlin,doctor,1978,11
+253,"Quincy, M.E.",US,4,3161,Joan Shawlee,1,False,,other,1978,11
+254,"Quincy, M.E.",US,4,115460,Malcolm Atterbury,2,False,,other,1978,11
+255,"Quincy, M.E.",US,4,61702,Kay E. Kuter,2,False,,other,1978,11
+256,"Quincy, M.E.",US,4,42157,Ed Begley Jr.,2,False,,other,1978,11
+257,"Quincy, M.E.",US,4,16047,Marj Dusay,1,False,,other,1978,11
+258,"Quincy, M.E.",US,4,161439,Bibi Osterwald,1,False,,other,1978,11
+259,"Quincy, M.E.",US,4,123380,Frank Aletter,2,False,,other,1978,12
+260,"Quincy, M.E.",US,4,16182,Jackie Joseph,1,False,,other,1978,12
+261,"Quincy, M.E.",US,4,40397,Greg Morris,2,False,,other,1978,12
+262,"Quincy, M.E.",US,4,73349,Hugh Gillin,2,False,,other,1978,12
+263,"Quincy, M.E.",US,4,94893,Victor Millan,2,False,,other,1978,12
+264,"Quincy, M.E.",US,4,153469,Kevin Hagen,2,False,,other,1978,12
+265,"Quincy, M.E.",US,4,120698,Carlene Watkins,1,False,,other,1978,12
+266,"Quincy, M.E.",US,4,130334,Henry Slate,2,False,,other,1978,12
+267,"Quincy, M.E.",US,4,82189,Judson Pratt,2,False,,other,1979,1
+268,"Quincy, M.E.",US,4,14796,Jeanne Bates,1,False,,other,1979,1
+269,"Quincy, M.E.",US,4,104630,Don Keefer,2,False,,other,1979,1
+270,"Quincy, M.E.",US,4,123722,Peter Hobbs,2,False,,other,1979,1
+271,"Quincy, M.E.",US,4,19968,Royal Dano,2,False,,other,1979,1
+272,"Quincy, M.E.",US,4,160285,Granville Van Dusen,2,False,,other,1979,1
+273,"Quincy, M.E.",US,4,1229726,Michael Sands,2,False,,other,1979,1
+274,"Quincy, M.E.",US,4,1226399,Nancy Priddy,1,False,,other,1979,1
+275,"Quincy, M.E.",US,4,100461,Nicholas Worth,2,False,,other,1979,1
+276,"Quincy, M.E.",US,4,156869,Bob Minor,2,False,,other,1979,1
+277,"Quincy, M.E.",US,4,114272,Alex Henteloff,2,False,,other,1979,1
+278,"Quincy, M.E.",US,4,15998,Joseph Ruskin,2,False,,other,1979,1
+279,"Quincy, M.E.",US,4,153537,Herbie Faye,2,False,,other,1979,1
+280,"Quincy, M.E.",US,4,80990,Virginia Capers,1,False,,other,1979,1
+281,"Quincy, M.E.",US,4,408,James Keach,2,False,,other,1979,1
+282,"Quincy, M.E.",US,4,101336,Kathryn Leigh Scott,1,False,,other,1979,1
+283,"Quincy, M.E.",US,4,1218035,Cecilia Hart,1,False,,other,1979,1
+284,"Quincy, M.E.",US,4,94402,Walter Brooke,2,False,,other,1979,1
+285,"Quincy, M.E.",US,4,94848,Joey Forman,2,False,,other,1979,1
+286,"Quincy, M.E.",US,4,10159,Jane Greer,1,False,,other,1979,1
+287,"Quincy, M.E.",US,4,3467,Leonard Stone,2,False,,other,1979,1
+288,"Quincy, M.E.",US,4,1225345,Garnett Smith,2,False,,other,1979,1
+289,"Quincy, M.E.",US,4,1213024,Donald May,2,False,,other,1979,1
+290,"Quincy, M.E.",US,4,106121,Noah Keen,2,False,,other,1979,1
+291,"Quincy, M.E.",US,4,61150,Charles Aidman,2,False,,other,1979,2
+292,"Quincy, M.E.",US,4,151501,Harry Basch,2,False,,other,1979,2
+293,"Quincy, M.E.",US,4,1220923,Dimitra Arliss,1,False,,other,1979,2
+294,"Quincy, M.E.",US,4,107304,Spencer Milligan,2,False,,other,1979,2
+295,"Quincy, M.E.",US,4,46099,William Prince,2,False,,other,1979,2
+296,"Quincy, M.E.",US,4,14884,Michael Constantine,2,False,,other,1979,2
+297,"Quincy, M.E.",US,4,57351,George Gaynes,2,False,,other,1979,2
+298,"Quincy, M.E.",US,4,95564,John Larch,2,False,,other,1979,2
+299,"Quincy, M.E.",US,4,19484,Burr DeBenning,2,False,,other,1979,2
+300,"Quincy, M.E.",US,4,18678,Richard Eastham,2,False,,other,1979,2
+301,"Quincy, M.E.",US,4,1217488,Alan Stock,2,False,,other,1979,2
+302,"Quincy, M.E.",US,4,84233,Marshall Thompson,2,False,,other,1979,2
+303,"Quincy, M.E.",US,4,10775,William Daniels,2,False,,other,1979,2
+304,"Quincy, M.E.",US,4,9112,Neville Brand,2,False,,other,1979,2
+305,"Quincy, M.E.",US,4,97720,Tara Buckman,1,False,,other,1979,2
+306,"Quincy, M.E.",US,4,83435,Joby Baker,2,False,,other,1979,2
+307,"Quincy, M.E.",US,4,16126,Phillip Pine,2,False,,other,1979,2
+308,"Quincy, M.E.",US,4,82863,John Dehner,2,False,,other,1979,2
+309,"Quincy, M.E.",US,4,13997,June Lockhart,1,False,,other,1979,2
+310,"Quincy, M.E.",US,4,12309,Anne Francis,1,False,,other,1979,2
+311,"Quincy, M.E.",US,4,100600,Deborah Harmon,1,False,,other,1979,3
+312,"Quincy, M.E.",US,4,153578,Peggy Rea,1,False,,other,1979,3
+313,"Quincy, M.E.",US,4,30048,John Karlen,2,False,,other,1979,3
+314,"Quincy, M.E.",US,4,51518,Allan Miller,2,False,,other,1979,3
+315,"Quincy, M.E.",US,4,16030,William Smithers,2,False,,other,1979,3
+316,"Quincy, M.E.",US,4,106806,James Luisi,2,False,,other,1979,3
+317,"Quincy, M.E.",US,4,130129,Don Stark,2,False,,other,1979,3
+318,"Quincy, M.E.",US,4,24808,Michael Anderson Jr.,2,False,,other,1979,3
+319,"Quincy, M.E.",US,4,16017,Skip Homeier,2,False,,other,1979,3
+320,"Quincy, M.E.",US,4,105390,Booth Colman,2,False,,other,1979,3
+321,"Quincy, M.E.",US,4,1214019,Joseph V. Perry,2,False,,other,1979,3
+322,"Quincy, M.E.",US,4,134768,Dennis Patrick,2,False,,other,1979,3
+323,"Quincy, M.E.",US,4,53089,Lin McCarthy,2,False,,other,1979,3
+324,"Quincy, M.E.",US,4,18156,Don Ameche,2,False,,other,1979,3
+325,"Quincy, M.E.",US,4,18709,Ron Masak,2,False,,other,1979,3
+326,"Quincy, M.E.",US,4,31844,Ann Blyth,1,False,,other,1979,3
+327,"Quincy, M.E.",US,4,56117,Martin Kove,2,False,Joe Kirby,other,1979,3
+328,"Quincy, M.E.",US,4,247,William Sylvester,2,False,,other,1979,4
+329,"Quincy, M.E.",US,4,1070,Frances Lee McCain,1,False,,other,1979,4
+330,"Quincy, M.E.",US,4,5255,Robert Webber,2,False,,other,1979,4
+331,"Quincy, M.E.",US,4,3715,Anthony James,2,False,,other,1979,4
+332,"Quincy, M.E.",US,5,5250,Jack Klugman,2,True,Quincy,doctor (probably),1979,9
+333,"Quincy, M.E.",US,5,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1979,9
+334,"Quincy, M.E.",US,5,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1979,9
+335,"Quincy, M.E.",US,5,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1979,9
+336,"Quincy, M.E.",US,5,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1979,9
+337,"Quincy, M.E.",US,5,21458,Joan Freeman,1,False,,other,1979,9
+338,"Quincy, M.E.",US,5,91225,Pat Renella,2,False,,other,1979,9
+339,"Quincy, M.E.",US,5,9914,Austin Willis,2,False,,other,1979,9
+340,"Quincy, M.E.",US,5,13262,Lou Wagner,2,False,,other,1979,9
+341,"Quincy, M.E.",US,5,4679,John Furlong,2,False,,other,1979,9
+342,"Quincy, M.E.",US,5,103789,Don Barry,2,False,,other,1979,9
+343,"Quincy, M.E.",US,5,1735,Frank McRae,2,False,,other,1979,9
+344,"Quincy, M.E.",US,5,7074,Peter Brocco,2,False,,other,1979,10
+345,"Quincy, M.E.",US,5,15744,David Opatoshu,2,False,,other,1979,10
+346,"Quincy, M.E.",US,5,1162,Robert Loggia,2,False,,other,1979,10
+347,"Quincy, M.E.",US,5,28413,Carmen Argenziano,2,False,,other,1979,10
+348,"Quincy, M.E.",US,5,18678,Richard Eastham,2,False,,other,1979,10
+349,"Quincy, M.E.",US,5,129220,Arthur Rosenberg,2,False,,other,1979,10
+350,"Quincy, M.E.",US,5,24809,Ina Balin,1,False,,other,1979,10
+351,"Quincy, M.E.",US,5,47457,Cassie Yates,1,False,,other,1979,10
+352,"Quincy, M.E.",US,5,97720,Tara Buckman,1,False,,other,1979,10
+353,"Quincy, M.E.",US,5,404,Melora Hardin,1,False,,other,1979,10
+354,"Quincy, M.E.",US,5,30048,John Karlen,2,False,,other,1979,10
+355,"Quincy, M.E.",US,5,1219863,Elaine Giftos,1,False,,other,1979,10
+356,"Quincy, M.E.",US,5,51348,David Sheiner,2,False,,other,1979,10
+357,"Quincy, M.E.",US,5,1214007,Katherine Moffat,1,False,,other,1979,10
+358,"Quincy, M.E.",US,5,1229725,Nicholas Georgiade,2,False,,other,1979,10
+359,"Quincy, M.E.",US,5,172280,Elsa Raven,1,False,,other,1979,10
+360,"Quincy, M.E.",US,5,16031,Logan Ramsey,2,False,,other,1979,10
+361,"Quincy, M.E.",US,5,97782,Marcia Rodd,1,False,,other,1979,10
+362,"Quincy, M.E.",US,5,52590,Paul Mantee,2,False,,other,1979,10
+363,"Quincy, M.E.",US,5,166055,Sarah Rush,1,False,,other,1979,11
+364,"Quincy, M.E.",US,5,84233,Marshall Thompson,2,False,,other,1979,11
+365,"Quincy, M.E.",US,5,151482,Byron Morrow,2,False,,other,1979,11
+366,"Quincy, M.E.",US,5,98963,Irene Tedrow,1,False,,other,1979,11
+367,"Quincy, M.E.",US,5,14543,William Bogert,2,False,,other,1979,11
+368,"Quincy, M.E.",US,5,160285,Granville Van Dusen,2,False,,other,1979,11
+369,"Quincy, M.E.",US,5,116672,Regis Cordic,2,False,,other,1979,11
+370,"Quincy, M.E.",US,5,786,Stephen Elliott,2,False,,other,1979,11
+371,"Quincy, M.E.",US,5,153640,Fritzi Burr,1,False,,other,1979,11
+372,"Quincy, M.E.",US,5,111383,Danny Goldman,2,False,,other,1979,11
+373,"Quincy, M.E.",US,5,61150,Charles Aidman,2,False,,other,1979,11
+374,"Quincy, M.E.",US,5,27748,"James A. Watson, Jr",2,False,,other,1979,11
+375,"Quincy, M.E.",US,5,19107,Harry Townes,2,False,,other,1979,11
+376,"Quincy, M.E.",US,5,1229722,Frank Parker,2,False,,other,1979,11
+377,"Quincy, M.E.",US,5,15707,Roger Perry,2,False,,other,1979,11
+378,"Quincy, M.E.",US,5,1228161,Chris Gampel,2,False,,other,1979,11
+379,"Quincy, M.E.",US,5,33479,Henry Beckman,2,False,,other,1979,11
+380,"Quincy, M.E.",US,5,130334,Henry Slate,2,False,,other,1979,11
+381,"Quincy, M.E.",US,5,41737,Tony Plana,2,False,,other,1979,11
+382,"Quincy, M.E.",US,5,1018859,George DelHoyo,2,False,,other,1979,11
+383,"Quincy, M.E.",US,5,105991,Beverly Sanders,1,False,,other,1979,11
+384,"Quincy, M.E.",US,5,14852,James Karen,2,False,,other,1979,11
+385,"Quincy, M.E.",US,5,5247,John Fiedler,2,False,,other,1979,11
+386,"Quincy, M.E.",US,5,15620,Alfred Ryder,2,False,,other,1979,11
+387,"Quincy, M.E.",US,5,14507,Paul Lambert,2,False,,other,1979,11
+388,"Quincy, M.E.",US,5,29719,Edward Andrews,2,False,,other,1979,11
+389,"Quincy, M.E.",US,5,14502,John Ireland,2,False,,other,1979,11
+390,"Quincy, M.E.",US,5,1231331,Tom Lowell,2,False,Fred,other,1979,11
+391,"Quincy, M.E.",US,5,16200,Susan French,1,False,,other,1980,1
+392,"Quincy, M.E.",US,5,83435,Joby Baker,2,False,,other,1980,1
+393,"Quincy, M.E.",US,5,31169,Julie Adams,1,False,,other,1980,1
+394,"Quincy, M.E.",US,5,47504,Estelle Winwood,1,False,,other,1980,1
+395,"Quincy, M.E.",US,5,31391,Barbara Tarbuck,1,False,,other,1980,1
+396,"Quincy, M.E.",US,5,3467,Leonard Stone,2,False,,other,1980,1
+397,"Quincy, M.E.",US,5,1225345,Garnett Smith,2,False,,other,1980,1
+398,"Quincy, M.E.",US,5,1949,Elvia Allman,1,False,,other,1980,1
+399,"Quincy, M.E.",US,5,237034,René Enríquez,2,False,,other,1980,1
+400,"Quincy, M.E.",US,5,82830,Robert Quarry,2,False,,other,1980,1
+401,"Quincy, M.E.",US,5,82189,Judson Pratt,2,False,,other,1980,1
+402,"Quincy, M.E.",US,5,1183497,Stuart Nisbet,2,False,,other,1980,1
+403,"Quincy, M.E.",US,5,14669,George Wyner,2,False,,other,1980,1
+404,"Quincy, M.E.",US,5,85870,Luis Contreras,2,False,,other,1980,1
+405,"Quincy, M.E.",US,5,94892,Valentin de Vargas,2,False,,other,1980,1
+406,"Quincy, M.E.",US,5,1217390,Anna Navarro,1,False,,other,1980,1
+407,"Quincy, M.E.",US,5,111214,Hector Elias,2,False,,other,1980,1
+408,"Quincy, M.E.",US,5,160474,Marc Alaimo,2,False,,other,1980,1
+409,"Quincy, M.E.",US,5,151547,John Milford,2,False,,other,1980,1
+410,"Quincy, M.E.",US,5,85500,Sab Shimono,2,False,,other,1980,2
+411,"Quincy, M.E.",US,5,51230,Michael Fox,2,False,,other,1980,2
+412,"Quincy, M.E.",US,5,10195,Norman Burton,2,False,,other,1980,2
+413,"Quincy, M.E.",US,5,20628,Michael Durrell,2,False,,other,1980,2
+414,"Quincy, M.E.",US,5,160405,Margaret Ladd,1,False,,other,1980,2
+415,"Quincy, M.E.",US,5,53089,Lin McCarthy,2,False,,other,1980,2
+416,"Quincy, M.E.",US,5,1211877,Dave Shelley,2,False,,other,1980,2
+417,"Quincy, M.E.",US,5,127646,Madlyn Rhue,1,False,,other,1980,2
+418,"Quincy, M.E.",US,5,105062,Joseph Sirola,2,False,,other,1980,2
+419,"Quincy, M.E.",US,5,124786,Holly Gagnier,1,False,,other,1980,2
+420,"Quincy, M.E.",US,5,42719,Christian LeBlanc,2,False,,other,1980,2
+421,"Quincy, M.E.",US,5,106666,Jennifer Holmes,1,False,,other,1980,2
+422,"Quincy, M.E.",US,5,74933,Robert Torti,2,False,,other,1980,2
+423,"Quincy, M.E.",US,5,127353,Beverly Adams,1,False,,other,1980,2
+424,"Quincy, M.E.",US,5,47759,James T. Callahan,2,False,,other,1980,2
+425,"Quincy, M.E.",US,5,352,Dennis Haysbert,2,False,,other,1980,2
+426,"Quincy, M.E.",US,5,58265,Herbert Jefferson Jr.,2,False,,other,1980,3
+427,"Quincy, M.E.",US,5,157633,Pete Schrum,2,False,,other,1980,3
+428,"Quincy, M.E.",US,5,51518,Allan Miller,2,False,,other,1980,3
+429,"Quincy, M.E.",US,5,94777,Frank Maxwell,2,False,,other,1980,3
+430,"Quincy, M.E.",US,5,157523,Nedra Volz,1,False,,other,1980,3
+431,"Quincy, M.E.",US,5,85839,Dick Wilson,2,False,,other,1980,3
+432,"Quincy, M.E.",US,5,23076,Robert Hardy,2,False,,other,1980,3
+433,"Quincy, M.E.",US,5,1216952,Ellen Bry,1,False,,other,1980,3
+434,"Quincy, M.E.",US,5,121144,Joseph Campanella,2,False,,other,1980,3
+435,"Quincy, M.E.",US,5,104630,Don Keefer,2,False,,other,1980,3
+436,"Quincy, M.E.",US,5,64932,Tammy Lauren,1,False,,other,1980,3
+437,"Quincy, M.E.",US,5,88748,Richard Venture,2,False,,other,1980,3
+438,"Quincy, M.E.",US,5,16014,Diana Muldaur,1,False,,other,1980,3
+439,"Quincy, M.E.",US,5,101901,Milton Selzer,2,False,,other,1980,3
+440,"Quincy, M.E.",US,5,109622,Ana Alicia,1,False,,other,1980,4
+441,"Quincy, M.E.",US,5,14849,Peter Donat,2,False,,other,1980,4
+442,"Quincy, M.E.",US,6,5250,Jack Klugman,2,True,Quincy,doctor (probably),1980,9
+443,"Quincy, M.E.",US,6,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1980,9
+444,"Quincy, M.E.",US,6,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1980,9
+445,"Quincy, M.E.",US,6,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1980,9
+446,"Quincy, M.E.",US,6,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1980,9
+447,"Quincy, M.E.",US,6,1228413,Stephanie Braxton,1,False,,other,1980,9
+448,"Quincy, M.E.",US,6,10775,William Daniels,2,False,,other,1980,9
+449,"Quincy, M.E.",US,6,42719,Christian LeBlanc,2,False,,other,1980,9
+450,"Quincy, M.E.",US,6,12310,Warren Stevens,2,False,,other,1980,9
+451,"Quincy, M.E.",US,6,94764,Philip Abbott,2,False,,other,1980,9
+452,"Quincy, M.E.",US,6,1213236,Buck Young,2,False,,other,1980,9
+453,"Quincy, M.E.",US,6,5945,Bruce Gray,2,False,,other,1980,9
+454,"Quincy, M.E.",US,6,74933,Robert Torti,2,False,,other,1980,9
+455,"Quincy, M.E.",US,6,10224,Clifton James,2,False,,other,1980,9
+456,"Quincy, M.E.",US,6,94402,Walter Brooke,2,False,,other,1980,11
+457,"Quincy, M.E.",US,6,51519,Robert F. Lyons,2,False,,other,1980,11
+458,"Quincy, M.E.",US,6,51518,Allan Miller,2,False,,other,1980,11
+459,"Quincy, M.E.",US,6,166055,Sarah Rush,1,False,,other,1980,11
+460,"Quincy, M.E.",US,6,19107,Harry Townes,2,False,,other,1980,11
+461,"Quincy, M.E.",US,6,66221,Tyne Daly,1,False,,other,1980,11
+462,"Quincy, M.E.",US,6,27012,Robert Ginty,2,False,,other,1980,11
+463,"Quincy, M.E.",US,6,98963,Irene Tedrow,1,False,,other,1980,11
+464,"Quincy, M.E.",US,6,747,Alex Hyde-White,2,False,,other,1980,11
+465,"Quincy, M.E.",US,6,61150,Charles Aidman,2,False,,other,1980,12
+466,"Quincy, M.E.",US,6,168083,Pepe Hern,2,False,,other,1980,12
+467,"Quincy, M.E.",US,6,1219270,Frank Marth,2,False,,other,1980,12
+468,"Quincy, M.E.",US,6,1211994,"Stacy Keach, Sr.",2,False,,other,1980,12
+469,"Quincy, M.E.",US,6,106702,Silvana Gallardo,1,False,,other,1980,12
+470,"Quincy, M.E.",US,6,106769,Dehl Berti,0,False,,other,1980,12
+471,"Quincy, M.E.",US,6,161147,Emilio Delgado,2,False,,other,1980,12
+472,"Quincy, M.E.",US,6,134768,Dennis Patrick,2,False,,other,1980,12
+473,"Quincy, M.E.",US,6,237034,René Enríquez,2,False,,other,1981,1
+474,"Quincy, M.E.",US,6,74492,Gino Conforti,2,False,,other,1981,1
+475,"Quincy, M.E.",US,6,11764,Ian Abercrombie,2,False,,other,1981,1
+476,"Quincy, M.E.",US,6,106747,Jeff Pomerantz,2,False,,other,1981,1
+477,"Quincy, M.E.",US,6,84240,Joaquín Martínez,2,False,,other,1981,1
+478,"Quincy, M.E.",US,6,59051,Jean Gilpin,1,False,,other,1981,1
+479,"Quincy, M.E.",US,6,247,William Sylvester,2,False,,other,1981,1
+480,"Quincy, M.E.",US,6,19109,Carolyn Jones,1,False,,other,1981,1
+481,"Quincy, M.E.",US,6,42157,Ed Begley Jr.,2,False,,other,1981,1
+482,"Quincy, M.E.",US,6,5695,Sid Haig,2,False,Hatch,other,1981,1
+483,"Quincy, M.E.",US,6,15635,Stewart Moss,2,False,,other,1981,1
+484,"Quincy, M.E.",US,6,30048,John Karlen,2,False,,other,1981,1
+485,"Quincy, M.E.",US,6,14736,Albert Paulsen,2,False,,other,1981,1
+486,"Quincy, M.E.",US,6,9925,Martine Beswick,1,False,,other,1981,1
+487,"Quincy, M.E.",US,6,1225345,Garnett Smith,2,False,,other,1981,1
+488,"Quincy, M.E.",US,6,1214594,Eddie Fontaine,2,False,,other,1981,2
+489,"Quincy, M.E.",US,6,1219286,Suzanne Charney,1,False,,other,1981,2
+490,"Quincy, M.E.",US,6,1219834,Lynn Herring,1,False,,other,1981,2
+491,"Quincy, M.E.",US,6,105062,Joseph Sirola,2,False,,other,1981,2
+492,"Quincy, M.E.",US,6,352,Dennis Haysbert,2,False,,other,1981,2
+493,"Quincy, M.E.",US,6,44686,Henry Darrow,2,False,,other,1981,2
+494,"Quincy, M.E.",US,6,1229722,Frank Parker,2,False,,other,1981,2
+495,"Quincy, M.E.",US,6,1183497,Stuart Nisbet,2,False,,other,1981,2
+496,"Quincy, M.E.",US,6,14507,Paul Lambert,2,False,,other,1981,2
+497,"Quincy, M.E.",US,6,140584,Charles Lampkin,2,False,,other,1981,2
+498,"Quincy, M.E.",US,6,44800,Bunny Summers,1,False,,other,1981,2
+499,"Quincy, M.E.",US,6,166176,Sam Groom,2,False,,other,1981,2
+500,"Quincy, M.E.",US,6,51230,Michael Fox,2,False,,other,1981,2
+501,"Quincy, M.E.",US,6,95732,Robert Alda,2,False,,other,1981,2
+502,"Quincy, M.E.",US,6,1216935,Morgan Stevens,2,False,,other,1981,2
+503,"Quincy, M.E.",US,6,160541,Joe Maross,2,False,,other,1981,2
+504,"Quincy, M.E.",US,6,132054,Terrence Evans,2,False,,other,1981,2
+505,"Quincy, M.E.",US,6,38690,Allison Balson,1,False,,other,1981,2
+506,"Quincy, M.E.",US,6,121144,Joseph Campanella,2,False,,other,1981,2
+507,"Quincy, M.E.",US,6,2249,Clyde Kusatsu,2,False,,other,1981,2
+508,"Quincy, M.E.",US,6,46418,Mickey Knox,2,False,,other,1981,2
+509,"Quincy, M.E.",US,6,18292,Beverly Todd,1,False,,other,1981,3
+510,"Quincy, M.E.",US,6,15721,Jon Lormer,2,False,,other,1981,3
+511,"Quincy, M.E.",US,6,119716,Robert Symonds,2,False,,other,1981,3
+512,"Quincy, M.E.",US,6,14884,Michael Constantine,2,False,,other,1981,3
+513,"Quincy, M.E.",US,6,60196,John Carter,2,False,,other,1981,3
+514,"Quincy, M.E.",US,6,102860,Darleen Carr,1,False,,other,1981,3
+515,"Quincy, M.E.",US,6,3014,Val Avery,2,False,,other,1981,3
+516,"Quincy, M.E.",US,6,40598,Rafer Johnson,2,False,,other,1981,3
+517,"Quincy, M.E.",US,6,6839,Fritz Weaver,2,False,,other,1981,3
+518,"Quincy, M.E.",US,6,1216592,William Boyett,2,False,,other,1981,3
+519,"Quincy, M.E.",US,6,46099,William Prince,2,False,,other,1981,3
+520,"Quincy, M.E.",US,6,14502,John Ireland,2,False,,other,1981,3
+521,"Quincy, M.E.",US,6,80990,Virginia Capers,1,False,,other,1981,3
+522,"Quincy, M.E.",US,6,55724,Kathleen Nolan,1,False,,other,1981,4
+523,"Quincy, M.E.",US,6,16031,Logan Ramsey,2,False,,other,1981,4
+524,"Quincy, M.E.",US,6,73349,Hugh Gillin,2,False,,other,1981,4
+525,"Quincy, M.E.",US,6,18709,Ron Masak,2,False,,other,1981,4
+526,"Quincy, M.E.",US,6,141694,David White,2,False,,other,1981,4
+527,"Quincy, M.E.",US,6,49353,Jack Dodson,2,False,,other,1981,4
+528,"Quincy, M.E.",US,6,100418,Ned Romero,2,False,,other,1981,5
+529,"Quincy, M.E.",US,6,68681,Paul Koslo,2,False,,other,1981,5
+530,"Quincy, M.E.",US,6,87474,Raymond Vitte,2,False,,other,1981,5
+531,"Quincy, M.E.",US,6,130334,Henry Slate,2,False,,other,1981,5
+532,"Quincy, M.E.",US,6,152289,George O'Hanlon Jr.,2,False,Mr. Travis,other,1981,5
+533,"Quincy, M.E.",US,6,2161592,Len Bari,2,False,Frank Penner,other,1981,5
+534,"Quincy, M.E.",US,7,5250,Jack Klugman,2,True,Quincy,doctor (probably),1981,10
+535,"Quincy, M.E.",US,7,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1981,10
+536,"Quincy, M.E.",US,7,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1981,10
+537,"Quincy, M.E.",US,7,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1981,10
+538,"Quincy, M.E.",US,7,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1981,10
+539,"Quincy, M.E.",US,7,123380,Frank Aletter,2,False,,other,1981,10
+540,"Quincy, M.E.",US,7,131274,Sharon Acker,1,False,,other,1981,10
+541,"Quincy, M.E.",US,7,84327,Ivor Francis,1,False,,other,1981,10
+542,"Quincy, M.E.",US,7,78309,Paul Picerni,2,False,,other,1981,10
+543,"Quincy, M.E.",US,7,80990,Virginia Capers,1,False,,other,1981,10
+544,"Quincy, M.E.",US,7,153640,Fritzi Burr,1,False,,other,1981,10
+545,"Quincy, M.E.",US,7,2617398,Chris Petersen,2,False,Boy,other,1981,10
+546,"Quincy, M.E.",US,7,160228,Heidi Bohay,1,False,,other,1981,11
+547,"Quincy, M.E.",US,7,1018859,George DelHoyo,2,False,,other,1981,11
+548,"Quincy, M.E.",US,7,1211921,Martin E. Brooks,2,False,,other,1981,11
+549,"Quincy, M.E.",US,7,3467,Leonard Stone,2,False,,other,1981,11
+550,"Quincy, M.E.",US,7,29385,James Staley,2,False,,other,1981,11
+551,"Quincy, M.E.",US,7,5732,Henry Jones,2,False,,other,1981,11
+552,"Quincy, M.E.",US,7,89040,Ed Nelson,2,False,,other,1981,11
+553,"Quincy, M.E.",US,7,85500,Sab Shimono,2,False,,other,1981,11
+554,"Quincy, M.E.",US,7,102336,Jack Blessing,2,False,,other,1981,11
+555,"Quincy, M.E.",US,7,51518,Allan Miller,2,False,,other,1981,11
+556,"Quincy, M.E.",US,7,16014,Diana Muldaur,1,False,,other,1981,11
+557,"Quincy, M.E.",US,7,24520,John Reilly,2,False,,other,1981,11
+558,"Quincy, M.E.",US,7,13920,Mimi Rogers,1,False,,other,1981,11
+559,"Quincy, M.E.",US,7,28168,Timothy Stack,2,False,,other,1981,11
+560,"Quincy, M.E.",US,7,1217129,Charles Thomas Murphy,2,False,,other,1981,11
+561,"Quincy, M.E.",US,7,1227292,Adam Klugman,2,False,,other,1981,11
+562,"Quincy, M.E.",US,7,61150,Charles Aidman,2,False,,other,1981,12
+563,"Quincy, M.E.",US,7,14507,Paul Lambert,2,False,,other,1981,12
+564,"Quincy, M.E.",US,7,161147,Emilio Delgado,2,False,,other,1981,12
+565,"Quincy, M.E.",US,7,1212614,Chevi Colton,0,False,,other,1981,12
+566,"Quincy, M.E.",US,7,159555,Frank Campanella,2,False,,other,1981,12
+567,"Quincy, M.E.",US,7,8962,Luke Askew,2,False,,other,1981,12
+568,"Quincy, M.E.",US,7,8496,Paul Fix,2,False,,other,1981,12
+569,"Quincy, M.E.",US,7,31391,Barbara Tarbuck,1,False,,other,1981,12
+570,"Quincy, M.E.",US,7,1217520,Ronnie Scribner,2,False,,other,1981,12
+571,"Quincy, M.E.",US,7,66221,Tyne Daly,1,False,,other,1981,12
+572,"Quincy, M.E.",US,7,14106,Alice Hirson,1,False,,other,1981,12
+573,"Quincy, M.E.",US,7,50708,Stanley Kamel,2,False,,other,1981,12
+574,"Quincy, M.E.",US,7,107304,Spencer Milligan,2,False,,other,1981,12
+575,"Quincy, M.E.",US,7,14884,Michael Constantine,2,False,,other,1981,12
+576,"Quincy, M.E.",US,7,16504,Tony Burton,2,False,,other,1981,12
+577,"Quincy, M.E.",US,7,95597,Jack Ging,2,False,,other,1981,12
+578,"Quincy, M.E.",US,7,86343,Salome Jens,1,False,,other,1981,12
+579,"Quincy, M.E.",US,7,33479,Henry Beckman,2,False,,other,1981,12
+580,"Quincy, M.E.",US,7,130334,Henry Slate,2,False,,other,1981,12
+581,"Quincy, M.E.",US,7,88094,Robert Hooks,2,False,,other,1982,1
+582,"Quincy, M.E.",US,7,99849,Dale Ishimoto,2,False,,other,1982,1
+583,"Quincy, M.E.",US,7,179397,Ralph Taeger,2,False,,other,1982,1
+584,"Quincy, M.E.",US,7,16030,William Smithers,2,False,,other,1982,1
+585,"Quincy, M.E.",US,7,1225345,Garnett Smith,2,False,,other,1982,1
+586,"Quincy, M.E.",US,7,51189,Peggy McCay,1,False,,other,1982,1
+587,"Quincy, M.E.",US,7,14063,Simon Oakland,2,False,,other,1982,1
+588,"Quincy, M.E.",US,7,550085,Jeb Stuart Adams,2,False,Craig,other,1982,1
+589,"Quincy, M.E.",US,7,67893,Larry B. Scott,2,False,,other,1982,1
+590,"Quincy, M.E.",US,7,152701,John Quade,2,False,,other,1982,1
+591,"Quincy, M.E.",US,7,590,William Sanderson,2,False,,other,1982,1
+592,"Quincy, M.E.",US,7,12423,Eddie Firestone,2,False,,other,1982,1
+593,"Quincy, M.E.",US,7,11784,Tom Atkins,2,False,,other,1982,1
+594,"Quincy, M.E.",US,7,1212058,Linda Carlson,1,False,Mrs. Niles,other,1982,1
+595,"Quincy, M.E.",US,7,55963,Jody St. Michael,1,False,,other,1982,1
+596,"Quincy, M.E.",US,7,104630,Don Keefer,2,False,,other,1982,1
+597,"Quincy, M.E.",US,7,119485,Gerald S. O'Loughlin,2,False,,other,1982,1
+598,"Quincy, M.E.",US,7,157257,Sandy Kenyon,2,False,,other,1982,1
+599,"Quincy, M.E.",US,7,73349,Hugh Gillin,2,False,,other,1982,1
+600,"Quincy, M.E.",US,7,153692,Barbara Stuart,1,False,,other,1982,1
+601,"Quincy, M.E.",US,7,1213236,Buck Young,2,False,,other,1982,1
+602,"Quincy, M.E.",US,7,4492,Philip Baker Hall,2,False,,other,1982,1
+603,"Quincy, M.E.",US,7,10559,Colleen Dewhurst,1,False,,other,1982,2
+604,"Quincy, M.E.",US,7,153619,Allan Arbus,2,False,,other,1982,2
+605,"Quincy, M.E.",US,7,8905,Ellen Travolta,1,False,,other,1982,2
+606,"Quincy, M.E.",US,7,4975,Ellen Geer,1,False,,other,1982,2
+607,"Quincy, M.E.",US,7,62019,Clu Gulager,2,False,,other,1982,2
+608,"Quincy, M.E.",US,7,8898,Kelly Ward,1,False,,other,1982,2
+609,"Quincy, M.E.",US,7,44686,Henry Darrow,2,False,,other,1982,2
+610,"Quincy, M.E.",US,7,8633,Lloyd Gough,2,False,,other,1982,2
+611,"Quincy, M.E.",US,7,1909,Conchata Ferrell,1,False,,other,1982,2
+612,"Quincy, M.E.",US,7,1212086,Christian Hoff,2,False,,other,1982,2
+613,"Quincy, M.E.",US,7,83435,Joby Baker,2,False,,other,1982,2
+614,"Quincy, M.E.",US,7,153336,Meg Wyllie,1,False,,other,1982,2
+615,"Quincy, M.E.",US,7,30687,Anthony Eisley,2,False,,other,1982,2
+616,"Quincy, M.E.",US,7,786,Stephen Elliott,2,False,,other,1982,2
+617,"Quincy, M.E.",US,7,30489,Karen Austin,1,False,,other,1982,2
+618,"Quincy, M.E.",US,7,1178617,Sharon Spelman,1,False,,other,1982,2
+619,"Quincy, M.E.",US,7,1212042,David Ruprecht,2,False,,other,1982,3
+620,"Quincy, M.E.",US,7,123722,Peter Hobbs,2,False,,other,1982,3
+621,"Quincy, M.E.",US,7,84631,Mary Jackson,1,False,,other,1982,3
+622,"Quincy, M.E.",US,7,129994,Patricia Smith,1,False,,other,1982,3
+623,"Quincy, M.E.",US,7,159816,Cynthia Harris,1,False,,other,1982,3
+624,"Quincy, M.E.",US,7,14852,James Karen,2,False,,other,1982,3
+625,"Quincy, M.E.",US,7,93902,Signe Hasso,1,False,,other,1982,3
+626,"Quincy, M.E.",US,7,52463,Stefan Gierasch,2,False,,other,1982,3
+627,"Quincy, M.E.",US,7,1936,Martin Balsam,2,False,,other,1982,3
+628,"Quincy, M.E.",US,7,20628,Michael Durrell,2,False,,other,1982,3
+629,"Quincy, M.E.",US,7,2698,Norman Lloyd,2,False,,other,1982,3
+630,"Quincy, M.E.",US,7,44831,Carrie Snodgress,1,False,,other,1982,3
+631,"Quincy, M.E.",US,7,15628,Paul Carr,2,False,,other,1982,3
+632,"Quincy, M.E.",US,7,92585,Dixie Carter,1,False,,other,1982,3
+633,"Quincy, M.E.",US,7,1222010,Connie Ramirez,1,False,,other,1982,3
+634,"Quincy, M.E.",US,7,52590,Paul Mantee,2,False,,other,1982,3
+635,"Quincy, M.E.",US,7,2388,Jonathan Frakes,2,False,,other,1982,3
+636,"Quincy, M.E.",US,7,118508,Tige Andrews,2,False,,other,1982,3
+637,"Quincy, M.E.",US,7,19139,Jack Colvin,2,False,,other,1982,3
+638,"Quincy, M.E.",US,7,59221,Michael Gregory,2,False,,other,1982,3
+639,"Quincy, M.E.",US,7,98963,Irene Tedrow,1,False,,other,1982,3
+640,"Quincy, M.E.",US,7,141694,David White,2,False,,other,1982,3
+641,"Quincy, M.E.",US,7,9110,Richard Erdman,2,False,,other,1982,3
+642,"Quincy, M.E.",US,7,161691,Paulene Myers,0,False,,other,1982,3
+643,"Quincy, M.E.",US,7,57351,George Gaynes,2,False,,other,1982,4
+644,"Quincy, M.E.",US,7,24809,Ina Balin,1,False,,other,1982,4
+645,"Quincy, M.E.",US,7,14732,James Gregory,2,False,,other,1982,4
+646,"Quincy, M.E.",US,7,131222,Rebecca Holden,1,False,,other,1982,4
+647,"Quincy, M.E.",US,7,14736,Albert Paulsen,2,False,,other,1982,4
+648,"Quincy, M.E.",US,7,161439,Bibi Osterwald,1,False,,other,1982,4
+649,"Quincy, M.E.",US,7,104354,Toni Lawrence,1,False,,other,1982,4
+650,"Quincy, M.E.",US,7,166176,Sam Groom,2,False,,other,1982,5
+651,"Quincy, M.E.",US,7,1219384,Alexander Enberg,2,False,,other,1982,5
+652,"Quincy, M.E.",US,7,4734,Jenny O'Hara,1,False,,other,1982,5
+653,"Quincy, M.E.",US,7,160258,Timothy Patrick Murphy,2,False,,other,1982,5
+654,"Quincy, M.E.",US,7,8492,Rosemary Murphy,1,False,,other,1982,5
+655,"Quincy, M.E.",US,7,16017,Skip Homeier,2,False,,other,1982,5
+656,"Quincy, M.E.",US,7,1215918,Carol Eve Rossen,1,False,,other,1982,5
+657,"Quincy, M.E.",US,8,5250,Jack Klugman,2,True,Quincy,doctor (probably),1982,9
+658,"Quincy, M.E.",US,8,122154,Robert Ito,2,True,Sam Fujiyama,doctor (probably),1982,9
+659,"Quincy, M.E.",US,8,107068,Val Bisoglio,2,True,Danny Tovo,doctor (probably),1982,9
+660,"Quincy, M.E.",US,8,1216956,John S. Ragin,2,True,Robert Asten,doctor (probably),1982,9
+661,"Quincy, M.E.",US,8,1184610,Garry Walberg,2,True,Frank Monahan,doctor (probably),1982,9
+662,"Quincy, M.E.",US,8,18649,John Randolph,2,False,,other,1982,9
+663,"Quincy, M.E.",US,8,1216433,Allan Hunt,2,False,,other,1982,9
+664,"Quincy, M.E.",US,8,151511,Arthur Batanides,2,False,,other,1982,9
+665,"Quincy, M.E.",US,8,96706,Lynn Hamilton,1,False,,other,1982,9
+666,"Quincy, M.E.",US,8,18914,Gregory Sierra,2,False,,other,1982,9
+667,"Quincy, M.E.",US,8,41292,Keri Russell,1,False,,other,1982,10
+668,"Quincy, M.E.",US,8,19107,Harry Townes,2,False,,other,1982,10
+669,"Quincy, M.E.",US,8,16126,Phillip Pine,2,False,,other,1982,10
+670,"Quincy, M.E.",US,8,4975,Ellen Geer,1,False,,other,1982,10
+671,"Quincy, M.E.",US,8,1219270,Frank Marth,2,False,,other,1982,10
+672,"Quincy, M.E.",US,8,13731,Nicolas Coster,2,False,,other,1982,10
+673,"Quincy, M.E.",US,8,2388,Jonathan Frakes,2,False,,other,1982,10
+674,"Quincy, M.E.",US,8,2039655,Patricia Kane,1,False,,other,1982,10
+675,"Quincy, M.E.",US,8,123380,Frank Aletter,2,False,,other,1982,10
+676,"Quincy, M.E.",US,8,27012,Robert Ginty,2,False,,other,1982,10
+677,"Quincy, M.E.",US,8,121144,Joseph Campanella,2,False,,other,1982,10
+678,"Quincy, M.E.",US,8,19484,Burr DeBenning,2,False,,other,1982,10
+679,"Quincy, M.E.",US,8,14884,Michael Constantine,2,False,,other,1982,10
+680,"Quincy, M.E.",US,8,14063,Simon Oakland,2,False,,other,1982,10
+681,"Quincy, M.E.",US,8,18678,Richard Eastham,2,False,,other,1982,10
+682,"Quincy, M.E.",US,8,172280,Elsa Raven,1,False,,other,1982,10
+683,"Quincy, M.E.",US,8,195061,Martine Bartlett,1,False,Sobriety Group Member,other,1982,11
+684,"Quincy, M.E.",US,8,19783,Marge Redmond,1,False,,other,1982,11
+685,"Quincy, M.E.",US,8,24809,Ina Balin,1,False,,other,1982,11
+686,"Quincy, M.E.",US,8,106740,Miriam Byrd-Nethery,1,False,,other,1982,11
+687,"Quincy, M.E.",US,8,51348,David Sheiner,2,False,,other,1982,11
+688,"Quincy, M.E.",US,8,44261,John Rubinstein,2,False,,other,1982,11
+689,"Quincy, M.E.",US,8,591,Brion James,2,False,,other,1982,11
+690,"Quincy, M.E.",US,8,61150,Charles Aidman,2,False,,other,1982,11
+691,"Quincy, M.E.",US,8,11718,Anne Haney,1,False,,other,1982,11
+692,"Quincy, M.E.",US,8,19111,John Anderson,2,False,,other,1982,11
+693,"Quincy, M.E.",US,8,156813,Beulah Quo,1,False,,other,1982,11
+694,"Quincy, M.E.",US,8,1228178,Conlan Carter,0,False,,other,1982,11
+695,"Quincy, M.E.",US,8,4492,Philip Baker Hall,2,False,,other,1982,11
+696,"Quincy, M.E.",US,8,160736,Sheila Larken,1,False,Jane Lemner,other,1982,11
+697,"Quincy, M.E.",US,8,65019,Lane Smith,2,False,,other,1982,11
+698,"Quincy, M.E.",US,8,1220866,Suzanne Rogers,1,False,,other,1982,11
+699,"Quincy, M.E.",US,8,151529,Jason Wingreen,2,False,,other,1982,11
+700,"Quincy, M.E.",US,8,31169,Julie Adams,1,False,,other,1982,11
+701,"Quincy, M.E.",US,8,134768,Dennis Patrick,2,False,,other,1982,11
+702,"Quincy, M.E.",US,8,159555,Frank Campanella,2,False,,other,1982,11
+703,"Quincy, M.E.",US,8,8898,Kelly Ward,1,False,,other,1982,12
+704,"Quincy, M.E.",US,8,404,Melora Hardin,1,False,,other,1982,12
+705,"Quincy, M.E.",US,8,114272,Alex Henteloff,2,False,,other,1982,12
+706,"Quincy, M.E.",US,8,47759,James T. Callahan,2,False,,other,1982,12
+707,"Quincy, M.E.",US,8,1217462,Michael Masters,2,False,,other,1982,12
+708,"Quincy, M.E.",US,8,107304,Spencer Milligan,2,False,,other,1982,12
+709,"Quincy, M.E.",US,8,10133,John Fujioka,2,False,,other,1982,12
+710,"Quincy, M.E.",US,8,99849,Dale Ishimoto,2,False,,other,1982,12
+711,"Quincy, M.E.",US,8,10345,Soon-Tek Oh,2,False,,other,1982,12
+712,"Quincy, M.E.",US,8,10134,Mako,2,False,,other,1982,12
+713,"Quincy, M.E.",US,8,57959,Nelson Mashita,2,False,,other,1982,12
+714,"Quincy, M.E.",US,8,1116836,Lloyd Kino,2,False,,other,1982,12
+715,"Quincy, M.E.",US,8,16580,George Cheung,2,False,,other,1982,12
+716,"Quincy, M.E.",US,8,1217165,Joshua Shelley,2,False,,other,1983,1
+717,"Quincy, M.E.",US,8,2007,Lew Ayres,2,False,,other,1983,1
+718,"Quincy, M.E.",US,8,106747,Jeff Pomerantz,2,False,,other,1983,1
+719,"Quincy, M.E.",US,8,35370,Eugene Roche,2,False,,other,1983,1
+720,"Quincy, M.E.",US,8,51518,Allan Miller,2,False,,other,1983,1
+721,"Quincy, M.E.",US,8,12298,Roy Jenson,2,False,,other,1983,1
+722,"Quincy, M.E.",US,8,130581,Thom Bray,2,False,,other,1983,1
+723,"Quincy, M.E.",US,8,94402,Walter Brooke,2,False,,other,1983,1
+724,"Quincy, M.E.",US,8,14106,Alice Hirson,1,False,,other,1983,1
+725,"Quincy, M.E.",US,8,119485,Gerald S. O'Loughlin,2,False,,other,1983,1
+726,"Quincy, M.E.",US,8,33060,Ramon Bieri,2,False,,other,1983,1
+727,"Quincy, M.E.",US,8,8492,Rosemary Murphy,1,False,,other,1983,1
+728,"Quincy, M.E.",US,8,14786,John Mitchum,2,False,,other,1983,1
+729,"Quincy, M.E.",US,8,1217153,Kelly Parsons,1,False,,other,1983,2
+730,"Quincy, M.E.",US,8,31440,Kim Stanley,1,False,,other,1983,2
+731,"Quincy, M.E.",US,8,4679,John Furlong,2,False,,other,1983,2
+732,"Quincy, M.E.",US,8,1228724,Karin Argoud,1,False,,other,1983,2
+733,"Quincy, M.E.",US,8,11164,Kelly Preston,1,False,Ginger Reeves,other,1983,2
+734,"Quincy, M.E.",US,8,8901,Edd Byrnes,2,False,,other,1983,2
+735,"Quincy, M.E.",US,8,134439,Roger Miller,2,False,,other,1983,2
+736,"Quincy, M.E.",US,8,14852,James Karen,2,False,,other,1983,2
+737,"Quincy, M.E.",US,8,33479,Henry Beckman,2,False,,other,1983,2
+738,"Quincy, M.E.",US,8,53010,John McIntire,2,False,,other,1983,2
+739,"Quincy, M.E.",US,8,15699,William Campbell,2,False,,other,1983,2
+740,"Quincy, M.E.",US,8,44161,Richard Paul,2,False,,other,1983,2
+741,"Quincy, M.E.",US,8,7520,Jeanette Nolan,1,False,,other,1983,2
+742,"Quincy, M.E.",US,8,84327,Ivor Francis,1,False,,other,1983,2
+743,"Quincy, M.E.",US,8,150238,Ed McNamara,2,False,,other,1983,2
+744,"Quincy, M.E.",US,8,11793,Priscilla Pointer,1,False,,other,1983,2
+745,"Quincy, M.E.",US,8,13997,June Lockhart,1,False,,other,1983,2
+746,"Quincy, M.E.",US,8,19439,Henry Gibson,2,False,,other,1983,3
+747,"Quincy, M.E.",US,8,83442,Lola Albright,1,False,,other,1983,3
+748,"Quincy, M.E.",US,8,95732,Robert Alda,2,False,,other,1983,3
+749,"Quincy, M.E.",US,8,31844,Ann Blyth,1,False,,other,1983,3
+750,"Quincy, M.E.",US,8,89524,Dane Clark,2,False,,other,1983,3
+751,"Quincy, M.E.",US,8,164776,Foster Brooks,2,False,Carriage Driver,doctor,1983,3
+752,"Quincy, M.E.",US,8,104060,Frank Birney,2,False,,other,1983,3
+753,"Quincy, M.E.",US,8,94764,Philip Abbott,2,False,,other,1983,3
+754,"Quincy, M.E.",US,8,92587,Gloria Gifford,1,False,,other,1983,3
+755,"Quincy, M.E.",US,8,161287,Steven Marlo,2,False,,other,1983,3
+756,"Quincy, M.E.",US,8,1227269,Jimmy Baron,2,False,,other,1983,3
+757,"Quincy, M.E.",US,8,18070,Nicky Katt,2,False,,other,1983,3
+758,"Quincy, M.E.",US,8,14507,Paul Lambert,2,False,,other,1983,3
+759,"Quincy, M.E.",US,8,3467,Leonard Stone,2,False,,other,1983,3
+760,"Quincy, M.E.",US,8,75342,Tony Dow,2,False,,other,1983,3
+761,"Quincy, M.E.",US,8,130334,Henry Slate,2,False,,other,1983,3
+762,"Quincy, M.E.",US,8,1217488,Alan Stock,2,False,,other,1983,4
+763,"Quincy, M.E.",US,8,247,William Sylvester,2,False,,other,1983,5
+764,"Quincy, M.E.",US,8,4966,Keenan Wynn,2,False,,other,1983,5
+765,"Quincy, M.E.",US,8,30273,Rosemary DeCamp,1,False,,other,1983,5
+766,"Quincy, M.E.",US,8,13263,Woodrow Parfrey,2,False,,other,1983,5
+767,"Quincy, M.E.",US,8,55196,Mary Louise Weller,1,False,,other,1983,5
+768,"Quincy, M.E.",US,8,27860,Barry Newman,2,False,,other,1983,5
+769,"Quincy, M.E.",US,8,1228670,Paul Rudd,2,False,,other,1983,5
+770,"Quincy, M.E.",US,8,1212614,Chevi Colton,0,False,,other,1983,5
